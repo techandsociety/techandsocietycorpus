@@ -83,12 +83,11 @@ if __name__ == "__main__":
 		for match in matching_files:
 			rows, all_rows = GetMatchingRows(match, word_list)
 			if not rows:
-				print('not rows')
 				continue
 			date_string = rows[0]['date'].split('.')[0]
 			date = datetime.datetime.strptime(date_string, '%Y-%m-%dT%H:%M:%S')
 			dates.append(date)
-			row_percents.append(len(rows) * 1.0 / len(all_rows))
+			row_percents.append(len(rows) * 100.0 / len(all_rows))
 			for row in rows:
 				url = GetUrl(row)
 				if url in seen_urls:
@@ -96,10 +95,10 @@ if __name__ == "__main__":
 				else:
 					seen_urls.add(url)
 					matching_rows.append(row)
-		plt.plot(dates, row_percents, label=query_filter)
+		plt.plot(dates, row_percents, label=query_filter.replace('%20', ' '))
 	plt.legend(loc='upper left')
-	ax.set_ylabel('y_title')
-	ax.set_title('title')
+	ax.set_ylabel('Percent')
+	ax.set_title('Percent of articles using a race-word')
 	ax.xaxis_date()
 	plt.xticks(rotation=90)
 	fig.tight_layout()

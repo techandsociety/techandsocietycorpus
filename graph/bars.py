@@ -1,3 +1,5 @@
+import settings
+import os
 import matplotlib.pyplot as plt
 import numpy as np
 from ts_util import *
@@ -6,10 +8,13 @@ from collections import defaultdict
 import random
 import json
 
+import argparse
+
 Order = FileOrders.OLDEST
 
 x_label_field = sys.argv[1]
 y_field = sys.argv[2]
+title = sys.argv[3]
 
 lines = ''.join(sys.stdin.readlines())
 data_rows = json.loads(lines)
@@ -24,8 +29,7 @@ ind = np.arange(len(x_labels))
 width = 0.5 
 fig, ax = plt.subplots()
 rects1 = ax.bar(ind, y_values, width)
-ax.set_ylabel('y_title')
-ax.set_title('title')
+ax.set_title(title)
 ax.set_xticks(ind)
 ax.set_xticklabels(x_labels, rotation=90)
 fig.tight_layout()
