@@ -1,5 +1,5 @@
-t	Calling Trump a racist
+ptr	Publication calls Trump Racist
+ctr	Political Competitor calls Trump Racist
+ptd	Publication defends Trump on Racism
+ctd	Political Teammate defends Trump on Racism
 0	Neutral as to who is racist
-co	Trump calls someone racist
-cp	Trump says he's not racist
-ct	Competing politicians call Trump racist

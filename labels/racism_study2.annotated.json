@@ -1,13 +1,200 @@
 [
   {
-    "google_url": "http://news.google.com/./articles/CBMif2h0dHBzOi8vd3d3LmFvbC5jb20vYXJ0aWNsZS9uZXdzLzIwMTkvMDcvMjUvaWxoYW4tb21hci1jb25kZW1ucy1kb25hbGQtdHJ1bXBzLXJhY2lzbS1pbi1zY2F0aGluZy1uZXcteW9yay10aW1lcy1vcC1lZC8yMzc3ODEyNS_SAQA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
     "ratings": {
       "gcop_v1": ""
     }, 
     "publication": "AOL", 
     "idx": 7, 
     "title": "Ilhan Omar condemns Donald Trump's racism in scathing New York Times op-ed", 
+    "google_url": "http://news.google.com/./articles/CBMif2h0dHBzOi8vd3d3LmFvbC5jb20vYXJ0aWNsZS9uZXdzLzIwMTkvMDcvMjUvaWxoYW4tb21hci1jb25kZW1ucy1kb25hbGQtdHJ1bXBzLXJhY2lzbS1pbi1zY2F0aGluZy1uZXcteW9yay10aW1lcy1vcC1lZC8yMzc3ODEyNS_SAQA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
     "date": "2019-07-25T17:00:03.591815", 
+    "query": "donald trump"
+  }, 
+  {
+    "google_url": "http://news.google.com/./articles/CBMif2h0dHBzOi8vd3d3LnVzYXRvZGF5LmNvbS9zdG9yeS9uZXdzL3BvbGl0aWNzLzIwMTkvMDcvMzAvZG9uYWxkLXRydW1wLXR3ZWV0cy1iYWx0aW1vcmUtc3F1YWQtcHJlc2lkZW50cy1oaXN0b3J5LXJhY2UvMTg2NDkyNTAwMS_SASdodHRwczovL2FtcC51c2F0b2RheS5jb20vYW1wLzE4NjQ5MjUwMDE?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "ratings": {
+      "gcop_v1": "t"
+    }, 
+    "publication": "USA TODAY", 
+    "idx": 45, 
+    "title": "It's not just Trump's comments. Presidents have made racist gestures throughout US history", 
+    "date": "2019-07-30T17:00:05.144766", 
+    "query": "donald trump"
+  }, 
+  {
+    "google_url": "http://news.google.com/./articles/CAIiEGM-qMWygaXpho_GNHmBYjIqGQgEKhAIACoHCAowjsP7CjCSpPQCMM_b5QU?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "ratings": {
+      "gcop_v1": "t"
+    }, 
+    "publication": "USA TODAY", 
+    "idx": 12, 
+    "title": "Despite Donald Trump's cruel and racist taunts, I have hope for America: Readers sound off", 
+    "date": "2019-07-28T04:00:03.405451", 
+    "query": "donald trump"
+  }, 
+  {
+    "google_url": "http://news.google.com/./articles/CAIiEKLwjk8_poVb2fohH9rFq5YqFggEKg0IACoGCAowxYgCMIBNMJeP1AM?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "ratings": {
+      "gcop_v1": "t"
+    }, 
+    "publication": "HuffPost", 
+    "idx": 46, 
+    "title": "Sacramento Bee Crushes Ronald Reagan Myth: He Paved Way For Donald Trump\u2019s Racism", 
+    "date": "2019-08-02T17:00:06.178238", 
+    "query": "donald trump"
+  }, 
+  {
+    "google_url": "http://news.google.com/./articles/CAIiEIITN3O3H82EB1J-fQhpM7AqFggEKg0IACoGCAowxYgCMIBNMK2HuAM?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "ratings": {
+      "gcop_v1": "t"
+    }, 
+    "publication": "HuffPost", 
+    "idx": 66, 
+    "title": "Miami Herald Roasts Marco Rubio Over Donald Trump Racism Response", 
+    "date": "2019-07-23T22:00:03.238707", 
+    "query": "donald trump"
+  }, 
+  {
+    "google_url": "http://news.google.com/./articles/CAIiEIMo_5-fHNTD_ToWPsBtbsIqGQgEKhAIACoHCAowocv1CjCSptoCMPrTpgU?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "ratings": {
+      "gcop_v1": "t"
+    }, 
+    "publication": "CNN", 
+    "idx": 55, 
+    "title": "A top CEO calls out Trump's racism", 
+    "date": "2019-07-22T15:00:01.990340", 
+    "query": "donald trump"
+  }, 
+  {
+    "google_url": "http://news.google.com/./articles/CAIiEKl__5k3R3xu_X7CZicE5A4qFwgEKg8IACoHCAowjuuKAzCWrzwwloEY?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "ratings": {
+      "gcop_v1": "0"
+    }, 
+    "publication": "The New York Times", 
+    "idx": 4, 
+    "title": "Trump Widens War on Race Critics While Embracing Black Pastors", 
+    "date": "2019-07-30T04:00:04.808399", 
+    "query": "donald trump"
+  }, 
+  {
+    "google_url": "http://news.google.com/./articles/CAIiEArkiZdUWWW2zpq6tjiyKpMqFAgEKgsIACoFCAowgGAwADDklYsG?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "ratings": {
+      "gcop_v1": "t"
+    }, 
+    "publication": "Salon", 
+    "idx": 22, 
+    "title": "Donald Trump's fascist song of love: Total submission to him; widespread racism for all", 
+    "date": "2019-08-02T02:00:05.532436", 
+    "query": "donald trump"
+  }, 
+  {
+    "google_url": "http://news.google.com/./articles/CAIiEPIm59j8cVTGgMaU9oezMCwqGQgEKhAIACoHCAowocv1CjCSptoCMPrTpgU?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "ratings": {
+      "gcop_v1": "t"
+    }, 
+    "publication": "CNN", 
+    "idx": 0, 
+    "title": "The incredible racial overcompensation of Donald Trump", 
+    "date": "2019-07-30T17:00:05.144766", 
+    "query": "donald trump"
+  }, 
+  {
+    "google_url": "http://news.google.com/./articles/CAIiEAtJizGvhbbZRxK_eCkecN0qGQgEKhAIACoHCAowjsP7CjCSpPQCMKCK0wU?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "ratings": {
+      "gcop_v1": "n"
+    }, 
+    "publication": "USA TODAY", 
+    "idx": 76, 
+    "title": "Debate bounce? Trump effect? Who is winning the race for 2020 campaign cash", 
+    "date": "2019-07-21T01:00:09.237894", 
+    "query": "donald trump"
+  }, 
+  {
+    "google_url": "http://news.google.com/./articles/CAIiELBXUcPf5J1qcNxZ10Lv_XgqGQgEKhAIACoHCAow77zbCjDiq8wBMNiCsgU?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "ratings": {
+      "gcop_v1": "0"
+    }, 
+    "publication": "Newsweek", 
+    "idx": 72, 
+    "title": "Former Virginia Governor Terry McAuliffe on Charlottesville, Racism and Donald Trump", 
+    "date": "2019-07-30T20:00:05.579230", 
+    "query": "donald trump"
+  }, 
+  {
+    "google_url": "http://news.google.com/./articles/CBMiRWh0dHBzOi8vdGhlaW50ZXJjZXB0LmNvbS8yMDE5LzA3LzE5L3RydW1wLXJhY2lzbS1pbXBlYWNobWVudC1vZmZlbnNlL9IBSWh0dHBzOi8vc3RhdGljLnRoZWludGVyY2VwdC5jb20vYW1wL3RydW1wLXJhY2lzbS1pbXBlYWNobWVudC1vZmZlbnNlLmh0bWw?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "ratings": {
+      "gcop_v1": "t"
+    }, 
+    "publication": "The Intercept", 
+    "idx": 75, 
+    "title": "Racism Is an Impeachable Offense", 
+    "date": "2019-07-21T12:00:02.188809", 
+    "query": "donald trump"
+  }, 
+  {
+    "google_url": "http://news.google.com/./articles/CAIiECREPUfJaOS504SQjYHRb_sqGQgEKhAIACoHCAowjsP7CjCSpPQCMJCK0wU?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "ratings": {
+      "gcop_v1": "t"
+    }, 
+    "publication": "USA TODAY", 
+    "idx": 49, 
+    "title": "Donald Trump's depressing racist vitriol brings out the worst in too many Americans", 
+    "date": "2019-07-30T22:00:05.177155", 
+    "query": "donald trump"
+  }, 
+  {
+    "google_url": "http://news.google.com/./articles/CAIiEJUKYmEWrW-XnOA-hvNKFhkqGAgEKg8IACoHCAowmKPyCTCo8nIw87nsBQ?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "ratings": {
+      "gcop_v1": "t"
+    }, 
+    "publication": "Vanity Fair", 
+    "idx": 71, 
+    "title": "Ivanka Is Ignoring Donald Trump\u2019s Racist Tweets", 
+    "date": "2019-07-21T01:00:09.237894", 
+    "query": "donald trump"
+  }, 
+  {
+    "google_url": "http://news.google.com/./articles/CBMiUmh0dHBzOi8vd3d3Lmh1ZmZwb3N0LmNvbS9lbnRyeS90cnVtcC1jYWxscy1zcXVhZC1yYWNpc3Rfbl81ZDM1ZTI5OWU0YjAwNGI2YWRiM2FjZGTSAT9odHRwczovL20uaHVmZnBvc3QuY29tL3VzL2VudHJ5L3VzXzVkMzVlMjk5ZTRiMDA0YjZhZGIzYWNkZC9hbXA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "ratings": {
+      "gcop_v1": "co"
+    }, 
+    "publication": "HuffPost", 
+    "idx": 7, 
+    "title": "Donald Trump Calls Lawmakers 'Racist' After His Own Racist Attacks On Them", 
+    "date": "2019-07-22T18:00:02.320740", 
+    "query": "donald trump"
+  }, 
+  {
+    "google_url": "http://news.google.com/./articles/CAIiEF5BPUtFOwy3R7HulMjYVyoqFAgEKgsIACoFCAowgGAwADDklYsG?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "ratings": {
+      "gcop_v1": "t"
+    }, 
+    "publication": "Salon", 
+    "idx": 3, 
+    "title": "Donald Trump is gambling racism will win for him in 2020", 
+    "date": "2019-07-21T01:00:09.237894", 
+    "query": "donald trump"
+  }, 
+  {
+    "google_url": "http://news.google.com/./articles/CAIiEAFggmQQJBFH2bj3zMDxK0YqGQgEKhAIACoHCAowjsP7CjCSpPQCMM_b5QU?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "ratings": {
+      "gcop_v1": "t"
+    }, 
+    "publication": "USA TODAY", 
+    "idx": 38, 
+    "title": "From the 'Central Park Five' to 'the squad': A dozen times Donald Trump has stoked racial tensions", 
+    "date": "2019-07-21T01:00:09.237894", 
+    "query": "donald trump"
+  }, 
+  {
+    "google_url": "http://news.google.com/./articles/CAIiEPs0XbZDD67J6UzWr1p6mN0qGQgEKhAIACoHCAow2Nb3CjDivdcCMJ_d7gU?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "ratings": {
+      "gcop_v1": "t"
+    }, 
+    "publication": "CNBC", 
+    "idx": 41, 
+    "title": "Siemens CEO Joe Kaeser says Trump has become the 'face of racism and exclusion'", 
+    "date": "2019-07-21T11:00:02.307205", 
     "query": "donald trump"
   }
 ]

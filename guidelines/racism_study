@@ -1,0 +1,40 @@
+index
+	notes
+		variables
+			we use the variable X to denote the target person
+				e.g.
+					pXr, with X=t for "donald trump", would be ptr
+annotations
+	pXr
+		indicates that the *publication* is calling X a racist
+		note:
+			this includes the case where a random person Y is calling X a racist
+			this is considered editatorializing
+	pXd
+		indicates that the *publication* is *defending* X from the charge of racism
+		or, the publication is saying that X was called a racist
+	cXr
+		indicates that a *competing politician* is calling X a racist
+			note:
+				if the person calling X is just a random person, we count this as the publication calling X racist
+				e.g.
+					example
+						publication
+							CNBC
+						title
+							Siemens CEO Joe Kaeser says Trump has become the 'face of racism and exclusion'
+					conclusion
+						the opinion of Siemens's CEO is not more relevant than anyone else's
+						bringing him on is an editorial choice
+						another way for the publication to editorialize
+	cXd
+		indicates X or someone from their camp is defending X from the charge of racism
+	n
+		indicates that this query is not really about race
+		e.g.
+			title
+				Who will win the race in 2020?
+			conclusion
+				the word 'race' does not refer to ethnic race in this context 
+	0
+		the overall event involves race, but is neutral as to whether anyone is being called a racist
