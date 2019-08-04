@@ -1,0 +1,834 @@
+[
+  {
+    "publication": "HuffPost", 
+    "idx": 0, 
+    "title": "Rand Paul Offers To Help Buy 'Ungrateful' Ilhan Omar A Ticket Back To Somalia", 
+    "google_url": "http://news.google.com/./articles/CAIiEGlruDW4-U4guQEfS-UkTwoqFggEKg0IACoGCAowxYgCMIBNMJeP1AM?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T07:00:04.882702", 
+    "query": "ilhan omar"
+  }, 
+  {
+    "publication": "The Washington Post", 
+    "idx": 1, 
+    "title": "Sen. Rand Paul offers to buy Rep. Ilhan Omar a ticket to Somalia so she\u2019ll \u2018appreciate America more\u2019", 
+    "google_url": "http://news.google.com/./articles/CAIiEL-AJphUJvRRFiMr7RJaFl8qGAgEKg8IACoHCAowjtSUCjC30XQw36e5AQ?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T07:00:04.882702", 
+    "query": "ilhan omar"
+  }, 
+  {
+    "publication": "Courier Journal", 
+    "idx": 2, 
+    "title": "Rand Paul offers to buy Ilhan Omar a ticket back to Somalia", 
+    "google_url": "http://news.google.com/./articles/CBMikAFodHRwczovL3d3dy5jb3VyaWVyLWpvdXJuYWwuY29tL3N0b3J5L25ld3MvcG9saXRpY3MvMjAxOS8wNy8yOS9yYW5kLXBhdWwtb2ZmZXJzLWlsaGFuLW9tYXItdHJpcC1iYWNrLXNvbWFsaWEtYXBwcmVjaWF0ZS1hbWVyaWNhLW1vcmUvMTg1NDQzNTAwMS_SAQA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T07:00:04.882702", 
+    "query": "ilhan omar"
+  }, 
+  {
+    "publication": "Fox News", 
+    "idx": 3, 
+    "title": "Ilhan Omar apparently hit back at Rand Paul with this retweet", 
+    "google_url": "http://news.google.com/./articles/CBMiSGh0dHBzOi8vd3d3LmZveG5ld3MuY29tL3BvbGl0aWNzL2lsaGFuLW9tYXItcmFuZC1wYXVsLXJldHdlZXQtdG9tLWFybm9sZNIBTGh0dHBzOi8vd3d3LmZveG5ld3MuY29tL3BvbGl0aWNzL2lsaGFuLW9tYXItcmFuZC1wYXVsLXJldHdlZXQtdG9tLWFybm9sZC5hbXA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T07:00:04.882702", 
+    "query": "ilhan omar"
+  }, 
+  {
+    "publication": "Washington Examiner", 
+    "idx": 4, 
+    "title": "Ilhan Omar shares tweet mocking violence against GOP senator", 
+    "google_url": "http://news.google.com/./articles/CBMiZGh0dHBzOi8vd3d3Lndhc2hpbmd0b25leGFtaW5lci5jb20vbmV3cy9pbGhhbi1vbWFyLXNoYXJlcy10d2VldC1tb2NraW5nLXZpb2xlbmNlLWFnYWluc3QtZ29wLXNlbmF0b3LSAQA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T07:00:04.882702", 
+    "query": "ilhan omar"
+  }, 
+  {
+    "publication": "The Jerusalem Post", 
+    "idx": 5, 
+    "title": "Ilhan Omar co-sponsors Never Again Education Act", 
+    "google_url": "http://news.google.com/./articles/CAIiEJFfWexAT6Q2N9ubnS3FZmgqGAgEKg8IACoHCAowr9eeCTDYlm4wraupBg?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T07:00:04.882702", 
+    "query": "ilhan omar"
+  }, 
+  {
+    "publication": "NBC News", 
+    "idx": 6, 
+    "title": "Trump's attacks on Ilhan Omar echo his 'lock her up' chants. Here's how they differ.", 
+    "google_url": "http://news.google.com/./articles/CAIiEPti-XkXjB4itd74RlShCyQqGQgEKhAIACoHCAowvIaCCzDnxf4CMN6B8gU?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T07:00:04.882702", 
+    "query": "ilhan omar"
+  }, 
+  {
+    "publication": "The Hill", 
+    "idx": 7, 
+    "title": "Ilhan Omar defends Cummings after Trump attacks: He 'wants to distract with his racism' | TheHill", 
+    "google_url": "http://news.google.com/./articles/CBMid2h0dHBzOi8vdGhlaGlsbC5jb20vaG9tZW5ld3MvaG91c2UvNDU1MDU1LWlsaGFuLW9tYXItZGVmZW5kcy1jdW1taW5ncy1hZnRlci10cnVtcC1hdHRhY2tzLWhlLXdhbnRzLXRvLWRpc3RyYWN0LXdpdGgtaGlz0gF7aHR0cHM6Ly90aGVoaWxsLmNvbS9ob21lbmV3cy9ob3VzZS80NTUwNTUtaWxoYW4tb21hci1kZWZlbmRzLWN1bW1pbmdzLWFmdGVyLXRydW1wLWF0dGFja3MtaGUtd2FudHMtdG8tZGlzdHJhY3Qtd2l0aC1oaXM_YW1w?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T07:00:04.882702", 
+    "query": "ilhan omar"
+  }, 
+  {
+    "publication": "The New York Times", 
+    "idx": 8, 
+    "title": "Ilhan Omar Returns to Minneapolis for Hero\u2019s Welcome", 
+    "google_url": "http://news.google.com/./articles/CAIiENikQILu45VHFoABunrGymQqFwgEKg8IACoHCAowjuuKAzCWrzww9oEY?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T07:00:04.882702", 
+    "query": "ilhan omar"
+  }, 
+  {
+    "publication": "USA TODAY", 
+    "idx": 9, 
+    "title": "Ilhan Omar on Trump: This is 'a fight for the soul of our nation'", 
+    "google_url": "http://news.google.com/./articles/CAIiEPGNmccI_g32kFGJPeB-edwqGQgEKhAIACoHCAowjsP7CjCSpPQCMKCK0wU?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T07:00:04.882702", 
+    "query": "ilhan omar"
+  }, 
+  {
+    "publication": "BuzzFeed News", 
+    "idx": 10, 
+    "title": "Trump Says Minnesota Can't Stand Ilhan Omar. His Attacks Have Made Her More Popular Than Ever Back Home.", 
+    "google_url": "http://news.google.com/./articles/CAIiEKcegzCTb19KiRFDqVSYRaEqFggEKg4IACoGCAowjJ0RMKC-AjCwjQ0?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T07:00:04.882702", 
+    "query": "ilhan omar"
+  }, 
+  {
+    "publication": "The Washington Post", 
+    "idx": 11, 
+    "title": "Ilhan Omar, quintessentially American", 
+    "google_url": "http://news.google.com/./articles/CAIiEHQzSTwBn3_d4btX_rMT9qMqGAgEKg8IACoHCAowjtSUCjC30XQw_qe5AQ?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T07:00:04.882702", 
+    "query": "ilhan omar"
+  }, 
+  {
+    "publication": "The New York Times", 
+    "idx": 12, 
+    "title": "Examining Trump\u2019s Claims About Representative Ilhan Omar", 
+    "google_url": "http://news.google.com/./articles/CAIiEDjG7vezqcfGYtcO5TuraGAqFwgEKg8IACoHCAowjuuKAzCWrzww9oEY?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T07:00:04.882702", 
+    "query": "ilhan omar"
+  }, 
+  {
+    "publication": "Media Matters for America", 
+    "idx": 13, 
+    "title": "A baseless smear targeting Ilhan Omar made its way to Trump thanks to Fox and these far-right figures", 
+    "google_url": "http://news.google.com/./articles/CBMikgFodHRwczovL3d3dy5tZWRpYW1hdHRlcnMub3JnL3Jlc2VhcmNoLzIwMTkvMDcvMjUvQS1iYXNlbGVzcy1zbWVhci10YXJnZXRpbmctSWxoYW4tT21hci1tYWRlLWl0cy13YXktdG8tVHJ1bXAtdGhhbmtzLXRvLUZveC1hbmQtdGhlc2UtZmFyLXJpLzIyNDMxOdIBAA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T07:00:04.882702", 
+    "query": "ilhan omar"
+  }, 
+  {
+    "publication": "CNN", 
+    "idx": 14, 
+    "title": "Omar: America's 'basic promise is under threat. Our democratic institutions have been weaponized'", 
+    "google_url": "http://news.google.com/./articles/CAIiEN9aate92MAIKz2z3ynw_toqGQgEKhAIACoHCAowocv1CjCSptoCMPrTpgU?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T07:00:04.882702", 
+    "query": "ilhan omar"
+  }, 
+  {
+    "publication": "The Mercury News", 
+    "idx": 15, 
+    "title": "Ilhan Omar\u2019s challenger accused of stealing 279 items from Target", 
+    "google_url": "http://news.google.com/./articles/CAIiENaTmVVsc3SWksN0Cd_gbkAqGAgEKg8IACoHCAowh7LTATCV2zUwwuvVBQ?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T07:00:04.882702", 
+    "query": "ilhan omar"
+  }, 
+  {
+    "publication": "The New York Times", 
+    "idx": 16, 
+    "title": "Ilhan Omar: It Is Not Enough to Condemn Trump\u2019s Racism", 
+    "google_url": "http://news.google.com/./articles/CAIiECUhv891O2KnOyAjslplkvoqGAgEKg8IACoHCAowjuuKAzCWrzwworyzBg?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T07:00:04.882702", 
+    "query": "ilhan omar"
+  }, 
+  {
+    "publication": "Newsweek", 
+    "idx": 17, 
+    "title": "Ilhan Omar is Fighting for the White Working Class\u2014Even as They Chant 'Send Her Back' | Opinion", 
+    "google_url": "http://news.google.com/./articles/CAIiEGhw48YB7gi-FXZ_BhH7oK8qGQgEKhAIACoHCAow77zbCjDiq8wBMITyqQY?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T07:00:04.882702", 
+    "query": "ilhan omar"
+  }, 
+  {
+    "publication": "The Post Millennial", 
+    "idx": 18, 
+    "title": "Ten things you should know about Ilhan Omar", 
+    "google_url": "http://news.google.com/./articles/CBMiTmh0dHBzOi8vd3d3LnRoZXBvc3RtaWxsZW5uaWFsLmNvbS90ZW4tdGhpbmdzLXlvdS1zaG91bGQta25vdy1hYm91dC1pbGhhbi1vbWFyL9IBUmh0dHBzOi8vd3d3LnRoZXBvc3RtaWxsZW5uaWFsLmNvbS90ZW4tdGhpbmdzLXlvdS1zaG91bGQta25vdy1hYm91dC1pbGhhbi1vbWFyL2FtcC8?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T07:00:04.882702", 
+    "query": "ilhan omar"
+  }, 
+  {
+    "publication": "FactCheck.org", 
+    "idx": 19, 
+    "title": "Trump's False Claims About Rep. Ilhan Omar", 
+    "google_url": "http://news.google.com/./articles/CBMiS2h0dHBzOi8vd3d3LmZhY3RjaGVjay5vcmcvMjAxOS8wNy90cnVtcHMtZmFsc2UtY2xhaW1zLWFib3V0LXJlcC1pbGhhbi1vbWFyL9IBAA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T07:00:04.882702", 
+    "query": "ilhan omar"
+  }, 
+  {
+    "publication": "Snopes.com", 
+    "idx": 20, 
+    "title": "Did US Rep. Ilhan Omar Describe America as a 'Rotten Country'?", 
+    "google_url": "http://news.google.com/./articles/CBMiNmh0dHBzOi8vd3d3LnNub3Blcy5jb20vZmFjdC1jaGVjay9vbWFyLXJvdHRlbi1jb3VudHJ5L9IBAA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T07:00:04.882702", 
+    "query": "ilhan omar"
+  }, 
+  {
+    "publication": "CNN", 
+    "idx": 21, 
+    "title": "Rep. Ilhan Omar calls audience member's question 'appalling'", 
+    "google_url": "http://news.google.com/./articles/CAIiEOrFl7pPEIYsMnJaTiGoaLkqGQgEKhAIACoHCAowocv1CjCSptoCMI29pgU?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T07:00:04.882702", 
+    "query": "ilhan omar"
+  }, 
+  {
+    "publication": "The Guardian", 
+    "idx": 22, 
+    "title": "Ilhan Omar's constituents 'proud to stand by her' over Trump's racist words", 
+    "google_url": "http://news.google.com/./articles/CBMiYGh0dHBzOi8vd3d3LnRoZWd1YXJkaWFuLmNvbS91cy1uZXdzLzIwMTkvanVsLzIxL2lsaGFuLW9tYXItbWlubmVzb3RhLXRydW1wLXRoZS1zcXVhZC1taW5uZWFwb2xpc9IBYGh0dHBzOi8vYW1wLnRoZWd1YXJkaWFuLmNvbS91cy1uZXdzLzIwMTkvanVsLzIxL2lsaGFuLW9tYXItbWlubmVzb3RhLXRydW1wLXRoZS1zcXVhZC1taW5uZWFwb2xpcw?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T07:00:04.882702", 
+    "query": "ilhan omar"
+  }, 
+  {
+    "publication": "The Root", 
+    "idx": 23, 
+    "title": "Pro-Trump Republican Aiming for Ilhan Omar\u2019s House Seat Finds Herself on the Hot Seat With a Felony Case", 
+    "google_url": "http://news.google.com/./articles/CAIiEFIsGfYsxrM3UTyd8mQJ344qFwgEKg4IACoGCAowk_YSMOCqBDDZg9UF?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T07:00:04.882702", 
+    "query": "ilhan omar"
+  }, 
+  {
+    "publication": "Quartz", 
+    "idx": 24, 
+    "title": "Criminal record won't stop Danielle Stella's bid for Ilhan Omar's seat", 
+    "google_url": "http://news.google.com/./articles/CAIiEOK60DivpJYSiPTP4f364esqGAgEKg8IACoHCAowi4-MATDXsRUwlPieAw?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T07:00:04.882702", 
+    "query": "ilhan omar"
+  }, 
+  {
+    "publication": "The New York Times", 
+    "idx": 25, 
+    "title": "Trump Falsely Accuses Ilhan Omar of Proclaiming \u2018How Great Al Qaeda Is\u2019", 
+    "google_url": "http://news.google.com/./articles/CAIiEOGWX6ZJkjF6R8y9fiVAQDYqFwgEKg8IACoHCAowjuuKAzCWrzwwloEY?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T07:00:04.882702", 
+    "query": "ilhan omar"
+  }, 
+  {
+    "publication": "RealClearPolitics", 
+    "idx": 26, 
+    "title": "Rep. Ilhan Omar: Trump's \"Inherent Racism\" Has Crept Into His Policies", 
+    "google_url": "http://news.google.com/./articles/CBMifWh0dHBzOi8vd3d3LnJlYWxjbGVhcnBvbGl0aWNzLmNvbS92aWRlby8yMDE5LzA3LzIzL2lsaGFuX29tYXJfdHJ1bXBfaGFzX2luaGVyZW50X3JhY2lzbV90aGF0X2hhc19hbHdheXNfYmVlbl9wYXJ0X29mX2hpbS5odG1s0gEA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T07:00:04.882702", 
+    "query": "ilhan omar"
+  }, 
+  {
+    "publication": "BuzzFeed News", 
+    "idx": 27, 
+    "title": "Opinion: Defend Ilhan Omar. But Don\u2019t Look Away From The Things She\u2019s Said.", 
+    "google_url": "http://news.google.com/./articles/CAIiEPrIxnVFSUXjhtpgCFlgwwsqFwgEKg4IACoGCAowjJ0RMKC-AjDH2KEG?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T07:00:04.882702", 
+    "query": "ilhan omar"
+  }, 
+  {
+    "publication": "Washington Monthly", 
+    "idx": 28, 
+    "title": "The Fever Swamp Is Going After Ilhan Omar", 
+    "google_url": "http://news.google.com/./articles/CBMiU2h0dHBzOi8vd2FzaGluZ3Rvbm1vbnRobHkuY29tLzIwMTkvMDcvMjQvdGhlLWZldmVyLXN3YW1wLWlzLWdvaW5nLWFmdGVyLWlsaGFuLW9tYXIv0gEA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T07:00:04.882702", 
+    "query": "ilhan omar"
+  }, 
+  {
+    "publication": "Washington Examiner", 
+    "idx": 29, 
+    "title": "Ilhan Omar's identity politics come back to bite her", 
+    "google_url": "http://news.google.com/./articles/CBMiXmh0dHBzOi8vd3d3Lndhc2hpbmd0b25leGFtaW5lci5jb20vb3Bpbmlvbi9pbGhhbi1vbWFycy1pZGVudGl0eS1wb2xpdGljcy1jb21lLWJhY2stdG8tYml0ZS1oZXLSAQA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T07:00:04.882702", 
+    "query": "ilhan omar"
+  }, 
+  {
+    "publication": "Townhall", 
+    "idx": 30, 
+    "title": "Does Ilhan Omar Have A Point When She Talks About \u2018Deaths\u2019 Caused By White Men?", 
+    "google_url": "http://news.google.com/./articles/CBMijwFodHRwczovL3Rvd25oYWxsLmNvbS9jb2x1bW5pc3RzL3Njb3R0bW9yZWZpZWxkLzIwMTkvMDcvMjkvZG9lcy1pbGhhbi1vbWFyLWhhdmUtYS1wb2ludC13aGVuLXNoZS10YWxrcy1hYm91dC1kZWF0aHMtY2F1c2VkLWJ5LXdoaXRlLW1lbi1uMjU1MDc0MNIBmAFodHRwczovL3Rvd25oYWxsLmNvbS9jb2x1bW5pc3RzL3Njb3R0bW9yZWZpZWxkLzIwMTkvMDcvMjkvZG9lcy1pbGhhbi1vbWFyLWhhdmUtYS1wb2ludC13aGVuLXNoZS10YWxrcy1hYm91dC1kZWF0aHMtY2F1c2VkLWJ5LXdoaXRlLW1lbi1uMjU1MDc0MD9hbXA9dHJ1ZQ?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T07:00:04.882702", 
+    "query": "ilhan omar"
+  }, 
+  {
+    "publication": "Aljazeera.com", 
+    "idx": 31, 
+    "title": "Ilhan Omar on her 9/11 comments, Trump, and US-Saudi relations", 
+    "google_url": "http://news.google.com/./articles/CBMifWh0dHBzOi8vd3d3LmFsamF6ZWVyYS5jb20vcHJvZ3JhbW1lcy90YWxrdG9qYXplZXJhLzIwMTkvMDcvaWxoYW4tb21hci05MTEtY29tbWVudHMtdHJ1bXAtc2F1ZGktcmVsYXRpb25zLTE5MDcxNjE2MDUzOTU1OS5odG1s0gEA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T07:00:04.882702", 
+    "query": "ilhan omar"
+  }, 
+  {
+    "publication": "Common Dreams", 
+    "idx": 32, 
+    "title": "The Real Trouble with Ilhan Omar", 
+    "google_url": "http://news.google.com/./articles/CBMiRWh0dHBzOi8vd3d3LmNvbW1vbmRyZWFtcy5vcmcvdmlld3MvMjAxOS8wNy8yMi9yZWFsLXRyb3VibGUtaWxoYW4tb21hctIBSWh0dHBzOi8vd3d3LmNvbW1vbmRyZWFtcy5vcmcvdmlld3MvMjAxOS8wNy8yMi9yZWFsLXRyb3VibGUtaWxoYW4tb21hcj9hbXA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T07:00:04.882702", 
+    "query": "ilhan omar"
+  }, 
+  {
+    "publication": "The Washington Post", 
+    "idx": 33, 
+    "title": "Ilhan Omar is unlike anyone who has served in Congress. This is her complicated American story.", 
+    "google_url": "http://news.google.com/./articles/CAIiELTUBdvbBBq3WfB_5gZ1qlcqGAgEKg8IACoHCAowjtSUCjC30XQwzqe5AQ?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T07:00:04.882702", 
+    "query": "ilhan omar"
+  }, 
+  {
+    "publication": "National Review", 
+    "idx": 34, 
+    "title": "Ilhan Omar Is Completely Assimilated", 
+    "google_url": "http://news.google.com/./articles/CAIiEJbX6EciS85uHyJppGWSsGgqGQgEKhAIACoHCAowh4uHCzDap4UDMKPxlgY?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T07:00:04.882702", 
+    "query": "ilhan omar"
+  }, 
+  {
+    "publication": "Star Tribune", 
+    "idx": 35, 
+    "title": "Trump-Omar sparring influences the fight for Minnesota in 2020", 
+    "google_url": "http://news.google.com/./articles/CAIiEHf5yEH3-C2YQmTFB5QDiU4qFggEKg4IACoGCAowqoQ9MOOECDD66g0?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T07:00:04.882702", 
+    "query": "ilhan omar"
+  }, 
+  {
+    "publication": "BuzzFeed News", 
+    "idx": 36, 
+    "title": "Opinion: Ilhan Omar's Anti-Semitism Is Becoming A Load-Bearing Myth For American Politics", 
+    "google_url": "http://news.google.com/./articles/CAIiEKjvZpvfCA8TpLAWgxWj5J4qFwgEKg4IACoGCAowjJ0RMKC-AjDH2KEG?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T07:00:04.882702", 
+    "query": "ilhan omar"
+  }, 
+  {
+    "publication": "The National Interest Online", 
+    "idx": 37, 
+    "title": "Voice Of America Ignores Reasons For Trump's Criticism Of Rep. Ilhan Omar", 
+    "google_url": "http://news.google.com/./articles/CBMic2h0dHBzOi8vbmF0aW9uYWxpbnRlcmVzdC5vcmcvYmxvZy9idXp6L3ZvaWNlLWFtZXJpY2EtaWdub3Jlcy1yZWFzb25zLXRydW1wJUUyJTgwJTk5cy1jcml0aWNpc20tcmVwLWlsaGFuLW9tYXItNjgyNDLSAQA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T07:00:04.882702", 
+    "query": "ilhan omar"
+  }, 
+  {
+    "publication": "The Guardian", 
+    "idx": 38, 
+    "title": "Pro-Trump Republican aiming to unseat Ilhan Omar charged with felony theft", 
+    "google_url": "http://news.google.com/./articles/CAIiEHRWv_tpeLiytIbwNOwTGAMqFggEKg4IACoGCAowl6p7MN-zCTDlkko?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T07:00:04.882702", 
+    "query": "ilhan omar"
+  }, 
+  {
+    "publication": "The Guardian", 
+    "idx": 39, 
+    "title": "'Welcome home, Ilhan!': supporters greet Ilhan Omar as she arrives in home state \u2013 video", 
+    "google_url": "http://news.google.com/./articles/CBMib2h0dHBzOi8vd3d3LnRoZWd1YXJkaWFuLmNvbS91cy1uZXdzL3ZpZGVvLzIwMTkvanVsLzE5L3N1cHBvcnRlcnMtZ3JlZXQtaWxoYW4tb21hci1ob21lLXN0YXRlLWRvbmFsZC10cnVtcC12aWRlb9IBAA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T07:00:04.882702", 
+    "query": "ilhan omar"
+  }, 
+  {
+    "publication": "BBC News", 
+    "idx": 40, 
+    "title": "Ilhan Omar: Birmingham mural is an act of 'solidarity'", 
+    "google_url": "http://news.google.com/./articles/CBMiKmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy9uZXdzYmVhdC00OTA4NDkzNtIBLmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy9hbXAvbmV3c2JlYXQtNDkwODQ5MzY?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T07:00:04.882702", 
+    "query": "ilhan omar"
+  }, 
+  {
+    "publication": "The Times of Israel", 
+    "idx": 41, 
+    "title": "Is It Ilhan Omar Or Elmi? Megillah Update. Launch of the 9/11 Memorial From Israel", 
+    "google_url": "http://news.google.com/./articles/CBMicWh0dHBzOi8vYmxvZ3MudGltZXNvZmlzcmFlbC5jb20vaXMtaXQtaWxoYW4tb21hci1vci1lbG1pLW1lZ2lsbGFoLXVwZGF0ZS1sYXVuY2gtb2YtdGhlLTktMTEtbWVtb3JpYWwtZnJvbS1pc3JhZWwv0gEA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T07:00:04.882702", 
+    "query": "ilhan omar"
+  }, 
+  {
+    "publication": "The Guardian", 
+    "idx": 42, 
+    "title": "Ilhan Omar calls out Trump for 'complete hypocrisy' \u2013 video", 
+    "google_url": "http://news.google.com/./articles/CBMibGh0dHBzOi8vd3d3LnRoZWd1YXJkaWFuLmNvbS9nbG9iYWwvdmlkZW8vMjAxOS9qdWwvMTYvaWxoYW4tb21hci1jYWxscy1vdXQtdHJ1bXAtZm9yLWNvbXBsZXRlLWh5cG9jcmlzeS12aWRlb9IBAA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T07:00:04.882702", 
+    "query": "ilhan omar"
+  }, 
+  {
+    "publication": "VOA News", 
+    "idx": 43, 
+    "title": "Ilhan Omar's Defiance Resonates With Muslim-American Activists", 
+    "google_url": "http://news.google.com/./articles/CAIiEMU9AQKx3GdcKqKnc3mvgKAqFwgEKg8IACoHCAowqc_1ATCe_xQwupwi?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T07:00:04.882702", 
+    "query": "ilhan omar"
+  }, 
+  {
+    "publication": "NPR", 
+    "idx": 44, 
+    "title": "Constituent In Rep. Ilhan Omar's District Reacts To Trump's Recent Attacks", 
+    "google_url": "http://news.google.com/./articles/CBMicWh0dHBzOi8vd3d3Lm5wci5vcmcvMjAxOS8wNy8yMS83NDM4NDcyMjgvY29uc3RpdHVlbnQtaW4tcmVwLWlsaGFuLW9tYXJzLWRpc3RyaWN0LXJlYWN0cy10by10cnVtcC1zLXJlY2VudC1hdHRhY2tz0gEA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T07:00:04.882702", 
+    "query": "ilhan omar"
+  }, 
+  {
+    "publication": "National Review", 
+    "idx": 45, 
+    "title": "That\u2019s My Husbro: Ilhan Omar\u2019s Family Drama", 
+    "google_url": "http://news.google.com/./articles/CBMiXGh0dHBzOi8vd3d3Lm5hdGlvbmFscmV2aWV3LmNvbS9tYWdhemluZS8yMDE5LzA4LzEyL3RoYXRzLW15LWh1c2Jyby1pbGhhbi1vbWFycy1mYW1pbHktZHJhbWEv0gFgaHR0cHM6Ly93d3cubmF0aW9uYWxyZXZpZXcuY29tL21hZ2F6aW5lLzIwMTkvMDgvMTIvdGhhdHMtbXktaHVzYnJvLWlsaGFuLW9tYXJzLWZhbWlseS1kcmFtYS9hbXAv?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T07:00:04.882702", 
+    "query": "ilhan omar"
+  }, 
+  {
+    "publication": "The Wall Street Journal", 
+    "idx": 46, 
+    "title": "Can Ilhan Omar Overcome Her Prejudice?", 
+    "google_url": "http://news.google.com/./articles/CAIiEJoBPihpYD8DvcC_15EVvxwqGAgEKg8IACoHCAow1tzJATDnyxUwqK20AQ?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T07:00:04.882702", 
+    "query": "ilhan omar"
+  }, 
+  {
+    "publication": "Fox News", 
+    "idx": 47, 
+    "title": "Rep. Lee Zeldin: Ilhan Omar is wrong \u2013 anti-Israel and anti-Semitic BDS movement must be condemned", 
+    "google_url": "http://news.google.com/./articles/CBMifmh0dHBzOi8vd3d3LmZveG5ld3MuY29tL29waW5pb24vcmVwLWxlZS16ZWxkaW4taWxoYW4tb21hci1pcy13cm9uZy1hbnRpLWlzcmFlbC1hbmQtYW50aS1zZW1pdGljLWJkcy1tb3ZlbWVudC1tdXN0LWJlLWNvbmRlbW5lZNIBAA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T07:00:04.882702", 
+    "query": "ilhan omar"
+  }, 
+  {
+    "publication": "RealClearPolitics", 
+    "idx": 48, 
+    "title": "Tucker Carlson: Rep. Ilhan Omar Has \"Contempt\" For Americans, Blame The Left", 
+    "google_url": "http://news.google.com/./articles/CBMif2h0dHBzOi8vd3d3LnJlYWxjbGVhcnBvbGl0aWNzLmNvbS92aWRlby8yMDE5LzA3LzExL3R1Y2tlcl9jYXJsc29uX3JlcF9pbGhhbl9vbWFyX2hhc19jb250ZW1wdF9mb3JfYW1lcmljYW5zX2JsYW1lX3RoZV9sZWZ0Lmh0bWzSAQA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T07:00:04.882702", 
+    "query": "ilhan omar"
+  }, 
+  {
+    "publication": "Snopes.com", 
+    "idx": 49, 
+    "title": "Is Rep. Omar's Father a 'Somalian War Criminal' Living 'Illegally' in US?", 
+    "google_url": "http://news.google.com/./articles/CBMiNWh0dHBzOi8vd3d3LnNub3Blcy5jb20vZmFjdC1jaGVjay9pbGhhbi1vbWFycy1mYXRoZXIv0gEA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T07:00:04.882702", 
+    "query": "ilhan omar"
+  }, 
+  {
+    "publication": "Slate", 
+    "idx": 50, 
+    "title": "Why They Fear Ilhan Omar", 
+    "google_url": "http://news.google.com/./articles/CAIiECYJuw0pNkeNx7HZVzZTxakqFQgEKg0IACoGCAowuLUIMNFnMLnhAg?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T07:00:04.882702", 
+    "query": "ilhan omar"
+  }, 
+  {
+    "publication": "The Guardian", 
+    "idx": 51, 
+    "title": "Ilhan Omar and America\u2019s racial divide: Inside the 26 July edition of the Guardian Weekly", 
+    "google_url": "http://news.google.com/./articles/CBMihAFodHRwczovL3d3dy50aGVndWFyZGlhbi5jb20vbmV3cy8yMDE5L2p1bC8yNC9pbGhhbi1vbWFyLWFuZC1hbWVyaWNhcy1yYWNpYWwtZGl2aWRlLWluc2lkZS10aGUtMjYtanVseS1lZGl0aW9uLW9mLXRoZS1ndWFyZGlhbi13ZWVrbHnSAYQBaHR0cHM6Ly9hbXAudGhlZ3VhcmRpYW4uY29tL25ld3MvMjAxOS9qdWwvMjQvaWxoYW4tb21hci1hbmQtYW1lcmljYXMtcmFjaWFsLWRpdmlkZS1pbnNpZGUtdGhlLTI2LWp1bHktZWRpdGlvbi1vZi10aGUtZ3VhcmRpYW4td2Vla2x5?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T07:00:04.882702", 
+    "query": "ilhan omar"
+  }, 
+  {
+    "publication": "Washington Examiner", 
+    "idx": 52, 
+    "title": "The Ilhan Omar marriage story isn't 'baseless,' but it doesn't help that Trump alt-right hacks hijacked it", 
+    "google_url": "http://news.google.com/./articles/CBMikAFodHRwczovL3d3dy53YXNoaW5ndG9uZXhhbWluZXIuY29tL29waW5pb24vdGhlLWlsaGFuLW9tYXItbWFycmlhZ2Utc3RvcnktaXNudC1iYXNlbGVzcy1idXQtaXQtZG9lc250LWhlbHAtdGhhdC10cnVtcC1hbHQtcmlnaHQtaGFja3MtaGlqYWNrZWQtaXTSAQA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T07:00:04.882702", 
+    "query": "ilhan omar"
+  }, 
+  {
+    "publication": "The Washington Post", 
+    "idx": 53, 
+    "title": "Padma Lakshmi: Millions of Americans like me and Ilhan Omar are right where we belong", 
+    "google_url": "http://news.google.com/./articles/CAIiEPAt4uFgDsoS9Dwl5S_fFG0qGAgEKg8IACoHCAowjtSUCjC30XQwzqe5AQ?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T07:00:04.882702", 
+    "query": "ilhan omar"
+  }, 
+  {
+    "publication": "WCCO | CBS Minnesota", 
+    "idx": 54, 
+    "title": "MPD Officer Intends To Run Against Ilhan Omar", 
+    "google_url": "http://news.google.com/./articles/CBMiWGh0dHBzOi8vbWlubmVzb3RhLmNic2xvY2FsLmNvbS8yMDE5LzA3LzI2L21wZC1vZmZpY2VyLWludGVuZHMtdG8tcnVuLWFnYWluc3QtaWxoYW4tb21hci_SAVxodHRwczovL21pbm5lc290YS5jYnNsb2NhbC5jb20vMjAxOS8wNy8yNi9tcGQtb2ZmaWNlci1pbnRlbmRzLXRvLXJ1bi1hZ2FpbnN0LWlsaGFuLW9tYXIvYW1wLw?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T07:00:04.882702", 
+    "query": "ilhan omar"
+  }, 
+  {
+    "publication": "Newsradio 1140 WRVA", 
+    "idx": 55, 
+    "title": "Ungrateful Ilhan Omar Trashes America Again", 
+    "google_url": "http://news.google.com/./articles/CBMiW2h0dHBzOi8vbmV3c3JhZGlvd3J2YS5yYWRpby5jb20vYmxvZ3MvamVmZi1rYXR6L3VuZ3JhdGVmdWwtaWxoYW4tb21hci10cmFzaGVzLWFtZXJpY2EtYWdhaW7SAQA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T07:00:04.882702", 
+    "query": "ilhan omar"
+  }, 
+  {
+    "publication": "Fox News", 
+    "idx": 56, 
+    "title": "Ilhan Omar admits she may have flubbed facts in dramatic story she told high school students", 
+    "google_url": "http://news.google.com/./articles/CBMiX2h0dHBzOi8vd3d3LmZveG5ld3MuY29tL3BvbGl0aWNzL2lsaGFuLW9tYXItYWRtaXRzLWZsdWJiZWQtZmFjdHMtYW1lcmljYS1yYWNpc20taW5qdXN0aWNlLXN0b3J50gFjaHR0cHM6Ly93d3cuZm94bmV3cy5jb20vcG9saXRpY3MvaWxoYW4tb21hci1hZG1pdHMtZmx1YmJlZC1mYWN0cy1hbWVyaWNhLXJhY2lzbS1pbmp1c3RpY2Utc3RvcnkuYW1w?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T07:00:04.882702", 
+    "query": "ilhan omar"
+  }, 
+  {
+    "publication": "Deadline", 
+    "idx": 57, 
+    "title": "Donald Trump Calls Ilhan Omar\u2019s Airport Welcome \u201cStaged\u201d And \u201cTiny\u201d; Mocks New York Times Writer\u2019s Chin", 
+    "google_url": "http://news.google.com/./articles/CAIiELUsiGnB96E0qas7DNprXW4qFggEKg0IACoGCAowoPUEMKAjMP6Y1gU?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T07:00:04.882702", 
+    "query": "ilhan omar"
+  }, 
+  {
+    "publication": "Snopes.com", 
+    "idx": 58, 
+    "title": "Are US Reps. Ilhan Omar and AOC Polling at 8 Percent, 21 Percent Respectively?", 
+    "google_url": "http://news.google.com/./articles/CBMiPWh0dHBzOi8vd3d3LnNub3Blcy5jb20vZmFjdC1jaGVjay9pbGhhbi1vbWFyLWFuZC1hb2MtcG9sbGluZy_SAQA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T07:00:04.882702", 
+    "query": "ilhan omar"
+  }, 
+  {
+    "publication": "ThinkProgress", 
+    "idx": 59, 
+    "title": "Trump resurfaces degrading rumor about Ilhan Omar amid racism controversy", 
+    "google_url": "http://news.google.com/./articles/CAIiEL5eJu3j8Wp0rT29sEOPXkoqFAgEKg0IACoGCAow5YQBMJIaMIZF?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T07:00:04.882702", 
+    "query": "ilhan omar"
+  }, 
+  {
+    "publication": "HuffPost", 
+    "idx": 60, 
+    "title": "Rep. Ilhan Omar Has Been A U.S. Citizen Longer Than Melania Trump", 
+    "google_url": "http://news.google.com/./articles/CAIiEBedkFGwX0qCM7_7jD1QY54qFQgEKg0IACoGCAowxYgCMIBNMOGXAg?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T07:00:04.882702", 
+    "query": "ilhan omar"
+  }, 
+  {
+    "publication": "Washington Examiner", 
+    "idx": 61, 
+    "title": "Ilhan Omar: 'I probably love this country more than anyone that is naturally born'", 
+    "google_url": "http://news.google.com/./articles/CBMid2h0dHBzOi8vd3d3Lndhc2hpbmd0b25leGFtaW5lci5jb20vbmV3cy9pbGhhbi1vbWFyLWktcHJvYmFibHktbG92ZS10aGlzLWNvdW50cnktbW9yZS10aGFuLWFueW9uZS10aGF0LWlzLW5hdHVyYWxseS1ib3Ju0gEA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T07:00:04.882702", 
+    "query": "ilhan omar"
+  }, 
+  {
+    "publication": "Mondoweiss", 
+    "idx": 62, 
+    "title": "AOC is now cosponsoring Ilhan Omar\u2019s boycott bill", 
+    "google_url": "http://news.google.com/./articles/CBMiOmh0dHBzOi8vbW9uZG93ZWlzcy5uZXQvMjAxOS8wNy9jb3Nwb25zb3JpbmctaWxoYW4tYm95Y290dC_SAT5odHRwczovL21vbmRvd2Vpc3MubmV0LzIwMTkvMDcvY29zcG9uc29yaW5nLWlsaGFuLWJveWNvdHQvYW1wLw?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T07:00:04.882702", 
+    "query": "ilhan omar"
+  }, 
+  {
+    "publication": "New York Post", 
+    "idx": 63, 
+    "title": "Ilhan Omar proposes resolution supporting boycott of Israel", 
+    "google_url": "http://news.google.com/./articles/CAIiEHELs4GgfAaYbz33VWPfmgkqGAgEKg8IACoHCAowhK-LAjD4ySww-9S0BQ?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T07:00:04.882702", 
+    "query": "ilhan omar"
+  }, 
+  {
+    "publication": "Mondoweiss", 
+    "idx": 64, 
+    "title": "Foreign interference, including by the U.S., helped drive a million Somalis into exile \u2014 including Ilhan Omar", 
+    "google_url": "http://news.google.com/./articles/CBMiPmh0dHBzOi8vbW9uZG93ZWlzcy5uZXQvMjAxOS8wNy9mb3JlaWduLWludGVyZmVyZW5jZS1pbmNsdWRpbmcv0gFCaHR0cHM6Ly9tb25kb3dlaXNzLm5ldC8yMDE5LzA3L2ZvcmVpZ24taW50ZXJmZXJlbmNlLWluY2x1ZGluZy9hbXAv?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T07:00:04.882702", 
+    "query": "ilhan omar"
+  }, 
+  {
+    "publication": "Salon", 
+    "idx": 65, 
+    "title": "Ilhan Omar takes up the BDS fight, and conflicted Democrats moan and bicker", 
+    "google_url": "http://news.google.com/./articles/CAIiEFxd031odsipaqwi43aK1HcqFAgEKgsIACoFCAowgGAwADDklYsG?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T07:00:04.882702", 
+    "query": "ilhan omar"
+  }, 
+  {
+    "publication": "Al-Monitor", 
+    "idx": 66, 
+    "title": "Ilhan Omar seizes spotlight to push pro-BDS resolution", 
+    "google_url": "http://news.google.com/./articles/CBMiY2h0dHBzOi8vd3d3LmFsLW1vbml0b3IuY29tL3B1bHNlL29yaWdpbmFscy8yMDE5LzA3L2lsaGFtLW9tYXItcHJvLWJkcy1sZWdpc2xhdGlvbi10cnVtcC1pc3JhZWwuaHRtbNIBAA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T07:00:04.882702", 
+    "query": "ilhan omar"
+  }, 
+  {
+    "publication": "Washington Examiner", 
+    "idx": 67, 
+    "title": "Rand Paul: Ilhan Omar deserves 'rebuke over trying to say we have a rotten country'", 
+    "google_url": "http://news.google.com/./articles/CBMigAFodHRwczovL3d3dy53YXNoaW5ndG9uZXhhbWluZXIuY29tL3dhc2hpbmd0b24tc2VjcmV0cy9yYW5kLXBhdWwtb21hci1kZXNlcnZlcy1yZWJ1a2Utb3Zlci10cnlpbmctdG8tc2F5LXdlLWhhdmUtYS1yb3R0ZW4tY291bnRyedIBAA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T07:00:04.882702", 
+    "query": "ilhan omar"
+  }, 
+  {
+    "publication": "The Washington Post", 
+    "idx": 68, 
+    "title": "\u2018Send her back!\u2019: Trump, Ilhan Omar and the complicated history of back to Africa", 
+    "google_url": "http://news.google.com/./articles/CAIiEKI3bDswCutosMGQhkcDlloqGAgEKg8IACoHCAowjtSUCjC30XQwzqe5AQ?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T07:00:04.882702", 
+    "query": "ilhan omar"
+  }, 
+  {
+    "publication": "BBC News", 
+    "idx": 69, 
+    "title": "Minnesota crowd welcomes home Ilhan Omar amid Trump row", 
+    "google_url": "http://news.google.com/./articles/CBMibGh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy9hdi93b3JsZC11cy1jYW5hZGEtNDkwNTE5OTMvbWlubmVzb3RhLWNyb3dkLXdlbGNvbWVzLWhvbWUtaWxoYW4tb21hci1hbWlkLXRydW1wLXJvd9IBAA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T07:00:04.882702", 
+    "query": "ilhan omar"
+  }, 
+  {
+    "publication": "iMediaEthics", 
+    "idx": 70, 
+    "title": "Corrections: Dark Side of the Moon, Ilhan Omar Misquote, Lion Skeletons,", 
+    "google_url": "http://news.google.com/./articles/CBMiYmh0dHBzOi8vd3d3LmltZWRpYWV0aGljcy5vcmcvY29ycmVjdGlvbnMtZGFyay1zaWRlLW9mLXRoZS1tb29uLWlsaGFuLW9tYXItbWlzcXVvdGUtbGlvbi1za2VsZXRvbnMv0gFmaHR0cHM6Ly93d3cuaW1lZGlhZXRoaWNzLm9yZy9jb3JyZWN0aW9ucy1kYXJrLXNpZGUtb2YtdGhlLW1vb24taWxoYW4tb21hci1taXNxdW90ZS1saW9uLXNrZWxldG9ucy9hbXAv?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T07:00:04.882702", 
+    "query": "ilhan omar"
+  }, 
+  {
+    "publication": "The Hill", 
+    "idx": 71, 
+    "title": "Cardi B posts message of support for Ilhan Omar | TheHill", 
+    "google_url": "http://news.google.com/./articles/CBMiXWh0dHBzOi8vdGhlaGlsbC5jb20vYmxvZ3MvaW4tdGhlLWtub3cvaW4tdGhlLWtub3cvNDUzNjcwLWNhcmRpLWItcG9zdHMtc3VwcG9ydC1mb3ItaWxoYW4tb21hctIBYWh0dHBzOi8vdGhlaGlsbC5jb20vYmxvZ3MvaW4tdGhlLWtub3cvaW4tdGhlLWtub3cvNDUzNjcwLWNhcmRpLWItcG9zdHMtc3VwcG9ydC1mb3ItaWxoYW4tb21hcj9hbXA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T07:00:04.882702", 
+    "query": "ilhan omar"
+  }, 
+  {
+    "publication": "WCCO | CBS Minnesota", 
+    "idx": 72, 
+    "title": "Ilhan Omar, Other Lawmakers Introduce \u2018Zero Waste Act\u2019", 
+    "google_url": "http://news.google.com/./articles/CBMiXGh0dHBzOi8vbWlubmVzb3RhLmNic2xvY2FsLmNvbS8yMDE5LzA3LzI1L3JlcC1vbWFyLW90aGVyLWxhd21ha2Vycy1pbnRyb2R1Y2UtemVyby13YXN0ZS1hY3Qv0gFgaHR0cHM6Ly9taW5uZXNvdGEuY2JzbG9jYWwuY29tLzIwMTkvMDcvMjUvcmVwLW9tYXItb3RoZXItbGF3bWFrZXJzLWludHJvZHVjZS16ZXJvLXdhc3RlLWFjdC9hbXAv?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T07:00:04.882702", 
+    "query": "ilhan omar"
+  }, 
+  {
+    "publication": "The Guardian", 
+    "idx": 73, 
+    "title": "Ilhan Omar on Trump: 'I believe he is fascist' \u2013 as it happened", 
+    "google_url": "http://news.google.com/./articles/CBMihQFodHRwczovL3d3dy50aGVndWFyZGlhbi5jb20vdXMtbmV3cy9saXZlLzIwMTkvanVsLzE4L3RydW1wLWlsaGFuLW9tYXItbmV3cy10b2RheS1saXZlLXNlbmQtaGVyLWJhY2stcmFjaXN0LXJhbGx5LWNoYW50LWxhdGVzdC11cGRhdGVz0gGFAWh0dHBzOi8vYW1wLnRoZWd1YXJkaWFuLmNvbS91cy1uZXdzL2xpdmUvMjAxOS9qdWwvMTgvdHJ1bXAtaWxoYW4tb21hci1uZXdzLXRvZGF5LWxpdmUtc2VuZC1oZXItYmFjay1yYWNpc3QtcmFsbHktY2hhbnQtbGF0ZXN0LXVwZGF0ZXM?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T07:00:04.882702", 
+    "query": "ilhan omar"
+  }, 
+  {
+    "publication": "WDIO", 
+    "idx": 74, 
+    "title": "Hibbing Native to Run Against Ilhan Omar in Congressional District 5 Race", 
+    "google_url": "http://news.google.com/./articles/CBMiamh0dHBzOi8vd3d3LndkaW8uY29tL25ld3MvY2hyaXMta2VsbGV5LWhpYmJpbmctbWlubmVhcG9saXMtaWxoYW4tb21hci1taW5uZXNvdGEtZWxlY3Rpb24tY29uZ3Jlc3MvNTQzNTY5Ni_SAXJodHRwczovL2FtcC53ZGlvLmNvbS9hcnRpY2xlcy9jaHJpcy1rZWxsZXktaGliYmluZy1taW5uZWFwb2xpcy1pbGhhbi1vbWFyLW1pbm5lc290YS1lbGVjdGlvbi1jb25ncmVzcy01NDM1Njk2Lmh0bWw?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T07:00:04.882702", 
+    "query": "ilhan omar"
+  }, 
+  {
+    "publication": "Washington Examiner", 
+    "idx": 75, 
+    "title": "Ilhan Omar joins Nancy Pelosi-led delegation visiting Ghana, US Army Africa headquarters in Italy", 
+    "google_url": "http://news.google.com/./articles/CBMiiAFodHRwczovL3d3dy53YXNoaW5ndG9uZXhhbWluZXIuY29tL25ld3MvaWxoYW4tb21hci1qb2lucy1uYW5jeS1wZWxvc2ktbGVkLWRlbGVnYXRpb24tdmlzaXRpbmctZ2hhbmEtdXMtYXJteS1hZnJpY2EtaGVhZHF1YXJ0ZXJzLWluLWl0YWx50gEA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T07:00:04.882702", 
+    "query": "ilhan omar"
+  }, 
+  {
+    "publication": "Democracy Now!", 
+    "idx": 76, 
+    "title": "Rep. Ilhan Omar Introduces Zero Waste Act as Part of Green New Deal", 
+    "google_url": "http://news.google.com/./articles/CBMic2h0dHBzOi8vd3d3LmRlbW9jcmFjeW5vdy5vcmcvMjAxOS83LzI2L2hlYWRsaW5lcy9yZXBfaWxoYW5fb21hcl9pbnRyb2R1Y2VzX3plcm9fd2FzdGVfYWN0X2FzX3BhcnRfb2ZfZ3JlZW5fbmV3X2RlYWzSAQA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T07:00:04.882702", 
+    "query": "ilhan omar"
+  }, 
+  {
+    "publication": "The Hill", 
+    "idx": 77, 
+    "title": "Ann Coulter offers rare praise for Ilhan Omar and Rashida Tlaib | TheHill", 
+    "google_url": "http://news.google.com/./articles/CBMieGh0dHBzOi8vdGhlaGlsbC5jb20vYmxvZ3MvYmxvZy1icmllZmluZy1yb29tL25ld3MvNDUzMjYzLWFubi1jb3VsdGVyLW9mZmVycy1yYXJlLXByYWlzZS1mb3ItaWxoYW4tb21hci1hbmQtcmFzaGlkYS10bGFpYtIBfGh0dHBzOi8vdGhlaGlsbC5jb20vYmxvZ3MvYmxvZy1icmllZmluZy1yb29tL25ld3MvNDUzMjYzLWFubi1jb3VsdGVyLW9mZmVycy1yYXJlLXByYWlzZS1mb3ItaWxoYW4tb21hci1hbmQtcmFzaGlkYS10bGFpYj9hbXA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T07:00:04.882702", 
+    "query": "ilhan omar"
+  }, 
+  {
+    "publication": "The Jerusalem Post", 
+    "idx": 78, 
+    "title": "David Friedman slams former Obama advisor, Ilhan Omar over Wadi Hummus tweets", 
+    "google_url": "http://news.google.com/./articles/CAIiEHUZg6SZTBlBA3MByfBL-V8qGAgEKg8IACoHCAowr9eeCTDYlm4w44mLBg?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T07:00:04.882702", 
+    "query": "ilhan omar"
+  }, 
+  {
+    "publication": "HuffPost", 
+    "idx": 79, 
+    "title": "GOP Lawmaker Slammed For Tweeting He 'Struggled With' Racist Ilhan Omar Chant", 
+    "google_url": "http://news.google.com/./articles/CAIiEGvtVv6PciQ9A8SUpDCjAtQqFQgEKg0IACoGCAowxYgCMIBNMOGXAg?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T07:00:04.882702", 
+    "query": "ilhan omar"
+  }, 
+  {
+    "publication": "Conservative Daily News", 
+    "idx": 80, 
+    "title": "Ilhan Omar and Brigitte Gabriel: The Tale of Two Very Different American Immigrants", 
+    "google_url": "http://news.google.com/./articles/CBMigQFodHRwczovL3d3dy5jb25zZXJ2YXRpdmVkYWlseW5ld3MuY29tLzIwMTkvMDcvaWxoYW4tb21hci1hbmQtYnJpZ2l0dGUtZ2FicmllbC10aGUtdGFsZS1vZi10d28tdmVyeS1kaWZmZXJlbnQtYW1lcmljYW4taW1taWdyYW50cy_SAYUBaHR0cHM6Ly93d3cuY29uc2VydmF0aXZlZGFpbHluZXdzLmNvbS8yMDE5LzA3L2lsaGFuLW9tYXItYW5kLWJyaWdpdHRlLWdhYnJpZWwtdGhlLXRhbGUtb2YtdHdvLXZlcnktZGlmZmVyZW50LWFtZXJpY2FuLWltbWlncmFudHMvYW1wLw?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T07:00:04.882702", 
+    "query": "ilhan omar"
+  }, 
+  {
+    "publication": "The Washington Post", 
+    "idx": 81, 
+    "title": "Angela Merkel says she rejects Trump\u2019s racist remarks, stands \u2018in solidarity\u2019 with Ilhan Omar", 
+    "google_url": "http://news.google.com/./articles/CAIiEADmvntqCC0vZ9xj8EUT0AYqGAgEKg8IACoHCAowjtSUCjC30XQwn6G5AQ?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T07:00:04.882702", 
+    "query": "ilhan omar"
+  }, 
+  {
+    "publication": "The Jerusalem Post", 
+    "idx": 82, 
+    "title": "Ilhan Omar \u2018would be in the KKK,' human rights activist warns", 
+    "google_url": "http://news.google.com/./articles/CAIiEDtLl8V5cd7O4whgQ7TPxBwqGAgEKg8IACoHCAowr9eeCTDYlm4wraupBg?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T07:00:04.882702", 
+    "query": "ilhan omar"
+  }, 
+  {
+    "publication": "The Alexander City Outlook", 
+    "idx": 83, 
+    "title": "Progressive Muslim woman criticized by Rep. Ilhan Omar", 
+    "google_url": "http://news.google.com/./articles/CBMijwFodHRwczovL3d3dy5hbGV4Y2l0eW91dGxvb2suY29tL29waW5pb24vcHJvZ3Jlc3NpdmUtbXVzbGltLXdvbWFuLWNyaXRpY2l6ZWQtYnktcmVwLWlsaGFuLW9tYXIvYXJ0aWNsZV8wZmM0ZGIzZS1iMjFhLTExZTktYjU5My02YmI2NDg5MTg1MzkuaHRtbNIBAA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T07:00:04.882702", 
+    "query": "ilhan omar"
+  }, 
+  {
+    "publication": "The National Interest Online", 
+    "idx": 84, 
+    "title": "Will the MyPillow Guy Run Against Ilhan Omar?", 
+    "google_url": "http://news.google.com/./articles/CBMiVWh0dHBzOi8vbmF0aW9uYWxpbnRlcmVzdC5vcmcvYmxvZy9idXp6L3dpbGwtbXlwaWxsb3ctZ3V5LXJ1bi1hZ2FpbnN0LWlsaGFuLW9tYXItNjkzNzLSAQA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T07:00:04.882702", 
+    "query": "ilhan omar"
+  }, 
+  {
+    "publication": "Newsweek", 
+    "idx": 85, 
+    "title": "Jeanine Pirro, Once Condemned by Fox for Tirade Against Ilhan Omar, Now Says Lawmaker is 'Weaponizing Hate'", 
+    "google_url": "http://news.google.com/./articles/CAIiEPXv89s1H62eZWURbvt1Bm8qGQgEKhAIACoHCAow77zbCjDiq8wBMNiCsgU?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T07:00:04.882702", 
+    "query": "ilhan omar"
+  }, 
+  {
+    "publication": "The Daily Beast", 
+    "idx": 86, 
+    "title": "Rep. Ilhan Omar's Republican Challenger Appears to be a QAnon Conspiracy Theorist", 
+    "google_url": "http://news.google.com/./articles/CAIiEEjRDhz_-kUCC8Nlo0CNUNIqFggEKg0IACoGCAow7s8BMNBIMPrwlwI?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T07:00:04.882702", 
+    "query": "ilhan omar"
+  }, 
+  {
+    "publication": "Washington Examiner", 
+    "idx": 87, 
+    "title": "No sharing: Ilhan Omar says AOC 'squad' is 'trying to grab' power from leadership", 
+    "google_url": "http://news.google.com/./articles/CBMidGh0dHBzOi8vd3d3Lndhc2hpbmd0b25leGFtaW5lci5jb20vbmV3cy9uby1zaGFyaW5nLWlsaGFuLW9tYXItc2F5cy1hb2Mtc3F1YWQtaXMtdHJ5aW5nLXRvLWdyYWItcG93ZXItZnJvbS1sZWFkZXJzaGlw0gEA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T07:00:04.882702", 
+    "query": "ilhan omar"
+  }, 
+  {
+    "publication": "Townhall", 
+    "idx": 88, 
+    "title": "Rubio Responds to Media's Coddling of Ilhan Omar in Light of His Criticism Against Her", 
+    "google_url": "http://news.google.com/./articles/CBMilQFodHRwczovL3Rvd25oYWxsLmNvbS90aXBzaGVldC9jb3J0bmV5b2JyaWVuLzIwMTkvMDcvMjYvcnViaW8tcmVzcG9uZHMtdG8tbWVkaWFzLWNvZGRsaW5nLW9mLWlsaGFuLW9tYXItaW4tbGlnaHQtb2YtaGlzLWNyaXRpY2lzbS1hZ2FpbnN0LWhlci1uMjU1MDY1ONIBngFodHRwczovL3Rvd25oYWxsLmNvbS90aXBzaGVldC9jb3J0bmV5b2JyaWVuLzIwMTkvMDcvMjYvcnViaW8tcmVzcG9uZHMtdG8tbWVkaWFzLWNvZGRsaW5nLW9mLWlsaGFuLW9tYXItaW4tbGlnaHQtb2YtaGlzLWNyaXRpY2lzbS1hZ2FpbnN0LWhlci1uMjU1MDY1OD9hbXA9dHJ1ZQ?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T07:00:04.882702", 
+    "query": "ilhan omar"
+  }, 
+  {
+    "publication": "Miami New Times", 
+    "idx": 89, 
+    "title": "Donald Trump Fans in Florida Have Threatened Ilhan Omar, Frederica Wilson", 
+    "google_url": "http://news.google.com/./articles/CBMidGh0dHBzOi8vd3d3Lm1pYW1pbmV3dGltZXMuY29tL25ld3MvZG9uYWxkLXRydW1wLWZhbnMtaW4tZmxvcmlkYS1oYXZlLXRocmVhdGVuZWQtaWxoYW4tb21hci1mcmVkZXJpY2Etd2lsc29uLTExMjIzMTQx0gEA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T07:00:04.882702", 
+    "query": "ilhan omar"
+  }, 
+  {
+    "publication": "hngnews.com", 
+    "idx": 90, 
+    "title": "Ilhan Omar holds America in contempt | Lake Mills Leader", 
+    "google_url": "http://news.google.com/./articles/CBMiWmh0dHA6Ly93d3cuaG5nbmV3cy5jb20vbGFrZV9taWxsc19sZWFkZXIvYXJ0aWNsZV8yYzJiZGJlZC05ZWY3LTUxYTAtYmYzMy1kMGQ1ZGFiM2EzOTQuaHRtbNIBAA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T07:00:04.882702", 
+    "query": "ilhan omar"
+  }, 
+  {
+    "publication": "PolitiFact", 
+    "idx": 91, 
+    "title": "Facebook post compares votes by Rand Paul, Ilhan Omar on Sept. 11 victim compensation fund", 
+    "google_url": "http://news.google.com/./articles/CBMiiQFodHRwczovL3d3dy5wb2xpdGlmYWN0LmNvbS9mYWNlYm9vay1mYWN0LWNoZWNrcy9zdGF0ZW1lbnRzLzIwMTkvanVsLzI0L2ZhY2Vib29rLXBvc3RzL2ZhY2Vib29rLXBvc3QtY29tcGFyZXMtdm90ZXMtcmFuZC1wYXVsLWlsaGFuLW9tYXItL9IBAA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T07:00:04.882702", 
+    "query": "ilhan omar"
+  }, 
+  {
+    "publication": "Los Angeles Times", 
+    "idx": 92, 
+    "title": "Trump 'go back' attacks on Ilhan Omar shake naturalized citizens.", 
+    "google_url": "http://news.google.com/./articles/CAIiEOLqW_Mnbd--I8KnMTawysgqFggEKg4IACoGCAowjKxcMOvhCzCJzg8?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T07:00:04.882702", 
+    "query": "ilhan omar"
+  }, 
+  {
+    "publication": "News18", 
+    "idx": 93, 
+    "title": "US Restaurant Takes a Swipe at Congresswoman Ilhan Omar, Offers Free Dish for Saying 'Send Her Back'", 
+    "google_url": "http://news.google.com/./articles/CAIiEPYE__iWow7BTonnCW0_dl8qGQgEKhAIACoHCAow5qqNCzD4q58DMKa4pwY?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T07:00:04.882702", 
+    "query": "ilhan omar"
+  }, 
+  {
+    "publication": "Snopes.com", 
+    "idx": 94, 
+    "title": "Does US Rep. Ilhan Omar Want to Legalize the Sale of Dog Meat?", 
+    "google_url": "http://news.google.com/./articles/CBMiNmh0dHBzOi8vd3d3LnNub3Blcy5jb20vZmFjdC1jaGVjay9pbGhhbi1vbWFyLWRvZy1tZWF0L9IBAA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T07:00:04.882702", 
+    "query": "ilhan omar"
+  }, 
+  {
+    "publication": "The Daily Beast", 
+    "idx": 95, 
+    "title": "Trump's Ilhan Omar Smears Are the Same Ones Neo-Nazis Used on Me", 
+    "google_url": "http://news.google.com/./articles/CAIiECrZwMTxq0gQqJZHQx30GPEqFggEKg0IACoGCAow7s8BMNBIMPrwlwI?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T07:00:04.882702", 
+    "query": "ilhan omar"
+  }, 
+  {
+    "publication": "PJ Media", 
+    "idx": 96, 
+    "title": "Ilhan Omar's Marriage to the Father of Her Kids Is on the Rocks", 
+    "google_url": "http://news.google.com/./articles/CBMiQ2h0dHBzOi8vcGptZWRpYS5jb20vdHJlbmRpbmcvcmVwLWlsaGFuLW9tYXJzLW1hcnJpYWdlLW9uLXRoZS1yb2Nrcy_SAQA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T07:00:04.882702", 
+    "query": "ilhan omar"
+  }, 
+  {
+    "publication": "CNSNews.com", 
+    "idx": 97, 
+    "title": "Ilhan Omar in NYT Op-Ed: Trump 'Using the Influence of Our Highest Office to Mount Racist Attacks'", 
+    "google_url": "http://news.google.com/./articles/CBMieGh0dHBzOi8vd3d3LmNuc25ld3MuY29tL2Jsb2cvY25zbmV3c2NvbS1zdGFmZi9pbGhhbi1vbWFyLW55dC1vcC1lZC10cnVtcC11c2luZy1pbmZsdWVuY2Utb3VyLWhpZ2hlc3Qtb2ZmaWNlLW1vdW50LXJhY2lzdNIBAA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T07:00:04.882702", 
+    "query": "ilhan omar"
+  }, 
+  {
+    "publication": "USA TODAY", 
+    "idx": 98, 
+    "title": "Alexandria Ocasio-Cortez, Ilhan Omar and Rashida Tlaib fire back at Nancy Pelosi's 'Twitter world' quip", 
+    "google_url": "http://news.google.com/./articles/CAIiEInzA8L-92SZwwg55YLMLcwqGQgEKhAIACoHCAowjsP7CjCSpPQCMKCK0wU?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T07:00:04.882702", 
+    "query": "ilhan omar"
+  }, 
+  {
+    "publication": "ABC News", 
+    "idx": 99, 
+    "title": "Rabbi in Congresswoman Ilhan Omar\u2019s district compares Trump rally to 'Nazi Germany'", 
+    "google_url": "http://news.google.com/./articles/CBMibmh0dHBzOi8vYWJjbmV3cy5nby5jb20vUG9saXRpY3MvcmFiYmktY29uZ3Jlc3N3b21hbi1vbWFycy1kaXN0cmljdC1jb21wYXJlcy10cnVtcC1yYWxseS1uYXppL3N0b3J5P2lkPTY0NDI4MTI10gFyaHR0cHM6Ly9hYmNuZXdzLmdvLmNvbS9hbXAvUG9saXRpY3MvcmFiYmktY29uZ3Jlc3N3b21hbi1vbWFycy1kaXN0cmljdC1jb21wYXJlcy10cnVtcC1yYWxseS1uYXppL3N0b3J5P2lkPTY0NDI4MTI1?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T07:00:04.882702", 
+    "query": "ilhan omar"
+  }, 
+  {
+    "publication": "CNSNews.com", 
+    "idx": 100, 
+    "title": "With CAIR's Backing, Rep. Ilhan Omar Targets FBI Terror Database", 
+    "google_url": "http://news.google.com/./articles/CBMicGh0dHBzOi8vd3d3LmNuc25ld3MuY29tL25ld3MvYXJ0aWNsZS9wYXRyaWNrLWdvb2Rlbm91Z2gvY2FpcnMtYmFja2luZy1yZXAtaWxoYW4tb21hci10YXJnZXRzLWZiaS10ZXJyb3ItZGF0YWJhc2XSAQA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T07:00:04.882702", 
+    "query": "ilhan omar"
+  }, 
+  {
+    "publication": "USA TODAY", 
+    "idx": 101, 
+    "title": "These are the 29 members of Congress born outside the US", 
+    "google_url": "http://news.google.com/./articles/CBMidGh0dHBzOi8vd3d3LnVzYXRvZGF5LmNvbS9zdG9yeS9tb25leS8yMDE5LzA3LzE1L2lsaGFuLW9tYXItamF5YXBhbC1iZW5uZXQtbWVtYmVycy1jb25ncmVzcy1ib3JuLW91dHNpZGUtdXMvMzk2ODg0Mjcv0gElaHR0cHM6Ly9hbXAudXNhdG9kYXkuY29tL2FtcC8zOTY4ODQyNw?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T07:00:04.882702", 
+    "query": "ilhan omar"
+  }, 
+  {
+    "publication": "The National Interest Online", 
+    "idx": 102, 
+    "title": "Trump vs. Ilhan Omar: Why the Media Won't Stop Covering It", 
+    "google_url": "http://news.google.com/./articles/CBMiYGh0dHBzOi8vbmF0aW9uYWxpbnRlcmVzdC5vcmcvYmxvZy9idXp6L3RydW1wLXZzLWlsaGFuLW9tYXItd2h5LW1lZGlhLXdvbnQtc3RvcC1jb3ZlcmluZy1pdC02ODYyMtIBAA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T07:00:04.882702", 
+    "query": "ilhan omar"
+  }, 
+  {
+    "publication": "Washington Examiner", 
+    "idx": 103, 
+    "title": "Poll: Ilhan Omar and AOC are less popular than ICE", 
+    "google_url": "http://news.google.com/./articles/CBMiWWh0dHBzOi8vd3d3Lndhc2hpbmd0b25leGFtaW5lci5jb20vbmV3cy9wb2xsLWlsaGFuLW9tYXItYW5kLWFvYy1hcmUtbGVzcy1wb3B1bGFyLXRoYW4taWNl0gEA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T07:00:04.882702", 
+    "query": "ilhan omar"
+  }
+]

@@ -1,0 +1,866 @@
+[
+  {
+    "publication": "CNN", 
+    "idx": 0, 
+    "title": "First on CNN: Bernie Sanders, Cardi B team up on video targeting young voters", 
+    "google_url": "http://news.google.com/./articles/CAIiELGq0HYj6LFOpABM1qMlKEYqGQgEKhAIACoHCAowocv1CjCSptoCMPrTpgU?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T02:00:05.934481", 
+    "query": "bernie sanders"
+  }, 
+  {
+    "publication": "USA TODAY", 
+    "idx": 1, 
+    "title": "Cardi B and Bernie Sanders team on presidential campaign video", 
+    "google_url": "http://news.google.com/./articles/CAIiEGyp3t9MnQR8PADqB2u-4x4qGQgEKhAIACoHCAowjsP7CjCSpPQCMM_b5QU?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T02:00:05.934481", 
+    "query": "bernie sanders"
+  }, 
+  {
+    "publication": "Splinter", 
+    "idx": 2, 
+    "title": "Bernie Sanders and Cardi B Team Up for Campaign Video", 
+    "google_url": "http://news.google.com/./articles/CAIiEHGvO75BN-lsbDifzKAIuB4qGQgEKhAIACoHCAowxJX3CjDnqNYCMLzlrgU?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T02:00:05.934481", 
+    "query": "bernie sanders"
+  }, 
+  {
+    "publication": "pacificsandiego.com", 
+    "idx": 3, 
+    "title": "Watch Bernie Sanders gush over Cardi B, laugh about ASAP Rocky on 'Kimmel'", 
+    "google_url": "http://news.google.com/./articles/CBMibWh0dHBzOi8vd3d3LnBhY2lmaWNzYW5kaWVnby5jb20vdGhpbmdzLXRvLWRvL2FydHMtY29vbHR1cmUvc3RvcnkvMjAxOS0wNy0yOS9iZXJuaWUtc2FuZGVycy1jYXJkaS1iLWFzYXAtcm9ja3nSAXdodHRwczovL3d3dy5wYWNpZmljc2FuZGllZ28uY29tL3RoaW5ncy10by1kby9hcnRzLWNvb2x0dXJlL3N0b3J5LzIwMTktMDctMjkvYmVybmllLXNhbmRlcnMtY2FyZGktYi1hc2FwLXJvY2t5P19hbXA9dHJ1ZQ?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T02:00:05.934481", 
+    "query": "bernie sanders"
+  }, 
+  {
+    "publication": "NBC Palm Springs", 
+    "idx": 4, 
+    "title": "Bernie Sanders, Cardi B team up on video targeting young voters", 
+    "google_url": "http://news.google.com/./articles/CBMiZWh0dHBzOi8vbmJjcGFsbXNwcmluZ3MuY29tLzIwMTkvMDcvMjkvYmVybmllLXNhbmRlcnMtY2FyZGktYi10ZWFtLXVwLW9uLXZpZGVvLXRhcmdldGluZy15b3VuZy12b3RlcnMv0gFpaHR0cHM6Ly9uYmNwYWxtc3ByaW5ncy5jb20vMjAxOS8wNy8yOS9iZXJuaWUtc2FuZGVycy1jYXJkaS1iLXRlYW0tdXAtb24tdmlkZW8tdGFyZ2V0aW5nLXlvdW5nLXZvdGVycy9hbXAv?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T02:00:05.934481", 
+    "query": "bernie sanders"
+  }, 
+  {
+    "publication": "Vox.com", 
+    "idx": 5, 
+    "title": "\u201cYou can\u2019t call this plan Medicare for All\u201d: Bernie Sanders camp vs. Kamala Harris\u2019s health care plan", 
+    "google_url": "http://news.google.com/./articles/CAIiEPbsmBz0o2ihwwMswOIygsAqFwgEKg8IACoHCAowlOzSATCaiDUwo9dy?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T02:00:05.934481", 
+    "query": "bernie sanders"
+  }, 
+  {
+    "publication": "Axios", 
+    "idx": 6, 
+    "title": "How Kamala Harris' \"Medicare for All\" plan differs from Bernie Sanders", 
+    "google_url": "http://news.google.com/./articles/CAIiEIMaNLI2GH_F9qzz_yq8giIqGQgEKhAIACoHCAowysWECzCkqIEDMJGegwY?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T02:00:05.934481", 
+    "query": "bernie sanders"
+  }, 
+  {
+    "publication": "CNN", 
+    "idx": 7, 
+    "title": "Sanders says Kamala Harris' health care plan is 'not Medicare for All'", 
+    "google_url": "http://news.google.com/./articles/CAIiEDj2wbtclrLbVWwOiHmyCzMqGQgEKhAIACoHCAowocv1CjCSptoCMPrTpgU?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T02:00:05.934481", 
+    "query": "bernie sanders"
+  }, 
+  {
+    "publication": "Fox News", 
+    "idx": 8, 
+    "title": "Bernie Sanders claims 'Medicare-for-all' will slash health care costs with tax hike", 
+    "google_url": "http://news.google.com/./articles/CBMiTWh0dHBzOi8vd3d3LmZveG5ld3MuY29tL21lZGlhL2Jlcm5pZS1zYW5kZXItbWVkaWNhcmUtZm9yLWFsbC13aWxsLWpha2UtdGFwcGVy0gFRaHR0cHM6Ly93d3cuZm94bmV3cy5jb20vbWVkaWEvYmVybmllLXNhbmRlci1tZWRpY2FyZS1mb3ItYWxsLXdpbGwtamFrZS10YXBwZXIuYW1w?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T02:00:05.934481", 
+    "query": "bernie sanders"
+  }, 
+  {
+    "publication": "USA TODAY", 
+    "idx": 9, 
+    "title": "Kamala Harris releases health plan, says she still backs Medicare for all", 
+    "google_url": "http://news.google.com/./articles/CBMikgFodHRwczovL3d3dy51c2F0b2RheS5jb20vc3RvcnkvbmV3cy9wb2xpdGljcy9lbGVjdGlvbnMvMjAxOS8wNy8yOS9rYW1hbGEtaGFycmlzLXJlbGVhc2VzLWhlYWx0aC1wbGFuLXNheXMtc2hlLXN0aWxsLWJhY2tzLW1lZGljYXJlLWFsbC8xODU5NDczMDAxL9IBAA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T02:00:05.934481", 
+    "query": "bernie sanders"
+  }, 
+  {
+    "publication": "CNN", 
+    "idx": 10, 
+    "title": "Sanders: Harris' plan is not 'Medicare for All'", 
+    "google_url": "http://news.google.com/./articles/CAIiEDaUJtZ077ZsBUEXdDr5-awqGQgEKhAIACoHCAowocv1CjCSptoCMI29pgU?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T02:00:05.934481", 
+    "query": "bernie sanders"
+  }, 
+  {
+    "publication": "Fox News", 
+    "idx": 11, 
+    "title": "Bernie Sanders says Dems will 'lose the election' if they 'become obsessed' with Trump", 
+    "google_url": "http://news.google.com/./articles/CBMic2h0dHBzOi8vd3d3LmZveG5ld3MuY29tL3BvbGl0aWNzL2Jlcm5pZS1zYW5kZXJzLXNheXMtZGVtcy13aWxsLWxvc2UtdGhlLWVsZWN0aW9uLWlmLXRoZXktYmVjb21lLW9ic2Vzc2VkLXdpdGgtdHJ1bXDSAXdodHRwczovL3d3dy5mb3huZXdzLmNvbS9wb2xpdGljcy9iZXJuaWUtc2FuZGVycy1zYXlzLWRlbXMtd2lsbC1sb3NlLXRoZS1lbGVjdGlvbi1pZi10aGV5LWJlY29tZS1vYnNlc3NlZC13aXRoLXRydW1wLmFtcA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T02:00:05.934481", 
+    "query": "bernie sanders"
+  }, 
+  {
+    "publication": "CBS News", 
+    "idx": 12, 
+    "title": "Bernie Sanders goes to Canada to make a point about drug prices", 
+    "google_url": "http://news.google.com/./articles/CAIiEEhNolzYCKUL-TXcrOvRcoMqGQgEKhAIACoHCAowyNj6CjDyiPICML_fxAU?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T02:00:05.934481", 
+    "query": "bernie sanders"
+  }, 
+  {
+    "publication": "Fox News", 
+    "idx": 13, 
+    "title": "Trump says Bernie Sanders should also be labeled 'a racist' for calling Baltimore a 'Third World country'", 
+    "google_url": "http://news.google.com/./articles/CBMijAFodHRwczovL3d3dy5mb3huZXdzLmNvbS9wb2xpdGljcy90cnVtcC1zYXlzLWNyYXp5LWJlcm5pZS1zYW5kZXJzLXNob3VsZC1hbHNvLWJlLWxhYmVsZWQtYS1yYWNpc3QtZm9yLWNhbGxpbmctYmFsdGltb3JlLWEtdGhpcmQtd29ybGQtY291bnRyedIBkAFodHRwczovL3d3dy5mb3huZXdzLmNvbS9wb2xpdGljcy90cnVtcC1zYXlzLWNyYXp5LWJlcm5pZS1zYW5kZXJzLXNob3VsZC1hbHNvLWJlLWxhYmVsZWQtYS1yYWNpc3QtZm9yLWNhbGxpbmctYmFsdGltb3JlLWEtdGhpcmQtd29ybGQtY291bnRyeS5hbXA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T02:00:05.934481", 
+    "query": "bernie sanders"
+  }, 
+  {
+    "publication": "Des Moines Register", 
+    "idx": 14, 
+    "title": "Federal labor board investigating charges against Bernie Sanders Iowa campaign", 
+    "google_url": "http://news.google.com/./articles/CAIiEPAaB2h-ja2pAAWD8DONTr8qGQgEKhAIACoHCAow5vz_CjDCpIsDMKnz4gU?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T02:00:05.934481", 
+    "query": "bernie sanders"
+  }, 
+  {
+    "publication": "vtdigger.org", 
+    "idx": 15, 
+    "title": "Inside Bernie Sanders' bid to retake New Hampshire", 
+    "google_url": "http://news.google.com/./articles/CBMiUmh0dHBzOi8vdnRkaWdnZXIub3JnLzIwMTkvMDcvMjkvaW5zaWRlLWJlcm5pZS1zYW5kZXJzLWJpZC10by1yZXRha2UtbmV3LWhhbXBzaGlyZS_SAQA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T02:00:05.934481", 
+    "query": "bernie sanders"
+  }, 
+  {
+    "publication": "Washington Examiner", 
+    "idx": 16, 
+    "title": "Bernie's campaign union strife is what he proposes for the whole country", 
+    "google_url": "http://news.google.com/./articles/CBMigAFodHRwczovL3d3dy53YXNoaW5ndG9uZXhhbWluZXIuY29tL29waW5pb24vb3AtZWRzL2Jlcm5pZS1zYW5kZXJzLWNhbXBhaWduLXVuaW9uLXN0cmlmZS1pcy13aGF0LWhlLXByb3Bvc2VzLWZvci10aGUtd2hvbGUtY291bnRyedIBAA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T02:00:05.934481", 
+    "query": "bernie sanders"
+  }, 
+  {
+    "publication": "POLITICO", 
+    "idx": 17, 
+    "title": "The Expat Crew Campaigning for Bernie Sanders in France", 
+    "google_url": "http://news.google.com/./articles/CAIiEKPXcqoSFAPJZcKxA46nz3EqGQgEKhAIACoHCAow4Zn5CjCu8uACMJbRlgY?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T02:00:05.934481", 
+    "query": "bernie sanders"
+  }, 
+  {
+    "publication": "Los Angeles Times", 
+    "idx": 18, 
+    "title": "Bernie Sanders hasn't changed. Is that his strength or a weakness?", 
+    "google_url": "http://news.google.com/./articles/CAIiEIhtNwHn9_qwwO9OrBOnW_8qFggEKg4IACoGCAowjKxcMOvhCzCJzg8?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T02:00:05.934481", 
+    "query": "bernie sanders"
+  }, 
+  {
+    "publication": "CNN", 
+    "idx": 19, 
+    "title": "Bernie Sanders doubles down, compares pharmacy executives to murderers", 
+    "google_url": "http://news.google.com/./articles/CAIiEKlCsW8Ztrb2KXA_9QBMr-0qGQgEKhAIACoHCAowocv1CjCSptoCMI29pgU?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T02:00:05.934481", 
+    "query": "bernie sanders"
+  }, 
+  {
+    "publication": "Bloomberg", 
+    "idx": 20, 
+    "title": "Bernie Sanders\u2019s Union Problem", 
+    "google_url": "http://news.google.com/./articles/CAIiELJ-xyQkF_G1rh4mXJXkaZAqGQgEKhAIACoHCAow4uzwCjCF3bsCMIrOrwM?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T02:00:05.934481", 
+    "query": "bernie sanders"
+  }, 
+  {
+    "publication": "CBS News", 
+    "idx": 21, 
+    "title": "Bernie Sanders reaches salary agreement with campaign staffers", 
+    "google_url": "http://news.google.com/./articles/CAIiEM_wPkvlAJhtoCfvBg8yKHUqGQgEKhAIACoHCAowyNj6CjDyiPICMK_dxAU?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T02:00:05.934481", 
+    "query": "bernie sanders"
+  }, 
+  {
+    "publication": "CNBC", 
+    "idx": 22, 
+    "title": "Former Bernie Sanders staffer files charge alleging retaliation for union activities", 
+    "google_url": "http://news.google.com/./articles/CAIiEPCnX5x480ApIZ-q12nk7ZEqGQgEKhAIACoHCAow2Nb3CjDivdcCMKuvhQY?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T02:00:05.934481", 
+    "query": "bernie sanders"
+  }, 
+  {
+    "publication": "CNN", 
+    "idx": 23, 
+    "title": "Bernie Sanders: 'Not happy' I voted for 'terrible' 1994 crime bill", 
+    "google_url": "http://news.google.com/./articles/CAIiEGGiLMoTDZZaYD4B2XsjVf8qGQgEKhAIACoHCAowocv1CjCSptoCMPrTpgU?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T02:00:05.934481", 
+    "query": "bernie sanders"
+  }, 
+  {
+    "publication": "CNN", 
+    "idx": 24, 
+    "title": "Bernie Sanders defends unionized staffers' salaries amid clash with campaign over guarantee of $15 an hour", 
+    "google_url": "http://news.google.com/./articles/CAIiEPmYzp1cYaIWlcQZ8WVuUQIqGQgEKhAIACoHCAowocv1CjCSptoCMPrTpgU?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T02:00:05.934481", 
+    "query": "bernie sanders"
+  }, 
+  {
+    "publication": "Crooked", 
+    "idx": 25, 
+    "title": "2020: Bernie Sanders on democratic socialism and Cardi B", 
+    "google_url": "http://news.google.com/./articles/CBMiVGh0dHBzOi8vY3Jvb2tlZC5jb20vcG9kY2FzdC8yMDIwLWJlcm5pZS1zYW5kZXJzLW9uLWRlbW9jcmF0aWMtc29jaWFsaXNtLWFuZC1jYXJkaS1iL9IBAA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T02:00:05.934481", 
+    "query": "bernie sanders"
+  }, 
+  {
+    "publication": "Forbes", 
+    "idx": 26, 
+    "title": "Bernie Sanders Learns A Small Business Lesson", 
+    "google_url": "http://news.google.com/./articles/CAIiEM25jYMrmzauHnNVBh0e5QUqFQgEKg0IACoGCAowrqkBMKBFMKGBAg?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T02:00:05.934481", 
+    "query": "bernie sanders"
+  }, 
+  {
+    "publication": "CNN", 
+    "idx": 27, 
+    "title": "Canada to Bernie Sanders: Don't take our drugs home", 
+    "google_url": "http://news.google.com/./articles/CAIiEI4THf1geX0KUXH9QlX6OYUqGQgEKhAIACoHCAowocv1CjCSptoCMPrTpgU?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T02:00:05.934481", 
+    "query": "bernie sanders"
+  }, 
+  {
+    "publication": "WXYZ Detroit", 
+    "idx": 28, 
+    "title": "News Bernie Sanders fundraises in downtown Detroit Jenn Schanz 11:51 PM, Jul 27, 2019", 
+    "google_url": "http://news.google.com/./articles/CAIiEASfv76JaLsoxAOnJch6TawqFwgEKg8IACoHCAowttfMATDVzyMw0Js0?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T02:00:05.934481", 
+    "query": "bernie sanders"
+  }, 
+  {
+    "publication": "Fox News", 
+    "idx": 29, 
+    "title": "Bernie Sanders' campaign releases ad slamming MSNBC analyst for saying he makes her 'skin crawl'", 
+    "google_url": "http://news.google.com/./articles/CBMie2h0dHBzOi8vd3d3LmZveG5ld3MuY29tL21lZGlhL2Jlcm5pZS1zYW5kZXJzLWNhbXBhaWduLXJlbGVhc2VzLWFkLXNsYW1taW5nLW1zbmJjLWFuYWx5c3QtZm9yLXNheWluZy1oZS1tYWtlcy1oZXItc2tpbi1jcmF3bNIBf2h0dHBzOi8vd3d3LmZveG5ld3MuY29tL21lZGlhL2Jlcm5pZS1zYW5kZXJzLWNhbXBhaWduLXJlbGVhc2VzLWFkLXNsYW1taW5nLW1zbmJjLWFuYWx5c3QtZm9yLXNheWluZy1oZS1tYWtlcy1oZXItc2tpbi1jcmF3bC5hbXA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T02:00:05.934481", 
+    "query": "bernie sanders"
+  }, 
+  {
+    "publication": "STAT", 
+    "idx": 30, 
+    "title": "As Bernie Sanders neared, Canadian officials were urged to say no", 
+    "google_url": "http://news.google.com/./articles/CBMiWGh0dHBzOi8vd3d3LnN0YXRuZXdzLmNvbS9waGFybWFsb3QvMjAxOS8wNy8yOS9iZXJuaWUtc2FuZGVycy1jYW5hZGEtaW1wb3J0YXRpb24taW5zdWxpbi_SAQA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T02:00:05.934481", 
+    "query": "bernie sanders"
+  }, 
+  {
+    "publication": "Washington Times", 
+    "idx": 31, 
+    "title": "Bernie Sanders: I'm not happy I voted for 'terrible' 1994 crime bill", 
+    "google_url": "http://news.google.com/./articles/CBMiZGh0dHBzOi8vd3d3Lndhc2hpbmd0b250aW1lcy5jb20vbmV3cy8yMDE5L2p1bC8yOS9iZXJuaWUtc2FuZGVycy1pbS1ub3QtaGFwcHktaS12b3RlZC10ZXJyaWJsZS0xOTk0LS_SAWNodHRwOi8vYW1wLndhc2hpbmd0b250aW1lcy5jb20vbmV3cy8yMDE5L2p1bC8yOS9iZXJuaWUtc2FuZGVycy1pbS1ub3QtaGFwcHktaS12b3RlZC10ZXJyaWJsZS0xOTk0LS8?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T02:00:05.934481", 
+    "query": "bernie sanders"
+  }, 
+  {
+    "publication": "Washington Examiner", 
+    "idx": 32, 
+    "title": "Jay Inslee should ask Joe Biden and Bernie Sanders why they voted to bomb Serbian journalists and civilians", 
+    "google_url": "http://news.google.com/./articles/CBMilgFodHRwczovL3d3dy53YXNoaW5ndG9uZXhhbWluZXIuY29tL29waW5pb24vamF5LWluc2xlZS1zaG91bGQtYXNrLWpvZS1iaWRlbi1hbmQtYmVybmllLXNhbmRlcnMtd2h5LXRoZXktdm90ZWQtdG8tYm9tYi1zZXJiaWFuLWpvdXJuYWxpc3RzLWFuZC1jaXZpbGlhbnPSAQA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T02:00:05.934481", 
+    "query": "bernie sanders"
+  }, 
+  {
+    "publication": "The New York Times", 
+    "idx": 33, 
+    "title": "Saving Bernie Sanders", 
+    "google_url": "http://news.google.com/./articles/CAIiEHabPGGD7yoXhAeP_-6kuxQqFwgEKg8IACoHCAowjuuKAzCWrzwwh4UY?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T02:00:05.934481", 
+    "query": "bernie sanders"
+  }, 
+  {
+    "publication": "Ahval", 
+    "idx": 34, 
+    "title": "US Presidential candidate Bernie Sanders vows to recognise Armenian genocide", 
+    "google_url": "http://news.google.com/./articles/CBMicWh0dHBzOi8vYWh2YWxuZXdzLmNvbS9hcm1lbmlhbi1nZW5vY2lkZS91cy1wcmVzaWRlbnRpYWwtY2FuZGlkYXRlLWJlcm5pZS1zYW5kZXJzLXZvd3MtcmVjb2duaXNlLWFybWVuaWFuLWdlbm9jaWRl0gEA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T02:00:05.934481", 
+    "query": "bernie sanders"
+  }, 
+  {
+    "publication": "Variety", 
+    "idx": 35, 
+    "title": "Bernie Sanders and Pete Buttigieg Hold Contrasting Hollywood Fundraisers", 
+    "google_url": "http://news.google.com/./articles/CAIiELi_wZ3-HJLNX62l0w0dxIIqFwgEKg8IACoHCAowraj2AjC5-iIwzItb?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T02:00:05.934481", 
+    "query": "bernie sanders"
+  }, 
+  {
+    "publication": "The Boston Globe", 
+    "idx": 36, 
+    "title": "Bernie Sanders might be losing his N.H. firewall", 
+    "google_url": "http://news.google.com/./articles/CBMicGh0dHBzOi8vd3d3LmJvc3Rvbmdsb2JlLmNvbS9tZXRyby8yMDE5LzA3LzIxL3NhbmRlcnMtbWlnaHQtbG9zaW5nLWhpcy1maXJld2FsbC9PSjlObUp2UE5WS3FiY09YdzdCMDdPL3N0b3J5Lmh0bWzSAX9odHRwczovL3d3dy5ib3N0b25nbG9iZS5jb20vbWV0cm8vMjAxOS8wNy8yMS9zYW5kZXJzLW1pZ2h0LWxvc2luZy1oaXMtZmlyZXdhbGwvT0o5Tm1KdlBOVktxYmNPWHc3QjA3Ty9zdG9yeS5odG1sP291dHB1dFR5cGU9YW1w?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T02:00:05.934481", 
+    "query": "bernie sanders"
+  }, 
+  {
+    "publication": "The New York Times", 
+    "idx": 37, 
+    "title": "Why Sanders Wanted His Meeting With a Rabbi Kept Secret", 
+    "google_url": "http://news.google.com/./articles/CAIiEOfnjgM59HDytDcYDKRQF4YqFwgEKg8IACoHCAowjuuKAzCWrzww9oEY?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T02:00:05.934481", 
+    "query": "bernie sanders"
+  }, 
+  {
+    "publication": "POLITICO", 
+    "idx": 38, 
+    "title": "Sanders campaign: Media \u2018find Bernie annoying, discount his seriousness\u2019", 
+    "google_url": "http://news.google.com/./articles/CAIiEK5sYj_eOfX_4_7aMc7YqmwqGQgEKhAIACoHCAow4Zn5CjCu8uACMLTRlgY?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T02:00:05.934481", 
+    "query": "bernie sanders"
+  }, 
+  {
+    "publication": "MLive.com", 
+    "idx": 39, 
+    "title": "Actor Danny Glover campaigns for Bernie Sanders in Flint", 
+    "google_url": "http://news.google.com/./articles/CAIiENlujYAX3NMbnYmjTbGTnjgqGQgEKhAIACoHCAow_qT_CjDltPgCMILcpAY?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T02:00:05.934481", 
+    "query": "bernie sanders"
+  }, 
+  {
+    "publication": "Washington Examiner", 
+    "idx": 40, 
+    "title": "Bernie Sanders: US policy should not be 'pro-Israel'", 
+    "google_url": "http://news.google.com/./articles/CBMiWWh0dHBzOi8vd3d3Lndhc2hpbmd0b25leGFtaW5lci5jb20vbmV3cy9iZXJuaWUtc2FuZGVycy11cy1wb2xpY3ktc2hvdWxkLW5vdC1iZS1wcm8taXNyYWVs0gEA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T02:00:05.934481", 
+    "query": "bernie sanders"
+  }, 
+  {
+    "publication": "Physician's Weekly", 
+    "idx": 41, 
+    "title": "Bernie Sanders visits Canadian pharmacy, talks drug prices", 
+    "google_url": "http://news.google.com/./articles/CBMiQGh0dHBzOi8vd3d3LnBoeXNpY2lhbnN3ZWVrbHkuY29tL2Jlcm5pZS1zYW5kZXJzLXZpc2l0cy1jYW5hZGlhbi_SAURodHRwczovL3d3dy5waHlzaWNpYW5zd2Vla2x5LmNvbS9iZXJuaWUtc2FuZGVycy12aXNpdHMtY2FuYWRpYW4vYW1wLw?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T02:00:05.934481", 
+    "query": "bernie sanders"
+  }, 
+  {
+    "publication": "DePauw University", 
+    "idx": 42, 
+    "title": "Hunter Sego '19 &amp; Sen. Bernie Sanders Make Headlines in Canada", 
+    "google_url": "http://news.google.com/./articles/CBMiPGh0dHBzOi8vd3d3LmRlcGF1dy5lZHUvbmV3cy1tZWRpYS9sYXRlc3QtbmV3cy9kZXRhaWxzLzM0MzY2L9IBAA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T02:00:05.934481", 
+    "query": "bernie sanders"
+  }, 
+  {
+    "publication": "NPR", 
+    "idx": 43, 
+    "title": "Bernie Sanders Rejects Calls For Generational Change", 
+    "google_url": "http://news.google.com/./articles/CAIiEIqt8u3iTjPgFkaLuwr-6H0qFggEKg4IACoGCAow9vBNMK3UCDCvpUk?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T02:00:05.934481", 
+    "query": "bernie sanders"
+  }, 
+  {
+    "publication": "The New Yorker", 
+    "idx": 44, 
+    "title": "Don\u2019t Worry About the Democratic Presidential Polls", 
+    "google_url": "http://news.google.com/./articles/CAIiENSYRciW31j6YasNoq3KY4oqGQgEKhAIACoHCAowjMqjCjCJhZwBMKHUywM?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T02:00:05.934481", 
+    "query": "bernie sanders"
+  }, 
+  {
+    "publication": "Vox.com", 
+    "idx": 45, 
+    "title": "2020: Joe Biden has questions about Bernie Sanders\u2019s Medicare-for-all plan. We answered them.", 
+    "google_url": "http://news.google.com/./articles/CAIiEIz3QQH7O_-FM1pikokTnVAqGAgEKg8IACoHCAowlOzSATCaiDUw1aKsBQ?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T02:00:05.934481", 
+    "query": "bernie sanders"
+  }, 
+  {
+    "publication": "Santa Monica Daily Press", 
+    "idx": 46, 
+    "title": "Bernie Sanders speaks at Samohi for the second time", 
+    "google_url": "http://news.google.com/./articles/CBMiT2h0dHBzOi8vd3d3LnNtZHAuY29tL2Jlcm5pZS1zYW5kZXJzLXNwZWFrcy1hdC1zYW1vaGktZm9yLXRoZS1zZWNvbmQtdGltZS8xNzc5ODbSAQA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T02:00:05.934481", 
+    "query": "bernie sanders"
+  }, 
+  {
+    "publication": "The New York Times", 
+    "idx": 47, 
+    "title": "Bernie Sanders Raises $18 Million in 3 Months, Trailing Buttigieg", 
+    "google_url": "http://news.google.com/./articles/CAIiEAlpa31Hn1c4F-XRkMpOyQkqFwgEKg8IACoHCAowjuuKAzCWrzwwloEY?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T02:00:05.934481", 
+    "query": "bernie sanders"
+  }, 
+  {
+    "publication": "Jacobin magazine", 
+    "idx": 48, 
+    "title": "Bernie Sanders's Campaign Is Different", 
+    "google_url": "http://news.google.com/./articles/CBMiRmh0dHBzOi8vd3d3LmphY29iaW5tYWcuY29tLzIwMTkvMDcvYmVybmllLXNhbmRlcnMtY2xhc3Mtc3RydWdnbGUtdmlkZW_SAQA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T02:00:05.934481", 
+    "query": "bernie sanders"
+  }, 
+  {
+    "publication": "The New York Times", 
+    "idx": 49, 
+    "title": "Outsider or Insider? How Bernie Sanders Learned to Walk the Line", 
+    "google_url": "http://news.google.com/./articles/CAIiEISp6SJYdDKL59q26Mii_sQqFwgEKg8IACoHCAowjuuKAzCWrzww9oEY?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T02:00:05.934481", 
+    "query": "bernie sanders"
+  }, 
+  {
+    "publication": "CNN", 
+    "idx": 50, 
+    "title": "Bernie Sanders to propose $20 billion bailout fund for struggling hospitals", 
+    "google_url": "http://news.google.com/./articles/CAIiEMaO2msqUKHmMztwH1p15DMqGQgEKhAIACoHCAowocv1CjCSptoCMPrTpgU?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T02:00:05.934481", 
+    "query": "bernie sanders"
+  }, 
+  {
+    "publication": "The National Interest Online", 
+    "idx": 51, 
+    "title": "Sorry, AOC and Bernie Sanders: Scandinavia Is No Socialist Paradise", 
+    "google_url": "http://news.google.com/./articles/CBMia2h0dHBzOi8vbmF0aW9uYWxpbnRlcmVzdC5vcmcvYmxvZy9idXp6L3NvcnJ5LWFvYy1hbmQtYmVybmllLXNhbmRlcnMtc2NhbmRpbmF2aWEtbm8tc29jaWFsaXN0LXBhcmFkaXNlLTY5NzE20gEA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T02:00:05.934481", 
+    "query": "bernie sanders"
+  }, 
+  {
+    "publication": "MSNBC", 
+    "idx": 52, 
+    "title": "Sen. Bernie Sanders talks his 2020 campaign", 
+    "google_url": "http://news.google.com/./articles/CBMiamh0dHBzOi8vd3d3Lm1zbmJjLmNvbS9hbmRyZWEtbWl0Y2hlbGwtcmVwb3J0cy93YXRjaC9zZW4tYmVybmllLXNhbmRlcnMtdGFsa3MtaGlzLTIwMjAtY2FtcGFpZ24tNjM1MzQ2NjE3ODLSAQA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T02:00:05.934481", 
+    "query": "bernie sanders"
+  }, 
+  {
+    "publication": "Business Insider", 
+    "idx": 53, 
+    "title": "Bernie Sanders has a plan to erase student debt by taxing Wall Street. But industry watchers tell us it will hurt Main Street more. | Markets Insider", 
+    "google_url": "http://news.google.com/./articles/CAIiEAOCTydKJBpvu1JQJcbHdYwqLggEKiUIACIbd3d3LmJ1c2luZXNzaW5zaWRlci5jb20vc2FpKgQICjAMMIzw5wE?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T02:00:05.934481", 
+    "query": "bernie sanders"
+  }, 
+  {
+    "publication": "POLITICO", 
+    "idx": 54, 
+    "title": "Bad news for Bernie has his backers getting antsy", 
+    "google_url": "http://news.google.com/./articles/CAIiEPrDiPFjGd8UjpZl47UI3ZUqGQgEKhAIACoHCAow4Zn5CjCu8uACMLTRlgY?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T02:00:05.934481", 
+    "query": "bernie sanders"
+  }, 
+  {
+    "publication": "CNN", 
+    "idx": 55, 
+    "title": "Bernie Sanders 2020 is in big trouble", 
+    "google_url": "http://news.google.com/./articles/CBMiR2h0dHBzOi8vd3d3LmNubi5jb20vMjAxOS8wNy8wMi9wb2xpdGljcy9iZXJuaWUtc2FuZGVycy1wb2xscy9pbmRleC5odG1s0gEA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T02:00:05.934481", 
+    "query": "bernie sanders"
+  }, 
+  {
+    "publication": "USA TODAY", 
+    "idx": 56, 
+    "title": "Mueller testimony should prompt 2nd thoughts on Donald Trump, Bernie Sanders &amp; Joe Biden", 
+    "google_url": "http://news.google.com/./articles/CAIiEKXe08DlsJn64bWCLS62_zIqGQgEKhAIACoHCAowjsP7CjCSpPQCMJCK0wU?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T02:00:05.934481", 
+    "query": "bernie sanders"
+  }, 
+  {
+    "publication": "CBS Los Angeles", 
+    "idx": 57, 
+    "title": "Presidential Candidates Bernie Sanders, Pete Buttigieg Back In LA", 
+    "google_url": "http://news.google.com/./articles/CBMibGh0dHBzOi8vbG9zYW5nZWxlcy5jYnNsb2NhbC5jb20vMjAxOS8wNy8yNS9wcmVzaWRlbnRpYWwtY2FuZGlkYXRlcy1iZXJuaWUtc2FuZGVycy1wZXRlLWJ1dHRpZ2llZy1iYWNrLWluLWxhL9IBcGh0dHBzOi8vbG9zYW5nZWxlcy5jYnNsb2NhbC5jb20vMjAxOS8wNy8yNS9wcmVzaWRlbnRpYWwtY2FuZGlkYXRlcy1iZXJuaWUtc2FuZGVycy1wZXRlLWJ1dHRpZ2llZy1iYWNrLWluLWxhL2FtcC8?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T02:00:05.934481", 
+    "query": "bernie sanders"
+  }, 
+  {
+    "publication": "Fox News", 
+    "idx": 58, 
+    "title": "Bernie Sanders has 'deep sense of satisfaction' his positions are now 'centrist' among Dems", 
+    "google_url": "http://news.google.com/./articles/CBMifWh0dHBzOi8vd3d3LmZveG5ld3MuY29tL3BvbGl0aWNzL2Jlcm5pZS1zYW5kZXJzLWhhcy1kZWVwLXNlbnNlLW9mLXNhdGlzZmFjdGlvbi10aGF0LWhpcy1wb3NpdGlvbnMtYXJlLW5vdy1jZW50cmlzdC1hbW9uZy1kZW1z0gGBAWh0dHBzOi8vd3d3LmZveG5ld3MuY29tL3BvbGl0aWNzL2Jlcm5pZS1zYW5kZXJzLWhhcy1kZWVwLXNlbnNlLW9mLXNhdGlzZmFjdGlvbi10aGF0LWhpcy1wb3NpdGlvbnMtYXJlLW5vdy1jZW50cmlzdC1hbW9uZy1kZW1zLmFtcA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T02:00:05.934481", 
+    "query": "bernie sanders"
+  }, 
+  {
+    "publication": "POLITICO", 
+    "idx": 59, 
+    "title": "Bernie Sanders says he would \u2018absolutely\u2019 try to break up Facebook, Google, Amazon", 
+    "google_url": "http://news.google.com/./articles/CAIiEOVI_iG_I4-FhYU5vlYKoQYqGQgEKhAIACoHCAow4Zn5CjCu8uACMLTRlgY?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T02:00:05.934481", 
+    "query": "bernie sanders"
+  }, 
+  {
+    "publication": "NPR", 
+    "idx": 60, 
+    "title": "Sen. Bernie Sanders: Idea Of Generational Change Is A 'Pretty Superficial Argument'", 
+    "google_url": "http://news.google.com/./articles/CBMieGh0dHBzOi8vd3d3Lm5wci5vcmcvMjAxOS8wNy8wMS83Mzc3NjEzMTEvc2VuLWJlcm5pZS1zYW5kZXJzLWlkZWEtb2YtZ2VuZXJhdGlvbmFsLWNoYW5nZS1pcy1hLXByZXR0eS1zdXBlcmZpY2lhbC1hcmd1bWVudNIBAA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T02:00:05.934481", 
+    "query": "bernie sanders"
+  }, 
+  {
+    "publication": "ABC NEWS 4", 
+    "idx": 61, 
+    "title": "Danny Glover, Bernie Sanders supporters rally on Wadmalaw Island", 
+    "google_url": "http://news.google.com/./articles/CBMidmh0dHA6Ly9hYmNuZXdzNC5jb20vbmV3cy9sb3djb3VudHJ5LWFuZC1zdGF0ZS1wb2xpdGljcy9kYW5ueS1nbG92ZXItYmVybmllLXNhbmRlcnMtc3VwcG9ydGVycy1yYWxseS1vbi13YWRtYWxhdy1pc2xhbmTSAQA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T02:00:05.934481", 
+    "query": "bernie sanders"
+  }, 
+  {
+    "publication": "WLOX", 
+    "idx": 62, 
+    "title": "Beauvoir\u2019s Instagram page hacked with pride flag, Bernie Sanders image", 
+    "google_url": "http://news.google.com/./articles/CBMiZWh0dHBzOi8vd3d3Lndsb3guY29tLzIwMTkvMDcvMjkvYmVhdXZvaXJzLWluc3RhZ3JhbS1wYWdlLWhhY2tlZC13aXRoLXByaWRlLWZsYWctYmVybmllLXNhbmRlcnMtaW1hZ2Uv0gF0aHR0cHM6Ly93d3cud2xveC5jb20vMjAxOS8wNy8yOS9iZWF1dm9pcnMtaW5zdGFncmFtLXBhZ2UtaGFja2VkLXdpdGgtcHJpZGUtZmxhZy1iZXJuaWUtc2FuZGVycy1pbWFnZS8_b3V0cHV0VHlwZT1hbXA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T02:00:05.934481", 
+    "query": "bernie sanders"
+  }, 
+  {
+    "publication": "Baltimore Sun", 
+    "idx": 63, 
+    "title": "Bernie Sanders is the gold standard in 2020", 
+    "google_url": "http://news.google.com/./articles/CBMiZ2h0dHBzOi8vd3d3LmJhbHRpbW9yZXN1bi5jb20vb3Bpbmlvbi9yZWFkZXJzLXJlc3BvbmQvYnMtZWQtcnItc2FuZGVycy1kZWJhdGUtbGV0dGVyLTIwMTkwNzA4LXN0b3J5Lmh0bWzSAQA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T02:00:05.934481", 
+    "query": "bernie sanders"
+  }, 
+  {
+    "publication": "Sara A. Carter", 
+    "idx": 64, 
+    "title": "Bernie Sanders: Baltimore Looks Like a Third World Country", 
+    "google_url": "http://news.google.com/./articles/CBMiUmh0dHBzOi8vc2FyYWFjYXJ0ZXIuY29tL2Jlcm5pZS1zYW5kZXJzLWJhbHRpbW9yZS1sb29rcy1saWtlLWEtdGhpcmQtd29ybGQtY291bnRyeS_SAVZodHRwczovL3NhcmFhY2FydGVyLmNvbS9iZXJuaWUtc2FuZGVycy1iYWx0aW1vcmUtbG9va3MtbGlrZS1hLXRoaXJkLXdvcmxkLWNvdW50cnkvYW1wLw?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T02:00:05.934481", 
+    "query": "bernie sanders"
+  }, 
+  {
+    "publication": "Detroit Free Press", 
+    "idx": 65, 
+    "title": "Heading into Detroit debates, Sanders, Buttigieg lead fundraising among Dems", 
+    "google_url": "http://news.google.com/./articles/CBMigAFodHRwczovL3d3dy5mcmVlcC5jb20vc3RvcnkvbmV3cy9sb2NhbC9taWNoaWdhbi8yMDE5LzA3LzI0L2Jlcm5pZS1zYW5kZXJzLXBldGUtYnV0dGlnaWVnLWZ1bmRyYWlzaW5nLWRldHJvaXQtZGViYXRlcy8xNzQ2NDIxMDAxL9IBJGh0dHBzOi8vYW1wLmZyZWVwLmNvbS9hbXAvMTc0NjQyMTAwMQ?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T02:00:05.934481", 
+    "query": "bernie sanders"
+  }, 
+  {
+    "publication": "CNN", 
+    "idx": 66, 
+    "title": "Fact check: Joe Biden misleads with claim that Bernie Sanders' Medicare for All plan would cause a 'hiatus'", 
+    "google_url": "http://news.google.com/./articles/CAIiEBb7hNs1jdZQNk8zjvZeoQgqGQgEKhAIACoHCAowocv1CjCSptoCMJrUpgU?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T02:00:05.934481", 
+    "query": "bernie sanders"
+  }, 
+  {
+    "publication": "Washington Examiner", 
+    "idx": 67, 
+    "title": "NAACP crowd applauds Bernie Sanders explaining his opposition to slave reparations", 
+    "google_url": "http://news.google.com/./articles/CBMiemh0dHBzOi8vd3d3Lndhc2hpbmd0b25leGFtaW5lci5jb20vbmV3cy9uYWFjcC1jcm93ZC1hcHBsYXVkcy1iZXJuaWUtc2FuZGVycy1leHBsYWluaW5nLWhpcy1vcHBvc2l0aW9uLXRvLXNsYXZlLXJlcGFyYXRpb25z0gEA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T02:00:05.934481", 
+    "query": "bernie sanders"
+  }, 
+  {
+    "publication": "ABC News", 
+    "idx": 68, 
+    "title": "Bernie Sanders accepted pharma executives' donations prior to new pledge", 
+    "google_url": "http://news.google.com/./articles/CBMicmh0dHBzOi8vYWJjbmV3cy5nby5jb20vUG9saXRpY3MvYmVybmllLXNhbmRlcnMtYWNjZXB0ZWQtcGhhcm1hLWV4ZWN1dGl2ZXMtZG9uYXRpb25zLXByaW9yLXBsZWRnZS9zdG9yeT9pZD02NDM5MDc1MNIBdmh0dHBzOi8vYWJjbmV3cy5nby5jb20vYW1wL1BvbGl0aWNzL2Jlcm5pZS1zYW5kZXJzLWFjY2VwdGVkLXBoYXJtYS1leGVjdXRpdmVzLWRvbmF0aW9ucy1wcmlvci1wbGVkZ2Uvc3Rvcnk_aWQ9NjQzOTA3NTA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T02:00:05.934481", 
+    "query": "bernie sanders"
+  }, 
+  {
+    "publication": "The New York Times", 
+    "idx": 69, 
+    "title": "Top Progressives Face Off: Democratic Debates, Night 1", 
+    "google_url": "http://news.google.com/./articles/CBMiWWh0dHBzOi8vd3d3Lm55dGltZXMuY29tL2ludGVyYWN0aXZlLzIwMTkvMDcvMjkvdXMvcG9saXRpY3MvZGVtb2NyYXRpYy1kZWJhdGUtbmlnaHQtMS5odG1s0gEA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T02:00:05.934481", 
+    "query": "bernie sanders"
+  }, 
+  {
+    "publication": "The Hill", 
+    "idx": 70, 
+    "title": "Bernie Sanders, Frank Sinatra and income inequality | TheHill", 
+    "google_url": "http://news.google.com/./articles/CBMiXmh0dHBzOi8vdGhlaGlsbC5jb20vb3Bpbmlvbi9jYW1wYWlnbi80NTM4ODAtYmVybmllLXNhbmRlcnMtZnJhbmstc2luYXRyYS1hbmQtaW5jb21lLWluZXF1YWxpdHnSAWJodHRwczovL3RoZWhpbGwuY29tL29waW5pb24vY2FtcGFpZ24vNDUzODgwLWJlcm5pZS1zYW5kZXJzLWZyYW5rLXNpbmF0cmEtYW5kLWluY29tZS1pbmVxdWFsaXR5P2FtcA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T02:00:05.934481", 
+    "query": "bernie sanders"
+  }, 
+  {
+    "publication": "RealClearPolitics", 
+    "idx": 71, 
+    "title": "Home Depot's Ken Langone: Bernie Sanders Talks About Doing Something, We Did Something", 
+    "google_url": "http://news.google.com/./articles/CBMiiwFodHRwczovL3d3dy5yZWFsY2xlYXJwb2xpdGljcy5jb20vdmlkZW8vMjAxOS8wNy8xOC9ob21lX2RlcG90c19rZW5fbGFuZ29uZV9iZXJuaWVfc2FuZGVyc190YWxrc19hYm91dF9kb2luZ19zb21ldGhpbmdfd2VfZGlkX3NvbWV0aGluZy5odG1s0gEA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T02:00:05.934481", 
+    "query": "bernie sanders"
+  }, 
+  {
+    "publication": "Yahoo Finance", 
+    "idx": 72, 
+    "title": "Bernie Sanders to cut staffers\u2019 hours to meet $15 minimum wage mark", 
+    "google_url": "http://news.google.com/./articles/CBMiUGh0dHBzOi8vZmluYW5jZS55YWhvby5jb20vdmlkZW8vYmVybmllLXNhbmRlcnMtY3V0LXN0YWZmZXJzLWhvdXJzLTIzMjE0MjU3Ni5odG1s0gFYaHR0cHM6Ly9maW5hbmNlLnlhaG9vLmNvbS9hbXBodG1sL3ZpZGVvL2Jlcm5pZS1zYW5kZXJzLWN1dC1zdGFmZmVycy1ob3Vycy0yMzIxNDI1NzYuaHRtbA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T02:00:05.934481", 
+    "query": "bernie sanders"
+  }, 
+  {
+    "publication": "The Pavlovic Today", 
+    "idx": 73, 
+    "title": "Bernie Sanders' Revolution Starts With Puerto Rico", 
+    "google_url": "http://news.google.com/./articles/CBMiU2h0dHBzOi8vd3d3LnRoZXBhdmxvdmljdG9kYXkuY29tL2Jlcm5pZS1zYW5kZXJzLXJldm9sdXRpb24tc3RhcnRzLXdpdGgtcHVlcnRvLXJpY28v0gEA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T02:00:05.934481", 
+    "query": "bernie sanders"
+  }, 
+  {
+    "publication": "ABC News", 
+    "idx": 74, 
+    "title": "'Every American is entitled to health care': Sen. Bernie Sanders", 
+    "google_url": "http://news.google.com/./articles/CBMiYmh0dHBzOi8vYWJjbmV3cy5nby5jb20vUG9saXRpY3MvYW1lcmljYW4tZW50aXRsZWQtaGVhbHRoLWNhcmUtc2VuLWJlcm5pZS1zYW5kZXJzL3N0b3J5P2lkPTY0MDI5NTU20gFmaHR0cHM6Ly9hYmNuZXdzLmdvLmNvbS9hbXAvUG9saXRpY3MvYW1lcmljYW4tZW50aXRsZWQtaGVhbHRoLWNhcmUtc2VuLWJlcm5pZS1zYW5kZXJzL3N0b3J5P2lkPTY0MDI5NTU2?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T02:00:05.934481", 
+    "query": "bernie sanders"
+  }, 
+  {
+    "publication": "Yahoo News", 
+    "idx": 75, 
+    "title": "Bernie Sanders visits pharmacy in Canada, talks drug prices", 
+    "google_url": "http://news.google.com/./articles/CBMiS2h0dHBzOi8vbmV3cy55YWhvby5jb20vYmVybmllLXNhbmRlcnMtdmlzaXRzLXBoYXJtYWN5LWNhbmFkYS0yMDMwMzkyMDkuaHRtbNIBU2h0dHBzOi8vbmV3cy55YWhvby5jb20vYW1waHRtbC9iZXJuaWUtc2FuZGVycy12aXNpdHMtcGhhcm1hY3ktY2FuYWRhLTIwMzAzOTIwOS5odG1s?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T02:00:05.934481", 
+    "query": "bernie sanders"
+  }, 
+  {
+    "publication": "The Daily Beast", 
+    "idx": 76, 
+    "title": "Bernie Sanders to Skip Netroots Nation", 
+    "google_url": "http://news.google.com/./articles/CAIiENVlblbDUNjbXiB-6CaTX2sqFQgEKg0IACoGCAow7s8BMNBIMPGMAg?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T02:00:05.934481", 
+    "query": "bernie sanders"
+  }, 
+  {
+    "publication": "Newsweek", 
+    "idx": 77, 
+    "title": "Bernie Sanders Backs Scrapping the Electoral College", 
+    "google_url": "http://news.google.com/./articles/CBMiSmh0dHBzOi8vd3d3Lm5ld3N3ZWVrLmNvbS9zYW5kZXJzLWVsZWN0b3JhbC1jb2xsZWdlLXRydW1wLWFkdmFudGFnZS0xNDUwMzIx0gFQaHR0cHM6Ly93d3cubmV3c3dlZWsuY29tL3NhbmRlcnMtZWxlY3RvcmFsLWNvbGxlZ2UtdHJ1bXAtYWR2YW50YWdlLTE0NTAzMjE_YW1wPTE?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T02:00:05.934481", 
+    "query": "bernie sanders"
+  }, 
+  {
+    "publication": "Democracy Now!", 
+    "idx": 78, 
+    "title": "Bernie Sanders Introduces \u201cRight to a Secure Retirement\u201d Plan", 
+    "google_url": "http://news.google.com/./articles/CBMibGh0dHBzOi8vd3d3LmRlbW9jcmFjeW5vdy5vcmcvMjAxOS83LzIyL2hlYWRsaW5lcy9iZXJuaWVfc2FuZGVyc19pbnRyb2R1Y2VzX3JpZ2h0X3RvX2Ffc2VjdXJlX3JldGlyZW1lbnRfcGxhbtIBAA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T02:00:05.934481", 
+    "query": "bernie sanders"
+  }, 
+  {
+    "publication": "CNN", 
+    "idx": 79, 
+    "title": "Bernie Sanders: Nancy Pelosi shouldn't 'alienate' freshmen House Democrats", 
+    "google_url": "http://news.google.com/./articles/CAIiEB79nnlXpf7obdjFE6rQ3UQqGQgEKhAIACoHCAowocv1CjCSptoCMPrTpgU?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T02:00:05.934481", 
+    "query": "bernie sanders"
+  }, 
+  {
+    "publication": "Washington Examiner", 
+    "idx": 80, 
+    "title": "MSNBC analyst: Bernie Sanders 'makes my skin crawl'", 
+    "google_url": "http://news.google.com/./articles/CBMiWGh0dHBzOi8vd3d3Lndhc2hpbmd0b25leGFtaW5lci5jb20vbmV3cy9tc25iYy1hbmFseXN0LWJlcm5pZS1zYW5kZXJzLW1ha2VzLW15LXNraW4tY3Jhd2zSAQA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T02:00:05.934481", 
+    "query": "bernie sanders"
+  }, 
+  {
+    "publication": "Fox News", 
+    "idx": 81, 
+    "title": "Kevin McCarthy: Why Bernie Sanders has the best chance to win 2020 Dem nomination", 
+    "google_url": "http://news.google.com/./articles/CBMiVWh0dHBzOi8vd3d3LmZveG5ld3MuY29tL3BvbGl0aWNzL2Jlcm5pZS1zYW5kZXJzLTIwMjAtZGVtb2NyYXRpYy1ub21pbmVlLW1jY2FydGh5LXNheXPSAVlodHRwczovL3d3dy5mb3huZXdzLmNvbS9wb2xpdGljcy9iZXJuaWUtc2FuZGVycy0yMDIwLWRlbW9jcmF0aWMtbm9taW5lZS1tY2NhcnRoeS1zYXlzLmFtcA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T02:00:05.934481", 
+    "query": "bernie sanders"
+  }, 
+  {
+    "publication": "vtdigger.org", 
+    "idx": 82, 
+    "title": "Can Bernie Sanders revive his presidential prospects?", 
+    "google_url": "http://news.google.com/./articles/CBMiVWh0dHBzOi8vdnRkaWdnZXIub3JnLzIwMTkvMDYvMzAvY2FuLWJlcm5pZS1zYW5kZXJzLXJldml2ZS1oaXMtcHJlc2lkZW50aWFsLXByb3NwZWN0cy_SAQA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T02:00:05.934481", 
+    "query": "bernie sanders"
+  }, 
+  {
+    "publication": "CounterPunch", 
+    "idx": 83, 
+    "title": "Corporate Media's Trashing of Bernie Sanders Starts Anew", 
+    "google_url": "http://news.google.com/./articles/CBMiYGh0dHBzOi8vd3d3LmNvdW50ZXJwdW5jaC5vcmcvMjAxOS8wNy8yNi9jb3Jwb3JhdGUtbWVkaWFzLXRyYXNoaW5nLW9mLWJlcm5pZS1zYW5kZXJzLXN0YXJ0cy1hbmV3L9IBAA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T02:00:05.934481", 
+    "query": "bernie sanders"
+  }, 
+  {
+    "publication": "Common Dreams", 
+    "idx": 84, 
+    "title": "Why Calling Bernie Sanders a 'Radical' Is Nonsense", 
+    "google_url": "http://news.google.com/./articles/CBMiWWh0dHBzOi8vd3d3LmNvbW1vbmRyZWFtcy5vcmcvdmlld3MvMjAxOS8wNi8zMC93aHktY2FsbGluZy1iZXJuaWUtc2FuZGVycy1yYWRpY2FsLW5vbnNlbnNl0gFdaHR0cHM6Ly93d3cuY29tbW9uZHJlYW1zLm9yZy92aWV3cy8yMDE5LzA2LzMwL3doeS1jYWxsaW5nLWJlcm5pZS1zYW5kZXJzLXJhZGljYWwtbm9uc2Vuc2U_YW1w?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T02:00:05.934481", 
+    "query": "bernie sanders"
+  }, 
+  {
+    "publication": "Truthout", 
+    "idx": 85, 
+    "title": "Trump's DOJ Is Resuming the Death Penalty. Bernie Sanders Vows to Abolish It.", 
+    "google_url": "http://news.google.com/./articles/CBMiaWh0dHBzOi8vdHJ1dGhvdXQub3JnL2FydGljbGVzL3RydW1wcy1kb2otaXMtcmVzdW1pbmctdGhlLWRlYXRoLXBlbmFsdHktYmVybmllLXNhbmRlcnMtdm93cy10by1hYm9saXNoLWl0L9IBAA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T02:00:05.934481", 
+    "query": "bernie sanders"
+  }, 
+  {
+    "publication": "Jezebel", 
+    "idx": 86, 
+    "title": "Explaining Bernie Sanders, Who Has Probably Made You Mad at Some Point", 
+    "google_url": "http://news.google.com/./articles/CBMiXWh0dHBzOi8vdGhlc2xvdC5qZXplYmVsLmNvbS9leHBsYWluaW5nLWJlcm5pZS1zYW5kZXJzLXdoby1oYXMtcHJvYmFibHktbWFkZS15b3UtbWEtMTgzNTU4MDY3OdIBYWh0dHBzOi8vdGhlc2xvdC5qZXplYmVsLmNvbS9leHBsYWluaW5nLWJlcm5pZS1zYW5kZXJzLXdoby1oYXMtcHJvYmFibHktbWFkZS15b3UtbWEtMTgzNTU4MDY3OS9hbXA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T02:00:05.934481", 
+    "query": "bernie sanders"
+  }, 
+  {
+    "publication": "CBS News", 
+    "idx": 87, 
+    "title": "Bernie Sanders 2020 campaign manager Faiz Shakir says Pete Buttigieg likely raised more money in Q2", 
+    "google_url": "http://news.google.com/./articles/CAIiEAO2TvtLvX8d8ciH46mcQq8qGQgEKhAIACoHCAowyNj6CjDyiPICMK_dxAU?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T02:00:05.934481", 
+    "query": "bernie sanders"
+  }, 
+  {
+    "publication": "\u53f0\u5317\u6642\u5831", 
+    "idx": 88, 
+    "title": "Bernie Sanders denounces 'greed' of US drug firms", 
+    "google_url": "http://news.google.com/./articles/CBMiRGh0dHA6Ly93d3cudGFpcGVpdGltZXMuY29tL05ld3Mvd29ybGQvYXJjaGl2ZXMvMjAxOS8wNy8zMC8yMDAzNzE5NjE30gEA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T02:00:05.934481", 
+    "query": "bernie sanders"
+  }, 
+  {
+    "publication": "Jacobin magazine", 
+    "idx": 89, 
+    "title": "Bernie Sanders: The Boss's Worst Nightmare", 
+    "google_url": "http://news.google.com/./articles/CBMiT2h0dHBzOi8vd3d3LmphY29iaW5tYWcuY29tLzIwMTkvMDcvYmVybmllLXNhbmRlcnMtY2Vvcy13YWxtYXJ0LWFtYXpvbi1tY2RvbmFsZHPSAQA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T02:00:05.934481", 
+    "query": "bernie sanders"
+  }, 
+  {
+    "publication": "Yahoo Finance", 
+    "idx": 90, 
+    "title": "Kathy Griffin takes aim at Bernie Sanders supporters: 'They're like Trumpers'", 
+    "google_url": "http://news.google.com/./articles/CBMiYGh0dHBzOi8vd3d3LnlhaG9vLmNvbS9lbnRlcnRhaW5tZW50L2thdGh5LWdyaWZmaW4tYmVybmllLXNhbmRlcnMtdHJ1bXAtc3VwcG9ydGVycy0xNDMwNDI4MjkuaHRtbNIBaGh0dHBzOi8vd3d3LnlhaG9vLmNvbS9hbXBodG1sL2VudGVydGFpbm1lbnQva2F0aHktZ3JpZmZpbi1iZXJuaWUtc2FuZGVycy10cnVtcC1zdXBwb3J0ZXJzLTE0MzA0MjgyOS5odG1s?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T02:00:05.934481", 
+    "query": "bernie sanders"
+  }, 
+  {
+    "publication": "MarketWatch", 
+    "idx": 91, 
+    "title": "What experts say about Bernie Sanders's plan for long-term care", 
+    "google_url": "http://news.google.com/./articles/CAIiECpm_6R1FIo2HR12SSZHO3IqGAgEKg8IACoHCAowjujJATDXzBUwyJS0AQ?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T02:00:05.934481", 
+    "query": "bernie sanders"
+  }, 
+  {
+    "publication": "Cincinnati.com", 
+    "idx": 92, 
+    "title": "Bernie Sanders, in Cincinnati, Ohio, makes appeal to black Americans; calls out Trump", 
+    "google_url": "http://news.google.com/./articles/CBMipgFodHRwczovL3d3dy5jaW5jaW5uYXRpLmNvbS9zdG9yeS9uZXdzL3BvbGl0aWNzLzIwMTkvMDYvMjgvYmVybmllLXNhbmRlcnMtbWFrZXMtYXBwZWFsLWNpbmNpbm5hdGktYmxhY2stYW1lcmljYW5zLXdlLWhhdmUtcHJlc2lkZW50LXdoby1pcy1mYWN0LXJhY2lzdC1iaWdvLzE1NTgzNzcwMDEv0gEpaHR0cHM6Ly9hbXAuY2luY2lubmF0aS5jb20vYW1wLzE1NTgzNzcwMDE?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T02:00:05.934481", 
+    "query": "bernie sanders"
+  }, 
+  {
+    "publication": "The Nation", 
+    "idx": 93, 
+    "title": "Sorry 'Washington Post'\u2014Bernie Sanders Is Right About Economic Inequality", 
+    "google_url": "http://news.google.com/./articles/CBMiRmh0dHBzOi8vd3d3LnRoZW5hdGlvbi5jb20vYXJ0aWNsZS93YXNoaW5ndG9uLXBvc3QtYmVybmllLXNhbmRlcnMtMjAyMC_SAQA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T02:00:05.934481", 
+    "query": "bernie sanders"
+  }, 
+  {
+    "publication": "CNN", 
+    "idx": 94, 
+    "title": "Bernie Sanders to join people with type 1 diabetes on Canada trip for cheaper insulin", 
+    "google_url": "http://news.google.com/./articles/CBMiY2h0dHBzOi8vd3d3LmNubi5jb20vMjAxOS8wNy8xMS9wb2xpdGljcy9iZXJuaWUtc2FuZGVycy1nb2VzLXRvLWNhbmFkYS1wcmVzY3JpcHRpb24tZHJ1Z3MvaW5kZXguaHRtbNIBAA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T02:00:05.934481", 
+    "query": "bernie sanders"
+  }, 
+  {
+    "publication": "MLive.com", 
+    "idx": 95, 
+    "title": "Bernie Sanders calls for shutdown of Line 5 pipeline", 
+    "google_url": "http://news.google.com/./articles/CAIiENgaDW6QHwwdtKSsZ_ldlcAqGQgEKhAIACoHCAow_qT_CjDltPgCMILcpAY?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T02:00:05.934481", 
+    "query": "bernie sanders"
+  }, 
+  {
+    "publication": "INSIDER", 
+    "idx": 96, 
+    "title": "Walmart is the top employer of donors to Bernie Sanders' campaign", 
+    "google_url": "http://news.google.com/./articles/CAIiEMfqi_EdBN0fOQ8GA5jzFhYqGQgEKhAIACoHCAow9qOFCzDSvIIDMLD-hQY?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T02:00:05.934481", 
+    "query": "bernie sanders"
+  }, 
+  {
+    "publication": "Jezebel", 
+    "idx": 97, 
+    "title": "Bernie Sanders Is Not Here to Make Friends", 
+    "google_url": "http://news.google.com/./articles/CBMiUWh0dHBzOi8vdGhlc2xvdC5qZXplYmVsLmNvbS9iZXJuaWUtc2FuZGVycy1pcy1ub3QtaGVyZS10by1tYWtlLWZyaWVuZHMtMTgzNjMxNDY2NdIBVWh0dHBzOi8vdGhlc2xvdC5qZXplYmVsLmNvbS9iZXJuaWUtc2FuZGVycy1pcy1ub3QtaGVyZS10by1tYWtlLWZyaWVuZHMtMTgzNjMxNDY2NS9hbXA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T02:00:05.934481", 
+    "query": "bernie sanders"
+  }, 
+  {
+    "publication": "Common Dreams", 
+    "idx": 98, 
+    "title": "After House Passes $15 Minimum Wage Bill, Bernie Sanders Demands McConnell Let Senate Vote", 
+    "google_url": "http://news.google.com/./articles/CBMigAFodHRwczovL3d3dy5jb21tb25kcmVhbXMub3JnL25ld3MvMjAxOS8wNy8xOC9hZnRlci1ob3VzZS1wYXNzZXMtMTUtbWluaW11bS13YWdlLWJpbGwtYmVybmllLXNhbmRlcnMtZGVtYW5kcy1tY2Nvbm5lbGwtbGV0LXNlbmF0ZdIBhAFodHRwczovL3d3dy5jb21tb25kcmVhbXMub3JnL25ld3MvMjAxOS8wNy8xOC9hZnRlci1ob3VzZS1wYXNzZXMtMTUtbWluaW11bS13YWdlLWJpbGwtYmVybmllLXNhbmRlcnMtZGVtYW5kcy1tY2Nvbm5lbGwtbGV0LXNlbmF0ZT9hbXA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T02:00:05.934481", 
+    "query": "bernie sanders"
+  }, 
+  {
+    "publication": "Billboard", 
+    "idx": 99, 
+    "title": "Bernie Sanders Weighs in on A$AP Rocky, Talks Cardi B on 'Kimmel'", 
+    "google_url": "http://news.google.com/./articles/CBMiYmh0dHBzOi8vd3d3LmJpbGxib2FyZC5jb20vYXJ0aWNsZXMvbmV3cy84NTI0MDE4L2Jlcm5pZS1zYW5kZXJzLXdlaWdocy1pbi1hc2FwLXJvY2t5LWNhcmRpLWIta2ltbWVs0gFmaHR0cHM6Ly93d3cuYmlsbGJvYXJkLmNvbS9hbXAvYXJ0aWNsZXMvbmV3cy84NTI0MDE4L2Jlcm5pZS1zYW5kZXJzLXdlaWdocy1pbi1hc2FwLXJvY2t5LWNhcmRpLWIta2ltbWVs?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T02:00:05.934481", 
+    "query": "bernie sanders"
+  }, 
+  {
+    "publication": "WAOW", 
+    "idx": 100, 
+    "title": "Bernie Sanders calls for shutdown of Michigan oil pipeline", 
+    "google_url": "http://news.google.com/./articles/CBMiaGh0dHBzOi8vd2Fvdy5jb20vbmV3cy90b3Atc3Rvcmllcy8yMDE5LzA3LzI2L2Jlcm5pZS1zYW5kZXJzLWNhbGxzLWZvci1zaHV0ZG93bi1vZi1taWNoaWdhbi1vaWwtcGlwZWxpbmUv0gEA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T02:00:05.934481", 
+    "query": "bernie sanders"
+  }, 
+  {
+    "publication": "The Hill", 
+    "idx": 101, 
+    "title": "Bernie Sanders shares doctored video showing him scaring Trump at rally | TheHill", 
+    "google_url": "http://news.google.com/./articles/CBMidGh0dHBzOi8vdGhlaGlsbC5jb20vaG9tZW5ld3MvY2FtcGFpZ24vNDUxMTU3LWJlcm5pZS1zYW5kZXJzLXNoYXJlcy1kb2N0b3JlZC12aWRlby1vZi1oaW0tYXBwZWFyaW5nLXRvLXNjYXJlLXRydW1wLWF00gF4aHR0cHM6Ly90aGVoaWxsLmNvbS9ob21lbmV3cy9jYW1wYWlnbi80NTExNTctYmVybmllLXNhbmRlcnMtc2hhcmVzLWRvY3RvcmVkLXZpZGVvLW9mLWhpbS1hcHBlYXJpbmctdG8tc2NhcmUtdHJ1bXAtYXQ_YW1w?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T02:00:05.934481", 
+    "query": "bernie sanders"
+  }, 
+  {
+    "publication": "Vox.com", 
+    "idx": 102, 
+    "title": "Bernie Sanders, AOC want a national emergency on climate change declared", 
+    "google_url": "http://news.google.com/./articles/CAIiEISFiwUTqaCqGufY8XwrN28qFwgEKg8IACoHCAowlOzSATCaiDUwo9dy?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T02:00:05.934481", 
+    "query": "bernie sanders"
+  }, 
+  {
+    "publication": "The Intercept", 
+    "idx": 103, 
+    "title": "Will Bernie Sanders Stick With a Carbon Tax?", 
+    "google_url": "http://news.google.com/./articles/CBMiVGh0dHBzOi8vdGhlaW50ZXJjZXB0LmNvbS8yMDE5LzA3LzAzL2Jlcm5pZS1zYW5kZXJzLWNsaW1hdGUtY2hhbmdlLXBvbGljeS1jYXJib24tdGF4L9IBAA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T02:00:05.934481", 
+    "query": "bernie sanders"
+  }, 
+  {
+    "publication": "CNN", 
+    "idx": 104, 
+    "title": "Bernie Sanders didn't give a definitive answer on sex work vs. sex trafficking", 
+    "google_url": "http://news.google.com/./articles/CBMiUWh0dHBzOi8vd3d3LmNubi5jb20vMjAxOS8wNy8wNi9wb2xpdGljcy9iZXJuaWUtc2FuZGVycy1zZXgtdHJhZmZpY2tpbmcvaW5kZXguaHRtbNIBVWh0dHBzOi8vYW1wLmNubi5jb20vY25uLzIwMTkvMDcvMDYvcG9saXRpY3MvYmVybmllLXNhbmRlcnMtc2V4LXRyYWZmaWNraW5nL2luZGV4Lmh0bWw?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T02:00:05.934481", 
+    "query": "bernie sanders"
+  }, 
+  {
+    "publication": "The New York Times", 
+    "idx": 105, 
+    "title": "The Vulnerability of Biden (and Bernie)", 
+    "google_url": "http://news.google.com/./articles/CAIiEN23u8UNms5otSfom1K2g48qGAgEKg8IACoHCAowjuuKAzCWrzwworyzBg?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T02:00:05.934481", 
+    "query": "bernie sanders"
+  }, 
+  {
+    "publication": "Fortune", 
+    "idx": 106, 
+    "title": "Bernie Sanders: America Is Drowning in Student Debt. Here\u2019s My Plan to End It", 
+    "google_url": "http://news.google.com/./articles/CBMiQmh0dHBzOi8vZm9ydHVuZS5jb20vMjAxOS8wNy8wOS9iZXJuaWUtc2FuZGVycy1jYW5jZWwtc3R1ZGVudC1kZWJ0L9IBRmh0dHBzOi8vZm9ydHVuZS5jb20vMjAxOS8wNy8wOS9iZXJuaWUtc2FuZGVycy1jYW5jZWwtc3R1ZGVudC1kZWJ0L2FtcC8?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T02:00:05.934481", 
+    "query": "bernie sanders"
+  }, 
+  {
+    "publication": "POLITICO", 
+    "idx": 107, 
+    "title": "Bernie Sanders decries planned closing of Philadelphia hospital", 
+    "google_url": "http://news.google.com/./articles/CAIiEND3lVnAuyOSTHgIBlGkghAqGQgEKhAIACoHCAow4Zn5CjCu8uACMLTRlgY?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T02:00:05.934481", 
+    "query": "bernie sanders"
+  }
+]

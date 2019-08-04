@@ -1,0 +1,834 @@
+[
+  {
+    "publication": "BuzzFeed News", 
+    "idx": 0, 
+    "title": "Is Elizabeth Warren A Consensus Democratic Choice? This Data Suggests She Could Be.", 
+    "google_url": "http://news.google.com/./articles/CAIiELYvDZLR8W9GR1u5F2vrOzAqFggEKg4IACoGCAowjJ0RMKC-AjCwjQ0?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-08-03T20:00:05.916529", 
+    "query": "elizabeth warren"
+  }, 
+  {
+    "publication": "CNN", 
+    "idx": 1, 
+    "title": "Elizabeth Warren is running a brilliant campaign", 
+    "google_url": "http://news.google.com/./articles/CAIiEGDifoZL1wevaR6lmmTlgDIqGQgEKhAIACoHCAowocv1CjCSptoCMKrUpgU?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-08-03T20:00:05.916529", 
+    "query": "elizabeth warren"
+  }, 
+  {
+    "publication": "Washington Examiner", 
+    "idx": 2, 
+    "title": "Why can't Bernie Sanders and Elizabeth Warren be as realistic as the guy who promised to slow the rise of the oceans?", 
+    "google_url": "http://news.google.com/./articles/CBMingFodHRwczovL3d3dy53YXNoaW5ndG9uZXhhbWluZXIuY29tL29waW5pb24vd2h5LWNhbnQtYmVybmllLXNhbmRlcnMtYW5kLWVsaXphYmV0aC13YXJyZW4tYmUtYXMtcmVhbGlzdGljLWFzLXRoZS1ndXktd2hvLXByb21pc2VkLXRvLXNsb3ctdGhlLXJpc2Utb2YtdGhlLW9jZWFuc9IBAA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-08-03T20:00:05.916529", 
+    "query": "elizabeth warren"
+  }, 
+  {
+    "publication": "The Cut", 
+    "idx": 3, 
+    "title": "Why Run For President If You Don\u2019t Want to Fight?", 
+    "google_url": "http://news.google.com/./articles/CBMiVGh0dHBzOi8vd3d3LnRoZWN1dC5jb20vMjAxOS8wNy9lbGl6YWJldGgtd2FycmVuLWJlc3QtcXVlc3Rpb24tZGVtb2NyYXRpYy1kZWJhdGUuaHRtbNIBWGh0dHBzOi8vd3d3LnRoZWN1dC5jb20vYW1wLzIwMTkvMDcvZWxpemFiZXRoLXdhcnJlbi1iZXN0LXF1ZXN0aW9uLWRlbW9jcmF0aWMtZGViYXRlLmh0bWw?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-08-03T20:00:05.916529", 
+    "query": "elizabeth warren"
+  }, 
+  {
+    "publication": "Vanity Fair", 
+    "idx": 4, 
+    "title": "\u201cYou Know Where She Stands\u201d: Is Elizabeth Warren the One?", 
+    "google_url": "http://news.google.com/./articles/CAIiECjEMFbkgnX1sBFNDmuaYJkqGAgEKg8IACoHCAowmKPyCTCo8nIw87nsBQ?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-08-03T20:00:05.916529", 
+    "query": "elizabeth warren"
+  }, 
+  {
+    "publication": "The Washington Post", 
+    "idx": 5, 
+    "title": "Warren makes inroads into Sanders\u2019s world, one backer at a time", 
+    "google_url": "http://news.google.com/./articles/CAIiENXCUJSVV4UneXjibT5Q5RYqGAgEKg8IACoHCAowjtSUCjC30XQwzqe5AQ?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-08-03T20:00:05.916529", 
+    "query": "elizabeth warren"
+  }, 
+  {
+    "publication": "CNN", 
+    "idx": 6, 
+    "title": "Entrepreneurs of color are getting passed over by investors. Elizabeth Warren wants to fix that", 
+    "google_url": "http://news.google.com/./articles/CAIiEJhP29922FkeGDbezt3KY7YqGQgEKhAIACoHCAowocv1CjCSptoCMPrTpgU?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-08-03T20:00:05.916529", 
+    "query": "elizabeth warren"
+  }, 
+  {
+    "publication": "Vox.com", 
+    "idx": 7, 
+    "title": "Elizabeth Warren isn\u2019t as popular as you\u2019d think in Massachusetts, raising 2020 concerns", 
+    "google_url": "http://news.google.com/./articles/CAIiELjvadDuCVOjrBSC47bY_bwqFwgEKg8IACoHCAowlOzSATCaiDUwo9dy?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-08-03T20:00:05.916529", 
+    "query": "elizabeth warren"
+  }, 
+  {
+    "publication": "HuffPost", 
+    "idx": 8, 
+    "title": "Elizabeth Warren Is Not Worried About Senate Obstruction Of Her Ambitious Agenda", 
+    "google_url": "http://news.google.com/./articles/CAIiEDaXJAVofH8OWV7VroCypywqFQgEKg0IACoGCAowxYgCMIBNMOGXAg?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-08-03T20:00:05.916529", 
+    "query": "elizabeth warren"
+  }, 
+  {
+    "publication": "POLITICO", 
+    "idx": 9, 
+    "title": "Elizabeth Warren Buries Some Inconvenient Truths", 
+    "google_url": "http://news.google.com/./articles/CAIiEKu1xyd0y2GMXkCGRmTVUlAqGQgEKhAIACoHCAow4Zn5CjCu8uACMJbRlgY?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-08-03T20:00:05.916529", 
+    "query": "elizabeth warren"
+  }, 
+  {
+    "publication": "POLITICO", 
+    "idx": 10, 
+    "title": "Warren has lots of plans. But not on health care.", 
+    "google_url": "http://news.google.com/./articles/CAIiEDdGe2Mf0pY5yYA-7_cJaQoqGQgEKhAIACoHCAow4Zn5CjCu8uACMLTRlgY?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-08-03T20:00:05.916529", 
+    "query": "elizabeth warren"
+  }, 
+  {
+    "publication": "Refinery29", 
+    "idx": 11, 
+    "title": "Elizabeth Warren Has A Plan For That: 10 Policies You Need To Know", 
+    "google_url": "http://news.google.com/./articles/CAIiEGtYlNRnCgd7rmZ3QrGJfo4qGQgEKhAIACoHCAowqOXeCjDQ5dYBMM_L0QM?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-08-03T20:00:05.916529", 
+    "query": "elizabeth warren"
+  }, 
+  {
+    "publication": "New York Post", 
+    "idx": 12, 
+    "title": "Daniel Pantaleo should be fired, Elizabeth Warren says", 
+    "google_url": "http://news.google.com/./articles/CAIiEBLkna3DdhBK7-w_bxIdAFkqGAgEKg8IACoHCAowhK-LAjD4ySww69W0BQ?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-08-03T20:00:05.916529", 
+    "query": "elizabeth warren"
+  }, 
+  {
+    "publication": "Deadline", 
+    "idx": 13, 
+    "title": "Covington High Students Sue Elizabeth Warren, Kathy Griffin And Others For Defamation", 
+    "google_url": "http://news.google.com/./articles/CAIiEOyvpc3Ia1z-3u7wNrvfupwqFggEKg0IACoGCAowoPUEMKAjMP6Y1gU?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-08-03T20:00:05.916529", 
+    "query": "elizabeth warren"
+  }, 
+  {
+    "publication": "AZCentral", 
+    "idx": 14, 
+    "title": "After a strong debate, Sen. Elizabeth Warren outlines agenda in Tempe", 
+    "google_url": "http://news.google.com/./articles/CAIiEJ0NgnQZ6Uc_Ee3lZz6UZCwqGQgEKhAIACoHCAowtv3_CjCSposDMMX54gU?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-08-03T20:00:05.916529", 
+    "query": "elizabeth warren"
+  }, 
+  {
+    "publication": "The Economist", 
+    "idx": 15, 
+    "title": "What Wall Street thinks of Elizabeth Warren", 
+    "google_url": "http://news.google.com/./articles/CBMiZmh0dHBzOi8vd3d3LmVjb25vbWlzdC5jb20vZmluYW5jZS1hbmQtZWNvbm9taWNzLzIwMTkvMDgvMDEvd2hhdC13YWxsLXN0cmVldC10aGlua3Mtb2YtZWxpemFiZXRoLXdhcnJlbtIBZmh0dHBzOi8vYW1wLmVjb25vbWlzdC5jb20vZmluYW5jZS1hbmQtZWNvbm9taWNzLzIwMTkvMDgvMDEvd2hhdC13YWxsLXN0cmVldC10aGlua3Mtb2YtZWxpemFiZXRoLXdhcnJlbg?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-08-03T20:00:05.916529", 
+    "query": "elizabeth warren"
+  }, 
+  {
+    "publication": "Fox News", 
+    "idx": 16, 
+    "title": "Bernie Sanders won't say if he struck deal with Elizabeth Warren to avoid each other during debate", 
+    "google_url": "http://news.google.com/./articles/CBMiTmh0dHBzOi8vd3d3LmZveG5ld3MuY29tL21lZGlhL2Jlcm5pZS1zYW5kZXJzLWVsaXphYmV0aC13YXJyZW4tZGVtb2NyYXRzLWRlYmF0ZdIBUmh0dHBzOi8vd3d3LmZveG5ld3MuY29tL21lZGlhL2Jlcm5pZS1zYW5kZXJzLWVsaXphYmV0aC13YXJyZW4tZGVtb2NyYXRzLWRlYmF0ZS5hbXA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-08-03T20:00:05.916529", 
+    "query": "elizabeth warren"
+  }, 
+  {
+    "publication": "HuffPost", 
+    "idx": 17, 
+    "title": "Elizabeth Warren Asks Something Many Of Us Have Been Wondering For Months", 
+    "google_url": "http://news.google.com/./articles/CAIiEAusRabLGRX6ZUBcCItBJlsqFQgEKg0IACoGCAowxYgCMIBNMOGXAg?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-08-03T20:00:05.916529", 
+    "query": "elizabeth warren"
+  }, 
+  {
+    "publication": "BuzzFeed News", 
+    "idx": 18, 
+    "title": "How Elizabeth Warren Turned Herself Into A Meme", 
+    "google_url": "http://news.google.com/./articles/CAIiEKX9pqjAZxHBc2ClEd0p1V8qFggEKg4IACoGCAowjJ0RMKC-AjCwjQ0?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-08-03T20:00:05.916529", 
+    "query": "elizabeth warren"
+  }, 
+  {
+    "publication": "Mother Jones", 
+    "idx": 19, 
+    "title": "Natives Are Split Over Rep. Deb Haaland's Endorsement of Elizabeth Warren", 
+    "google_url": "http://news.google.com/./articles/CBMidWh0dHBzOi8vd3d3Lm1vdGhlcmpvbmVzLmNvbS9wb2xpdGljcy8yMDE5LzA4L25hdGl2ZXMtYXJlLXNwbGl0LW92ZXItcmVwLWRlYi1oYWFsYW5kcy1lbmRvcnNlbWVudC1vZi1lbGl6YWJldGgtd2FycmVuL9IBAA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-08-03T20:00:05.916529", 
+    "query": "elizabeth warren"
+  }, 
+  {
+    "publication": "Washington Examiner", 
+    "idx": 20, 
+    "title": "Trump and Elizabeth Warren actually agree on one thing", 
+    "google_url": "http://news.google.com/./articles/CBMiYWh0dHBzOi8vd3d3Lndhc2hpbmd0b25leGFtaW5lci5jb20vb3Bpbmlvbi90cnVtcC1hbmQtZWxpemFiZXRoLXdhcnJlbi1hY3R1YWxseS1hZ3JlZS1vbi1vbmUtdGhpbmfSAQA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-08-03T20:00:05.916529", 
+    "query": "elizabeth warren"
+  }, 
+  {
+    "publication": "The Nation", 
+    "idx": 21, 
+    "title": "Elizabeth Warren's Trade Plan Empowers Workers, Not Corporations", 
+    "google_url": "http://news.google.com/./articles/CBMiPmh0dHBzOi8vd3d3LnRoZW5hdGlvbi5jb20vYXJ0aWNsZS9lbGl6YWJldGgtd2FycmVuLXRyYWRlLXBsYW4v0gEA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-08-03T20:00:05.916529", 
+    "query": "elizabeth warren"
+  }, 
+  {
+    "publication": "Glamour", 
+    "idx": 22, 
+    "title": "At Last Night\u2019s Debate, Elizabeth Warren Spoke for Women Who Are Tired of Being \u2018Reasonable\u2019", 
+    "google_url": "http://news.google.com/./articles/CBMiT2h0dHBzOi8vd3d3LmdsYW1vdXIuY29tL3N0b3J5L2VsaXphYmV0aC13YXJyZW4tY25uLWRlYmF0ZS1ydW5uaW5nLWZvci1wcmVzaWRlbnTSAVNodHRwczovL3d3dy5nbGFtb3VyLmNvbS9zdG9yeS9lbGl6YWJldGgtd2FycmVuLWNubi1kZWJhdGUtcnVubmluZy1mb3ItcHJlc2lkZW50L2FtcA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-08-03T20:00:05.916529", 
+    "query": "elizabeth warren"
+  }, 
+  {
+    "publication": "CNN", 
+    "idx": 23, 
+    "title": "Elizabeth Warren: I could go to college on a waitress' salary. Americans can't do that anymore", 
+    "google_url": "http://news.google.com/./articles/CAIiELiHtJczrSJgIbJWrJZ4ho8qGQgEKhAIACoHCAowocv1CjCSptoCMPrTpgU?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-08-03T20:00:05.916529", 
+    "query": "elizabeth warren"
+  }, 
+  {
+    "publication": "CNN", 
+    "idx": 24, 
+    "title": "Elizabeth Warren: The academic who made banking cool", 
+    "google_url": "http://news.google.com/./articles/CAIiEPgsk9QurB9YEduazZKYU_oqGQgEKhAIACoHCAowocv1CjCSptoCMI29pgU?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-08-03T20:00:05.916529", 
+    "query": "elizabeth warren"
+  }, 
+  {
+    "publication": "The Hill", 
+    "idx": 25, 
+    "title": "Joe Biden versus Elizabeth Warren may be the ultimate primary battle | TheHill", 
+    "google_url": "http://news.google.com/./articles/CBMicGh0dHBzOi8vdGhlaGlsbC5jb20vb3Bpbmlvbi9jYW1wYWlnbi80NTU3MzYtam9lLWJpZGVuLXZlcnN1cy1lbGl6YWJldGgtd2FycmVuLW1heS1iZS10aGUtdWx0aW1hdGUtcHJpbWFyeS1iYXR0bGXSAXRodHRwczovL3RoZWhpbGwuY29tL29waW5pb24vY2FtcGFpZ24vNDU1NzM2LWpvZS1iaWRlbi12ZXJzdXMtZWxpemFiZXRoLXdhcnJlbi1tYXktYmUtdGhlLXVsdGltYXRlLXByaW1hcnktYmF0dGxlP2FtcA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-08-03T20:00:05.916529", 
+    "query": "elizabeth warren"
+  }, 
+  {
+    "publication": "Washington Times", 
+    "idx": 26, 
+    "title": "Elizabeth Warren and where she stands on public education", 
+    "google_url": "http://news.google.com/./articles/CBMiY2h0dHBzOi8vd3d3Lndhc2hpbmd0b250aW1lcy5jb20vbmV3cy8yMDE5L2F1Zy8xL2VsaXphYmV0aC13YXJyZW4tYW5kLXdoZXJlLXNoZS1zdGFuZHMtcHVibGljLWVkdWNhL9IBYmh0dHA6Ly9hbXAud2FzaGluZ3RvbnRpbWVzLmNvbS9uZXdzLzIwMTkvYXVnLzEvZWxpemFiZXRoLXdhcnJlbi1hbmQtd2hlcmUtc2hlLXN0YW5kcy1wdWJsaWMtZWR1Y2Ev?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-08-03T20:00:05.916529", 
+    "query": "elizabeth warren"
+  }, 
+  {
+    "publication": "The Hill", 
+    "idx": 27, 
+    "title": "Wall Street should support an Elizabeth Warren for president | TheHill", 
+    "google_url": "http://news.google.com/./articles/CBMiaGh0dHBzOi8vdGhlaGlsbC5jb20vb3Bpbmlvbi9maW5hbmNlLzQ1NTMyNi13aHktd2FsbC1zdHJlZXQtc2hvdWxkLXN1cHBvcnQtZWxpemFiZXRoLXdhcnJlbi1mb3ItcHJlc2lkZW500gFsaHR0cHM6Ly90aGVoaWxsLmNvbS9vcGluaW9uL2ZpbmFuY2UvNDU1MzI2LXdoeS13YWxsLXN0cmVldC1zaG91bGQtc3VwcG9ydC1lbGl6YWJldGgtd2FycmVuLWZvci1wcmVzaWRlbnQ_YW1w?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-08-03T20:00:05.916529", 
+    "query": "elizabeth warren"
+  }, 
+  {
+    "publication": "Media Matters for America", 
+    "idx": 28, 
+    "title": "Newt Gingrich: \"I don't remember us electing an angry president literally in my lifetime\"", 
+    "google_url": "http://news.google.com/./articles/CBMijwFodHRwczovL3d3dy5tZWRpYW1hdHRlcnMub3JnL3ZpZGVvLzIwMTkvMDgvMDIvRm94cy1OZXd0LUdpbmdyaWNoLWNvbXBsYWlucy1hYm91dC1CZXJuaWUtU2FuZGVycy1hbmQtRWxpemFiZXRoLVdhcnJlbi1JLWRvbnQtcmVtZW1iZXItdXMtLzIyNDM4NtIBAA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-08-03T20:00:05.916529", 
+    "query": "elizabeth warren"
+  }, 
+  {
+    "publication": "The New York Times", 
+    "idx": 29, 
+    "title": "Elizabeth Warren\u2019s Fund-Raising: $19.1 Million in 3 Months, Outpacing Sanders", 
+    "google_url": "http://news.google.com/./articles/CAIiEEFf6BaZmKT3LCOTkJdCRKcqFwgEKg8IACoHCAowjuuKAzCWrzwwt4QY?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-08-03T20:00:05.916529", 
+    "query": "elizabeth warren"
+  }, 
+  {
+    "publication": "The Boston Globe", 
+    "idx": 30, 
+    "title": "Elizabeth Warren wants to break up big tech. Its workers don\u2019t want to break up with her", 
+    "google_url": "http://news.google.com/./articles/CBMioAFodHRwczovL3d3dy5ib3N0b25nbG9iZS5jb20vbmV3cy9wb2xpdGljcy8yMDE5LzA3LzI3L2VsaXphYmV0aC13YXJyZW4td2FudHMtYnJlYWstYmlnLXRlY2gtaXRzLXdvcmtlcnMtZG9uLXdhbnQtYnJlYWstd2l0aC1oZXIvR3JrN1dZcm84cmc0ZThacXUzNDk5SC9zdG9yeS5odG1s0gGvAWh0dHBzOi8vd3d3LmJvc3Rvbmdsb2JlLmNvbS9uZXdzL3BvbGl0aWNzLzIwMTkvMDcvMjcvZWxpemFiZXRoLXdhcnJlbi13YW50cy1icmVhay1iaWctdGVjaC1pdHMtd29ya2Vycy1kb24td2FudC1icmVhay13aXRoLWhlci9Hcms3V1lybzhyZzRlOFpxdTM0OTlIL3N0b3J5Lmh0bWw_b3V0cHV0VHlwZT1hbXA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-08-03T20:00:05.916529", 
+    "query": "elizabeth warren"
+  }, 
+  {
+    "publication": "The New York Times", 
+    "idx": 31, 
+    "title": "Elizabeth Warren\u2019s Campaign Receives 1 Million Donations, Hitting Milestone", 
+    "google_url": "http://news.google.com/./articles/CAIiEHhKgiSlHZ5nVbdTfcJadBAqFwgEKg8IACoHCAowjuuKAzCWrzww9oEY?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-08-03T20:00:05.916529", 
+    "query": "elizabeth warren"
+  }, 
+  {
+    "publication": "Washington Examiner", 
+    "idx": 32, 
+    "title": "Elizabeth Warren: 'I'm not running on impeachment'", 
+    "google_url": "http://news.google.com/./articles/CBMiVmh0dHBzOi8vd3d3Lndhc2hpbmd0b25leGFtaW5lci5jb20vbmV3cy9lbGl6YWJldGgtd2FycmVuLWltLW5vdC1ydW5uaW5nLW9uLWltcGVhY2htZW500gEA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-08-03T20:00:05.916529", 
+    "query": "elizabeth warren"
+  }, 
+  {
+    "publication": "Boston.com", 
+    "idx": 33, 
+    "title": "Elizabeth Warren talked to Charles Barkley after the Democratic debate", 
+    "google_url": "http://news.google.com/./articles/CBMiiwFodHRwczovL3d3dy5ib3N0b24uY29tL25ld3MvcG9saXRpY3MvMjAxOS8wNy8zMS9lbGl6YWJldGgtd2FycmVuLXRhbGtlZC10by1jaGFybGVzLWJhcmtsZXktYWZ0ZXItdGhlLWRlYmF0ZS1hbmQtdGhleS1hcHBhcmVudGx5LWdvLXdheS1iYWNr0gEA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-08-03T20:00:05.916529", 
+    "query": "elizabeth warren"
+  }, 
+  {
+    "publication": "CNN", 
+    "idx": 34, 
+    "title": "Warren: Why run just to talk about what we can't do?", 
+    "google_url": "http://news.google.com/./articles/CAIiEBDMUO6kM8AuHBBcLF0Il3MqGQgEKhAIACoHCAowocv1CjCSptoCMI29pgU?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-08-03T20:00:05.916529", 
+    "query": "elizabeth warren"
+  }, 
+  {
+    "publication": "Detroit Free Press", 
+    "idx": 35, 
+    "title": "11-year-old reporter in Detroit goes viral after Elizabeth Warren interview", 
+    "google_url": "http://news.google.com/./articles/CBMifWh0dHBzOi8vd3d3LmZyZWVwLmNvbS9zdG9yeS9uZXdzL3BvbGl0aWNzL2VsZWN0aW9ucy8yMDE5LzA3LzMwL2phZGVuLWplZmZlcnNvbi1kZW1vY3JhdGljLWRlYmF0ZS1lbGl6YWJldGgtd2FycmVuLzE4NzMzMTcwMDEv0gEkaHR0cHM6Ly9hbXAuZnJlZXAuY29tL2FtcC8xODczMzE3MDAx?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-08-03T20:00:05.916529", 
+    "query": "elizabeth warren"
+  }, 
+  {
+    "publication": "Fox News", 
+    "idx": 36, 
+    "title": "Joy Behar says Elizabeth Warren's Medicare-for-all push is a 'big mistake,' a 'death knell' for Democratic ...", 
+    "google_url": "http://news.google.com/./articles/CBMiU2h0dHBzOi8vd3d3LmZveG5ld3MuY29tL2VudGVydGFpbm1lbnQvam95LWJlaGFyLWVsaXphYmV0aC13YXJyZW4tbWVkaWNhcmUtam9lLWJpZGVu0gFXaHR0cHM6Ly93d3cuZm94bmV3cy5jb20vZW50ZXJ0YWlubWVudC9qb3ktYmVoYXItZWxpemFiZXRoLXdhcnJlbi1tZWRpY2FyZS1qb2UtYmlkZW4uYW1w?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-08-03T20:00:05.916529", 
+    "query": "elizabeth warren"
+  }, 
+  {
+    "publication": "CNN", 
+    "idx": 37, 
+    "title": "Elizabeth Warren to announce crossing 1 million donations threshold", 
+    "google_url": "http://news.google.com/./articles/CAIiECfb2ltsxNouCFXILrjM_uEqGQgEKhAIACoHCAowocv1CjCSptoCMPrTpgU?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-08-03T20:00:05.916529", 
+    "query": "elizabeth warren"
+  }, 
+  {
+    "publication": "CBS Boston", 
+    "idx": 38, 
+    "title": "Native American Congresswoman Endorses Elizabeth Warren For President", 
+    "google_url": "http://news.google.com/./articles/CBMibWh0dHBzOi8vYm9zdG9uLmNic2xvY2FsLmNvbS8yMDE5LzA3LzMxL25hdGl2ZS1hbWVyaWNhbi1jb25ncmVzc3dvbWFuLWVuZG9yc2VzLWVsaXphYmV0aC13YXJyZW4tZGVicmEtaGFhbGFuZC_SAXFodHRwczovL2Jvc3Rvbi5jYnNsb2NhbC5jb20vMjAxOS8wNy8zMS9uYXRpdmUtYW1lcmljYW4tY29uZ3Jlc3N3b21hbi1lbmRvcnNlcy1lbGl6YWJldGgtd2FycmVuLWRlYnJhLWhhYWxhbmQvYW1wLw?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-08-03T20:00:05.916529", 
+    "query": "elizabeth warren"
+  }, 
+  {
+    "publication": "The Hill", 
+    "idx": 39, 
+    "title": "Elizabeth Warren's unapologetic campaign | TheHill", 
+    "google_url": "http://news.google.com/./articles/CBMiU2h0dHBzOi8vdGhlaGlsbC5jb20vb3Bpbmlvbi9jYW1wYWlnbi80NTQzMzQtZWxpemFiZXRoLXdhcnJlbnMtdW5hcG9sb2dldGljLWNhbXBhaWdu0gFXaHR0cHM6Ly90aGVoaWxsLmNvbS9vcGluaW9uL2NhbXBhaWduLzQ1NDMzNC1lbGl6YWJldGgtd2FycmVucy11bmFwb2xvZ2V0aWMtY2FtcGFpZ24_YW1w?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-08-03T20:00:05.916529", 
+    "query": "elizabeth warren"
+  }, 
+  {
+    "publication": "Bloomberg", 
+    "idx": 40, 
+    "title": "Can Elizabeth Warren Beat Trump in 2020? Inside Her Radical Plan", 
+    "google_url": "http://news.google.com/./articles/CAIiEKKDDxZ_2XsasCUUiQNooscqGQgEKhAIACoHCAow4uzwCjCF3bsCMIrOrwM?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-08-03T20:00:05.916529", 
+    "query": "elizabeth warren"
+  }, 
+  {
+    "publication": "POLITICO", 
+    "idx": 41, 
+    "title": "How Elizabeth Warren would reform Wall Street", 
+    "google_url": "http://news.google.com/./articles/CAIiECUgZCJnXUCQzhjRTivfcCoqGQgEKhAIACoHCAow4Zn5CjCu8uACMMvYnQY?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-08-03T20:00:05.916529", 
+    "query": "elizabeth warren"
+  }, 
+  {
+    "publication": "Vox.com", 
+    "idx": 42, 
+    "title": "The progressive case for free trade", 
+    "google_url": "http://news.google.com/./articles/CAIiEHmR-HdGZ_PKwVZz3QOjIX4qFwgEKg8IACoHCAowlOzSATCaiDUwo9dy?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-08-03T20:00:05.916529", 
+    "query": "elizabeth warren"
+  }, 
+  {
+    "publication": "Mother Jones", 
+    "idx": 43, 
+    "title": "Is the Democratic Party Leaning Too Far Left? Elizabeth Warren's Answer Speaks for Itself.", 
+    "google_url": "http://news.google.com/./articles/CBMiZ2h0dHBzOi8vd3d3Lm1vdGhlcmpvbmVzLmNvbS9wb2xpdGljcy8yMDE5LzA3L2VsaXphYmV0aC13YXJyZW4tam9obi1kZWxhbmV5LWJpZy1pZGVhcy1kZW1vY3JhdGljLWRlYmF0ZS_SAQA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-08-03T20:00:05.916529", 
+    "query": "elizabeth warren"
+  }, 
+  {
+    "publication": "The Boston Globe", 
+    "idx": 44, 
+    "title": "Elizabeth Warren cuts through the \u2018yada, yada, yada\u2019 \u2014 but can she beat Trump?", 
+    "google_url": "http://news.google.com/./articles/CBMilAFodHRwczovL3d3dy5ib3N0b25nbG9iZS5jb20vb3Bpbmlvbi8yMDE5LzA3LzMxL2VsaXphYmV0aC13YXJyZW4tY3V0cy10aHJvdWdoLXlhZGEteWFkYS15YWRhLWJ1dC1jYW4tc2hlLWJlYXQtdHJ1bXAvZ3RHN2VJZ1RORnVHVEd4cVNua0paSy9zdG9yeS5odG1s0gGjAWh0dHBzOi8vd3d3LmJvc3Rvbmdsb2JlLmNvbS9vcGluaW9uLzIwMTkvMDcvMzEvZWxpemFiZXRoLXdhcnJlbi1jdXRzLXRocm91Z2gteWFkYS15YWRhLXlhZGEtYnV0LWNhbi1zaGUtYmVhdC10cnVtcC9ndEc3ZUlnVE5GdUdUR3hxU25rSlpLL3N0b3J5Lmh0bWw_b3V0cHV0VHlwZT1hbXA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-08-03T20:00:05.916529", 
+    "query": "elizabeth warren"
+  }, 
+  {
+    "publication": "RealClearPolitics", 
+    "idx": 45, 
+    "title": "Bernie Sanders Denies \"Non-Aggression\" Deal With Elizabeth Warren: \"We've Been Friends Over 20 Years\"", 
+    "google_url": "http://news.google.com/./articles/CBMilgFodHRwczovL3d3dy5yZWFsY2xlYXJwb2xpdGljcy5jb20vdmlkZW8vMjAxOS8wOC8wMS9iZXJuaWVfc2FuZGVyc19kZW5pZXNfbm9uLWFncmVzc2lvbl9kZWFsX3dpdGhfZWxpemFiZXRoX3dhcnJlbl93ZXZlX2JlZW5fZnJpZW5kc19vdmVyXzIwX3llYXJzLmh0bWzSAQA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-08-03T20:00:05.916529", 
+    "query": "elizabeth warren"
+  }, 
+  {
+    "publication": "The Guardian", 
+    "idx": 46, 
+    "title": "Sanders backs Warren after Liz Cheney attacks 'no first use' nuclear policy", 
+    "google_url": "http://news.google.com/./articles/CAIiECxkMKybaVR115SmyFU9pR0qFggEKg4IACoGCAowl6p7MN-zCTCtvxU?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-08-03T20:00:05.916529", 
+    "query": "elizabeth warren"
+  }, 
+  {
+    "publication": "HuffPost", 
+    "idx": 47, 
+    "title": "Twitter Users Roast John Delaney For Day-Late Comeback To Elizabeth Warren", 
+    "google_url": "http://news.google.com/./articles/CAIiEM6I3ncCD8sU4KYzoRj5kF0qFggEKg0IACoGCAowxYgCMIBNMJeP1AM?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-08-03T20:00:05.916529", 
+    "query": "elizabeth warren"
+  }, 
+  {
+    "publication": "Washington Examiner", 
+    "idx": 48, 
+    "title": "Elizabeth Warren has ground to make up in New Hampshire", 
+    "google_url": "http://news.google.com/./articles/CBMiX2h0dHBzOi8vd3d3Lndhc2hpbmd0b25leGFtaW5lci5jb20vbmV3cy9lbGl6YWJldGgtd2FycmVuLWhhcy1ncm91bmQtdG8tbWFrZS11cC1pbi1uZXctaGFtcHNoaXJl0gEA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-08-03T20:00:05.916529", 
+    "query": "elizabeth warren"
+  }, 
+  {
+    "publication": "Mediaite", 
+    "idx": 49, 
+    "title": "CNN Panel Praises Elizabeth Warren\u2019s Campaign, Says \u2018Her Message is a Lot Like President Trump\u2019s\u2019", 
+    "google_url": "http://news.google.com/./articles/CBMihAFodHRwczovL3d3dy5tZWRpYWl0ZS5jb20vZWxlY3Rpb24tMjAyMC9jbm4tcGFuZWwtcHJhaXNlcy1lbGl6YWJldGgtd2FycmVucy1jYW1wYWlnbi1zYXlzLWhlci1tZXNzYWdlLWlzLWEtbG90LWxpa2UtcHJlc2lkZW50LXRydW1wcy_SAYgBaHR0cHM6Ly93d3cubWVkaWFpdGUuY29tL2VsZWN0aW9uLTIwMjAvY25uLXBhbmVsLXByYWlzZXMtZWxpemFiZXRoLXdhcnJlbnMtY2FtcGFpZ24tc2F5cy1oZXItbWVzc2FnZS1pcy1hLWxvdC1saWtlLXByZXNpZGVudC10cnVtcHMvYW1wLw?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-08-03T20:00:05.916529", 
+    "query": "elizabeth warren"
+  }, 
+  {
+    "publication": "Paste Magazine", 
+    "idx": 50, 
+    "title": "Bernie Sanders and Elizabeth Warren Are Dominating the Donor Game :: Politics :: Features :: Bernie Sanders :: Paste", 
+    "google_url": "http://news.google.com/./articles/CBMiWmh0dHBzOi8vd3d3LnBhc3RlbWFnYXppbmUuY29tL2FydGljbGVzLzIwMTkvMDgvYmVybmllLXNhbmRlcnMtZWxpemFiZXRoLXdhcnJlbi1kb25vcnMuaHRtbNIBWmh0dHBzOi8vYW1wLnBhc3RlbWFnYXppbmUuY29tL2FydGljbGVzLzIwMTkvMDgvYmVybmllLXNhbmRlcnMtZWxpemFiZXRoLXdhcnJlbi1kb25vcnMuaHRtbA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-08-03T20:00:05.916529", 
+    "query": "elizabeth warren"
+  }, 
+  {
+    "publication": "The Atlantic", 
+    "idx": 51, 
+    "title": "Elizabeth Warren Has Momentum. Can She Build a Movement?", 
+    "google_url": "http://news.google.com/./articles/CAIiEE9Xi4ZmHr-aEh_LCCcOfSsqFAgEKg0IACoGCAowm_EEMKAiMPtZ?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-08-03T20:00:05.916529", 
+    "query": "elizabeth warren"
+  }, 
+  {
+    "publication": "HuffPost", 
+    "idx": 52, 
+    "title": "This Was Elizabeth Warren\u2019s Plan All Along", 
+    "google_url": "http://news.google.com/./articles/CAIiEI60MkpEKqsaeYWqSjzhmcUqFQgEKg0IACoGCAowxYgCMIBNMOGXAg?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-08-03T20:00:05.916529", 
+    "query": "elizabeth warren"
+  }, 
+  {
+    "publication": "The Washington Post", 
+    "idx": 53, 
+    "title": "Meet the latest star of the 2020 press corps, Jaden Jefferson. He\u2019s 11.", 
+    "google_url": "http://news.google.com/./articles/CAIiEJ0V_cwQawsipqyQketjaesqGAgEKg8IACoHCAowjtSUCjC30XQwnqi5AQ?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-08-03T20:00:05.916529", 
+    "query": "elizabeth warren"
+  }, 
+  {
+    "publication": "CNN", 
+    "idx": 54, 
+    "title": "Warren: We should stop using Republican talking points", 
+    "google_url": "http://news.google.com/./articles/CAIiEJgiyAWWmcGg2cg1IWsMOUYqGQgEKhAIACoHCAowocv1CjCSptoCMI29pgU?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-08-03T20:00:05.916529", 
+    "query": "elizabeth warren"
+  }, 
+  {
+    "publication": "Los Angeles Times", 
+    "idx": 55, 
+    "title": "Sen. Elizabeth Warren requests investigation of Border Patrol and ICE detention of U.S. citizens", 
+    "google_url": "http://news.google.com/./articles/CAIiEC8XjYt9_KcWrSbg_DPNd1AqFwgEKg4IACoGCAowjKxcMOvhCzCU9KQB?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-08-03T20:00:05.916529", 
+    "query": "elizabeth warren"
+  }, 
+  {
+    "publication": "Los Angeles Times", 
+    "idx": 56, 
+    "title": "Elizabeth Warren is winning grudging respect among some on Wall Street", 
+    "google_url": "http://news.google.com/./articles/CAIiEOHz0WXHUjZlTFMmGJ13-MoqFggEKg4IACoGCAowjKxcMOvhCzC5zg8?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-08-03T20:00:05.916529", 
+    "query": "elizabeth warren"
+  }, 
+  {
+    "publication": "Las Vegas Review-Journal", 
+    "idx": 57, 
+    "title": "Elizabeth Warren, in Henderson, vows to boost middle class", 
+    "google_url": "http://news.google.com/./articles/CBMifGh0dHBzOi8vd3d3LnJldmlld2pvdXJuYWwuY29tL25ld3MvcG9saXRpY3MtYW5kLWdvdmVybm1lbnQvZWxpemFiZXRoLXdhcnJlbi1pbi1oZW5kZXJzb24tdm93cy10by1ib29zdC1taWRkbGUtY2xhc3MtMTgxNzY5MS_SAYABaHR0cHM6Ly93d3cucmV2aWV3am91cm5hbC5jb20vbmV3cy9wb2xpdGljcy1hbmQtZ292ZXJubWVudC9lbGl6YWJldGgtd2FycmVuLWluLWhlbmRlcnNvbi12b3dzLXRvLWJvb3N0LW1pZGRsZS1jbGFzcy0xODE3NjkxL2FtcC8?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-08-03T20:00:05.916529", 
+    "query": "elizabeth warren"
+  }, 
+  {
+    "publication": "Vanity Fair", 
+    "idx": 58, 
+    "title": "Late Night Cheers Bernie Sanders and Elizabeth Warren, Roasts CNN Moderators", 
+    "google_url": "http://news.google.com/./articles/CAIiEN9K6pwSGgpaA96qW-nqFIsqGAgEKg8IACoHCAowmKPyCTCo8nIwlLrsBQ?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-08-03T20:00:05.916529", 
+    "query": "elizabeth warren"
+  }, 
+  {
+    "publication": "New York Magazine", 
+    "idx": 59, 
+    "title": "Has Elizabeth Warren Painted Herself Into a Corner on Health Care?", 
+    "google_url": "http://news.google.com/./articles/CAIiEJ7Q4qC7D5js8VgiLwm9DlwqGQgEKhAIACoHCAowi_yDCzDblYADMKD_9QU?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-08-03T20:00:05.916529", 
+    "query": "elizabeth warren"
+  }, 
+  {
+    "publication": "Bainbridge Island Review", 
+    "idx": 60, 
+    "title": "Elizabeth Warren has it right on health care | Letter to the editor", 
+    "google_url": "http://news.google.com/./articles/CBMia2h0dHBzOi8vd3d3LmJhaW5icmlkZ2VyZXZpZXcuY29tL2xldHRlcnMvZWxpemFiZXRoLXdhcnJlbi1oYXMtaXQtcmlnaHQtb24taGVhbHRoLWNhcmUtbGV0dGVyLXRvLXRoZS1lZGl0b3Iv0gEA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-08-03T20:00:05.916529", 
+    "query": "elizabeth warren"
+  }, 
+  {
+    "publication": "The New York Times", 
+    "idx": 61, 
+    "title": "How to Get a Selfie With Elizabeth Warren in 8 Steps", 
+    "google_url": "http://news.google.com/./articles/CBMiWGh0dHBzOi8vd3d3Lm55dGltZXMuY29tL2ludGVyYWN0aXZlLzIwMTkvMDcvMjIvdXMvcG9saXRpY3MvZWxpemFiZXRoLXdhcnJlbi1zZWxmaWVzLmh0bWzSAQA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-08-03T20:00:05.916529", 
+    "query": "elizabeth warren"
+  }, 
+  {
+    "publication": "Fox News", 
+    "idx": 62, 
+    "title": "Elizabeth Warren says Trump is advancing 'environmental racism,' 'economic racism,' 'health care racism'", 
+    "google_url": "http://news.google.com/./articles/CBMiSWh0dHBzOi8vd3d3LmZveG5ld3MuY29tL21lZGlhL2VsaXphYmV0aC13YXJyZW4tdHJ1bXAtZW52aXJvbm1lbnRhbC1yYWNpc23SAU1odHRwczovL3d3dy5mb3huZXdzLmNvbS9tZWRpYS9lbGl6YWJldGgtd2FycmVuLXRydW1wLWVudmlyb25tZW50YWwtcmFjaXNtLmFtcA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-08-03T20:00:05.916529", 
+    "query": "elizabeth warren"
+  }, 
+  {
+    "publication": "Vanity Fair", 
+    "idx": 63, 
+    "title": "Elizabeth Warren Bet Big on Impeachment. Will Mueller Pay It Off?", 
+    "google_url": "http://news.google.com/./articles/CAIiEBIQTG8Pr8xmganInAvNxPYqGAgEKg8IACoHCAowmKPyCTCo8nIw87nsBQ?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-08-03T20:00:05.916529", 
+    "query": "elizabeth warren"
+  }, 
+  {
+    "publication": "CNN", 
+    "idx": 64, 
+    "title": "Is Elizabeth Warren stealing some of Bernie Sanders' 2016 mojo?", 
+    "google_url": "http://news.google.com/./articles/CAIiEPEqwVVW5vPjMiBfiGDNnp8qGQgEKhAIACoHCAowocv1CjCSptoCMPrTpgU?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-08-03T20:00:05.916529", 
+    "query": "elizabeth warren"
+  }, 
+  {
+    "publication": "Washington Times", 
+    "idx": 65, 
+    "title": "Donald Trump rips Elizabeth Warren: 'I have more Indian blood than she does'", 
+    "google_url": "http://news.google.com/./articles/CBMiY2h0dHBzOi8vd3d3Lndhc2hpbmd0b250aW1lcy5jb20vbmV3cy8yMDE5L2F1Zy8yL2RvbmFsZC10cnVtcC1yaXBzLWVsaXphYmV0aC13YXJyZW4taS1oYXZlLW1vcmUtaW5kL9IBYmh0dHA6Ly9hbXAud2FzaGluZ3RvbnRpbWVzLmNvbS9uZXdzLzIwMTkvYXVnLzIvZG9uYWxkLXRydW1wLXJpcHMtZWxpemFiZXRoLXdhcnJlbi1pLWhhdmUtbW9yZS1pbmQv?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-08-03T20:00:05.916529", 
+    "query": "elizabeth warren"
+  }, 
+  {
+    "publication": "CNN", 
+    "idx": 66, 
+    "title": "Here's what fueled Elizabeth Warren's giant 2nd quarter fundraising haul", 
+    "google_url": "http://news.google.com/./articles/CAIiEFkwHFSiLoOW2UkTOlQYePYqGQgEKhAIACoHCAowocv1CjCSptoCMPrTpgU?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-08-03T20:00:05.916529", 
+    "query": "elizabeth warren"
+  }, 
+  {
+    "publication": "ThinkProgress", 
+    "idx": 67, 
+    "title": "Elizabeth Warren brings attention to death of trans woman at Rikers, calling solitary \u2018inhumane\u2019", 
+    "google_url": "http://news.google.com/./articles/CAIiEGIjJH5y3L9GTKmcGmQz_moqFAgEKg0IACoGCAow5YQBMJIaMIZF?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-08-03T20:00:05.916529", 
+    "query": "elizabeth warren"
+  }, 
+  {
+    "publication": "CNBC", 
+    "idx": 68, 
+    "title": "Cramer: China better cut a trade deal with Trump \u2014 a 'President Warren' would be even tougher", 
+    "google_url": "http://news.google.com/./articles/CAIiEMeiHPeZzpTLnY5xL1vrRWMqGQgEKhAIACoHCAow2Nb3CjDivdcCMJ_d7gU?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-08-03T20:00:05.916529", 
+    "query": "elizabeth warren"
+  }, 
+  {
+    "publication": "Newsweek", 
+    "idx": 69, 
+    "title": "Elizabeth Warren Slams 'Racist' Trump After Attack on Elijah Cummings", 
+    "google_url": "http://news.google.com/./articles/CAIiEGyjaaWz_rexXGsm0pjz46sqGQgEKhAIACoHCAow77zbCjDiq8wBMNiCsgU?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-08-03T20:00:05.916529", 
+    "query": "elizabeth warren"
+  }, 
+  {
+    "publication": "CBS News", 
+    "idx": 70, 
+    "title": "Elizabeth Warren economic plan: Massachusetts senator warns Trump may trigger economic meltdown", 
+    "google_url": "http://news.google.com/./articles/CAIiEH6iM4CuiNlFaTGtcGYTm3MqGQgEKhAIACoHCAowyNj6CjDyiPICMO-LxQU?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-08-03T20:00:05.916529", 
+    "query": "elizabeth warren"
+  }, 
+  {
+    "publication": "Washington Examiner", 
+    "idx": 71, 
+    "title": "Elizabeth Warren keeps lying through her teeth about 'Medicare for all'", 
+    "google_url": "http://news.google.com/./articles/CBMicGh0dHBzOi8vd3d3Lndhc2hpbmd0b25leGFtaW5lci5jb20vb3Bpbmlvbi9lbGl6YWJldGgtd2FycmVuLWtlZXBzLWx5aW5nLXRocm91Z2gtaGVyLXRlZXRoLWFib3V0LW1lZGljYXJlLWZvci1hbGzSAQA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-08-03T20:00:05.916529", 
+    "query": "elizabeth warren"
+  }, 
+  {
+    "publication": "HuffPost", 
+    "idx": 72, 
+    "title": "Elizabeth Warren Doesn't Have To 'Look At His Heart' To Know Trump Is Racist", 
+    "google_url": "http://news.google.com/./articles/CAIiENibI5iJLA8G03FsoLwTj-IqFQgEKg0IACoGCAowxYgCMIBNMOGXAg?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-08-03T20:00:05.916529", 
+    "query": "elizabeth warren"
+  }, 
+  {
+    "publication": "Phoenix New Times", 
+    "idx": 73, 
+    "title": "Elizabeth Warren Holds Town Hall at Marquee Theatre in Tempe", 
+    "google_url": "http://news.google.com/./articles/CBMicGh0dHBzOi8vd3d3LnBob2VuaXhuZXd0aW1lcy5jb20vc2xpZGVzaG93L3ByZXNpZGVudGlhbC1jYW5kaWRhdGUtZWxpemFiZXRoLXdhcnJlbi1tYXJxdWVlLXRoZWF0cmUtdGVtcGUtMTEzMzcxNjLSAQA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-08-03T20:00:05.916529", 
+    "query": "elizabeth warren"
+  }, 
+  {
+    "publication": "TechCrunch", 
+    "idx": 74, 
+    "title": "Peter Thiel says Elizabeth Warren is \u2018dangerous;\u2019 Warren responds: \u2018Good\u2019", 
+    "google_url": "http://news.google.com/./articles/CAIiECMpVg9nsAKb7CnXXeEjq5IqFAgEKg0IACoGCAowlIEBMLEXMOc_?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-08-03T20:00:05.916529", 
+    "query": "elizabeth warren"
+  }, 
+  {
+    "publication": "Business Insider", 
+    "idx": 75, 
+    "title": "Elizabeth Warren's dire warning about the US economy is way too pessimistic", 
+    "google_url": "http://news.google.com/./articles/CBMiZ2h0dHBzOi8vd3d3LmJ1c2luZXNzaW5zaWRlci5jb20vZWxpemFiZXRoLXdhcnJlbi11cy1lY29ub215LXJlY2Vzc2lvbi1wcmVkaWN0aW9uLXRvby1wZXNzaW1pc3RpYy0yMDE5LTfSAWdodHRwczovL2FtcC5idXNpbmVzc2luc2lkZXIuY29tL2VsaXphYmV0aC13YXJyZW4tdXMtZWNvbm9teS1yZWNlc3Npb24tcHJlZGljdGlvbi10b28tcGVzc2ltaXN0aWMtMjAxOS03?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-08-03T20:00:05.916529", 
+    "query": "elizabeth warren"
+  }, 
+  {
+    "publication": "Cronkite News", 
+    "idx": 76, 
+    "title": "\u2018We need to live our values every day\u2019: Warren\u2019s Tempe town hall spotlights immigration reform", 
+    "google_url": "http://news.google.com/./articles/CBMiUmh0dHBzOi8vY3JvbmtpdGVuZXdzLmF6cGJzLm9yZy8yMDE5LzA4LzAyL2VsaXphYmV0aC13YXJyZW4tdG93bi1oYWxsLXBob2VuaXgtYXJlYS_SAVZodHRwczovL2Nyb25raXRlbmV3cy5henBicy5vcmcvMjAxOS8wOC8wMi9lbGl6YWJldGgtd2FycmVuLXRvd24taGFsbC1waG9lbml4LWFyZWEvYW1wLw?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-08-03T20:00:05.916529", 
+    "query": "elizabeth warren"
+  }, 
+  {
+    "publication": "TheStranger.com", 
+    "idx": 77, 
+    "title": "Elizabeth Warren Goes All-In on the Woke Vote", 
+    "google_url": "http://news.google.com/./articles/CBMiYWh0dHBzOi8vd3d3LnRoZXN0cmFuZ2VyLmNvbS9zbG9nLzIwMTkvMDcvMjYvNDA4NzY5MTEvZWxpYWJldGgtd2FycmVuLWdvZXMtYWxsLWluLW9uLXRoZS13b2tlLXZvdGXSAQA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-08-03T20:00:05.916529", 
+    "query": "elizabeth warren"
+  }, 
+  {
+    "publication": "Quartz", 
+    "idx": 78, 
+    "title": "Elizabeth Warren is siding with Google and Amazon over digital payments", 
+    "google_url": "http://news.google.com/./articles/CAIiEC7fMoSAgjnAA7vJJNBsYrsqGAgEKg8IACoHCAowi4-MATDXsRUwhP2ZAg?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-08-03T20:00:05.916529", 
+    "query": "elizabeth warren"
+  }, 
+  {
+    "publication": "Tulsa World", 
+    "idx": 79, 
+    "title": "Sens. Bernie Sanders, Elizabeth Warren top second-quarter fundraising among Democrats in Oklahoma", 
+    "google_url": "http://news.google.com/./articles/CBMipAFodHRwczovL3d3dy50dWxzYXdvcmxkLmNvbS9uZXdzL25hdGlvbmFsL3NlbnMtYmVybmllLXNhbmRlcnMtZWxpemFiZXRoLXdhcnJlbi10b3Atc2Vjb25kLXF1YXJ0ZXItZnVuZHJhaXNpbmctYW1vbmcvYXJ0aWNsZV80ZGEwNjY2OS01ZDRiLTVkN2YtOTY4YS1jMWIyNGE5Y2ViZWYuaHRtbNIBqAFodHRwczovL3d3dy50dWxzYXdvcmxkLmNvbS9uZXdzL25hdGlvbmFsL3NlbnMtYmVybmllLXNhbmRlcnMtZWxpemFiZXRoLXdhcnJlbi10b3Atc2Vjb25kLXF1YXJ0ZXItZnVuZHJhaXNpbmctYW1vbmcvYXJ0aWNsZV80ZGEwNjY2OS01ZDRiLTVkN2YtOTY4YS1jMWIyNGE5Y2ViZWYuYW1wLmh0bWw?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-08-03T20:00:05.916529", 
+    "query": "elizabeth warren"
+  }, 
+  {
+    "publication": "HuffPost", 
+    "idx": 80, 
+    "title": "Elizabeth Warren Pushes Nancy Pelosi On Impeachment: 'Some Things Are Above Politics'", 
+    "google_url": "http://news.google.com/./articles/CAIiENu7d9LmN67n68z8_SQ5KcMqFQgEKg0IACoGCAowxYgCMIBNMOGXAg?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-08-03T20:00:05.916529", 
+    "query": "elizabeth warren"
+  }, 
+  {
+    "publication": "Washington Examiner", 
+    "idx": 81, 
+    "title": "Washington Post editorial board: Warren and Sanders lack 'factual plausibility' in their healthcare plans", 
+    "google_url": "http://news.google.com/./articles/CBMijgFodHRwczovL3d3dy53YXNoaW5ndG9uZXhhbWluZXIuY29tL25ld3Mvd2FzaGluZ3Rvbi1wb3N0LWVkaXRvcmlhbC1ib2FyZC13YXJyZW4tYW5kLXNhbmRlcnMtbGFjay1mYWN0dWFsLXBsYXVzaWJpbGl0eS1pbi10aGVpci1oZWFsdGhjYXJlLXBsYW5z0gEA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-08-03T20:00:05.916529", 
+    "query": "elizabeth warren"
+  }, 
+  {
+    "publication": "Yahoo TV", 
+    "idx": 82, 
+    "title": "Chris Matthews called 'sexist' for constantly interrupting Elizabeth Warren: Has he 'ever met a woman he doesn't want to talk over?'", 
+    "google_url": "http://news.google.com/./articles/CBMiXGh0dHBzOi8vd3d3LnlhaG9vLmNvbS9lbnRlcnRhaW5tZW50L2NocmlzLW1hdHRoZXdzLWVsaXphYmV0aC13YXJyZW4taW50ZXJ2aWV3LTE2NTY0Mjc1My5odG1s0gFkaHR0cHM6Ly93d3cueWFob28uY29tL2FtcGh0bWwvZW50ZXJ0YWlubWVudC9jaHJpcy1tYXR0aGV3cy1lbGl6YWJldGgtd2FycmVuLWludGVydmlldy0xNjU2NDI3NTMuaHRtbA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-08-03T20:00:05.916529", 
+    "query": "elizabeth warren"
+  }, 
+  {
+    "publication": "Esquire.com", 
+    "idx": 83, 
+    "title": "Elizabeth Warren Roasted John Delaney, Who's Running for Chief Killjoy", 
+    "google_url": "http://news.google.com/./articles/CBMiZGh0dHBzOi8vd3d3LmVzcXVpcmUuY29tL25ld3MtcG9saXRpY3MvYTI4NTU3ODkxL2VsaXphYmV0aC13YXJyZW4tam9obi1kZWxhbmV5LXdoeS1ydW4tZm9yLXByZXNpZGVudC_SAWZodHRwczovL3d3dy5lc3F1aXJlLmNvbS9uZXdzLXBvbGl0aWNzL2FtcDI4NTU3ODkxL2VsaXphYmV0aC13YXJyZW4tam9obi1kZWxhbmV5LXdoeS1ydW4tZm9yLXByZXNpZGVudC8?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-08-03T20:00:05.916529", 
+    "query": "elizabeth warren"
+  }, 
+  {
+    "publication": "RealClearPolitics", 
+    "idx": 84, 
+    "title": "After Interviewing Elizabeth Warren, 11-Year-Old Reporter Most Impressed By Marianne Williamson", 
+    "google_url": "http://news.google.com/./articles/CBMidmh0dHBzOi8vd3d3LnJlYWxjbGVhcnBvbGl0aWNzLmNvbS92aWRlby8yMDE5LzA3LzMwLzExLXllYXItb2xkX3JlcG9ydGVyX3dhc19tb3N0X2ltcHJlc3NlZF9ieV9tYXJpYW5uZV93aWxsaWFtc29uLmh0bWzSAQA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-08-03T20:00:05.916529", 
+    "query": "elizabeth warren"
+  }, 
+  {
+    "publication": "Times Union", 
+    "idx": 85, 
+    "title": "Churchill: Gillibrand's underhanded swipe at Elizabeth Warren", 
+    "google_url": "http://news.google.com/./articles/CAIiEEIykWRUMjp14h9mUplvpjoqGQgEKhAIACoHCAowxr75CjCp6fECMIP9wwU?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-08-03T20:00:05.916529", 
+    "query": "elizabeth warren"
+  }, 
+  {
+    "publication": "Hollywood Reporter", 
+    "idx": 86, 
+    "title": "Seth Meyers on Bernie Sanders, Elizabeth Warren at CNN Dem Debate", 
+    "google_url": "http://news.google.com/./articles/CBMicWh0dHBzOi8vd3d3LmhvbGx5d29vZHJlcG9ydGVyLmNvbS9saXZlLWZlZWQvc2V0aC1tZXllcnMtYmVybmllLXNhbmRlcnMtZWxpemFiZXRoLXdhcnJlbi1hdC1jbm4tZGVtLWRlYmF0ZS0xMjI3MTM40gF1aHR0cHM6Ly93d3cuaG9sbHl3b29kcmVwb3J0ZXIuY29tL2FtcC9saXZlLWZlZWQvc2V0aC1tZXllcnMtYmVybmllLXNhbmRlcnMtZWxpemFiZXRoLXdhcnJlbi1hdC1jbm4tZGVtLWRlYmF0ZS0xMjI3MTM4?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-08-03T20:00:05.916529", 
+    "query": "elizabeth warren"
+  }, 
+  {
+    "publication": "Barron's", 
+    "idx": 87, 
+    "title": "Elizabeth Warren Has a Plan That Could Be Good for Investors", 
+    "google_url": "http://news.google.com/./articles/CBMiaWh0dHBzOi8vd3d3LmJhcnJvbnMuY29tL2FydGljbGVzL2VsaXphYmV0aC13YXJyZW4taGFzLWEtcGxhbi10aGF0LWNvdWxkLWJlLWdvb2QtZm9yLWludmVzdG9ycy01MTU2Mzg5OTI5N9IBbWh0dHBzOi8vd3d3LmJhcnJvbnMuY29tL2FtcC9hcnRpY2xlcy9lbGl6YWJldGgtd2FycmVuLWhhcy1hLXBsYW4tdGhhdC1jb3VsZC1iZS1nb29kLWZvci1pbnZlc3RvcnMtNTE1NjM4OTkyOTc?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-08-03T20:00:05.916529", 
+    "query": "elizabeth warren"
+  }, 
+  {
+    "publication": "The Week", 
+    "idx": 88, 
+    "title": "John Delaney comes up with perfect comeback to Elizabeth Warren ... almost 24 hours too late", 
+    "google_url": "http://news.google.com/./articles/CAIiENx_2NsH2_5XIiozW-C3PB0qGQgEKhAIACoHCAowwfmQCzClq6UDMKSAtgY?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-08-03T20:00:05.916529", 
+    "query": "elizabeth warren"
+  }, 
+  {
+    "publication": "Vox.com", 
+    "idx": 89, 
+    "title": "Elizabeth Warren\u2019s private equity plan and Wall Street Looting Act, explained", 
+    "google_url": "http://news.google.com/./articles/CAIiEEO3pUNUq4MS9hVjLEE0HiEqGAgEKg8IACoHCAowlOzSATCaiDUw1aKsBQ?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-08-03T20:00:05.916529", 
+    "query": "elizabeth warren"
+  }, 
+  {
+    "publication": "WTVD-TV", 
+    "idx": 90, 
+    "title": "Man arrested at Elizabeth Warren event after clash with Trump supporters", 
+    "google_url": "http://news.google.com/./articles/CBMiY2h0dHBzOi8vYWJjMTEuY29tL21hbi1hcnJlc3RlZC1hdC1lbGl6YWJldGgtd2FycmVuLWV2ZW50LWFmdGVyLWNsYXNoLXdpdGgtdHJ1bXAtc3VwcG9ydGVycy81NDM3MDg1L9IBAA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-08-03T20:00:05.916529", 
+    "query": "elizabeth warren"
+  }, 
+  {
+    "publication": "POLITICO", 
+    "idx": 91, 
+    "title": "How Elizabeth Warren would address immigration reform", 
+    "google_url": "http://news.google.com/./articles/CAIiEKTrma5AGMHIbOYJwGs3KY0qGQgEKhAIACoHCAow4Zn5CjCu8uACMLTRlgY?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-08-03T20:00:05.916529", 
+    "query": "elizabeth warren"
+  }, 
+  {
+    "publication": "Vox.com", 
+    "idx": 92, 
+    "title": "We can\u2019t fund the progressive agenda by taxing the 1% alone", 
+    "google_url": "http://news.google.com/./articles/CAIiEDBV-ANrPNKlnT1xT93uQJEqFwgEKg8IACoHCAowlOzSATCaiDUwo9dy?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-08-03T20:00:05.916529", 
+    "query": "elizabeth warren"
+  }, 
+  {
+    "publication": "Advocate.com", 
+    "idx": 93, 
+    "title": "Right-Wingers Freak Out Over Elizabeth Warren's Pronouns", 
+    "google_url": "http://news.google.com/./articles/CBMiY2h0dHBzOi8vd3d3LmFkdm9jYXRlLmNvbS9wb2xpdGljcy8yMDE5LzcvMTkvcmlnaHQtd2luZ2Vycy1mcmVhay1vdXQtb3Zlci1lbGl6YWJldGgtd2FycmVucy1wcm9ub3Vuc9IBAA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-08-03T20:00:05.916529", 
+    "query": "elizabeth warren"
+  }, 
+  {
+    "publication": "CNBC", 
+    "idx": 94, 
+    "title": "Elizabeth Warren's plan to forgive student debt would help 45 million students", 
+    "google_url": "http://news.google.com/./articles/CAIiEBR2Khkld8wpF9d9eMsLGiYqGQgEKhAIACoHCAow2Nb3CjDivdcCMMCB9gU?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-08-03T20:00:05.916529", 
+    "query": "elizabeth warren"
+  }, 
+  {
+    "publication": "Washington Examiner", 
+    "idx": 95, 
+    "title": "Elizabeth Warren is doing half as well among those earning under $50,000 as she is among those earning over $100,000", 
+    "google_url": "http://news.google.com/./articles/CBMinQFodHRwczovL3d3dy53YXNoaW5ndG9uZXhhbWluZXIuY29tL29waW5pb24vZWxpemFiZXRoLXdhcnJlbi1pcy1kb2luZy1oYWxmLWFzLXdlbGwtYW1vbmctdGhvc2UtZWFybmluZy11bmRlci01MC0wMDAtYXMtc2hlLWlzLWFtb25nLXRob3NlLWVhcm5pbmctb3Zlci0xMDAtMDAw0gEA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-08-03T20:00:05.916529", 
+    "query": "elizabeth warren"
+  }, 
+  {
+    "publication": "Hollywood Reporter", 
+    "idx": 96, 
+    "title": "Trevor Noah Praises Marianne Williamson, Elizabeth Warren in Live Post-Debate Show", 
+    "google_url": "http://news.google.com/./articles/CBMidmh0dHBzOi8vd3d3LmhvbGx5d29vZHJlcG9ydGVyLmNvbS9saXZlLWZlZWQvdHJldm9yLW5vYWgtcHJhaXNlcy1tYXJpYW5uZS13aWxsaWFtc29uLWVsaXphYmV0aC13YXJyZW4tbGl2ZS1zaG93LTEyMjczMzPSAQA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-08-03T20:00:05.916529", 
+    "query": "elizabeth warren"
+  }, 
+  {
+    "publication": "Washington Examiner", 
+    "idx": 97, 
+    "title": "Amy Klobuchar should target Elizabeth Warren at the debate", 
+    "google_url": "http://news.google.com/./articles/CBMiZWh0dHBzOi8vd3d3Lndhc2hpbmd0b25leGFtaW5lci5jb20vb3Bpbmlvbi9hbXkta2xvYnVjaGFyLXNob3VsZC10YXJnZXQtZWxpemFiZXRoLXdhcnJlbi1hdC10aGUtZGViYXRl0gEA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-08-03T20:00:05.916529", 
+    "query": "elizabeth warren"
+  }, 
+  {
+    "publication": "Washington Examiner", 
+    "idx": 98, 
+    "title": "Elizabeth Warren slams moderate Democrats: Why are you even running?", 
+    "google_url": "http://news.google.com/./articles/CBMiamh0dHBzOi8vd3d3Lndhc2hpbmd0b25leGFtaW5lci5jb20vbmV3cy9lbGl6YWJldGgtd2FycmVuLXNsYW1zLW1vZGVyYXRlLWRlbW9jcmF0cy13aHktYXJlLXlvdS1ldmVuLXJ1bm5pbmfSAQA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-08-03T20:00:05.916529", 
+    "query": "elizabeth warren"
+  }, 
+  {
+    "publication": "Yahoo News", 
+    "idx": 99, 
+    "title": "Elizabeth Warren's Big Night", 
+    "google_url": "http://news.google.com/./articles/CBMia2h0dHBzOi8vd3d3LnlhaG9vLmNvbS9uZXdzL20vYzMwOTUxN2UtNGJjMi0zYmUyLThkNGEtYTg2ZGIyYTg3Y2NjL2VsaXphYmV0aC13YXJyZW4lRTIlODAlOTlzLWJpZy1uaWdodC5odG1s0gEA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-08-03T20:00:05.916529", 
+    "query": "elizabeth warren"
+  }, 
+  {
+    "publication": "Bangor Daily News", 
+    "idx": 100, 
+    "title": "Man arrested at Elizabeth Warren event after tussling with MAGA protesters", 
+    "google_url": "http://news.google.com/./articles/CAIiEE2UX9syB7Yeke9NlWTD3UcqGQgEKhAIACoHCAowocb1CjDFv9wCMJ2DuAM?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-08-03T20:00:05.916529", 
+    "query": "elizabeth warren"
+  }, 
+  {
+    "publication": "INQUIRER.net", 
+    "idx": 101, 
+    "title": "Sen. Elizabeth Warren Warns of Economic Trouble Ahead. Is She Right?", 
+    "google_url": "http://news.google.com/./articles/CBMiYGh0dHBzOi8vdXNhLmlucXVpcmVyLm5ldC8zNTQxNC9zZW4tZWxpemFiZXRoLXdhcnJlbi13YXJucy1vZi1lY29ub21pYy10cm91YmxlLWFoZWFkLWlzLXNoZS1yaWdodNIBZGh0dHBzOi8vdXNhLmlucXVpcmVyLm5ldC8zNTQxNC9zZW4tZWxpemFiZXRoLXdhcnJlbi13YXJucy1vZi1lY29ub21pYy10cm91YmxlLWFoZWFkLWlzLXNoZS1yaWdodC9hbXA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-08-03T20:00:05.916529", 
+    "query": "elizabeth warren"
+  }, 
+  {
+    "publication": "Vox.com", 
+    "idx": 102, 
+    "title": "Elizabeth Warren\u2019s comprehensive immigration proposal, explained", 
+    "google_url": "http://news.google.com/./articles/CAIiENzZEVBwUbabBMQX918p_kgqFwgEKg8IACoHCAowlOzSATCaiDUwo9dy?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-08-03T20:00:05.916529", 
+    "query": "elizabeth warren"
+  }, 
+  {
+    "publication": "McClatchy Washington Bureau", 
+    "idx": 103, 
+    "title": "\u2018She\u2019s upending expectations\u2019: Warren fans say her appeal is about more than liberal policies", 
+    "google_url": "http://news.google.com/./articles/CAIiEH7ljH3WPa7FuEPzhQ6L6pIqGQgEKhAIACoHCAowzNmECzCZyoEDMM32gwY?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-08-03T20:00:05.916529", 
+    "query": "elizabeth warren"
+  }
+]

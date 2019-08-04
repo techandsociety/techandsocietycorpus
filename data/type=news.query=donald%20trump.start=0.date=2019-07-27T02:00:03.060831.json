@@ -1,0 +1,834 @@
+[
+  {
+    "publication": "Slate", 
+    "idx": 0, 
+    "title": "Donald Trump\u2019s Entire Story About the Economy Fell Apart This Week", 
+    "google_url": "http://news.google.com/./articles/CAIiEFH3P7ffy9F-VLz1j1qYYjMqFQgEKg0IACoGCAowuLUIMNFnMLvgAg?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-27T02:00:03.060831", 
+    "query": "donald trump"
+  }, 
+  {
+    "publication": "Vanity Fair", 
+    "idx": 1, 
+    "title": "Oops: Trump\u2019s \u201cHistoric\u201d Economic Growth Downgraded To \u201cMeh\u201d", 
+    "google_url": "http://news.google.com/./articles/CAIiEMJEKeVJzq2MCR1vWkfLF8AqGAgEKg8IACoHCAowmKPyCTCo8nIw87nsBQ?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-27T02:00:03.060831", 
+    "query": "donald trump"
+  }, 
+  {
+    "publication": "Washington Examiner", 
+    "idx": 2, 
+    "title": "Our economy continues to beat the odds. Why is Trump threatening it?", 
+    "google_url": "http://news.google.com/./articles/CBMibWh0dHBzOi8vd3d3Lndhc2hpbmd0b25leGFtaW5lci5jb20vb3Bpbmlvbi9vdXItZWNvbm9teS1jb250aW51ZXMtdG8tYmVhdC10aGUtb2Rkcy13aHktaXMtdHJ1bXAtdGhyZWF0ZW5pbmctaXTSAQA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-27T02:00:03.060831", 
+    "query": "donald trump"
+  }, 
+  {
+    "publication": "Vox.com", 
+    "idx": 3, 
+    "title": "Economic slowdown: No recession, but no 3 percent growth", 
+    "google_url": "http://news.google.com/./articles/CAIiELjeohNqGXfDB4LoUrw_xYYqFwgEKg8IACoHCAowlOzSATCaiDUwg7tz?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-27T02:00:03.060831", 
+    "query": "donald trump"
+  }, 
+  {
+    "publication": "MarketWatch", 
+    "idx": 4, 
+    "title": "Trump calls second-quarter growth \u2018not bad\u2019 and denies tariff relief to Apple", 
+    "google_url": "http://news.google.com/./articles/CAIiEIS8t3p5WPnc-q1_Mmv2n48qGAgEKg8IACoHCAowjujJATDXzBUw2JS0AQ?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-27T02:00:03.060831", 
+    "query": "donald trump"
+  }, 
+  {
+    "publication": "CNN", 
+    "idx": 5, 
+    "title": "The 23 most over-the-top lines from Donald Trump's phone interview with Sean Hannity", 
+    "google_url": "http://news.google.com/./articles/CAIiEHz1LHdS_iKAQuzf0URYLw8qGQgEKhAIACoHCAowocv1CjCSptoCMPrTpgU?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-27T02:00:03.060831", 
+    "query": "donald trump"
+  }, 
+  {
+    "publication": "The Associated Press", 
+    "idx": 6, 
+    "title": "Trump digs in on racist tweets: 'Many people agree with me'", 
+    "google_url": "http://news.google.com/./articles/CAIiEK7vgcVgheZ9IHullXQ_jMoqFwgEKg8IACoHCAowhO7OATDh9Cgwu4lR?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-27T02:00:03.060831", 
+    "query": "donald trump"
+  }, 
+  {
+    "publication": "Deadline", 
+    "idx": 7, 
+    "title": "President Donald Trump Calls For Investigation Into Obama Book Deals", 
+    "google_url": "http://news.google.com/./articles/CAIiEKNkMTI1AZwxVtuiCmNP_YUqFggEKg0IACoGCAowoPUEMKAjMP6Y1gU?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-27T02:00:03.060831", 
+    "query": "donald trump"
+  }, 
+  {
+    "publication": "Deadline", 
+    "idx": 8, 
+    "title": "Fox News Host Schools Donald Trump On Polling After Latest POTUS Attack On Network", 
+    "google_url": "http://news.google.com/./articles/CAIiEEUEynvxqOPgDvdPAEsNchQqFggEKg0IACoGCAowoPUEMKAjMP6Y1gU?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-27T02:00:03.060831", 
+    "query": "donald trump"
+  }, 
+  {
+    "publication": "CNN", 
+    "idx": 9, 
+    "title": "Donald Trump 'has not done anything wrong?' Suuuuuuure.", 
+    "google_url": "http://news.google.com/./articles/CAIiEIOsWEBX00tchpxjd-TQz9cqGQgEKhAIACoHCAowocv1CjCSptoCMPrTpgU?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-27T02:00:03.060831", 
+    "query": "donald trump"
+  }, 
+  {
+    "publication": "POLITICO", 
+    "idx": 10, 
+    "title": "Trump announces asylum deal with Guatemala", 
+    "google_url": "http://news.google.com/./articles/CAIiEJs3o6tLSk2rKmTtQV6znvAqGQgEKhAIACoHCAow4Zn5CjCu8uACMLTRlgY?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-27T02:00:03.060831", 
+    "query": "donald trump"
+  }, 
+  {
+    "publication": "The Boston Globe", 
+    "idx": 11, 
+    "title": "Power in the rubble of the American Dream: Why Donald Trump may be the most consequential president of our time", 
+    "google_url": "http://news.google.com/./articles/CBMipQFodHRwczovL3d3dy5ib3N0b25nbG9iZS5jb20vaWRlYXMvMjAxOS8wNy8yNi9wb3dlci1ydWJibGUtYW1lcmljYW4tZHJlYW0td2h5LWRvbmFsZC10cnVtcC1tYXktbW9zdC1jb25zZXF1ZW50aWFsLXByZXNpZGVudC1vdXItdGltZS82bmRQZzFoSVVnY00xUkNJZVRkc0dML3N0b3J5Lmh0bWzSAbQBaHR0cHM6Ly93d3cuYm9zdG9uZ2xvYmUuY29tL2lkZWFzLzIwMTkvMDcvMjYvcG93ZXItcnViYmxlLWFtZXJpY2FuLWRyZWFtLXdoeS1kb25hbGQtdHJ1bXAtbWF5LW1vc3QtY29uc2VxdWVudGlhbC1wcmVzaWRlbnQtb3VyLXRpbWUvNm5kUGcxaElVZ2NNMVJDSWVUZHNHTC9zdG9yeS5odG1sP291dHB1dFR5cGU9YW1w?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-27T02:00:03.060831", 
+    "query": "donald trump"
+  }, 
+  {
+    "publication": "USA TODAY", 
+    "idx": 12, 
+    "title": "Donald Trump's latest tariff threat? French wine", 
+    "google_url": "http://news.google.com/./articles/CAIiEKm3KNMR0XDZn-9J_5ojUFsqGQgEKhAIACoHCAowjsP7CjCSpPQCMKCK0wU?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-27T02:00:03.060831", 
+    "query": "donald trump"
+  }, 
+  {
+    "publication": "BBC News", 
+    "idx": 13, 
+    "title": "US Supreme Court gives go-ahead for Trump wall funding", 
+    "google_url": "http://news.google.com/./articles/CBMiMWh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy93b3JsZC11cy1jYW5hZGEtNDkxMzUyNTXSATVodHRwczovL3d3dy5iYmMuY29tL25ld3MvYW1wL3dvcmxkLXVzLWNhbmFkYS00OTEzNTI1NQ?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-27T02:00:03.060831", 
+    "query": "donald trump"
+  }, 
+  {
+    "publication": "CNN", 
+    "idx": 14, 
+    "title": "Washington Post: Former Republican designed fake presidential seal that appeared behind Trump", 
+    "google_url": "http://news.google.com/./articles/CAIiEMkWZ2_vtPRngLhSxM8NF1EqGQgEKhAIACoHCAowocv1CjCSptoCMPrTpgU?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-27T02:00:03.060831", 
+    "query": "donald trump"
+  }, 
+  {
+    "publication": "HuffPost", 
+    "idx": 15, 
+    "title": "Boris Johnson and Donald Trump Are Peak White Male Privilege", 
+    "google_url": "http://news.google.com/./articles/CAIiEOMSuoalKhKIOuF5HhhNFawqFggEKg0IACoGCAowxYgCMIBNMJeP1AM?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-27T02:00:03.060831", 
+    "query": "donald trump"
+  }, 
+  {
+    "publication": "USA TODAY", 
+    "idx": 16, 
+    "title": "Trump appears in front of altered presidential seal saying '45 is a puppet'", 
+    "google_url": "http://news.google.com/./articles/CAIiEFPJyTkrhjkJua-NJqqKTk0qGQgEKhAIACoHCAowjsP7CjCSpPQCMKCK0wU?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-27T02:00:03.060831", 
+    "query": "donald trump"
+  }, 
+  {
+    "publication": "CNN", 
+    "idx": 17, 
+    "title": "Trump rips Sweden, France and Fox News in Twitter rant", 
+    "google_url": "http://news.google.com/./articles/CAIiECNM8b_K6h36W5FddupCi68qGQgEKhAIACoHCAowocv1CjCSptoCMI29pgU?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-27T02:00:03.060831", 
+    "query": "donald trump"
+  }, 
+  {
+    "publication": "HuffPost", 
+    "idx": 18, 
+    "title": "Seth Meyers Shreds The Donald Trump Word Error You Might Have Missed", 
+    "google_url": "http://news.google.com/./articles/CAIiEMti2Qqer7SyG7ysE8LxOd4qFQgEKg0IACoGCAowxYgCMIBNMKOXAg?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-27T02:00:03.060831", 
+    "query": "donald trump"
+  }, 
+  {
+    "publication": "ABC News", 
+    "idx": 19, 
+    "title": "Joy Behar changes her mind on impeaching Trump after Mueller hearing", 
+    "google_url": "http://news.google.com/./articles/CBMidGh0dHBzOi8vYWJjbmV3cy5nby5jb20vRW50ZXJ0YWlubWVudC9qb3ktYmVoYXItZmxpcHBlZC1vcGluaW9uLXRydW1wLWltcGVhY2htZW50LW11ZWxsZXItdGVzdGltb255L3N0b3J5P2lkPTY0NTg3MDYx0gF4aHR0cHM6Ly9hYmNuZXdzLmdvLmNvbS9hbXAvRW50ZXJ0YWlubWVudC9qb3ktYmVoYXItZmxpcHBlZC1vcGluaW9uLXRydW1wLWltcGVhY2htZW50LW11ZWxsZXItdGVzdGltb255L3N0b3J5P2lkPTY0NTg3MDYx?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-27T02:00:03.060831", 
+    "query": "donald trump"
+  }, 
+  {
+    "publication": "The Nation", 
+    "idx": 20, 
+    "title": "Donald Trump and the Plot to Take Over the Courts", 
+    "google_url": "http://news.google.com/./articles/CBMiQ2h0dHBzOi8vd3d3LnRoZW5hdGlvbi5jb20vYXJ0aWNsZS90cnVtcC1tY2Nvbm5lbC1jb3VydC1qdWRnZXMtcGxvdC_SAQA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-27T02:00:03.060831", 
+    "query": "donald trump"
+  }, 
+  {
+    "publication": "PEOPLE.com", 
+    "idx": 21, 
+    "title": "Trump Is Not Happy Sweden Is Prosecuting A$AP Rocky: 'Treat Americans Fairly!'", 
+    "google_url": "http://news.google.com/./articles/CBMiamh0dHBzOi8vcGVvcGxlLmNvbS9wb2xpdGljcy9kb25hbGQtdHJ1bXAtY3JpdGljaXplcy1kZWNpc2lvbi10by1wcm9zZWN1dGUtYWFwLXJvY2t5LWZvci1hc3NhdWx0LWluLXN3ZWRlbi_SAW5odHRwczovL3Blb3BsZS5jb20vcG9saXRpY3MvZG9uYWxkLXRydW1wLWNyaXRpY2l6ZXMtZGVjaXNpb24tdG8tcHJvc2VjdXRlLWFhcC1yb2NreS1mb3ItYXNzYXVsdC1pbi1zd2VkZW4vYW1wLw?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-27T02:00:03.060831", 
+    "query": "donald trump"
+  }, 
+  {
+    "publication": "CNBC", 
+    "idx": 22, 
+    "title": "Trump's Bronx golf course lost $122,000 last year and blamed New York City", 
+    "google_url": "http://news.google.com/./articles/CAIiENJdcM1NeRq5ogv-yt9UHasqGQgEKhAIACoHCAow2Nb3CjDivdcCMM_rngY?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-27T02:00:03.060831", 
+    "query": "donald trump"
+  }, 
+  {
+    "publication": "POLITICO", 
+    "idx": 23, 
+    "title": "Trump says low-polling 2020 Dems aren't 'gaining traction'", 
+    "google_url": "http://news.google.com/./articles/CAIiEHJPQlWlfngj1VgF2cz4ov0qGQgEKhAIACoHCAow4Zn5CjCu8uACMLTRlgY?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-27T02:00:03.060831", 
+    "query": "donald trump"
+  }, 
+  {
+    "publication": "POLITICO", 
+    "idx": 24, 
+    "title": "Trump's 'don\u2019t screw it up' caucus keeps winning", 
+    "google_url": "http://news.google.com/./articles/CAIiEEVEpIzJZY_eE3ij54NCMtsqGQgEKhAIACoHCAow4Zn5CjCu8uACMLTRlgY?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-27T02:00:03.060831", 
+    "query": "donald trump"
+  }, 
+  {
+    "publication": "CNBC", 
+    "idx": 25, 
+    "title": "Trump decides against currency intervention after meeting about ways to weaken dollar", 
+    "google_url": "http://news.google.com/./articles/CAIiEI8rRjh-oDj9ERdnUzB3hTkqGQgEKhAIACoHCAow2Nb3CjDivdcCMP3ungY?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-27T02:00:03.060831", 
+    "query": "donald trump"
+  }, 
+  {
+    "publication": "HuffPost", 
+    "idx": 26, 
+    "title": "Fox News Legal Analyst Torches Donald Trump For Unleashing 'Torrent Of Hatred'", 
+    "google_url": "http://news.google.com/./articles/CAIiEGkI8pZJkcfGtgz1l8ANcHYqFggEKg0IACoGCAowxYgCMIBNMK2HuAM?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-27T02:00:03.060831", 
+    "query": "donald trump"
+  }, 
+  {
+    "publication": "USA TODAY", 
+    "idx": 27, 
+    "title": "Ilhan Omar on Trump: This is 'a fight for the soul of our nation'", 
+    "google_url": "http://news.google.com/./articles/CAIiEPGNmccI_g32kFGJPeB-edwqGQgEKhAIACoHCAowjsP7CjCSpPQCMKCK0wU?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-27T02:00:03.060831", 
+    "query": "donald trump"
+  }, 
+  {
+    "publication": "Washington Post", 
+    "idx": 28, 
+    "title": "Donald Trump is stressing out America", 
+    "google_url": "http://news.google.com/./articles/CBMiWGh0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS9vdXRsb29rLzIwMTkvMDcvMjQvZG9uYWxkLXRydW1wLWlzLXN0cmVzc2luZy1vdXQtYW1lcmljYS_SAWhodHRwczovL2JldGEud2FzaGluZ3RvbnBvc3QuY29tL291dGxvb2svMjAxOS8wNy8yNC9kb25hbGQtdHJ1bXAtaXMtc3RyZXNzaW5nLW91dC1hbWVyaWNhLz9vdXRwdXRUeXBlPWFtcA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-27T02:00:03.060831", 
+    "query": "donald trump"
+  }, 
+  {
+    "publication": "Business Insider", 
+    "idx": 29, 
+    "title": "Trump reportedly wants to 'scuttle' $10 billion JEDI cloud contract", 
+    "google_url": "http://news.google.com/./articles/CAIiEOzkmdmwRqj_2YyXnD2odRAqLggEKiUIACIbd3d3LmJ1c2luZXNzaW5zaWRlci5jb20vc2FpKgQICjAMMNfv5wE?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-27T02:00:03.060831", 
+    "query": "donald trump"
+  }, 
+  {
+    "publication": "USA TODAY", 
+    "idx": 30, 
+    "title": "Donald Trump's budget deal with Democrats passes House but conservatives pan it as reckless", 
+    "google_url": "http://news.google.com/./articles/CAIiEJYw-oUypyE04NpC734JfPQqGQgEKhAIACoHCAowjsP7CjCSpPQCMKCK0wU?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-27T02:00:03.060831", 
+    "query": "donald trump"
+  }, 
+  {
+    "publication": "CNN", 
+    "idx": 31, 
+    "title": "Here's a little secret about Donald Trump's plans today", 
+    "google_url": "http://news.google.com/./articles/CAIiEHFXS8cJyZqVtCWKFxVxI-MqGQgEKhAIACoHCAowocv1CjCSptoCMPrTpgU?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-27T02:00:03.060831", 
+    "query": "donald trump"
+  }, 
+  {
+    "publication": "POLITICO", 
+    "idx": 32, 
+    "title": "Why Trump swallowed a budget deal that bleeds red ink", 
+    "google_url": "http://news.google.com/./articles/CAIiEEZh-nAvjkz3Chw660EJ-I4qGQgEKhAIACoHCAow4Zn5CjCu8uACMLTRlgY?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-27T02:00:03.060831", 
+    "query": "donald trump"
+  }, 
+  {
+    "publication": "Vox.com", 
+    "idx": 33, 
+    "title": "Trump is letting North Korea\u2019s Kim Jong Un do almost anything he wants", 
+    "google_url": "http://news.google.com/./articles/CAIiEJSqfl2XGaiGT12eqxIqA8sqFwgEKg8IACoHCAowlOzSATCaiDUwo9dy?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-27T02:00:03.060831", 
+    "query": "donald trump"
+  }, 
+  {
+    "publication": "The Root", 
+    "idx": 34, 
+    "title": "Donald Trump Is Scared AF", 
+    "google_url": "http://news.google.com/./articles/CAIiEISBbuMNx7Fk3hMADOBWAFgqFwgEKg4IACoGCAowk_YSMOCqBDDJg9UF?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-27T02:00:03.060831", 
+    "query": "donald trump"
+  }, 
+  {
+    "publication": "CNN", 
+    "idx": 35, 
+    "title": "What's behind Donald Trump's attack on 'The Squad' as 'not very smart?'", 
+    "google_url": "http://news.google.com/./articles/CAIiEMhE8rd9TGQUOueBJA2xTuEqGQgEKhAIACoHCAowocv1CjCSptoCMPrTpgU?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-27T02:00:03.060831", 
+    "query": "donald trump"
+  }, 
+  {
+    "publication": "The New York Times", 
+    "idx": 36, 
+    "title": "Everyone\u2019s an Idiot, Except Donald Trump", 
+    "google_url": "http://news.google.com/./articles/CAIiEMFkGWajsMmnmALbhWhXQVUqGAgEKg8IACoHCAowjuuKAzCWrzwworyzBg?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-27T02:00:03.060831", 
+    "query": "donald trump"
+  }, 
+  {
+    "publication": "Mother Jones", 
+    "idx": 37, 
+    "title": "Donald Trump's Approval Rating Is Set In Stone", 
+    "google_url": "http://news.google.com/./articles/CBMiXWh0dHBzOi8vd3d3Lm1vdGhlcmpvbmVzLmNvbS9rZXZpbi1kcnVtLzIwMTkvMDcvZG9uYWxkLXRydW1wcy1hcHByb3ZhbC1yYXRpbmctaXMtc2V0LWluLXN0b25lL9IBAA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-27T02:00:03.060831", 
+    "query": "donald trump"
+  }, 
+  {
+    "publication": "OregonLive", 
+    "idx": 38, 
+    "title": "Donald Trump's state-by-state popularity shows 2020 Electoral College wipeout, but president has path to victory", 
+    "google_url": "http://news.google.com/./articles/CAIiEE0iirLXqAOBmaRp8XgyLoMqGQgEKhAIACoHCAownqX_CjCltfgCMJm5pAY?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-27T02:00:03.060831", 
+    "query": "donald trump"
+  }, 
+  {
+    "publication": "PEOPLE.com", 
+    "idx": 39, 
+    "title": "The Story Behind That Viral SNL Skit of Donald Trump with Dancing Chickens: 'Horrifying and Amazing'", 
+    "google_url": "http://news.google.com/./articles/CBMiR2h0dHBzOi8vcGVvcGxlLmNvbS9wb2xpdGljcy9kb25hbGQtdHJ1bXAtMjAwNC1zbmwtaG91c2Utb2Ytd2luZ3MtdmlkZW8v0gFLaHR0cHM6Ly9wZW9wbGUuY29tL3BvbGl0aWNzL2RvbmFsZC10cnVtcC0yMDA0LXNubC1ob3VzZS1vZi13aW5ncy12aWRlby9hbXAv?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-27T02:00:03.060831", 
+    "query": "donald trump"
+  }, 
+  {
+    "publication": "Slate", 
+    "idx": 40, 
+    "title": "Republicans Embrace Fake News to Cover for Trump", 
+    "google_url": "http://news.google.com/./articles/CAIiELungXkbZrtHthswVx8plv4qFQgEKg0IACoGCAowuLUIMNFnMLnhAg?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-27T02:00:03.060831", 
+    "query": "donald trump"
+  }, 
+  {
+    "publication": "POLITICO", 
+    "idx": 41, 
+    "title": "Trump's suit to block Democrats from getting his New York tax returns will be handed off to another judge", 
+    "google_url": "http://news.google.com/./articles/CAIiEJA-BQUhZhMXXLaUgheYCRkqGQgEKhAIACoHCAow4Zn5CjCu8uACMLTRlgY?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-27T02:00:03.060831", 
+    "query": "donald trump"
+  }, 
+  {
+    "publication": "CNN", 
+    "idx": 42, 
+    "title": "Why Trump is winning his war with the Federal Reserve", 
+    "google_url": "http://news.google.com/./articles/CAIiEO8orSGWCzkdhKnHCoKnee4qGQgEKhAIACoHCAowocv1CjCSptoCMPrTpgU?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-27T02:00:03.060831", 
+    "query": "donald trump"
+  }, 
+  {
+    "publication": "The New York Times", 
+    "idx": 43, 
+    "title": "Why E. Jean Carroll, \u2018the Anti-Victim,\u2019 Spoke Up About Trump", 
+    "google_url": "http://news.google.com/./articles/CAIiENzzhS3hW6U_OCsNpsz2CjoqFwgEKg8IACoHCAowjuuKAzCWrzwwt4QY?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-27T02:00:03.060831", 
+    "query": "donald trump"
+  }, 
+  {
+    "publication": "CBS News", 
+    "idx": 44, 
+    "title": "Mike Wallace grills Donald Trump on his political ambitions in 1985", 
+    "google_url": "http://news.google.com/./articles/CAIiEN-jqUrapb_DkBLn2JM7iYIqGQgEKhAIACoHCAowyNj6CjDyiPICMOPfxAU?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-27T02:00:03.060831", 
+    "query": "donald trump"
+  }, 
+  {
+    "publication": "The New Yorker", 
+    "idx": 45, 
+    "title": "Donald Trump\u2019s Idea of Selective Citizenship", 
+    "google_url": "http://news.google.com/./articles/CAIiEBujzr0t3WM12eF4HjyGed8qGQgEKhAIACoHCAowjMqjCjCJhZwBMMPvrAM?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-27T02:00:03.060831", 
+    "query": "donald trump"
+  }, 
+  {
+    "publication": "CNN", 
+    "idx": 46, 
+    "title": "Trump is trying to repeat history", 
+    "google_url": "http://news.google.com/./articles/CAIiECILklcyl8mDuwvEpDxu_0kqGQgEKhAIACoHCAowocv1CjCSptoCMKrUpgU?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-27T02:00:03.060831", 
+    "query": "donald trump"
+  }, 
+  {
+    "publication": "CNN", 
+    "idx": 47, 
+    "title": "Trump makes people feel lousy. That could spell his political doom", 
+    "google_url": "http://news.google.com/./articles/CAIiEKeFMd_iTlxu4LwkULziGVEqGQgEKhAIACoHCAowocv1CjCSptoCMPrTpgU?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-27T02:00:03.060831", 
+    "query": "donald trump"
+  }, 
+  {
+    "publication": "USA TODAY", 
+    "idx": 48, 
+    "title": "Geraldo Rivera on Trump 'go back' tweets: His critics 'were much more right than I'", 
+    "google_url": "http://news.google.com/./articles/CAIiECC1ElIXymstvGuEEe-xfrcqGQgEKhAIACoHCAowjsP7CjCSpPQCMM_b5QU?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-27T02:00:03.060831", 
+    "query": "donald trump"
+  }, 
+  {
+    "publication": "USA TODAY", 
+    "idx": 49, 
+    "title": "Trump calls congresswomen racist day after his adviser says the term is used to silence speech", 
+    "google_url": "http://news.google.com/./articles/CAIiEGyLNZCXPQB8UZVPDVThPIIqGQgEKhAIACoHCAowjsP7CjCSpPQCMKCK0wU?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-27T02:00:03.060831", 
+    "query": "donald trump"
+  }, 
+  {
+    "publication": "POLITICO", 
+    "idx": 50, 
+    "title": "Donald Trump Is Who We Thought He Was", 
+    "google_url": "http://news.google.com/./articles/CAIiEC0E6AYUvIz03s1l1cx4Y6MqGQgEKhAIACoHCAow4Zn5CjCu8uACMLTRlgY?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-27T02:00:03.060831", 
+    "query": "donald trump"
+  }, 
+  {
+    "publication": "HuffPost", 
+    "idx": 51, 
+    "title": "Democrats Just Blew Up A Top Trump Argument For Keeping His Taxes Secret", 
+    "google_url": "http://news.google.com/./articles/CAIiEP6q2rKCwD8RS1Jg9WkBmnEqFggEKg0IACoGCAowxYgCMIBNMJeP1AM?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-27T02:00:03.060831", 
+    "query": "donald trump"
+  }, 
+  {
+    "publication": "CNN", 
+    "idx": 52, 
+    "title": "'Send her back!' chant shows Trump's ugly plan to get reelected", 
+    "google_url": "http://news.google.com/./articles/CAIiEOVmeaxobwbHyEtcjD8NPmsqGQgEKhAIACoHCAowocv1CjCSptoCMJrUpgU?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-27T02:00:03.060831", 
+    "query": "donald trump"
+  }, 
+  {
+    "publication": "Chicago Sun-Times", 
+    "idx": 53, 
+    "title": "Thank you, Donald Trump", 
+    "google_url": "http://news.google.com/./articles/CAIiEHRjgyIKmYQvM4eneDtKAN4qGQgEKhAIACoHCAowsbfwCjCm2LoCMOeDkgM?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-27T02:00:03.060831", 
+    "query": "donald trump"
+  }, 
+  {
+    "publication": "CNN", 
+    "idx": 54, 
+    "title": "Why Donald Trump is thrilled about this fight with the 'Squad'", 
+    "google_url": "http://news.google.com/./articles/CAIiEGRx4c67RbVsGKzoAcqkgh8qGQgEKhAIACoHCAowocv1CjCSptoCMJrUpgU?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-27T02:00:03.060831", 
+    "query": "donald trump"
+  }, 
+  {
+    "publication": "POLITICO", 
+    "idx": 55, 
+    "title": "Trump wants restraining order to keep his New York tax returns away from Democrats", 
+    "google_url": "http://news.google.com/./articles/CAIiEBcWuNugMBo_ZU_Eky1CrjAqGQgEKhAIACoHCAow4Zn5CjCu8uACMLTRlgY?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-27T02:00:03.060831", 
+    "query": "donald trump"
+  }, 
+  {
+    "publication": "The New Yorker", 
+    "idx": 56, 
+    "title": "The Democrats\u2019 Immigration Problem Is Bigger than Trump", 
+    "google_url": "http://news.google.com/./articles/CAIiEMvNxEM_chC6orqHawZrNTAqGQgEKhAIACoHCAowjMqjCjCJhZwBMKHUywM?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-27T02:00:03.060831", 
+    "query": "donald trump"
+  }, 
+  {
+    "publication": "Vox.com", 
+    "idx": 57, 
+    "title": "The White House\u2019s claim about Russia having no impact on the election, debunked", 
+    "google_url": "http://news.google.com/./articles/CAIiEFKo493ytdHpAAKTWNGyx64qFwgEKg8IACoHCAowlOzSATCaiDUwo9dy?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-27T02:00:03.060831", 
+    "query": "donald trump"
+  }, 
+  {
+    "publication": "HuffPost", 
+    "idx": 58, 
+    "title": "Trump Introduces New Defense Secretary Mark Esper With New Word: 'Infantroopen'", 
+    "google_url": "http://news.google.com/./articles/CAIiEHqlssRvg_d44n-Aul44bokqFggEKg0IACoGCAowxYgCMIBNMJeP1AM?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-27T02:00:03.060831", 
+    "query": "donald trump"
+  }, 
+  {
+    "publication": "USA TODAY", 
+    "idx": 59, 
+    "title": "President Trump vetoes bills that would have blocked Saudi weapons deal", 
+    "google_url": "http://news.google.com/./articles/CAIiEM_pjPmw4tWciUpRHLtP4zUqGQgEKhAIACoHCAowjsP7CjCSpPQCMKCK0wU?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-27T02:00:03.060831", 
+    "query": "donald trump"
+  }, 
+  {
+    "publication": "Quartz", 
+    "idx": 60, 
+    "title": "Boris Johnson isn't the UK's Donald Trump", 
+    "google_url": "http://news.google.com/./articles/CAIiEBj3Lm9wWEoLcU3UeHtYnRAqGAgEKg8IACoHCAowi4-MATDXsRUwhP2ZAg?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-27T02:00:03.060831", 
+    "query": "donald trump"
+  }, 
+  {
+    "publication": "Newsweek", 
+    "idx": 61, 
+    "title": "Hong Kong Protesters Need U.S. Support, but Donald Trump Is Holding Back", 
+    "google_url": "http://news.google.com/./articles/CBMiWmh0dHBzOi8vd3d3Lm5ld3N3ZWVrLmNvbS9ob25nLWtvbmctcHJvdGVzdGVycy11cy1zdXBwb3J0LWRvbmFsZC10cnVtcC1ob2xkaW5nLWJhY2stMTQ1MTA4MtIBYGh0dHBzOi8vd3d3Lm5ld3N3ZWVrLmNvbS9ob25nLWtvbmctcHJvdGVzdGVycy11cy1zdXBwb3J0LWRvbmFsZC10cnVtcC1ob2xkaW5nLWJhY2stMTQ1MTA4Mj9hbXA9MQ?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-27T02:00:03.060831", 
+    "query": "donald trump"
+  }, 
+  {
+    "publication": "CNN", 
+    "idx": 62, 
+    "title": "Trump sees political win in racist jabs that also surprised aides", 
+    "google_url": "http://news.google.com/./articles/CAIiEMagnRRl07unwEZvdO7DfLwqGQgEKhAIACoHCAowocv1CjCSptoCMPrTpgU?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-27T02:00:03.060831", 
+    "query": "donald trump"
+  }, 
+  {
+    "publication": "ABC News", 
+    "idx": 63, 
+    "title": "Trump tweets Apple will not receive tariff waivers for parts made in China", 
+    "google_url": "http://news.google.com/./articles/CBMiZmh0dHBzOi8vYWJjbmV3cy5nby5jb20vQnVzaW5lc3MvdHJ1bXAtdHdlZXRzLWFwcGxlLXJlY2VpdmUtdGFyaWZmLXdhaXZlcnMtcGFydHMtbWFkZS9zdG9yeT9pZD02NDU4NzA5NtIBamh0dHBzOi8vYWJjbmV3cy5nby5jb20vYW1wL0J1c2luZXNzL3RydW1wLXR3ZWV0cy1hcHBsZS1yZWNlaXZlLXRhcmlmZi13YWl2ZXJzLXBhcnRzLW1hZGUvc3Rvcnk_aWQ9NjQ1ODcwOTY?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-27T02:00:03.060831", 
+    "query": "donald trump"
+  }, 
+  {
+    "publication": "CNN", 
+    "idx": 64, 
+    "title": "Schools, corporations and local governments are listening to Trump's 'go back' language. Silence is a dangerous retort", 
+    "google_url": "http://news.google.com/./articles/CAIiEPhD5kfar7S0KpjnyjgSk5EqGQgEKhAIACoHCAowocv1CjCSptoCMPrTpgU?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-27T02:00:03.060831", 
+    "query": "donald trump"
+  }, 
+  {
+    "publication": "FiveThirtyEight", 
+    "idx": 65, 
+    "title": "Is Trump\u2019s Use Of Identity Politics An Effective Strategy?", 
+    "google_url": "http://news.google.com/./articles/CBMiWGh0dHBzOi8vZml2ZXRoaXJ0eWVpZ2h0LmNvbS9mZWF0dXJlcy9pcy10cnVtcHMtdXNlLW9mLXdoaXRlLWlkZW50aXR5LXBvbGl0aWNzLXN0cmF0ZWdpYy_SAVxodHRwczovL2ZpdmV0aGlydHllaWdodC5jb20vZmVhdHVyZXMvaXMtdHJ1bXBzLXVzZS1vZi13aGl0ZS1pZGVudGl0eS1wb2xpdGljcy1zdHJhdGVnaWMvYW1wLw?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-27T02:00:03.060831", 
+    "query": "donald trump"
+  }, 
+  {
+    "publication": "National Review", 
+    "idx": 66, 
+    "title": "Trump 2020 vs. Obama 2012", 
+    "google_url": "http://news.google.com/./articles/CAIiEFXTZdoMVpQjWXtBWrUdpxQqGQgEKhAIACoHCAowh4uHCzDap4UDMPTylgY?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-27T02:00:03.060831", 
+    "query": "donald trump"
+  }, 
+  {
+    "publication": "HuffPost", 
+    "idx": 67, 
+    "title": "Donald Trump Turns On Fox News: 'Sure Ain't What It Used To Be'", 
+    "google_url": "http://news.google.com/./articles/CAIiEMcp5dpEuNErUr4DugdJUgkqFQgEKg0IACoGCAowxYgCMIBNMOGXAg?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-27T02:00:03.060831", 
+    "query": "donald trump"
+  }, 
+  {
+    "publication": "National Review", 
+    "idx": 68, 
+    "title": "Was Trump\u2019s \u2018Go Back\u2019 Tweet Malice or Ignorance?", 
+    "google_url": "http://news.google.com/./articles/CAIiEF907_9NpWJuBHXWjGLnfPUqGQgEKhAIACoHCAowh4uHCzDap4UDMIn-lgY?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-27T02:00:03.060831", 
+    "query": "donald trump"
+  }, 
+  {
+    "publication": "National Review", 
+    "idx": 69, 
+    "title": "The Mueller Hearings Revealed Why You Shouldn\u2019t Bet against Trump", 
+    "google_url": "http://news.google.com/./articles/CAIiEBcC0OURByZRbv9cnXkNB0oqGQgEKhAIACoHCAowh4uHCzDap4UDMMDclgY?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-27T02:00:03.060831", 
+    "query": "donald trump"
+  }, 
+  {
+    "publication": "Newsweek", 
+    "idx": 70, 
+    "title": "Trump Fighting Russia Election Meddling 'More Than Obama': Kayleigh McEnany", 
+    "google_url": "http://news.google.com/./articles/CBMiV2h0dHBzOi8vd3d3Lm5ld3N3ZWVrLmNvbS90cnVtcC1maWdodGluZy1ydXNzaWEtZWxlY3Rpb24taW50ZXJmZXJlbmNlLW9iYW1hLTIwMjAtMTQ1MTIzNNIBXWh0dHBzOi8vd3d3Lm5ld3N3ZWVrLmNvbS90cnVtcC1maWdodGluZy1ydXNzaWEtZWxlY3Rpb24taW50ZXJmZXJlbmNlLW9iYW1hLTIwMjAtMTQ1MTIzND9hbXA9MQ?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-27T02:00:03.060831", 
+    "query": "donald trump"
+  }, 
+  {
+    "publication": "The Washington Post", 
+    "idx": 71, 
+    "title": "The enduring cruelty of Trump\u2019s immigration agenda", 
+    "google_url": "http://news.google.com/./articles/CAIiEGdTffkQJKCjHxt8zBSlMpoqGAgEKg8IACoHCAowjtSUCjC30XQwn6G5AQ?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-27T02:00:03.060831", 
+    "query": "donald trump"
+  }, 
+  {
+    "publication": "PBS NewsHour", 
+    "idx": 72, 
+    "title": "Trump won key union workers in 2016. Will Scalia as labor secretary change that for 2020?", 
+    "google_url": "http://news.google.com/./articles/CAIiEL6J72EQNh9XKABPQj8Dx-UqGQgEKhAIACoHCAow6-PzCjD7sNQCMIbmlgY?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-27T02:00:03.060831", 
+    "query": "donald trump"
+  }, 
+  {
+    "publication": "CNN", 
+    "idx": 73, 
+    "title": "Donald Trump stokes fear and conspiracy on path to 2020", 
+    "google_url": "http://news.google.com/./articles/CAIiEP-R4OvB5dcZB2YMGnsW8l4qGQgEKhAIACoHCAowocv1CjCSptoCMPrTpgU?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-27T02:00:03.060831", 
+    "query": "donald trump"
+  }, 
+  {
+    "publication": "CNBC", 
+    "idx": 74, 
+    "title": "'Will Donald Trump ever be happy?': Ex-German defense chief questions calls for increased NATO spend", 
+    "google_url": "http://news.google.com/./articles/CAIiEN6a4Go2rN0_sdd1K41MSZYqGQgEKhAIACoHCAow2Nb3CjDivdcCMIrzngY?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-27T02:00:03.060831", 
+    "query": "donald trump"
+  }, 
+  {
+    "publication": "Indianapolis Star", 
+    "idx": 75, 
+    "title": "Here's what Pete Buttigieg and Kamala Harris said about Donald Trump in Indy Friday morning", 
+    "google_url": "http://news.google.com/./articles/CBMifWh0dHBzOi8vd3d3LmluZHlzdGFyLmNvbS9zdG9yeS9uZXdzL3BvbGl0aWNzLzIwMTkvMDcvMjYvbWF5b3ItcGV0ZS1idXR0aWdpZWctZGVtb2NyYXQtY2FsbHMtZG9uYWxkLXRydW1wLWEtcmFjaXN0LzE3OTYyMTEwMDEv0gEnaHR0cHM6Ly9hbXAuaW5keXN0YXIuY29tL2FtcC8xNzk2MjExMDAx?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-27T02:00:03.060831", 
+    "query": "donald trump"
+  }, 
+  {
+    "publication": "Esquire.com", 
+    "idx": 76, 
+    "title": "Donald Trump Gave A Speech In Front Of A Fake, Russia-Inspired Presidential Seal", 
+    "google_url": "http://news.google.com/./articles/CBMieGh0dHBzOi8vd3d3LmVzcXVpcmUuY29tL3VrL2xhdGVzdC1uZXdzL2EyODUwMzA2My9kb25hbGQtdHJ1bXAtZ2F2ZS1hLXNwZWVjaC1pbi1mcm9udC1vZi1hLWZha2UtcnVzc2lhLXByZXNpZGVudGlhbC1zZWFsL9IBemh0dHBzOi8vd3d3LmVzcXVpcmUuY29tL3VrL2xhdGVzdC1uZXdzL2FtcDI4NTAzMDYzL2RvbmFsZC10cnVtcC1nYXZlLWEtc3BlZWNoLWluLWZyb250LW9mLWEtZmFrZS1ydXNzaWEtcHJlc2lkZW50aWFsLXNlYWwv?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-27T02:00:03.060831", 
+    "query": "donald trump"
+  }, 
+  {
+    "publication": "The New Yorker", 
+    "idx": 77, 
+    "title": "\u201cI\u2019m Winning\u201d: Donald Trump\u2019s Calculated Racism", 
+    "google_url": "http://news.google.com/./articles/CAIiEFyWvUDnFQHobE34_kwX6uMqGQgEKhAIACoHCAowjMqjCjCJhZwBMNWYrQM?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-27T02:00:03.060831", 
+    "query": "donald trump"
+  }, 
+  {
+    "publication": "CNN", 
+    "idx": 78, 
+    "title": "Stephen Miller's laugh-out-loud excuse for Trump's 'send her back' reaction", 
+    "google_url": "http://news.google.com/./articles/CAIiEGNQOsPKBIEyZm5TBWISFtIqGQgEKhAIACoHCAowocv1CjCSptoCMPrTpgU?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-27T02:00:03.060831", 
+    "query": "donald trump"
+  }, 
+  {
+    "publication": "The New York Times", 
+    "idx": 79, 
+    "title": "Donald Trump and Race: It\u2019s a Long Story", 
+    "google_url": "http://news.google.com/./articles/CAIiEPrN7LUdpCMr3-QIEvz5V4sqGAgEKg8IACoHCAowjuuKAzCWrzwworyzBg?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-27T02:00:03.060831", 
+    "query": "donald trump"
+  }, 
+  {
+    "publication": "CNN", 
+    "idx": 80, 
+    "title": "NAACP unanimously calls on House to impeach President Donald Trump", 
+    "google_url": "http://news.google.com/./articles/CAIiEDuPx2KCcuYGBFN5BvypDRYqGQgEKhAIACoHCAowocv1CjCSptoCMPrTpgU?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-27T02:00:03.060831", 
+    "query": "donald trump"
+  }, 
+  {
+    "publication": "NBC News", 
+    "idx": 81, 
+    "title": "Trump sues to block New York law allowing Congress to get his state taxes", 
+    "google_url": "http://news.google.com/./articles/CAIiEHQUH_SmoTJL6OKFRYN9XD8qGQgEKhAIACoHCAowvIaCCzDnxf4CMP2F8gU?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-27T02:00:03.060831", 
+    "query": "donald trump"
+  }, 
+  {
+    "publication": "Salon", 
+    "idx": 82, 
+    "title": "Donald Trump files lawsuit in effort to block House Democrats from obtaining his state tax returns", 
+    "google_url": "http://news.google.com/./articles/CAIiEJeKalfu0Ci-5YicNs7h9ucqFAgEKgsIACoFCAowgGAwADDklYsG?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-27T02:00:03.060831", 
+    "query": "donald trump"
+  }, 
+  {
+    "publication": "The National Interest Online", 
+    "idx": 83, 
+    "title": "NAACP Calls for Donald Trump's Impeachment", 
+    "google_url": "http://news.google.com/./articles/CBMiW2h0dHBzOi8vbmF0aW9uYWxpbnRlcmVzdC5vcmcvYmxvZy9idXp6L25hYWNwLWNhbGxzLWRvbmFsZC10cnVtcCVFMiU4MCU5OXMtaW1wZWFjaG1lbnQtNjkwNDfSAQA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-27T02:00:03.060831", 
+    "query": "donald trump"
+  }, 
+  {
+    "publication": "Jacobin magazine", 
+    "idx": 84, 
+    "title": "The Donald Trump of Central America", 
+    "google_url": "http://news.google.com/./articles/CBMiSGh0dHBzOi8vd3d3LmphY29iaW5tYWcuY29tLzIwMTkvMDcvZWwtc2FsdmFkb3ItbmF5aWItYnVrZWxlLWRvbmFsZC10cnVtcNIBAA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-27T02:00:03.060831", 
+    "query": "donald trump"
+  }, 
+  {
+    "publication": "National Review", 
+    "idx": 85, 
+    "title": "House Democrats: We Won\u2019t Rest Until Trump Is Stopped . . . Okay, Time for Recess", 
+    "google_url": "http://news.google.com/./articles/CAIiEAGgKJJ4vQtWzDe_bL2Xbm4qGQgEKhAIACoHCAowh4uHCzDap4UDMMDclgY?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-27T02:00:03.060831", 
+    "query": "donald trump"
+  }, 
+  {
+    "publication": "Slate", 
+    "idx": 86, 
+    "title": "Donald Trump Really Means It", 
+    "google_url": "http://news.google.com/./articles/CAIiEHnnQQ0FZZPCaidEILLQZtQqFQgEKg0IACoGCAowuLUIMNFnMLnhAg?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-27T02:00:03.060831", 
+    "query": "donald trump"
+  }, 
+  {
+    "publication": "Rolling Stone", 
+    "idx": 87, 
+    "title": "Americans Are Absolutely Terrified of Trump", 
+    "google_url": "http://news.google.com/./articles/CAIiEMuPysKLg3QcQqVwEbUBeaUqGQgEKhAIACoHCAow9MSGCzCKpYQDML-UuQM?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-27T02:00:03.060831", 
+    "query": "donald trump"
+  }, 
+  {
+    "publication": "CNN", 
+    "idx": 88, 
+    "title": "How Trump got on stage with bogus presidential seal", 
+    "google_url": "http://news.google.com/./articles/CAIiEN0k6XA_2IVy8JE_F63FVUQqGQgEKhAIACoHCAowocv1CjCSptoCMI29pgU?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-27T02:00:03.060831", 
+    "query": "donald trump"
+  }, 
+  {
+    "publication": "USA TODAY", 
+    "idx": 89, 
+    "title": "Mariano Rivera defends support of President Donald Trump on 'Fox &amp; Friends'", 
+    "google_url": "http://news.google.com/./articles/CAIiEBLDLgVUlY6riZ2h16TvpFIqGQgEKhAIACoHCAowjsP7CjCSpPQCMKmw0wU?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-27T02:00:03.060831", 
+    "query": "donald trump"
+  }, 
+  {
+    "publication": "The New York Times", 
+    "idx": 90, 
+    "title": "How Not to Insult Donald Trump", 
+    "google_url": "http://news.google.com/./articles/CAIiEEd2C285BxStljyX5B_SphoqGAgEKg8IACoHCAowjuuKAzCWrzwworyzBg?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-27T02:00:03.060831", 
+    "query": "donald trump"
+  }, 
+  {
+    "publication": "The New York Times", 
+    "idx": 91, 
+    "title": "Jeffrey Epstein Was a \u2018Terrific Guy,\u2019 Donald Trump Once Said. Now He\u2019s \u2018Not a Fan.\u2019", 
+    "google_url": "http://news.google.com/./articles/CAIiEHfb4HBVR4_qrxYv8QQxC1YqFwgEKg8IACoHCAowjuuKAzCWrzwwqIQY?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-27T02:00:03.060831", 
+    "query": "donald trump"
+  }, 
+  {
+    "publication": "USA TODAY", 
+    "idx": 92, 
+    "title": "A military strike on Iran? Trump is reluctant to do it despite history of threats", 
+    "google_url": "http://news.google.com/./articles/CAIiECqEh5YluMJdMJUeYT8rnDAqGQgEKhAIACoHCAowjsP7CjCSpPQCMKCK0wU?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-27T02:00:03.060831", 
+    "query": "donald trump"
+  }, 
+  {
+    "publication": "USA TODAY", 
+    "idx": 93, 
+    "title": "Dan Le Batard to resume ESPN duties without public punishment after his comments on Donald Trump", 
+    "google_url": "http://news.google.com/./articles/CAIiEMUq2DzgZG59s3CVf99eXXAqGQgEKhAIACoHCAowjsP7CjCSpPQCMKmw0wU?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-27T02:00:03.060831", 
+    "query": "donald trump"
+  }, 
+  {
+    "publication": "Media Matters for America", 
+    "idx": 94, 
+    "title": "Sean Hannity asks Donald Trump if he has considered pardons for associates caught in Mueller investigation", 
+    "google_url": "http://news.google.com/./articles/CBMimAFodHRwczovL3d3dy5tZWRpYW1hdHRlcnMub3JnL3ZpZGVvLzIwMTkvMDcvMjUvc2Vhbi1oYW5uaXR5LWFza3MtZG9uYWxkLXRydW1wLWlmLWhlLWhhcy1jb25zaWRlcmVkLXBhcmRvbnMtYXNzb2NpYXRlcy1jYXVnaHQtbXVlbGxlci1pbnZlc3RpZ2F0aW9uLzIyNDMzM9IBAA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-27T02:00:03.060831", 
+    "query": "donald trump"
+  }, 
+  {
+    "publication": "Politico", 
+    "idx": 95, 
+    "title": "Trump warns of retaliation against Guatemala after immigration deal falls through", 
+    "google_url": "http://news.google.com/./articles/CBMiXmh0dHBzOi8vd3d3LnBvbGl0aWNvLmNvbS9zdG9yeS8yMDE5LzA3LzIzL3RydW1wLWd1YXRlbWFsYS1yZXRhbGlhdGlvbi1pbW1pZ3JhdGlvbi1kZWFsLTE0MjY3MjLSAWJodHRwczovL3d3dy5wb2xpdGljby5jb20vYW1wL3N0b3J5LzIwMTkvMDcvMjMvdHJ1bXAtZ3VhdGVtYWxhLXJldGFsaWF0aW9uLWltbWlncmF0aW9uLWRlYWwtMTQyNjcyMg?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-27T02:00:03.060831", 
+    "query": "donald trump"
+  }, 
+  {
+    "publication": "POLITICO", 
+    "idx": 96, 
+    "title": "Trump\u2019s third-country asylum ban halted temporarily by California judge", 
+    "google_url": "http://news.google.com/./articles/CAIiEN6wliW_mcnRKDbT1UcNUEEqGQgEKhAIACoHCAow4Zn5CjCu8uACMLTRlgY?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-27T02:00:03.060831", 
+    "query": "donald trump"
+  }, 
+  {
+    "publication": "POLITICO", 
+    "idx": 97, 
+    "title": "Trump\u2019s field-tested strategy: Whip up a frenzy, then disavow", 
+    "google_url": "http://news.google.com/./articles/CAIiEERTJPWN9h6vyNJkBcjgE5sqGQgEKhAIACoHCAow4Zn5CjCu8uACMLTRlgY?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-27T02:00:03.060831", 
+    "query": "donald trump"
+  }, 
+  {
+    "publication": "CNN", 
+    "idx": 98, 
+    "title": "Donald Trump Jr. to become an author this November", 
+    "google_url": "http://news.google.com/./articles/CAIiEOtx6pZLwWycsdIFTiuHZVMqGQgEKhAIACoHCAowocv1CjCSptoCMPrTpgU?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-27T02:00:03.060831", 
+    "query": "donald trump"
+  }, 
+  {
+    "publication": "Forbes", 
+    "idx": 99, 
+    "title": "The Definitive Net Worth Of Donald Trump\u2019s Cabinet", 
+    "google_url": "http://news.google.com/./articles/CBMiaWh0dHBzOi8vd3d3LmZvcmJlcy5jb20vc2l0ZXMvbWljaGVsYXRpbmRlcmEvMjAxOS8wNy8yNS90aGUtZGVmaW5pdGl2ZS1uZXQtd29ydGgtb2YtZG9uYWxkLXRydW1wcy1jYWJpbmV0L9IBbWh0dHBzOi8vd3d3LmZvcmJlcy5jb20vc2l0ZXMvbWljaGVsYXRpbmRlcmEvMjAxOS8wNy8yNS90aGUtZGVmaW5pdGl2ZS1uZXQtd29ydGgtb2YtZG9uYWxkLXRydW1wcy1jYWJpbmV0L2FtcC8?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-27T02:00:03.060831", 
+    "query": "donald trump"
+  }, 
+  {
+    "publication": "KTSM News Channel 9", 
+    "idx": 100, 
+    "title": "Donald Trump Jr. speaks at privately-built \u2018We Build the Wall\u2019 barrier near El Paso", 
+    "google_url": "http://news.google.com/./articles/CBMiemh0dHBzOi8vd3d3Lmt0c20uY29tL25ld3MvcG9saXRpY3MvZG9uYWxkLXRydW1wLWpyLXRvLXNwZWFrLWF0LXRoZS1wcml2YXRlbHktYnVpbHQtd2UtYnVpbGQtdGhlLXdhbGwtYmFycmllci1uZWFyLWVsLXBhc28v0gF-aHR0cHM6Ly93d3cua3RzbS5jb20vbmV3cy9wb2xpdGljcy9kb25hbGQtdHJ1bXAtanItdG8tc3BlYWstYXQtdGhlLXByaXZhdGVseS1idWlsdC13ZS1idWlsZC10aGUtd2FsbC1iYXJyaWVyLW5lYXItZWwtcGFzby9hbXAv?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-27T02:00:03.060831", 
+    "query": "donald trump"
+  }, 
+  {
+    "publication": "Yahoo Entertainment", 
+    "idx": 101, 
+    "title": "Donald Trump Jr. Is Writing a Book, Triggered, and Critics Have Already Turned It Into a Meme", 
+    "google_url": "http://news.google.com/./articles/CBMiT2h0dHBzOi8vd3d3LnlhaG9vLmNvbS9lbnRlcnRhaW5tZW50L2RvbmFsZC10cnVtcC1qci13cml0aW5nLWJvb2stMjE1NzI2OTgxLmh0bWzSAVdodHRwczovL3d3dy55YWhvby5jb20vYW1waHRtbC9lbnRlcnRhaW5tZW50L2RvbmFsZC10cnVtcC1qci13cml0aW5nLWJvb2stMjE1NzI2OTgxLmh0bWw?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-27T02:00:03.060831", 
+    "query": "donald trump"
+  }, 
+  {
+    "publication": "Vanity Fair", 
+    "idx": 102, 
+    "title": "Rudy Giuliani Returns to Implicate Trump in Epstein Scandal", 
+    "google_url": "http://news.google.com/./articles/CAIiEElIzWy183vof9zfYKyHI28qGAgEKg8IACoHCAowmKPyCTCo8nIw87nsBQ?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-27T02:00:03.060831", 
+    "query": "donald trump"
+  }, 
+  {
+    "publication": "CNN", 
+    "idx": 103, 
+    "title": "The roots of Trump's bullying", 
+    "google_url": "http://news.google.com/./articles/CAIiEG9kf-39nyf2ACRykmZEJhkqGQgEKhAIACoHCAowocv1CjCSptoCMKrUpgU?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-27T02:00:03.060831", 
+    "query": "donald trump"
+  }
+]

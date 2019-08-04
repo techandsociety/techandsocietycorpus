@@ -1,0 +1,802 @@
+[
+  {
+    "publication": "The New York Times", 
+    "idx": 0, 
+    "title": "What Kamala Harris Doesn\u2019t Want to Be Asked at the Debate", 
+    "google_url": "http://news.google.com/./articles/CAIiEFiZrjIRIvg0jAPN2HssDUYqFwgEKg8IACoHCAowjuuKAzCWrzwwloEY?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-31T12:00:05.779989", 
+    "query": "kamala harris"
+  }, 
+  {
+    "publication": "CNN", 
+    "idx": 1, 
+    "title": "Here's why Kamala Harris needs another strong debate", 
+    "google_url": "http://news.google.com/./articles/CAIiEAMcxfsbfs4OByN-Gw1RpHAqGQgEKhAIACoHCAowocv1CjCSptoCMPrTpgU?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-31T12:00:05.779989", 
+    "query": "kamala harris"
+  }, 
+  {
+    "publication": "Washington Examiner", 
+    "idx": 2, 
+    "title": "Kamala Harris embraces exclusive blackness at the expense of her Indian heritage", 
+    "google_url": "http://news.google.com/./articles/CBMiggFodHRwczovL3d3dy53YXNoaW5ndG9uZXhhbWluZXIuY29tL29waW5pb24vb3AtZWRzL2thbWFsYS1oYXJyaXMtZW1icmFjZXMtZXhjbHVzaXZlLWJsYWNrbmVzcy1hdC10aGUtZXhwZW5zZS1vZi1oZXItaW5kaWFuLWhlcml0YWdl0gEA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-31T12:00:05.779989", 
+    "query": "kamala harris"
+  }, 
+  {
+    "publication": "CNBC", 
+    "idx": 3, 
+    "title": "Gavin Newsom opens $50 million donor network to Kamala Harris post 2020 endorsement", 
+    "google_url": "http://news.google.com/./articles/CAIiEHBTmUozOzxTTUqaggNaZL0qGQgEKhAIACoHCAow2Nb3CjDivdcCMKuvhQY?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-31T12:00:05.779989", 
+    "query": "kamala harris"
+  }, 
+  {
+    "publication": "Vanity Fair", 
+    "idx": 4, 
+    "title": "Gavin Newsom Wants His Rich Friends to Back Kamala Harris", 
+    "google_url": "http://news.google.com/./articles/CAIiEJ85vi-GYIiVzMGLP2XXM1QqGAgEKg8IACoHCAowmKPyCTCo8nIw87nsBQ?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-31T12:00:05.779989", 
+    "query": "kamala harris"
+  }, 
+  {
+    "publication": "The New York Times", 
+    "idx": 5, 
+    "title": "What Kamala Harris Believes", 
+    "google_url": "http://news.google.com/./articles/CAIiEHkH72RFh7Xs_XsSPZy9a8AqFwgEKg8IACoHCAowjuuKAzCWrzwwt4QY?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-31T12:00:05.779989", 
+    "query": "kamala harris"
+  }, 
+  {
+    "publication": "The New York Times", 
+    "idx": 6, 
+    "title": "Kamala Harris Sets Up Debate Showdown on Health Care With New Plan", 
+    "google_url": "http://news.google.com/./articles/CAIiEDR2yTBl6zhW7jGAxwaLbFQqFwgEKg8IACoHCAowjuuKAzCWrzwwloEY?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-31T12:00:05.779989", 
+    "query": "kamala harris"
+  }, 
+  {
+    "publication": "HuffPost", 
+    "idx": 7, 
+    "title": "Here Are The Kamala Harris Waving Memes You've Been Looking For", 
+    "google_url": "http://news.google.com/./articles/CAIiEFTfsevJkDb1buZTKh8TE_QqFQgEKg0IACoGCAowxYgCMIBNMKOXAg?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-31T12:00:05.779989", 
+    "query": "kamala harris"
+  }, 
+  {
+    "publication": "Page Six", 
+    "idx": 8, 
+    "title": "Movie producer to host intimate Hamptons event with Kamala Harris", 
+    "google_url": "http://news.google.com/./articles/CAIiEPlBG-MAKa5W-7X5aJKRu1oqGQgEKhAIACoHCAowmID5CjDdtOACMLzWtAU?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-31T12:00:05.779989", 
+    "query": "kamala harris"
+  }, 
+  {
+    "publication": "The Nation", 
+    "idx": 9, 
+    "title": "Kamala Harris Has Been Here Before", 
+    "google_url": "http://news.google.com/./articles/CBMiTmh0dHBzOi8vd3d3LnRoZW5hdGlvbi5jb20vYXJ0aWNsZS9rYW1hbGEtaGFycmlzLXRlcmVuY2UtaGFsbGluYW4td2lsbGllLWJyb3duL9IBAA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-31T12:00:05.779989", 
+    "query": "kamala harris"
+  }, 
+  {
+    "publication": "The Intercept", 
+    "idx": 10, 
+    "title": "Kamala Harris Gets Donations from Big Pharma Executives", 
+    "google_url": "http://news.google.com/./articles/CBMiR2h0dHBzOi8vdGhlaW50ZXJjZXB0LmNvbS8yMDE5LzA3LzMwL2thbWFsYS1oYXJyaXMtYmlnLXBoYXJtYS1kb25hdGlvbnMv0gEA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-31T12:00:05.779989", 
+    "query": "kamala harris"
+  }, 
+  {
+    "publication": "McClatchy Washington Bureau", 
+    "idx": 11, 
+    "title": "CNN\u2019s Jeff Zucker once feted Kamala Harris. Will that help or hurt in 2020?", 
+    "google_url": "http://news.google.com/./articles/CAIiEPX2UJk-nvHi0X81pSo7_EsqGQgEKhAIACoHCAowzNmECzCZyoEDMM32gwY?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-31T12:00:05.779989", 
+    "query": "kamala harris"
+  }, 
+  {
+    "publication": "The Washington Post", 
+    "idx": 12, 
+    "title": "If Kamala Harris wants to win, she needs to find a higher gear", 
+    "google_url": "http://news.google.com/./articles/CAIiEJ64CodtkVWIWzpvkH3u02gqGAgEKg8IACoHCAowjtSUCjC30XQw_qe5AQ?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-31T12:00:05.779989", 
+    "query": "kamala harris"
+  }, 
+  {
+    "publication": "CNN", 
+    "idx": 13, 
+    "title": "Kamala Harris: I'm ready to fight. I know how to fight", 
+    "google_url": "http://news.google.com/./articles/CAIiEMSNgrixoYLmKpU_J8XtnOYqGQgEKhAIACoHCAowocv1CjCSptoCMI29pgU?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-31T12:00:05.779989", 
+    "query": "kamala harris"
+  }, 
+  {
+    "publication": "USA TODAY", 
+    "idx": 14, 
+    "title": "Kamala Harris knows how to 'throw an elbow': How California politics shaped the 2020 hopeful", 
+    "google_url": "http://news.google.com/./articles/CAIiEMA5eVNZ4uDHhHigj9xS5M4qGQgEKhAIACoHCAowjsP7CjCSpPQCMKCK0wU?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-31T12:00:05.779989", 
+    "query": "kamala harris"
+  }, 
+  {
+    "publication": "The Washington Post", 
+    "idx": 15, 
+    "title": "The school busing debate between Joe Biden and Kamala Harris", 
+    "google_url": "http://news.google.com/./articles/CAIiEBkneglwJnz9RVHghrqTsbgqGAgEKg8IACoHCAowjtSUCjC30XQw36e5AQ?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-31T12:00:05.779989", 
+    "query": "kamala harris"
+  }, 
+  {
+    "publication": "ABC News", 
+    "idx": 16, 
+    "title": "Kamala Harris' new health plan draws critics from all sides", 
+    "google_url": "http://news.google.com/./articles/CBMiYGh0dHBzOi8vYWJjbmV3cy5nby5jb20vSGVhbHRoL3dpcmVTdG9yeS9rYW1hbGEtaGFycmlzLXJlbGVhc2VzLWRldGFpbHMtaGVhbHRoLWNhcmUtcGxhbi02NDYyODA4OdIBZGh0dHBzOi8vYWJjbmV3cy5nby5jb20vYW1wL0hlYWx0aC93aXJlU3Rvcnkva2FtYWxhLWhhcnJpcy1yZWxlYXNlcy1kZXRhaWxzLWhlYWx0aC1jYXJlLXBsYW4tNjQ2MjgwODk?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-31T12:00:05.779989", 
+    "query": "kamala harris"
+  }, 
+  {
+    "publication": "Washington Examiner", 
+    "idx": 17, 
+    "title": "'Losing out': Indian Americans say Kamala Harris needs to do more to win them over", 
+    "google_url": "http://news.google.com/./articles/CBMid2h0dHBzOi8vd3d3Lndhc2hpbmd0b25leGFtaW5lci5jb20vbmV3cy9sb3Npbmctb3V0LWluZGlhbi1hbWVyaWNhbnMtc2F5LWthbWFsYS1oYXJyaXMtbmVlZHMtdG8tZG8tbW9yZS10by13aW4tdGhlbS1vdmVy0gEA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-31T12:00:05.779989", 
+    "query": "kamala harris"
+  }, 
+  {
+    "publication": "Vox.com", 
+    "idx": 18, 
+    "title": "The #KHive, Kamala Harris\u2019s most devoted online supporters, explained", 
+    "google_url": "http://news.google.com/./articles/CAIiEA2RFA607FRDnc5JDzL-u8EqGAgEKg8IACoHCAowlOzSATCaiDUw1aKsBQ?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-31T12:00:05.779989", 
+    "query": "kamala harris"
+  }, 
+  {
+    "publication": "The New Yorker", 
+    "idx": 19, 
+    "title": "Kamala Harris Makes Her Case", 
+    "google_url": "http://news.google.com/./articles/CAIiEOHZ9kj4uISUe3KCNxf_064qGQgEKhAIACoHCAowjMqjCjCJhZwBMKHUywM?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-31T12:00:05.779989", 
+    "query": "kamala harris"
+  }, 
+  {
+    "publication": "The Wall Street Journal", 
+    "idx": 20, 
+    "title": "Kamala Harris Unveils Plan to Transform Health Care to a Federal System", 
+    "google_url": "http://news.google.com/./articles/CAIiEA33ceGeZC6u09303HP243sqGAgEKg8IACoHCAow1tzJATDnyxUwiK20AQ?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-31T12:00:05.779989", 
+    "query": "kamala harris"
+  }, 
+  {
+    "publication": "The Wall Street Journal", 
+    "idx": 21, 
+    "title": "Kamala Harris Touts Tough-on-Banks Record. Others See a More Complicated Picture", 
+    "google_url": "http://news.google.com/./articles/CAIiEPl_-A-iMJYhco3Y9UNNh_gqGAgEKg8IACoHCAow1tzJATDnyxUwiK20AQ?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-31T12:00:05.779989", 
+    "query": "kamala harris"
+  }, 
+  {
+    "publication": "Los Angeles Times", 
+    "idx": 22, 
+    "title": "Kamala Harris' 'Medicare for all' plan includes a role for private health insurance", 
+    "google_url": "http://news.google.com/./articles/CAIiEE0KqOZC2WZNSMx_VfNX7XsqFwgEKg4IACoGCAowjKxcMOvhCzC6i50G?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-31T12:00:05.779989", 
+    "query": "kamala harris"
+  }, 
+  {
+    "publication": "The New York Times", 
+    "idx": 23, 
+    "title": "Kamala Harris and Alexandria Ocasio-Cortez Release Climate \u2018Equity\u2019 Plan", 
+    "google_url": "http://news.google.com/./articles/CAIiEN4V0RXTbvaiHaS0e8WtXNcqGAgEKg8IACoHCAowjuuKAzCWrzwwsLGmBg?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-31T12:00:05.779989", 
+    "query": "kamala harris"
+  }, 
+  {
+    "publication": "CNN", 
+    "idx": 24, 
+    "title": "Kamala Harris proposes $74.5 billion for black higher education and businesses", 
+    "google_url": "http://news.google.com/./articles/CAIiED2n-Yew3u4HY0rgeq-2TbAqGQgEKhAIACoHCAowocv1CjCSptoCMPrTpgU?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-31T12:00:05.779989", 
+    "query": "kamala harris"
+  }, 
+  {
+    "publication": "Washington Examiner", 
+    "idx": 25, 
+    "title": "'Impatient pretender': Biden looked down on Obama when Kamala Harris was top supporter of future president", 
+    "google_url": "http://news.google.com/./articles/CBMikwFodHRwczovL3d3dy53YXNoaW5ndG9uZXhhbWluZXIuY29tL3BvbGl0aWNzL2ltcGF0aWVudC1wcmV0ZW5kZXItYmlkZW4tbG9va2VkLWRvd24tb24tb2JhbWEtd2hlbi1rYW1hbGEtaGFycmlzLXdhcy10b3Atc3VwcG9ydGVyLW9mLWZ1dHVyZS1wcmVzaWRlbnTSAQA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-31T12:00:05.779989", 
+    "query": "kamala harris"
+  }, 
+  {
+    "publication": "The News Journal", 
+    "idx": 26, 
+    "title": "When Kamala Harris faced political heat, Delaware's Beau Biden had her back", 
+    "google_url": "http://news.google.com/./articles/CBMihwFodHRwczovL3d3dy5kZWxhd2FyZW9ubGluZS5jb20vc3RvcnkvbmV3cy9wb2xpdGljcy8yMDE5LzA3LzMxL2thbWFsYS1oYXJyaXMtYmlkZW5zLXdlcmUtY2xvc2UtYWxsaWVzLWJlZm9yZS1wcmltYXJ5LWNsYXNoZXMvMTgxNjE1NTAwMS_SAS1odHRwczovL2FtcC5kZWxhd2FyZW9ubGluZS5jb20vYW1wLzE4MTYxNTUwMDE?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-31T12:00:05.779989", 
+    "query": "kamala harris"
+  }, 
+  {
+    "publication": "Rolling Stone", 
+    "idx": 27, 
+    "title": "Kamala Harris\u2019 Moment", 
+    "google_url": "http://news.google.com/./articles/CAIiEBHQ2oL5enn8QC1iXWE-71YqGQgEKhAIACoHCAow9MSGCzCKpYQDML-UuQM?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-31T12:00:05.779989", 
+    "query": "kamala harris"
+  }, 
+  {
+    "publication": "Fox News", 
+    "idx": 28, 
+    "title": "Kamala Harris contradicts herself on illegal immigration, in latest backtrack since debate", 
+    "google_url": "http://news.google.com/./articles/CBMiemh0dHBzOi8vd3d3LmZveG5ld3MuY29tL3BvbGl0aWNzL2thbWFsYS1oYXJyaXMtY29udHJhZGljdHMtaGVyc2VsZi1vbi1pbGxlZ2FsLWltbWlncmF0aW9uLWluLWxhdGVzdC1iYWNrdHJhY2stc2luY2UtZGViYXRl0gF-aHR0cHM6Ly93d3cuZm94bmV3cy5jb20vcG9saXRpY3Mva2FtYWxhLWhhcnJpcy1jb250cmFkaWN0cy1oZXJzZWxmLW9uLWlsbGVnYWwtaW1taWdyYXRpb24taW4tbGF0ZXN0LWJhY2t0cmFjay1zaW5jZS1kZWJhdGUuYW1w?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-31T12:00:05.779989", 
+    "query": "kamala harris"
+  }, 
+  {
+    "publication": "The Wall Street Journal", 
+    "idx": 29, 
+    "title": "Kamala Harris Is Now the Candidate to Beat", 
+    "google_url": "http://news.google.com/./articles/CAIiEIWt_Ch1GiEQx48KhUEu7L8qFwgEKg8IACoHCAow1tzJATDnyxUw54IY?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-31T12:00:05.779989", 
+    "query": "kamala harris"
+  }, 
+  {
+    "publication": "CBS News", 
+    "idx": 30, 
+    "title": "2020 Daily Trail Markers: When Kamala Harris praised Joe Biden", 
+    "google_url": "http://news.google.com/./articles/CAIiEBcQyq6xfOupoPkD_OSTF5UqGQgEKhAIACoHCAowyNj6CjDyiPICMJyFxQU?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-31T12:00:05.779989", 
+    "query": "kamala harris"
+  }, 
+  {
+    "publication": "PBS NewsHour", 
+    "idx": 31, 
+    "title": "2020 candidate Kamala Harris releases new details of her health care plan", 
+    "google_url": "http://news.google.com/./articles/CAIiEPM9QNgWPkrzhpBEylyNtDAqGQgEKhAIACoHCAow6-PzCjD7sNQCMIbmlgY?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-31T12:00:05.779989", 
+    "query": "kamala harris"
+  }, 
+  {
+    "publication": "Oprah Mag", 
+    "idx": 32, 
+    "title": "7 Things to Know About Senator Kamala Harris\u2019 Sister, Maya Harris", 
+    "google_url": "http://news.google.com/./articles/CBMiUmh0dHBzOi8vd3d3Lm9wcmFobWFnLmNvbS9lbnRlcnRhaW5tZW50L2EyODUzMjE4NS9rYW1hbGEtaGFycmlzLXNpc3Rlci1tYXlhLWhhcnJpcy_SAVRodHRwczovL3d3dy5vcHJhaG1hZy5jb20vZW50ZXJ0YWlubWVudC9hbXAyODUzMjE4NS9rYW1hbGEtaGFycmlzLXNpc3Rlci1tYXlhLWhhcnJpcy8?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-31T12:00:05.779989", 
+    "query": "kamala harris"
+  }, 
+  {
+    "publication": "Forbes", 
+    "idx": 33, 
+    "title": "Kamala Harris Isn't Offering Much On Higher Ed", 
+    "google_url": "http://news.google.com/./articles/CAIiEL88AyTItjpg3wb4y7IIx7UqFQgEKg0IACoGCAowrqkBMKBFMKGBAg?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-31T12:00:05.779989", 
+    "query": "kamala harris"
+  }, 
+  {
+    "publication": "Washington Examiner", 
+    "idx": 34, 
+    "title": "Kamala Harris used borrowed language in her debt forgiveness plan", 
+    "google_url": "http://news.google.com/./articles/CBMiaWh0dHBzOi8vd3d3Lndhc2hpbmd0b25leGFtaW5lci5jb20vbmV3cy9rYW1hbGEtaGFycmlzLXVzZWQtYm9ycm93ZWQtbGFuZ3VhZ2UtaW4taGVyLWRlYnQtZm9yZ2l2ZW5lc3MtcGxhbtIBAA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-31T12:00:05.779989", 
+    "query": "kamala harris"
+  }, 
+  {
+    "publication": "CNN", 
+    "idx": 35, 
+    "title": "Sanders: Harris' plan is not 'Medicare for All'", 
+    "google_url": "http://news.google.com/./articles/CAIiEDaUJtZ077ZsBUEXdDr5-awqGQgEKhAIACoHCAowocv1CjCSptoCMI29pgU?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-31T12:00:05.779989", 
+    "query": "kamala harris"
+  }, 
+  {
+    "publication": "USA TODAY", 
+    "idx": 36, 
+    "title": "Tulsi Gabbard: Kamala Harris 'not qualified' to be president", 
+    "google_url": "http://news.google.com/./articles/CAIiENcyPqh3TLE3tNb7ZRVYnFsqGQgEKhAIACoHCAowjsP7CjCSpPQCMM_b5QU?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-31T12:00:05.779989", 
+    "query": "kamala harris"
+  }, 
+  {
+    "publication": "The National Interest Online", 
+    "idx": 37, 
+    "title": "Kamala Harris Uses Her New Medicare For All Plan To Go After Bernie", 
+    "google_url": "http://news.google.com/./articles/CBMiaWh0dHBzOi8vbmF0aW9uYWxpbnRlcmVzdC5vcmcvYmxvZy9idXp6L2thbWFsYS1oYXJyaXMtdXNlcy1oZXItbmV3LW1lZGljYXJlLWFsbC1wbGFuLWdvLWFmdGVyLWJlcm5pZS02OTk3NtIBAA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-31T12:00:05.779989", 
+    "query": "kamala harris"
+  }, 
+  {
+    "publication": "The Washington Post", 
+    "idx": 38, 
+    "title": "Kamala Harris has been pushing back on talk about \u2018electability.\u2019 Is she finally making headway?", 
+    "google_url": "http://news.google.com/./articles/CAIiEAm-pkhTT31icYIapCIPG9sqGAgEKg8IACoHCAowjtSUCjC30XQw36e5AQ?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-31T12:00:05.779989", 
+    "query": "kamala harris"
+  }, 
+  {
+    "publication": "CNBC", 
+    "idx": 39, 
+    "title": "Kamala Harris is slated to attend a Hamptons fundraiser hosted by public relations executive Michael Kempner", 
+    "google_url": "http://news.google.com/./articles/CAIiELXomNohq_5Qnx3VcTIGR-QqGQgEKhAIACoHCAow2Nb3CjDivdcCMJ_d7gU?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-31T12:00:05.779989", 
+    "query": "kamala harris"
+  }, 
+  {
+    "publication": "CNBC", 
+    "idx": 40, 
+    "title": "How Kamala Harris became one of the richest contenders in the 2020 presidential field", 
+    "google_url": "http://news.google.com/./articles/CAIiEEHGu4l5laGjUIym7e2c2lQqGQgEKhAIACoHCAow2Nb3CjDivdcCMJ_d7gU?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-31T12:00:05.779989", 
+    "query": "kamala harris"
+  }, 
+  {
+    "publication": "Business Insider", 
+    "idx": 41, 
+    "title": "Kamala Harris revealed a new proposal to wipe student debt, but people aren't so sure it's possible", 
+    "google_url": "http://news.google.com/./articles/CAIiEPbSkyqaahiCutHcjX7kczUqLggEKiUIACIbd3d3LmJ1c2luZXNzaW5zaWRlci5jb20vc2FpKgQICjAMMJzw5wE?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-31T12:00:05.779989", 
+    "query": "kamala harris"
+  }, 
+  {
+    "publication": "Mother Jones", 
+    "idx": 42, 
+    "title": "Kamala Harris Gets on the Medicare for All Train", 
+    "google_url": "http://news.google.com/./articles/CBMiYGh0dHBzOi8vd3d3Lm1vdGhlcmpvbmVzLmNvbS9rZXZpbi1kcnVtLzIwMTkvMDcva2FtYWxhLWhhcnJpcy1nZXRzLW9uLXRoZS1tZWRpY2FyZS1mb3ItYWxsLXRyYWluL9IBAA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-31T12:00:05.779989", 
+    "query": "kamala harris"
+  }, 
+  {
+    "publication": "Washington Examiner", 
+    "idx": 43, 
+    "title": "Kamala Harris: Race has become a national security issue", 
+    "google_url": "http://news.google.com/./articles/CBMiX2h0dHBzOi8vd3d3Lndhc2hpbmd0b25leGFtaW5lci5jb20vbmV3cy9rYW1hbGEtaGFycmlzLXJhY2UtaGFzLWJlY29tZS1hLW5hdGlvbmFsLXNlY3VyaXR5LWlzc3Vl0gEA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-31T12:00:05.779989", 
+    "query": "kamala harris"
+  }, 
+  {
+    "publication": "CNN", 
+    "idx": 44, 
+    "title": "Kamala Harris' secret weapon", 
+    "google_url": "http://news.google.com/./articles/CBMiYmh0dHBzOi8vd3d3LmNubi5jb20vMjAxOS8wNy8wMi9vcGluaW9ucy9rYW1hbGEtaGFycmlzLTIwMjAtY2FtcGFpZ24tc2VjcmV0LXdlYXBvbi1ob25pZy9pbmRleC5odG1s0gFmaHR0cHM6Ly9hbXAuY25uLmNvbS9jbm4vMjAxOS8wNy8wMi9vcGluaW9ucy9rYW1hbGEtaGFycmlzLTIwMjAtY2FtcGFpZ24tc2VjcmV0LXdlYXBvbi1ob25pZy9pbmRleC5odG1s?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-31T12:00:05.779989", 
+    "query": "kamala harris"
+  }, 
+  {
+    "publication": "MLive.com", 
+    "idx": 45, 
+    "title": "Michigan's black Democratic leaders endorse Kamala Harris", 
+    "google_url": "http://news.google.com/./articles/CAIiEEks54cCZVWYvnTlyzebNTYqGQgEKhAIACoHCAow_qT_CjDltPgCMILcpAY?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-31T12:00:05.779989", 
+    "query": "kamala harris"
+  }, 
+  {
+    "publication": "USA TODAY", 
+    "idx": 46, 
+    "title": "Kamala Harris is surging. Here's what that means for her campaign", 
+    "google_url": "http://news.google.com/./articles/CAIiEFvsaD4FMv0T4UPXkyi-XjsqGQgEKhAIACoHCAowjsP7CjCSpPQCMKCK0wU?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-31T12:00:05.779989", 
+    "query": "kamala harris"
+  }, 
+  {
+    "publication": "Mother Jones", 
+    "idx": 47, 
+    "title": "Kamala Harris Is Working In a Great American Tradition", 
+    "google_url": "http://news.google.com/./articles/CBMiZmh0dHBzOi8vd3d3Lm1vdGhlcmpvbmVzLmNvbS9rZXZpbi1kcnVtLzIwMTkvMDcva2FtYWxhLWhhcnJpcy1pcy13b3JraW5nLWluLWEtZ3JlYXQtYW1lcmljYW4tdHJhZGl0aW9uL9IBAA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-31T12:00:05.779989", 
+    "query": "kamala harris"
+  }, 
+  {
+    "publication": "The Washington Post", 
+    "idx": 48, 
+    "title": "Who is the real Kamala Harris? Her sister, Maya, knows the answer.", 
+    "google_url": "http://news.google.com/./articles/CAIiELyPAjlzjHP7zSIn9f3iMmwqGAgEKg8IACoHCAowjtSUCjC30XQwisflAQ?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-31T12:00:05.779989", 
+    "query": "kamala harris"
+  }, 
+  {
+    "publication": "Jacobin magazine", 
+    "idx": 49, 
+    "title": "Kamala Harris's Student Loan Forgiveness Flop", 
+    "google_url": "http://news.google.com/./articles/CBMiRWh0dHBzOi8vamFjb2Jpbm1hZy5jb20vMjAxOS8wNy9rYW1hbGEtaGFycmlzLXN0dWRlbnQtbG9hbi1mb3JnaXZlbmVzc9IBAA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-31T12:00:05.779989", 
+    "query": "kamala harris"
+  }, 
+  {
+    "publication": "MarketWatch", 
+    "idx": 50, 
+    "title": "Kamala Harris releases new details of health-care plan that includes role for private system", 
+    "google_url": "http://news.google.com/./articles/CAIiEFrU82MPgX_d3D_7HU47pC8qGAgEKg8IACoHCAowjujJATDXzBUwiJS0AQ?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-31T12:00:05.779989", 
+    "query": "kamala harris"
+  }, 
+  {
+    "publication": "USA TODAY", 
+    "idx": 51, 
+    "title": "'Catfight': Kellyanne Conway mocks Tulsi Gabbard 'not qualified' comments on Kamala Harris", 
+    "google_url": "http://news.google.com/./articles/CAIiEL5xJL947pN8cw3YykQySjkqGQgEKhAIACoHCAowjsP7CjCSpPQCMKCK0wU?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-31T12:00:05.779989", 
+    "query": "kamala harris"
+  }, 
+  {
+    "publication": "Vanity Fair", 
+    "idx": 52, 
+    "title": "Kamala Harris and Joe Biden Are Getting Ready for a Rematch", 
+    "google_url": "http://news.google.com/./articles/CAIiEPVm01NuBJA5yHl8t8I-wMMqGAgEKg8IACoHCAowmKPyCTCo8nIw87nsBQ?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-31T12:00:05.779989", 
+    "query": "kamala harris"
+  }, 
+  {
+    "publication": "Vox.com", 
+    "idx": 53, 
+    "title": "Kamala Harris\u2019s path to the Democratic nomination, explained", 
+    "google_url": "http://news.google.com/./articles/CAIiEMPAPPyoBjsIrB-6Dwft9aEqGAgEKg8IACoHCAowlOzSATCaiDUw1aKsBQ?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-31T12:00:05.779989", 
+    "query": "kamala harris"
+  }, 
+  {
+    "publication": "Los Angeles Times", 
+    "idx": 54, 
+    "title": "2020: Kamala Harris and Elizabeth Warren capturing attention of black women voters", 
+    "google_url": "http://news.google.com/./articles/CAIiECLX5r61V53291flz7VlL0YqFggEKg4IACoGCAowjKxcMOvhCzCZzg8?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-31T12:00:05.779989", 
+    "query": "kamala harris"
+  }, 
+  {
+    "publication": "HuffPost", 
+    "idx": 55, 
+    "title": "Kamala Harris Responds To People Who Don't Think She's 'Black Enough'", 
+    "google_url": "http://news.google.com/./articles/CAIiEAzD1La50L5mKUZJ7LiS8xkqFQgEKg0IACoGCAowxYgCMIBNMOGXAg?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-31T12:00:05.779989", 
+    "query": "kamala harris"
+  }, 
+  {
+    "publication": "Hollywood Reporter", 
+    "idx": 56, 
+    "title": "Hollywood's Top Power Players Donate More to Kamala Harris' Campaign", 
+    "google_url": "http://news.google.com/./articles/CBMibmh0dHBzOi8vd3d3LmhvbGx5d29vZHJlcG9ydGVyLmNvbS9uZXdzL2hvbGx5d29vZHMtdG9wLXBvd2VyLXBsYXllcnMtZG9uYXRlLW1vcmUta2FtYWxhLWhhcnJpcy1jYW1wYWlnbi0xMjI2Mzgx0gFyaHR0cHM6Ly93d3cuaG9sbHl3b29kcmVwb3J0ZXIuY29tL2FtcC9uZXdzL2hvbGx5d29vZHMtdG9wLXBvd2VyLXBsYXllcnMtZG9uYXRlLW1vcmUta2FtYWxhLWhhcnJpcy1jYW1wYWlnbi0xMjI2Mzgx?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-31T12:00:05.779989", 
+    "query": "kamala harris"
+  }, 
+  {
+    "publication": "Washington Examiner", 
+    "idx": 57, 
+    "title": "Kamala Harris, Elizabeth Warren defend Al Sharpton after 100% accurate attack by Trump", 
+    "google_url": "http://news.google.com/./articles/CBMif2h0dHBzOi8vd3d3Lndhc2hpbmd0b25leGFtaW5lci5jb20vb3Bpbmlvbi9rYW1hbGEtaGFycmlzLWVsaXphYmV0aC13YXJyZW4tZGVmZW5kLWFsLXNoYXJwdG9uLWFmdGVyLTEwMC1hY2N1cmF0ZS1hdHRhY2stYnktdHJ1bXDSAQA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-31T12:00:05.779989", 
+    "query": "kamala harris"
+  }, 
+  {
+    "publication": "Yahoo News", 
+    "idx": 58, 
+    "title": "Kamala Harris Unveils \u2018Medicare for All\u2019 Plan That Preserves Private Insurance", 
+    "google_url": "http://news.google.com/./articles/CBMiSWh0dHBzOi8vbmV3cy55YWhvby5jb20va2FtYWxhLWhhcnJpcy1vZmZlcnMtbWVkaWNhcmUta2VlcHMtMTAwMDAwMzczLmh0bWzSAVFodHRwczovL25ld3MueWFob28uY29tL2FtcGh0bWwva2FtYWxhLWhhcnJpcy1vZmZlcnMtbWVkaWNhcmUta2VlcHMtMTAwMDAwMzczLmh0bWw?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-31T12:00:05.779989", 
+    "query": "kamala harris"
+  }, 
+  {
+    "publication": "Pacific Standard", 
+    "idx": 59, 
+    "title": "Kamala Harris' Student Debt Forgiveness Plan Is Part of a Broader Proposal to Support Black Entrepreneurs", 
+    "google_url": "http://news.google.com/./articles/CBMicmh0dHBzOi8vcHNtYWcuY29tL25ld3Mva2FtYWxhLWhhcnJpcy1zdHVkZW50LWRlYnQtZm9yZ2l2ZW5lc3MtcGxhbi1wYXJ0LW9mLXByb3Bvc2FsLXRvLXN1cHBvcnQtYmxhY2stZW50cmVwcmVuZXVyc9IBd2h0dHBzOi8vcHNtYWcuY29tLy5hbXAvbmV3cy9rYW1hbGEtaGFycmlzLXN0dWRlbnQtZGVidC1mb3JnaXZlbmVzcy1wbGFuLXBhcnQtb2YtcHJvcG9zYWwtdG8tc3VwcG9ydC1ibGFjay1lbnRyZXByZW5ldXJz?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-31T12:00:05.779989", 
+    "query": "kamala harris"
+  }, 
+  {
+    "publication": "Washington Free Beacon", 
+    "idx": 60, 
+    "title": "Ocasio-Cortez: \u2018Jury Is Out\u2019 On Kamala Harris", 
+    "google_url": "http://news.google.com/./articles/CBMiS2h0dHBzOi8vZnJlZWJlYWNvbi5jb20vcG9saXRpY3Mvb2Nhc2lvLWNvcnRlei1qdXJ5LWlzLW91dC1vbi1rYW1hbGEtaGFycmlzL9IBT2h0dHBzOi8vZnJlZWJlYWNvbi5jb20vcG9saXRpY3Mvb2Nhc2lvLWNvcnRlei1qdXJ5LWlzLW91dC1vbi1rYW1hbGEtaGFycmlzL2FtcC8?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-31T12:00:05.779989", 
+    "query": "kamala harris"
+  }, 
+  {
+    "publication": "The Washington Post", 
+    "idx": 61, 
+    "title": "Who in the world is Kamala Harris, anyway?", 
+    "google_url": "http://news.google.com/./articles/CAIiEF-7VB-2-S97UqWuVMUfbL4qGAgEKg8IACoHCAowjtSUCjC30XQw_qe5AQ?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-31T12:00:05.779989", 
+    "query": "kamala harris"
+  }, 
+  {
+    "publication": "CNN", 
+    "idx": 62, 
+    "title": "How Kamala Harris conspiracies festered online before making it to Trump Jr.", 
+    "google_url": "http://news.google.com/./articles/CBMiX2h0dHBzOi8vd3d3LmNubi5jb20vMjAxOS8wNy8wMS9wb2xpdGljcy9rYW1hbGEtaGFycmlzLXNvY2lhbC1tZWRpYS1hdHRhY2tzLXRydW1wLWpyLS9pbmRleC5odG1s0gEA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-31T12:00:05.779989", 
+    "query": "kamala harris"
+  }, 
+  {
+    "publication": "Forbes", 
+    "idx": 63, 
+    "title": "Kamala Harris' Student Loan And Entrepreneurship Idea Has Some Big Problems", 
+    "google_url": "http://news.google.com/./articles/CBMiW2h0dHBzOi8vd3d3LmZvcmJlcy5jb20vc2l0ZXMvZXJpa3NoZXJtYW4vMjAxOS8wNy8yOS9rYW1hbGEtaGFycmlzLXN0dWRlbnQtbG9hbi1mb3JnaXZlbmVzcy_SAV9odHRwczovL3d3dy5mb3JiZXMuY29tL3NpdGVzL2VyaWtzaGVybWFuLzIwMTkvMDcvMjkva2FtYWxhLWhhcnJpcy1zdHVkZW50LWxvYW4tZm9yZ2l2ZW5lc3MvYW1wLw?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-31T12:00:05.779989", 
+    "query": "kamala harris"
+  }, 
+  {
+    "publication": "PBS NewsHour", 
+    "idx": 64, 
+    "title": "Kamala Harris proposes bill to invest in safe drinking water", 
+    "google_url": "http://news.google.com/./articles/CAIiEM1oevZMTb1HSKEvmc1W2d8qGQgEKhAIACoHCAow6-PzCjD7sNQCMIbmlgY?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-31T12:00:05.779989", 
+    "query": "kamala harris"
+  }, 
+  {
+    "publication": "CNN", 
+    "idx": 65, 
+    "title": "Kamala Harris says Russian bots are targeting her. It's more complicated than that.", 
+    "google_url": "http://news.google.com/./articles/CAIiEBCBH_DMfc7gtWSjyU7VueIqGQgEKhAIACoHCAowocv1CjCSptoCMJrUpgU?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-31T12:00:05.779989", 
+    "query": "kamala harris"
+  }, 
+  {
+    "publication": "U.S. News &amp; World Report", 
+    "idx": 66, 
+    "title": "More Than a Moment?", 
+    "google_url": "http://news.google.com/./articles/CBMiZWh0dHBzOi8vd3d3LnVzbmV3cy5jb20vbmV3cy90aGUtcmVwb3J0L2FydGljbGVzLzIwMTktMDctMTIva2FtYWxhLWhhcnJpcy1sb29rcy1mb3ItbW9yZS10aGFuLWEtbW9tZW500gFxaHR0cHM6Ly93d3cudXNuZXdzLmNvbS9uZXdzL3RoZS1yZXBvcnQvYXJ0aWNsZXMvMjAxOS0wNy0xMi9rYW1hbGEtaGFycmlzLWxvb2tzLWZvci1tb3JlLXRoYW4tYS1tb21lbnQ_Y29udGV4dD1hbXA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-31T12:00:05.779989", 
+    "query": "kamala harris"
+  }, 
+  {
+    "publication": "CBS News", 
+    "idx": 67, 
+    "title": "Kamala Harris blasts, then takes money from Epstein's law firm for 2020 campaign", 
+    "google_url": "http://news.google.com/./articles/CAIiEJda9p2QgGF2KOLj28ynScUqGQgEKhAIACoHCAowyNj6CjDyiPICMK_dxAU?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-31T12:00:05.779989", 
+    "query": "kamala harris"
+  }, 
+  {
+    "publication": "HuffPost", 
+    "idx": 68, 
+    "title": "Kamala Harris Suggests Trump's Involvement In A$AP Rocky Case Was Misuse Of Power", 
+    "google_url": "http://news.google.com/./articles/CAIiEDkhgQFQFYvQXEPVT4td-cAqFQgEKg0IACoGCAowxYgCMIBNMOGXAg?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-31T12:00:05.779989", 
+    "query": "kamala harris"
+  }, 
+  {
+    "publication": "MSNBC", 
+    "idx": 69, 
+    "title": "Vanity Fair: Some GOP insiders fear 'dangerous' Kamala Harris", 
+    "google_url": "http://news.google.com/./articles/CBMib2h0dHBzOi8vd3d3Lm1zbmJjLmNvbS9jcmFpZy1tZWx2aW4vd2F0Y2gvdmFuaXR5LWZhaXItc29tZS1nb3AtaW5zaWRlcnMtZmVhci1kYW5nZXJvdXMta2FtYWxhLWhhcnJpcy02NDY0MDU4MTY5ONIBAA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-31T12:00:05.779989", 
+    "query": "kamala harris"
+  }, 
+  {
+    "publication": "The Week Magazine", 
+    "idx": 70, 
+    "title": "Kamala Harris' sincerity problem", 
+    "google_url": "http://news.google.com/./articles/CBMiQ2h0dHBzOi8vdGhld2Vlay5jb20vYXJ0aWNsZXMvODUxNjMxL2thbWFsYS1oYXJyaXMtc2luY2VyaXR5LXByb2JsZW3SAUdodHRwczovL3RoZXdlZWsuY29tL2FydGljbGVzLWFtcC84NTE2MzEva2FtYWxhLWhhcnJpcy1zaW5jZXJpdHktcHJvYmxlbQ?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-31T12:00:05.779989", 
+    "query": "kamala harris"
+  }, 
+  {
+    "publication": "McClatchy Washington Bureau", 
+    "idx": 71, 
+    "title": "Why Elizabeth Warren\u2019s biggest 2020 competition might be Kamala Harris", 
+    "google_url": "http://news.google.com/./articles/CAIiEBp1eN4Isma2TmyLGtgdd84qGQgEKhAIACoHCAowzNmECzCZyoEDMM32gwY?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-31T12:00:05.779989", 
+    "query": "kamala harris"
+  }, 
+  {
+    "publication": "The Week", 
+    "idx": 72, 
+    "title": "Kamala Harris announces Medicare-for-all plan that doesn't eliminate private insurers", 
+    "google_url": "http://news.google.com/./articles/CAIiEHeyG611YX0z1QUGFdV7rUQqGQgEKhAIACoHCAowwfmQCzClq6UDMKSAtgY?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-31T12:00:05.779989", 
+    "query": "kamala harris"
+  }, 
+  {
+    "publication": "Yahoo News", 
+    "idx": 73, 
+    "title": "2020 presidential candidate Kamala Harris introduces a plan to invest $60 billion in historically black colleges", 
+    "google_url": "http://news.google.com/./articles/CBMiT2h0dHBzOi8vbmV3cy55YWhvby5jb20vMjAyMC1wcmVzaWRlbnRpYWwtY2FuZGlkYXRlLWthbWFsYS1oYXJyaXMtMTYxMDM1MDE3Lmh0bWzSAVdodHRwczovL25ld3MueWFob28uY29tL2FtcGh0bWwvMjAyMC1wcmVzaWRlbnRpYWwtY2FuZGlkYXRlLWthbWFsYS1oYXJyaXMtMTYxMDM1MDE3Lmh0bWw?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-31T12:00:05.779989", 
+    "query": "kamala harris"
+  }, 
+  {
+    "publication": "CNN", 
+    "idx": 74, 
+    "title": "Kamala Harris' husband earns a Twitter hashtag", 
+    "google_url": "http://news.google.com/./articles/CBMiZGh0dHBzOi8vd3d3LmNubi5jb20vdmlkZW9zL3BvbGl0aWNzLzIwMTkvMDcvMDEva2FtYWxhLWhhcnJpcy1odXNiYW5kLWNhbXBhaWduLXRyYWlsLWRudC1lYm9mLXZweC5jbm7SAQA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-31T12:00:05.779989", 
+    "query": "kamala harris"
+  }, 
+  {
+    "publication": "The Atlantic", 
+    "idx": 75, 
+    "title": "Harris Gains Momentum With Democrats\u2019 Most Important Voter Base", 
+    "google_url": "http://news.google.com/./articles/CAIiEOnuHDN7R9L5in51Ki95Ao8qFggEKg0IACoGCAowm_EEMKAiMJXamQY?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-31T12:00:05.779989", 
+    "query": "kamala harris"
+  }, 
+  {
+    "publication": "CNSNews.com", 
+    "idx": 76, 
+    "title": "Sen. Kamala Harris Defends Sharpton: 'Done So Much for Our Country'", 
+    "google_url": "http://news.google.com/./articles/CBMibGh0dHBzOi8vd3d3LmNuc25ld3MuY29tL25ld3MvYXJ0aWNsZS9zdXNhbi1qb25lcy9zZW4ta2FtYWxhLWhhcnJpcy1kZWZlbmRzLXNoYXJwdG9uLWRvbmUtc28tbXVjaC1vdXItY291bnRyedIBAA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-31T12:00:05.779989", 
+    "query": "kamala harris"
+  }, 
+  {
+    "publication": "Washington Examiner", 
+    "idx": 77, 
+    "title": "Kamala Harris is preparing to govern by executive order", 
+    "google_url": "http://news.google.com/./articles/CBMiYmh0dHBzOi8vd3d3Lndhc2hpbmd0b25leGFtaW5lci5jb20vb3Bpbmlvbi9rYW1hbGEtaGFycmlzLWlzLXByZXBhcmluZy10by1nb3Zlcm4tYnktZXhlY3V0aXZlLW9yZGVy0gEA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-31T12:00:05.779989", 
+    "query": "kamala harris"
+  }, 
+  {
+    "publication": "The New York Times", 
+    "idx": 78, 
+    "title": "Kamala Harris and Elizabeth Warren Introduce Racial Equity Plans", 
+    "google_url": "http://news.google.com/./articles/CAIiEGlUzD1zORMEKka_23tBjsYqFwgEKg8IACoHCAowjuuKAzCWrzwwloEY?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-31T12:00:05.779989", 
+    "query": "kamala harris"
+  }, 
+  {
+    "publication": "Forward", 
+    "idx": 79, 
+    "title": "Kamala Harris Recounts The Time She Met Her Jew In-Laws", 
+    "google_url": "http://news.google.com/./articles/CBMiSmh0dHBzOi8vZm9yd2FyZC5jb20vZmFzdC1mb3J3YXJkLzQyODA0OS9rYW1hbGEtaGFycmlzLWRvdWctZW1ob2ZmLWluLWxhd3Mv0gEA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-31T12:00:05.779989", 
+    "query": "kamala harris"
+  }, 
+  {
+    "publication": "WUWM", 
+    "idx": 80, 
+    "title": "Kamala Harris Releases 'Medicare For All' Plan With A Role For Private Insurers", 
+    "google_url": "http://news.google.com/./articles/CBMiWGh0dHBzOi8vd3d3Lnd1d20uY29tL3Bvc3Qva2FtYWxhLWhhcnJpcy1yZWxlYXNlcy1tZWRpY2FyZS1hbGwtcGxhbi1yb2xlLXByaXZhdGUtaW5zdXJlcnPSAQA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-31T12:00:05.779989", 
+    "query": "kamala harris"
+  }, 
+  {
+    "publication": "HelloGiggles", 
+    "idx": 81, 
+    "title": "Alexandria Ocasio-Cortez, Kamala Harris Introduce Climate Equity Bill", 
+    "google_url": "http://news.google.com/./articles/CBMiWGh0dHBzOi8vaGVsbG9naWdnbGVzLmNvbS9uZXdzL2FsZXhhbmRyaWEtb2Nhc2lvLWNvcnRlei1rYW1hbGEtaGFycmlzLWNsaW1hdGUtZXF1aXR5LWFjdC_SAQA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-31T12:00:05.779989", 
+    "query": "kamala harris"
+  }, 
+  {
+    "publication": "Yahoo News", 
+    "idx": 82, 
+    "title": "Sen. Kamala Harris, AOC partnering on climate-justice bill", 
+    "google_url": "http://news.google.com/./articles/CBMiRmh0dHBzOi8vbmV3cy55YWhvby5jb20vc2VuLWthbWFsYS1oYXJyaXMtYW9jLXBhcnRuZXJpbmctMjIyMzU1MjQxLmh0bWzSAU5odHRwczovL25ld3MueWFob28uY29tL2FtcGh0bWwvc2VuLWthbWFsYS1oYXJyaXMtYW9jLXBhcnRuZXJpbmctMjIyMzU1MjQxLmh0bWw?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-31T12:00:05.779989", 
+    "query": "kamala harris"
+  }, 
+  {
+    "publication": "Fox News", 
+    "idx": 83, 
+    "title": "Kamala Harris, a critic of Acosta's Epstein plea deal, under fire for agreement she negotiated as Californi...", 
+    "google_url": "http://news.google.com/./articles/CBMiigFodHRwczovL3d3dy5mb3huZXdzLmNvbS9wb2xpdGljcy9rYW1hbGEtaGFycmlzLWFnLW9mZmljZS1zd2VldGhlYXJ0LXBsZWEtZGVhbC13aXRoLWV4LXNhbi1kaWVnby1tYXlvci1hY2N1c2VkLW9mLWhhcmFzc21lbnQtZHJhd3Mtc2NydXRpbnnSAY4BaHR0cHM6Ly93d3cuZm94bmV3cy5jb20vcG9saXRpY3Mva2FtYWxhLWhhcnJpcy1hZy1vZmZpY2Utc3dlZXRoZWFydC1wbGVhLWRlYWwtd2l0aC1leC1zYW4tZGllZ28tbWF5b3ItYWNjdXNlZC1vZi1oYXJhc3NtZW50LWRyYXdzLXNjcnV0aW55LmFtcA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-31T12:00:05.779989", 
+    "query": "kamala harris"
+  }, 
+  {
+    "publication": "HuffPost", 
+    "idx": 84, 
+    "title": "Kamala Harris, Jerry Nadler Introduce Bill To Decriminalize Marijuana", 
+    "google_url": "http://news.google.com/./articles/CAIiEBz7hLRJs3_vnGfifB8SpNMqFQgEKg0IACoGCAowxYgCMIBNMOGXAg?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-31T12:00:05.779989", 
+    "query": "kamala harris"
+  }, 
+  {
+    "publication": "Truthout", 
+    "idx": 85, 
+    "title": "Kamala Harris Has a Distinguished Career of Serving Injustice", 
+    "google_url": "http://news.google.com/./articles/CBMiXGh0dHBzOi8vdHJ1dGhvdXQub3JnL2FydGljbGVzL2thbWFsYS1oYXJyaXMtaGFzLWEtZGlzdGluZ3Vpc2hlZC1jYXJlZXItb2Ytc2VydmluZy1pbmp1c3RpY2Uv0gEA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-31T12:00:05.779989", 
+    "query": "kamala harris"
+  }, 
+  {
+    "publication": "FOX 31 Denver", 
+    "idx": 86, 
+    "title": "Sen. Kamala Harris\u2019 Denver campaign rally to be held at Manual High School", 
+    "google_url": "http://news.google.com/./articles/CAIiEMHNyfMMkoK_MrRDnmHT6rkqGQgEKhAIACoHCAowz4z_CjCqhPgCMIWn5AU?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-31T12:00:05.779989", 
+    "query": "kamala harris"
+  }, 
+  {
+    "publication": "The Fiscal Times", 
+    "idx": 87, 
+    "title": "Kamala Harris Unveils Her Twist on Medicare for All", 
+    "google_url": "http://news.google.com/./articles/CBMiVmh0dHBzOi8vd3d3LnRoZWZpc2NhbHRpbWVzLmNvbS8yMDE5LzA3LzI5L0thbWFsYS1IYXJyaXMtVW52ZWlscy1IZXItVHdpc3QtTWVkaWNhcmUtQWxs0gFaaHR0cHM6Ly93d3cudGhlZmlzY2FsdGltZXMuY29tLzIwMTkvMDcvMjkvS2FtYWxhLUhhcnJpcy1VbnZlaWxzLUhlci1Ud2lzdC1NZWRpY2FyZS1BbGw_YW1w?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-31T12:00:05.779989", 
+    "query": "kamala harris"
+  }, 
+  {
+    "publication": "POLITICO", 
+    "idx": 88, 
+    "title": "How Kamala Harris would increase housing assistance for people with criminal records", 
+    "google_url": "http://news.google.com/./articles/CAIiEDxN4iL-5w7iERc9ej6-i_cqGQgEKhAIACoHCAow4Zn5CjCu8uACMLTRlgY?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-31T12:00:05.779989", 
+    "query": "kamala harris"
+  }, 
+  {
+    "publication": "Variety", 
+    "idx": 89, 
+    "title": "Ryan Murphy on 2020 Election: \u2018My Dream Ticket Would Be Kamala Harris and Pete Buttigieg\u2019", 
+    "google_url": "http://news.google.com/./articles/CAIiEKhzJR6w2PNRevnIkUUpIjgqFwgEKg8IACoHCAowraj2AjC5-iIwqYhb?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-31T12:00:05.779989", 
+    "query": "kamala harris"
+  }, 
+  {
+    "publication": "Newsweek", 
+    "idx": 90, 
+    "title": "Candace Owens Photobombs Kamala Harris, Says Senator Will 'Lose Gracefully' to Donald Trump", 
+    "google_url": "http://news.google.com/./articles/CBMidmh0dHBzOi8vd3d3Lm5ld3N3ZWVrLmNvbS9jYW5kYWNlLW93ZW5zLXBob3RvYm9tYnMta2FtYWxhLWhhcnJpcy1zYXlzLXNlbmF0b3Itd2lsbC1sb3NlLWdyYWNlZnVsbHktZG9uYWxkLXRydW1wLTE0NTEwMTnSAXxodHRwczovL3d3dy5uZXdzd2Vlay5jb20vY2FuZGFjZS1vd2Vucy1waG90b2JvbWJzLWthbWFsYS1oYXJyaXMtc2F5cy1zZW5hdG9yLXdpbGwtbG9zZS1ncmFjZWZ1bGx5LWRvbmFsZC10cnVtcC0xNDUxMDE5P2FtcD0x?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-31T12:00:05.779989", 
+    "query": "kamala harris"
+  }, 
+  {
+    "publication": "VICE", 
+    "idx": 91, 
+    "title": "Kamala Harris Called Young People \u201cStupid\u201d in 2015", 
+    "google_url": "http://news.google.com/./articles/CAIiEEpiR45kIMZrCIx2JWLi-AAqFwgEKg4IACoGCAowis8wMLmCBjD_oNQD?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-31T12:00:05.779989", 
+    "query": "kamala harris"
+  }, 
+  {
+    "publication": "Vanity Fair", 
+    "idx": 92, 
+    "title": "Scooter Braun\u2019s Kamala Harris Fund-Raiser Connects the Latest Pop Wars to the Democratic Primary", 
+    "google_url": "http://news.google.com/./articles/CAIiEG3LRyCknoWsRGOHftCH_RYqGAgEKg8IACoHCAowmKPyCTCo8nIwlKbsBQ?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-31T12:00:05.779989", 
+    "query": "kamala harris"
+  }, 
+  {
+    "publication": "The New York Times", 
+    "idx": 93, 
+    "title": "Pete Buttigieg and Kamala Harris Have Made Waves. Some Progressives Remain Skeptical.", 
+    "google_url": "http://news.google.com/./articles/CAIiECVWXrcj2TvNiTjJzsRBl0wqFwgEKg8IACoHCAowjuuKAzCWrzwwt4QY?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-31T12:00:05.779989", 
+    "query": "kamala harris"
+  }, 
+  {
+    "publication": "Western Herald", 
+    "idx": 94, 
+    "title": "Western Michigan students react to Kamala Harris' student loan forgiveness program", 
+    "google_url": "http://news.google.com/./articles/CBMiT2h0dHBzOi8vd3d3Lndlc3Rlcm5oZXJhbGQuY29tL2FydGljbGVfNWIxNjhkZWMtYjMwNy0xMWU5LWFkYWMtMjdkZTkzMDY3ODAxLmh0bWzSAQA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-31T12:00:05.779989", 
+    "query": "kamala harris"
+  }, 
+  {
+    "publication": "The Daily Wire", 
+    "idx": 95, 
+    "title": "Kamala Harris Wavers On Previous Support For Decriminalizing Unauthorized Border Crossings", 
+    "google_url": "http://news.google.com/./articles/CBMiVGh0dHBzOi8vd3d3LmRhaWx5d2lyZS5jb20vbmV3cy81MDAyMi9rYW1hbGEtaGFycmlzLXdhdmVycy1wcmV2aW91cy1zdXBwb3J0LXBhdWwtYm9pc9IBWGh0dHBzOi8vd3d3LmRhaWx5d2lyZS5jb20vbmV3cy81MDAyMi9rYW1hbGEtaGFycmlzLXdhdmVycy1wcmV2aW91cy1zdXBwb3J0LXBhdWwtYm9pcz9hbXA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-31T12:00:05.779989", 
+    "query": "kamala harris"
+  }, 
+  {
+    "publication": "MarketWatch", 
+    "idx": 96, 
+    "title": "Here\u2019s where the 2020 presidential candidates, including Elizabeth Warren and Kamala Harris, stand on affordable housing", 
+    "google_url": "http://news.google.com/./articles/CAIiEFWCcErrdvH02lCWf18hBqMqGAgEKg8IACoHCAowjujJATDXzBUwuJS0AQ?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-31T12:00:05.779989", 
+    "query": "kamala harris"
+  }, 
+  {
+    "publication": "CNN", 
+    "idx": 97, 
+    "title": "Harris, AOC team up on bill to help those with criminal records get housing", 
+    "google_url": "http://news.google.com/./articles/CBMiZmh0dHBzOi8vd3d3LmNubi5jb20vMjAxOS8wNy8xMC9wb2xpdGljcy9rYW1hbGEtaGFycmlzLWFsZXhhbmRyaWEtb2Nhc2lvLWNvcnRlei1ob3VzaW5nLWJpbGwvaW5kZXguaHRtbNIBAA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-31T12:00:05.779989", 
+    "query": "kamala harris"
+  }, 
+  {
+    "publication": "Townhall", 
+    "idx": 98, 
+    "title": "Kamala Harris Confuses Everyone By Criticizing Trump's Attempt to Free A$AP Rocky", 
+    "google_url": "http://news.google.com/./articles/CBMijwFodHRwczovL3Rvd25oYWxsLmNvbS90aXBzaGVldC9jb3J0bmV5b2JyaWVuLzIwMTkvMDcvMjYva2FtYWxhLWhhcnJpcy1jb25mdXNlcy1ldmVyeW9uZS1ieS1jcml0aWNpemluZy10cnVtcHMtYXR0ZW1wdC10by1mcmVlLWFhcC1yb2NreS1uMjU1MDcwNtIBmAFodHRwczovL3Rvd25oYWxsLmNvbS90aXBzaGVldC9jb3J0bmV5b2JyaWVuLzIwMTkvMDcvMjYva2FtYWxhLWhhcnJpcy1jb25mdXNlcy1ldmVyeW9uZS1ieS1jcml0aWNpemluZy10cnVtcHMtYXR0ZW1wdC10by1mcmVlLWFhcC1yb2NreS1uMjU1MDcwNj9hbXA9dHJ1ZQ?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-31T12:00:05.779989", 
+    "query": "kamala harris"
+  }, 
+  {
+    "publication": "CNN", 
+    "idx": 99, 
+    "title": "Kamala Harris defends Nancy Pelosi", 
+    "google_url": "http://news.google.com/./articles/CAIiEDxdpBAwwZoVLF5Tkc8urTsqGQgEKhAIACoHCAowocv1CjCSptoCMPrTpgU?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-31T12:00:05.779989", 
+    "query": "kamala harris"
+  }
+]

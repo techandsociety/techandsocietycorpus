@@ -1,0 +1,802 @@
+[
+  {
+    "publication": "Chicago Daily Herald", 
+    "idx": 0, 
+    "title": "Betsy Ebeling, best friend of Hillary Clinton, remembered for kindness, generosity", 
+    "google_url": "http://news.google.com/./articles/CBMieWh0dHBzOi8vd3d3LmRhaWx5aGVyYWxkLmNvbS9uZXdzLzIwMTkwNzI5L2JldHN5LWViZWxpbmctYmVzdC1mcmllbmQtb2YtaGlsbGFyeS1jbGludG9uLXJlbWVtYmVyZWQtZm9yLWtpbmRuZXNzLWdlbmVyb3NpdHnSAUBodHRwczovL3d3dy5kYWlseWhlcmFsZC5jb20vYW1wLWFydGljbGUvMjAxOTA3MjkvbmV3cy8xOTA3MjkxMzYv?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T08:00:05.449761", 
+    "query": "hillary clinton"
+  }, 
+  {
+    "publication": "NBC News", 
+    "idx": 1, 
+    "title": "2008: Clinton, Obama in an epic duel", 
+    "google_url": "http://news.google.com/./articles/CAIiEFqmuYrj8rs_Efbo6czvghQqGQgEKhAIACoHCAowvIaCCzDnxf4CMP2F8gU?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T08:00:05.449761", 
+    "query": "hillary clinton"
+  }, 
+  {
+    "publication": "Chicago Sun-Times", 
+    "idx": 2, 
+    "title": "Betsy Ebeling, Hillary Clinton\u2019s best friend and \u2018incredibly wonderful person,\u2019 dies", 
+    "google_url": "http://news.google.com/./articles/CAIiEL7AKZyqc4ss0Y4I5ZPvkvkqGQgEKhAIACoHCAowsbfwCjCm2LoCMOeDkgM?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T08:00:05.449761", 
+    "query": "hillary clinton"
+  }, 
+  {
+    "publication": "NBC News", 
+    "idx": 3, 
+    "title": "2016: Clinton, Sanders and black voters pick the winner", 
+    "google_url": "http://news.google.com/./articles/CAIiEAtTbdKiXMOM96llUUk_uZoqGQgEKhAIACoHCAowvIaCCzDnxf4CMP2F8gU?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T08:00:05.449761", 
+    "query": "hillary clinton"
+  }, 
+  {
+    "publication": "Boston.com", 
+    "idx": 4, 
+    "title": "Elizabeth Warren says she would have accepted an offer to be Hillary Clinton's running mate", 
+    "google_url": "http://news.google.com/./articles/CBMiXWh0dHBzOi8vd3d3LmJvc3Rvbi5jb20vbmV3cy9wb2xpdGljcy8yMDE5LzA3LzI2L2VsaXphYmV0aC13YXJyZW4taGlsbGFyeS1jbGludG9uLXJ1bm5pbmctbWF0ZdIBAA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T08:00:05.449761", 
+    "query": "hillary clinton"
+  }, 
+  {
+    "publication": "WLS-TV", 
+    "idx": 5, 
+    "title": "Betsy Ebeling, Hillary Clinton's best friend, dies after cancer battle", 
+    "google_url": "http://news.google.com/./articles/CBMibWh0dHBzOi8vYWJjN2NoaWNhZ28uY29tL3BvbGl0aWNzL2JldHN5LWViZWxpbmctaGlsbGFyeS1jbGludG9ucy1iZXN0LWZyaWVuZC1kaWVzLWFmdGVyLWNhbmNlci1iYXR0bGUvNTQyODQ2Ny_SAXFodHRwczovL2FiYzdjaGljYWdvLmNvbS9hbXAvcG9saXRpY3MvYmV0c3ktZWJlbGluZy1oaWxsYXJ5LWNsaW50b25zLWJlc3QtZnJpZW5kLWRpZXMtYWZ0ZXItY2FuY2VyLWJhdHRsZS81NDI4NDY3Lw?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T08:00:05.449761", 
+    "query": "hillary clinton"
+  }, 
+  {
+    "publication": "Roll Call", 
+    "idx": 6, 
+    "title": "How third-party votes sunk Clinton, what they mean for Trump", 
+    "google_url": "http://news.google.com/./articles/CAIiEF5Jpo-W3cz33jbwRzBur44qGQgEKhAIACoHCAowxKj3CjCax9YCMMqPpgU?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T08:00:05.449761", 
+    "query": "hillary clinton"
+  }, 
+  {
+    "publication": "The Hill", 
+    "idx": 7, 
+    "title": "Warren says she would have accepted offer to be Hillary Clinton's vice president | TheHill", 
+    "google_url": "http://news.google.com/./articles/CBMicmh0dHBzOi8vdGhlaGlsbC5jb20vaG9tZW5ld3MvY2FtcGFpZ24vNDU0NzY1LXdhcnJlbi1zYXlzLXNoZS13b3VsZC1oYXZlLWFjY2VwdGVkLW9mZmVyLXRvLWJlLWhpbGxhcnktY2xpbnRvbnMtdmljZdIBdmh0dHBzOi8vdGhlaGlsbC5jb20vaG9tZW5ld3MvY2FtcGFpZ24vNDU0NzY1LXdhcnJlbi1zYXlzLXNoZS13b3VsZC1oYXZlLWFjY2VwdGVkLW9mZmVyLXRvLWJlLWhpbGxhcnktY2xpbnRvbnMtdmljZT9hbXA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T08:00:05.449761", 
+    "query": "hillary clinton"
+  }, 
+  {
+    "publication": "The Hill", 
+    "idx": 8, 
+    "title": "Meghan McCain says she regrets calling Hillary Clinton 'crooked' | TheHill", 
+    "google_url": "http://news.google.com/./articles/CBMid2h0dHBzOi8vdGhlaGlsbC5jb20vYmxvZ3MvYmxvZy1icmllZmluZy1yb29tL25ld3MvNDU0NzQ1LW1lZ2hhbi1tY2NhaW4tcmV2ZWFscy10aGF0LXNoZS1yZWdyZXRzLWNhbGxpbmctaGlsbGFyeS1jbGludG9u0gF7aHR0cHM6Ly90aGVoaWxsLmNvbS9ibG9ncy9ibG9nLWJyaWVmaW5nLXJvb20vbmV3cy80NTQ3NDUtbWVnaGFuLW1jY2Fpbi1yZXZlYWxzLXRoYXQtc2hlLXJlZ3JldHMtY2FsbGluZy1oaWxsYXJ5LWNsaW50b24_YW1w?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T08:00:05.449761", 
+    "query": "hillary clinton"
+  }, 
+  {
+    "publication": "NBCNews.com", 
+    "idx": 9, 
+    "title": "An old Hillary Clinton conspiracy theory finds new life in Jeffrey Epstein news", 
+    "google_url": "http://news.google.com/./articles/CBMicWh0dHBzOi8vd3d3Lm5iY25ld3MuY29tL3RlY2gvdGVjaC1uZXdzL29sZC1jbGludG9uLWNvbnNwaXJhY3ktdGhlb3J5LWZpbmRzLW5ldy1saWZlLWplZmZyZXktZXBzdGVpbi1uZXdzLW4xMDM0NzQx0gEsaHR0cHM6Ly93d3cubmJjbmV3cy5jb20vbmV3cy9hbXAvbmNuYTEwMzQ3NDE?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T08:00:05.449761", 
+    "query": "hillary clinton"
+  }, 
+  {
+    "publication": "AZCentral", 
+    "idx": 10, 
+    "title": "Donald Trump's hate oozes onto a July 4th parade float in small-town Arizona", 
+    "google_url": "http://news.google.com/./articles/CAIiEIxRHJ96ctkF-z_yZg2lPpIqGQgEKhAIACoHCAowtv3_CjCSposDMLX54gU?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T08:00:05.449761", 
+    "query": "hillary clinton"
+  }, 
+  {
+    "publication": "Duluth News Tribune", 
+    "idx": 11, 
+    "title": "Reader's View: Life is good under President Hillary Clinton", 
+    "google_url": "http://news.google.com/./articles/CBMic2h0dHBzOi8vd3d3LmR1bHV0aG5ld3N0cmlidW5lLmNvbS9vcGluaW9uL2xldHRlcnMvNDA0MDMyMS1SZWFkZXJzLVZpZXctTGlmZS1pcy1nb29kLXVuZGVyLVByZXNpZGVudC1IaWxsYXJ5LUNsaW50b27SAQA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T08:00:05.449761", 
+    "query": "hillary clinton"
+  }, 
+  {
+    "publication": "Fox News", 
+    "idx": 12, 
+    "title": "Kayleigh McEnany: Mueller should be asked why he never investigated Hillary Clinton\u2019s collusion with Russia", 
+    "google_url": "http://news.google.com/./articles/CBMiiQFodHRwczovL3d3dy5mb3huZXdzLmNvbS9vcGluaW9uL2theWxlaWdoLW1jZW5hbnktbXVlbGxlci1zaG91bGQtYmUtYXNrZWQtd2h5LWhlLW5ldmVyLWludmVzdGlnYXRlZC1oaWxsYXJ5LWNsaW50b25zLWNvbGx1c2lvbi13aXRoLXJ1c3NpYdIBjQFodHRwczovL3d3dy5mb3huZXdzLmNvbS9vcGluaW9uL2theWxlaWdoLW1jZW5hbnktbXVlbGxlci1zaG91bGQtYmUtYXNrZWQtd2h5LWhlLW5ldmVyLWludmVzdGlnYXRlZC1oaWxsYXJ5LWNsaW50b25zLWNvbGx1c2lvbi13aXRoLXJ1c3NpYS5hbXA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T08:00:05.449761", 
+    "query": "hillary clinton"
+  }, 
+  {
+    "publication": "Page Six", 
+    "idx": 13, 
+    "title": "Chelsea Clinton leaves the hospital with newborn Jasper and Hillary Clinton", 
+    "google_url": "http://news.google.com/./articles/CAIiEBrtVgHZybEcnQ4klD7sJNAqGQgEKhAIACoHCAowmID5CjDdtOACMLzWtAU?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T08:00:05.449761", 
+    "query": "hillary clinton"
+  }, 
+  {
+    "publication": "The Hill", 
+    "idx": 14, 
+    "title": "Hillary Clinton responds to Trump tweets telling Dem lawmakers to 'go back' to their countries | TheHill", 
+    "google_url": "http://news.google.com/./articles/CBMidmh0dHBzOi8vdGhlaGlsbC5jb20vaG9tZW5ld3MvYWRtaW5pc3RyYXRpb24vNDUzMDIyLWhpbGxhcnktY2xpbnRvbi1yZXNwb25kcy10by10cnVtcC10d2VldC10ZWxsaW5nLWRlbS1sYXdtYWtlcnMtdG8tZ2_SAXpodHRwczovL3RoZWhpbGwuY29tL2hvbWVuZXdzL2FkbWluaXN0cmF0aW9uLzQ1MzAyMi1oaWxsYXJ5LWNsaW50b24tcmVzcG9uZHMtdG8tdHJ1bXAtdHdlZXQtdGVsbGluZy1kZW0tbGF3bWFrZXJzLXRvLWdvP2FtcA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T08:00:05.449761", 
+    "query": "hillary clinton"
+  }, 
+  {
+    "publication": "NECN", 
+    "idx": 15, 
+    "title": "'Outta Space' Float Featuring Trump and Clinton Causes Stir in Maine", 
+    "google_url": "http://news.google.com/./articles/CBMikQFodHRwczovL3d3dy5uZWNuLmNvbS9uZXdzL25ldy1lbmdsYW5kL091dHRhLVNwYWNlLUZsb2F0LUZlYXR1cmluZy1Eb25hbGQtVHJ1bXAtYW5kLUhpbGxhcnktQ2xpbnRvbi1DYXVzZXMtU3Rpci1pbi1LaW5nc2ZpZWxkLU1haW5lLTUxMzM2MDgyMS5odG1s0gGXAWh0dHBzOi8vd3d3Lm5lY24uY29tL25ld3MvbmV3LWVuZ2xhbmQvT3V0dGEtU3BhY2UtRmxvYXQtRmVhdHVyaW5nLURvbmFsZC1UcnVtcC1hbmQtSGlsbGFyeS1DbGludG9uLUNhdXNlcy1TdGlyLWluLUtpbmdzZmllbGQtTWFpbmUtNTEzMzYwODIxLmh0bWw_YW1wPXk?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T08:00:05.449761", 
+    "query": "hillary clinton"
+  }, 
+  {
+    "publication": "Los Angeles Times", 
+    "idx": 16, 
+    "title": "Op-Ed: Blame Hillary Clinton for the Democrats\u2019 leftward lurch", 
+    "google_url": "http://news.google.com/./articles/CAIiEDd4X9lcIQ4qw8IpPfCQHXMqFwgEKg4IACoGCAowjKxcMOvhCzDOkLcB?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T08:00:05.449761", 
+    "query": "hillary clinton"
+  }, 
+  {
+    "publication": "Oregon Daily Emerald", 
+    "idx": 17, 
+    "title": "Miller: Would Hillary be any better? | Opinion", 
+    "google_url": "http://news.google.com/./articles/CBMieWh0dHBzOi8vd3d3LmRhaWx5ZW1lcmFsZC5jb20vb3Bpbmlvbi9taWxsZXItd291bGQtaGlsbGFyeS1iZS1hbnktYmV0dGVyL2FydGljbGVfNmM0YzI5ZDgtYjFiNy0xMWU5LWI4NGUtN2Y0YmE5OTk1NTliLmh0bWzSAQA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T08:00:05.449761", 
+    "query": "hillary clinton"
+  }, 
+  {
+    "publication": "Business Insider", 
+    "idx": 18, 
+    "title": "Joe Biden is running as the anti-Trump candidate, that failed in 2016", 
+    "google_url": "http://news.google.com/./articles/CAIiEKxiLfkcbQZ2jfrtgZ8q6PUqLggEKiUIACIbd3d3LmJ1c2luZXNzaW5zaWRlci5jb20vc2FpKgQICjAMMJzw5wE?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T08:00:05.449761", 
+    "query": "hillary clinton"
+  }, 
+  {
+    "publication": "Fox News", 
+    "idx": 19, 
+    "title": "Hillary Clinton attacks Trump over tweet aimed at progressive congresswomen", 
+    "google_url": "http://news.google.com/./articles/CBMibGh0dHBzOi8vd3d3LmZveG5ld3MuY29tL3BvbGl0aWNzL2hpbGxhcnktY2xpbnRvbi1hdHRhY2tzLXRydW1wLW92ZXItdHdlZXQtYWltZWQtYXQtcHJvZ3Jlc3NpdmUtY29uZ3Jlc3N3b21lbtIBcGh0dHBzOi8vd3d3LmZveG5ld3MuY29tL3BvbGl0aWNzL2hpbGxhcnktY2xpbnRvbi1hdHRhY2tzLXRydW1wLW92ZXItdHdlZXQtYWltZWQtYXQtcHJvZ3Jlc3NpdmUtY29uZ3Jlc3N3b21lbi5hbXA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T08:00:05.449761", 
+    "query": "hillary clinton"
+  }, 
+  {
+    "publication": "Mediaite", 
+    "idx": 20, 
+    "title": "Hillary Clinton and Joe Biden Made People\u2019s \u2018Skin Crawl\u2019 on Cable News But Didn\u2019t Make Ads About It", 
+    "google_url": "http://news.google.com/./articles/CBMifGh0dHBzOi8vd3d3Lm1lZGlhaXRlLmNvbS90di9oaWxsYXJ5LWNsaW50b24tYW5kLWpvZS1iaWRlbi1tYWRlLXBlb3BsZXMtc2tpbi1jcmF3bC1vbi1jYWJsZS1uZXdzLWJ1dC1kaWRudC1tYWtlLWFkcy1hYm91dC1pdC_SAYABaHR0cHM6Ly93d3cubWVkaWFpdGUuY29tL3R2L2hpbGxhcnktY2xpbnRvbi1hbmQtam9lLWJpZGVuLW1hZGUtcGVvcGxlcy1za2luLWNyYXdsLW9uLWNhYmxlLW5ld3MtYnV0LWRpZG50LW1ha2UtYWRzLWFib3V0LWl0L2FtcC8?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T08:00:05.449761", 
+    "query": "hillary clinton"
+  }, 
+  {
+    "publication": "National Review", 
+    "idx": 21, 
+    "title": "Are Democrats Sure Biden Is Different Enough from Hillary Clinton?", 
+    "google_url": "http://news.google.com/./articles/CAIiEPfWNRBJ3PCBiKAFjuVvrvAqGQgEKhAIACoHCAowh4uHCzDap4UDMJT9lgY?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T08:00:05.449761", 
+    "query": "hillary clinton"
+  }, 
+  {
+    "publication": "The Hill", 
+    "idx": 22, 
+    "title": "Hillary Clinton blasts Trump's 'weaponized fear and bigotry' | TheHill", 
+    "google_url": "http://news.google.com/./articles/CBMibmh0dHBzOi8vdGhlaGlsbC5jb20vaG9tZW5ld3MvYWRtaW5pc3RyYXRpb24vNDUyNTgyLWhpbGxhcnktY2xpbnRvbi1ibGFzdHMtd2VhcG9uaXplZC1mZWFyLWFuZC1iaWdvdHJ5LWJ5LXRydW1w0gFyaHR0cHM6Ly90aGVoaWxsLmNvbS9ob21lbmV3cy9hZG1pbmlzdHJhdGlvbi80NTI1ODItaGlsbGFyeS1jbGludG9uLWJsYXN0cy13ZWFwb25pemVkLWZlYXItYW5kLWJpZ290cnktYnktdHJ1bXA_YW1w?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T08:00:05.449761", 
+    "query": "hillary clinton"
+  }, 
+  {
+    "publication": "NBC News", 
+    "idx": 23, 
+    "title": "Trump's attacks on Ilhan Omar echo his 'lock her up' chants. Here's how they differ.", 
+    "google_url": "http://news.google.com/./articles/CAIiEPti-XkXjB4itd74RlShCyQqGQgEKhAIACoHCAowvIaCCzDnxf4CMN6B8gU?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T08:00:05.449761", 
+    "query": "hillary clinton"
+  }, 
+  {
+    "publication": "Mother Jones", 
+    "idx": 24, 
+    "title": "Hillary Clinton Wins Fight for $12 Minimum Wage", 
+    "google_url": "http://news.google.com/./articles/CBMiXmh0dHBzOi8vd3d3Lm1vdGhlcmpvbmVzLmNvbS9rZXZpbi1kcnVtLzIwMTkvMDcvaGlsbGFyeS1jbGludG9uLXdpbnMtZmlnaHQtZm9yLTEyLW1pbmltdW0td2FnZS_SAQA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T08:00:05.449761", 
+    "query": "hillary clinton"
+  }, 
+  {
+    "publication": "Page Six", 
+    "idx": 25, 
+    "title": "Bill and Hillary Clinton visit baby Jasper and more star snaps", 
+    "google_url": "http://news.google.com/./articles/CAIiEHhqDxa3OqXYsatbztvF5tUqGQgEKhAIACoHCAowmID5CjDdtOACMLzWtAU?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T08:00:05.449761", 
+    "query": "hillary clinton"
+  }, 
+  {
+    "publication": "Closer Weekly", 
+    "idx": 26, 
+    "title": "Bill Clinton and Hillary Clinton Meet Grandson at Hospital: Pics", 
+    "google_url": "http://news.google.com/./articles/CAIiEMoGm929UkpE_0C_tJvXV88qGQgEKhAIACoHCAowqPiICzCz_4cDMP28ngY?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T08:00:05.449761", 
+    "query": "hillary clinton"
+  }, 
+  {
+    "publication": "USA TODAY", 
+    "idx": 27, 
+    "title": "Chelsea Clinton welcomes baby No. 3 and her parents are 'so thrilled'", 
+    "google_url": "http://news.google.com/./articles/CAIiEGGpghpj9Etgvh3I_IBOAfsqGQgEKhAIACoHCAowjsP7CjCSpPQCMKGi0wU?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T08:00:05.449761", 
+    "query": "hillary clinton"
+  }, 
+  {
+    "publication": "Fox News", 
+    "idx": 28, 
+    "title": "West Virginia governor on state's economic boom: 'Thankful' coal miners put Hillary Clinton 'out of business'", 
+    "google_url": "http://news.google.com/./articles/CBMiWmh0dHBzOi8vd3d3LmZveG5ld3MuY29tL21lZGlhL3dlc3QtdmlyZ2luaWEtZ292ZXJub3ItamltLWp1c3RpY2UtY29hbC1taW5lcnMtdHJ1bXAtY2xpbnRvbtIBXmh0dHBzOi8vd3d3LmZveG5ld3MuY29tL21lZGlhL3dlc3QtdmlyZ2luaWEtZ292ZXJub3ItamltLWp1c3RpY2UtY29hbC1taW5lcnMtdHJ1bXAtY2xpbnRvbi5hbXA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T08:00:05.449761", 
+    "query": "hillary clinton"
+  }, 
+  {
+    "publication": "The New York Times", 
+    "idx": 29, 
+    "title": "Team Players in Politics and Love", 
+    "google_url": "http://news.google.com/./articles/CAIiECi_LJJ7-KAG5jEIP5jTkXcqFwgEKg8IACoHCAowjuuKAzCWrzww14UY?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T08:00:05.449761", 
+    "query": "hillary clinton"
+  }, 
+  {
+    "publication": "Newsweek", 
+    "idx": 30, 
+    "title": "Melania More Admired Than Hillary, Ivanka but Not Michelle Obama", 
+    "google_url": "http://news.google.com/./articles/CAIiEMl5hrM4SckaiPGNKKqz5dkqGQgEKhAIACoHCAow77zbCjDiq8wBMNiCsgU?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T08:00:05.449761", 
+    "query": "hillary clinton"
+  }, 
+  {
+    "publication": "Washington Examiner", 
+    "idx": 31, 
+    "title": "Kamala Harris campaign lawyer hired Fusion GPS for Hillary Clinton", 
+    "google_url": "http://news.google.com/./articles/CBMiamh0dHBzOi8vd3d3Lndhc2hpbmd0b25leGFtaW5lci5jb20vbmV3cy9rYW1hbGEtaGFycmlzLWNhbXBhaWduLWxhd3llci1oaXJlZC1mdXNpb24tZ3BzLWZvci1oaWxsYXJ5LWNsaW50b27SAQA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T08:00:05.449761", 
+    "query": "hillary clinton"
+  }, 
+  {
+    "publication": "Fox News", 
+    "idx": 32, 
+    "title": "Bill, Hillary Clinton booed at Billy Joel concert after singer dedicated song to them", 
+    "google_url": "http://news.google.com/./articles/CBMiSGh0dHBzOi8vd3d3LmZveG5ld3MuY29tL2VudGVydGFpbm1lbnQvY2xpbnRvbnMtYm9vZWQtYmlsbHktam9lbC1uZXcteW9ya9IBTGh0dHBzOi8vd3d3LmZveG5ld3MuY29tL2VudGVydGFpbm1lbnQvY2xpbnRvbnMtYm9vZWQtYmlsbHktam9lbC1uZXcteW9yay5hbXA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T08:00:05.449761", 
+    "query": "hillary clinton"
+  }, 
+  {
+    "publication": "The Philadelphia Inquirer", 
+    "idx": 33, 
+    "title": "When Hillary trounced Trump: Polls are unreliable a year before an election. So why are Dems watching?", 
+    "google_url": "http://news.google.com/./articles/CBMieWh0dHBzOi8vd3d3LmlucXVpcmVyLmNvbS9uZXdzL2hvdy1yZWxpYWJsZS1hcmUtcG9sbHMtZ2VuZXJhbC1lbGVjdGlvbi1wcmVzaWRlbnQtMjAyMC1qb2UtYmlkZW4tZG9uYWxkLXRydW1wLTIwMTkwNzI2Lmh0bWzSAYgBaHR0cHM6Ly93d3cuaW5xdWlyZXIuY29tL25ld3MvaG93LXJlbGlhYmxlLWFyZS1wb2xscy1nZW5lcmFsLWVsZWN0aW9uLXByZXNpZGVudC0yMDIwLWpvZS1iaWRlbi1kb25hbGQtdHJ1bXAtMjAxOTA3MjYuaHRtbD9vdXRwdXRUeXBlPWFtcA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T08:00:05.449761", 
+    "query": "hillary clinton"
+  }, 
+  {
+    "publication": "Baltimore Sun", 
+    "idx": 34, 
+    "title": "Goldberg: Democrats' leftward turn was a reaction to Hillary Clinton", 
+    "google_url": "http://news.google.com/./articles/CBMiXGh0dHBzOi8vd3d3LmJhbHRpbW9yZXN1bi5jb20vb3Bpbmlvbi9vcC1lZC9icy1lZC1vcC0wNzA3Z29sZGJlcmctZGViYXRlcy0yMDE5MDcwMi1zdG9yeS5odG1s0gFraHR0cHM6Ly93d3cuYmFsdGltb3Jlc3VuLmNvbS9vcGluaW9uL29wLWVkL2JzLWVkLW9wLTA3MDdnb2xkYmVyZy1kZWJhdGVzLTIwMTkwNzAyLXN0b3J5Lmh0bWw_b3V0cHV0VHlwZT1hbXA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T08:00:05.449761", 
+    "query": "hillary clinton"
+  }, 
+  {
+    "publication": "Sydney Morning Herald", 
+    "idx": 35, 
+    "title": "The secret to coaxing Hillary Clinton, Malala and Bren\u00e9 Brown to Australia", 
+    "google_url": "http://news.google.com/./articles/CAIiEPkvFWY2REk3diqNbfPt538qGQgEKhAIACoHCAowxqmICzDg_IYDMObfmwY?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T08:00:05.449761", 
+    "query": "hillary clinton"
+  }, 
+  {
+    "publication": "Page Six", 
+    "idx": 36, 
+    "title": "Bill and Hillary Clinton dance during Billy Joel concert", 
+    "google_url": "http://news.google.com/./articles/CAIiEDcwmTJR4VzsgbhhaSiU-1YqGQgEKhAIACoHCAowmID5CjDdtOACMLzWtAU?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T08:00:05.449761", 
+    "query": "hillary clinton"
+  }, 
+  {
+    "publication": "The Economist", 
+    "idx": 37, 
+    "title": "If everyone had voted, Hillary Clinton would probably be president", 
+    "google_url": "http://news.google.com/./articles/CBMidWh0dHBzOi8vd3d3LmVjb25vbWlzdC5jb20vZ3JhcGhpYy1kZXRhaWwvMjAxOS8wNy8wNi9pZi1ldmVyeW9uZS1oYWQtdm90ZWQtaGlsbGFyeS1jbGludG9uLXdvdWxkLXByb2JhYmx5LWJlLXByZXNpZGVudNIBAA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T08:00:05.449761", 
+    "query": "hillary clinton"
+  }, 
+  {
+    "publication": "PopCulture.com", 
+    "idx": 38, 
+    "title": "Bill and Hillary Clinton Meet New Grandson Jasper Day After Daughter Chelsea Gives Birth", 
+    "google_url": "http://news.google.com/./articles/CBMicmh0dHBzOi8vcG9wY3VsdHVyZS5jb20vY2VsZWJyaXR5LzIwMTkvMDcvMjYvYmlsbC1oaWxsYXJ5LWNsaW50b24tbWVldC1uZXctZ3JhbmRzb24tamFzcGVyLWRheS1jaGVsc2VhLWdpdmVzLWJpcnRoL9IBdmh0dHBzOi8vcG9wY3VsdHVyZS5jb20vY2VsZWJyaXR5L2FtcC8yMDE5LzA3LzI2L2JpbGwtaGlsbGFyeS1jbGludG9uLW1lZXQtbmV3LWdyYW5kc29uLWphc3Blci1kYXktY2hlbHNlYS1naXZlcy1iaXJ0aC8?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T08:00:05.449761", 
+    "query": "hillary clinton"
+  }, 
+  {
+    "publication": "NBC News", 
+    "idx": 39, 
+    "title": "Trump puts minorities in his 'basket of deplorables'", 
+    "google_url": "http://news.google.com/./articles/CAIiEJOUaGEflYKCPW3Th5ImhNEqGQgEKhAIACoHCAowvIaCCzDnxf4CMP2F8gU?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T08:00:05.449761", 
+    "query": "hillary clinton"
+  }, 
+  {
+    "publication": "Washington Examiner", 
+    "idx": 40, 
+    "title": "Mueller will appear with lawyer who represented the Clinton aide who set up email server", 
+    "google_url": "http://news.google.com/./articles/CBMigAFodHRwczovL3d3dy53YXNoaW5ndG9uZXhhbWluZXIuY29tL25ld3MvbXVlbGxlci13aWxsLWFwcGVhci13aXRoLWxhd3llci13aG8tcmVwcmVzZW50ZWQtdGhlLWNsaW50b24tYWlkZS13aG8tc2V0LXVwLWVtYWlsLXNlcnZlctIBAA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T08:00:05.449761", 
+    "query": "hillary clinton"
+  }, 
+  {
+    "publication": "The New York Times", 
+    "idx": 41, 
+    "title": "Who Still Calls it a \u2018Glass Ceiling?\u2019 Not the 6 Women Running for President", 
+    "google_url": "http://news.google.com/./articles/CAIiEEpmLBwk9110bSOz-z9wOGYqFwgEKg8IACoHCAowjuuKAzCWrzwwt4QY?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T08:00:05.449761", 
+    "query": "hillary clinton"
+  }, 
+  {
+    "publication": "The Daily Caller", 
+    "idx": 42, 
+    "title": "Trump Suggests Issuing Subpoenas For Obama, Hillary Clinton Records", 
+    "google_url": "http://news.google.com/./articles/CBMiZmh0dHBzOi8vZGFpbHljYWxsZXIuY29tLzIwMTkvMDcvMjYvdHJ1bXAtc3VnZ2VzdHMtaXNzdWluZy1zdWJwb2VuYXMtZm9yLW9iYW1hLWhpbGxhcnktY2xpbnRvbi1yZWNvcmRzL9IBaWh0dHBzOi8vYW1wLmRhaWx5Y2FsbGVyLmNvbS8yMDE5LzA3LzI2L3RydW1wLXN1Z2dlc3RzLWlzc3Vpbmctc3VicG9lbmFzLWZvci1vYmFtYS1oaWxsYXJ5LWNsaW50b24tcmVjb3Jkcw?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T08:00:05.449761", 
+    "query": "hillary clinton"
+  }, 
+  {
+    "publication": "PJ Media", 
+    "idx": 43, 
+    "title": "Mueller Vouches for Team Full of Hillary Clinton Supporters", 
+    "google_url": "http://news.google.com/./articles/CBMiemh0dHBzOi8vcGptZWRpYS5jb20vdHJlbmRpbmcvbGF3eWVyLXdoby1yZXByZXNlbnRlZC10aGUtYWlkZS13aG8tZGVzdHJveWVkLWhpbGxhcnktY2xpbnRvbnMtY2VsbC1waG9uZXMtc2l0cy13aXRoLW11ZWxsZXIv0gEA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T08:00:05.449761", 
+    "query": "hillary clinton"
+  }, 
+  {
+    "publication": "Washington Times", 
+    "idx": 44, 
+    "title": "Hillary Clinton's people still insist it's the woman thing", 
+    "google_url": "http://news.google.com/./articles/CBMiZGh0dHBzOi8vd3d3Lndhc2hpbmd0b250aW1lcy5jb20vbmV3cy8yMDE5L2p1bC8xMi9oaWxsYXJ5LWNsaW50b25zLXBlb3BsZS1zdGlsbC1pbnNpc3QtaXRzLXdvbWFuLXRoaS_SAWNodHRwOi8vYW1wLndhc2hpbmd0b250aW1lcy5jb20vbmV3cy8yMDE5L2p1bC8xMi9oaWxsYXJ5LWNsaW50b25zLXBlb3BsZS1zdGlsbC1pbnNpc3QtaXRzLXdvbWFuLXRoaS8?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T08:00:05.449761", 
+    "query": "hillary clinton"
+  }, 
+  {
+    "publication": "Law &amp; Crime", 
+    "idx": 45, 
+    "title": "\u2018Surprising\u2019: Mueller Says He Didn\u2019t Know Prosecutor Repped Clinton Until After She Joined His Team", 
+    "google_url": "http://news.google.com/./articles/CBMihQFodHRwczovL2xhd2FuZGNyaW1lLmNvbS9oaWdoLXByb2ZpbGUvc3VycHJpc2luZy1tdWVsbGVyLXNheXMtaGUtZGlkbnQta25vdy1wcm9zZWN1dG9yLXJlcHBlZC1jbGludG9uLXVudGlsLWFmdGVyLXNoZS1qb2luZWQtaGlzLXRlYW0v0gGJAWh0dHBzOi8vbGF3YW5kY3JpbWUuY29tL2hpZ2gtcHJvZmlsZS9zdXJwcmlzaW5nLW11ZWxsZXItc2F5cy1oZS1kaWRudC1rbm93LXByb3NlY3V0b3ItcmVwcGVkLWNsaW50b24tdW50aWwtYWZ0ZXItc2hlLWpvaW5lZC1oaXMtdGVhbS9hbXAv?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T08:00:05.449761", 
+    "query": "hillary clinton"
+  }, 
+  {
+    "publication": "NPR", 
+    "idx": 46, 
+    "title": "How Democratic Candidates Have Wrestled With The Question Of The Death Penalty", 
+    "google_url": "http://news.google.com/./articles/CBMid2h0dHBzOi8vd3d3Lm5wci5vcmcvMjAxOS8wNy8yOS83NDYzNjYwMjUvaG93LWRlbW9jcmF0aWMtY2FuZGlkYXRlcy1oYXZlLXdyZXN0bGVkLXdpdGgtdGhlLXF1ZXN0aW9uLW9mLXRoZS1kZWF0aC1wZW5hbHR50gEA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T08:00:05.449761", 
+    "query": "hillary clinton"
+  }, 
+  {
+    "publication": "The Washington Post", 
+    "idx": 47, 
+    "title": "Intelligence chief pick Ratcliffe made his name during the Trump inquiries by backing the president", 
+    "google_url": "http://news.google.com/./articles/CAIiEB4jF-8t69G7XdXI5fjx7asqGAgEKg8IACoHCAowjtSUCjC30XQwzqe5AQ?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T08:00:05.449761", 
+    "query": "hillary clinton"
+  }, 
+  {
+    "publication": "MEAWW", 
+    "idx": 48, 
+    "title": "Chelsea Clinton takes newborn son Jasper home with mother Hillary and husband Marc Mezvinsky", 
+    "google_url": "http://news.google.com/./articles/CAIiEGg9KYnvIJv2-yX4AOcTpHwqGQgEKhAIACoHCAowq-CDCzDr2v8CMNL0oQY?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T08:00:05.449761", 
+    "query": "hillary clinton"
+  }, 
+  {
+    "publication": "The Daily Caller", 
+    "idx": 49, 
+    "title": "FITTON: Congress Should Stop Wasting Time On Mueller \u2014 And Investigate Hillary Clinton\u2019s Role In Steele Dossier", 
+    "google_url": "http://news.google.com/./articles/CBMiOmh0dHBzOi8vZGFpbHljYWxsZXIuY29tLzIwMTkvMDcvMjIvZml0dG9uLW11ZWxsZXItY2xpbnRvbi_SAT1odHRwczovL2FtcC5kYWlseWNhbGxlci5jb20vMjAxOS8wNy8yMi9maXR0b24tbXVlbGxlci1jbGludG9u?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T08:00:05.449761", 
+    "query": "hillary clinton"
+  }, 
+  {
+    "publication": "WHYY", 
+    "idx": 50, 
+    "title": "Remember 2016? When beating Trump in the debates didn\u2019t matter?", 
+    "google_url": "http://news.google.com/./articles/CBMiV2h0dHBzOi8vd2h5eS5vcmcvYXJ0aWNsZXMvcmVtZW1iZXItMjAxNi13aGVuLWJlYXRpbmctdHJ1bXAtaW4tdGhlLWRlYmF0ZXMtZGlkbnQtbWF0dGVyL9IBW2h0dHBzOi8vd2h5eS5vcmcvYXJ0aWNsZXMvcmVtZW1iZXItMjAxNi13aGVuLWJlYXRpbmctdHJ1bXAtaW4tdGhlLWRlYmF0ZXMtZGlkbnQtbWF0dGVyL2FtcC8?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T08:00:05.449761", 
+    "query": "hillary clinton"
+  }, 
+  {
+    "publication": "Sulphur Southwest Daily News", 
+    "idx": 51, 
+    "title": "Today in History, July 26: Hillary Clinton becomes first woman nominated to run for president in 2016", 
+    "google_url": "http://news.google.com/./articles/CBMimgFodHRwOi8vd3d3LnN1bHBodXJkYWlseW5ld3MuY29tL25ld3MvdG9kYXktaW4taGlzdG9yeS1qdWx5LWhpbGxhcnktY2xpbnRvbi1iZWNvbWVzLWZpcnN0LXdvbWFuLW5vbWluYXRlZC9hcnRpY2xlXzg3MDY2MDQ2LWFmYTktMTFlOS1iNjdjLWFmNjA5ZTY2OWNlOS5odG1s0gEA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T08:00:05.449761", 
+    "query": "hillary clinton"
+  }, 
+  {
+    "publication": "POLITICO", 
+    "idx": 52, 
+    "title": "Trump\u2019s race playbook: Excoriate the left and enthrall his base", 
+    "google_url": "http://news.google.com/./articles/CAIiEMxIFRLR__fCmNUweWG-714qGQgEKhAIACoHCAow4Zn5CjCu8uACMLTRlgY?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T08:00:05.449761", 
+    "query": "hillary clinton"
+  }, 
+  {
+    "publication": "WCAI", 
+    "idx": 53, 
+    "title": "Boeing 737 Max Grounding Takes Toll On Airlines And Passengers", 
+    "google_url": "http://news.google.com/./articles/CBMiX2h0dHBzOi8vd3d3LmNhcGVhbmRpc2xhbmRzLm9yZy9wb3N0L2JvZWluZy03MzctbWF4LWdyb3VuZGluZy10YWtlcy10b2xsLWFpcmxpbmVzLWFuZC1wYXNzZW5nZXJz0gEA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T08:00:05.449761", 
+    "query": "hillary clinton"
+  }, 
+  {
+    "publication": "WUWM", 
+    "idx": 54, 
+    "title": "'Road' To Record-Breaking: How Lil Nas X Is Making History", 
+    "google_url": "http://news.google.com/./articles/CBMiTmh0dHBzOi8vd3d3Lnd1d20uY29tL3Bvc3Qvcm9hZC1yZWNvcmRpbmctYnJlYWtpbmctaG93LWxpbC1uYXMteC1tYWtpbmctaGlzdG9yedIBAA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T08:00:05.449761", 
+    "query": "hillary clinton"
+  }, 
+  {
+    "publication": "NPR Illinois | 91.9 UIS", 
+    "idx": 55, 
+    "title": "Packing Hacks: How To Get Everything You Need For A Trip Into 1 Carry-On Bag", 
+    "google_url": "http://news.google.com/./articles/CBMiW2h0dHBzOi8vd3d3Lm5wcmlsbGlub2lzLm9yZy9wb3N0L3BhY2tpbmctaGFja3MtaG93LWdldC1ldmVyeXRoaW5nLXlvdS1uZWVkLXRyaXAtMS1jYXJyeS1iYWfSAQA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T08:00:05.449761", 
+    "query": "hillary clinton"
+  }, 
+  {
+    "publication": "Sean Hannity", 
+    "idx": 56, 
+    "title": "HANNITY TO COMEY: What Part of the Espionage Act Did Hillary Clinton NOT Violate?", 
+    "google_url": "http://news.google.com/./articles/CBMib2h0dHBzOi8vaGFubml0eS5jb20vbWVkaWEtcm9vbS9oYW5uaXR5LXRvLWNvbWV5LXdoYXQtcGFydC1vZi10aGUtZXNwaW9uYWdlLWFjdC1kaWQtaGlsbGFyeS1jbGludG9uLW5vdC12aW9sYXRlL9IBAA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T08:00:05.449761", 
+    "query": "hillary clinton"
+  }, 
+  {
+    "publication": "MLive.com", 
+    "idx": 57, 
+    "title": "76 Michigan communities where Trump got 75% of vote or more in 2016", 
+    "google_url": "http://news.google.com/./articles/CAIiELgquzuJ92uPaSZ2AhYW3MAqGQgEKhAIACoHCAow_qT_CjDltPgCMILcpAY?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T08:00:05.449761", 
+    "query": "hillary clinton"
+  }, 
+  {
+    "publication": "The Associated Press", 
+    "idx": 58, 
+    "title": "As Trump dives into racial politics, suburban women recoil", 
+    "google_url": "http://news.google.com/./articles/CAIiEAY01_525dENYLzzi2ZOZxYqFwgEKg8IACoHCAowhO7OATDh9Cgwv7tQ?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T08:00:05.449761", 
+    "query": "hillary clinton"
+  }, 
+  {
+    "publication": "The Washington Post", 
+    "idx": 59, 
+    "title": "\u2018The enigma of the entire Mueller probe\u2019: Focus on origins of Russian investigation puts spotlight on Maltese professor", 
+    "google_url": "http://news.google.com/./articles/CAIiEHT_0laOU5ziaJtvXbNHuWcqGAgEKg8IACoHCAowjtSUCjC30XQw36e5AQ?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T08:00:05.449761", 
+    "query": "hillary clinton"
+  }, 
+  {
+    "publication": "The Washington Post", 
+    "idx": 60, 
+    "title": "No one makes Trump as unsteady as Kamala Harris does", 
+    "google_url": "http://news.google.com/./articles/CAIiEGPyeJ6xqhkfPX3YxJocb3QqGAgEKg8IACoHCAowjtSUCjC30XQwzqe5AQ?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T08:00:05.449761", 
+    "query": "hillary clinton"
+  }, 
+  {
+    "publication": "RT", 
+    "idx": 61, 
+    "title": "\u2018Clinton Body Count\u2019 trends on Twitter, establishment blames Russia", 
+    "google_url": "http://news.google.com/./articles/CAIiEATcBfOXuw1pnOzX9a1b3wUqFwgEKg8IACoHCAownP3cAjDQkhww7oMo?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T08:00:05.449761", 
+    "query": "hillary clinton"
+  }, 
+  {
+    "publication": "The CEO Magazine", 
+    "idx": 62, 
+    "title": "Roger Federer, John Legend and Hilary Clinton stay at luxury resort Trisara", 
+    "google_url": "http://news.google.com/./articles/CBMiWmh0dHBzOi8vd3d3LnRoZWNlb21hZ2F6aW5lLmNvbS9idXNpbmVzcy9tYW5hZ2VtZW50LWxlYWRlcnNoaXAvbHV4dXJ5LXRyaXNhcmEtYW50aG9ueS1sYXJrL9IBAA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T08:00:05.449761", 
+    "query": "hillary clinton"
+  }, 
+  {
+    "publication": "The Epoch Times", 
+    "idx": 63, 
+    "title": "Hillary Clinton\u2019s Lawyer Changes Story on When She Knew About Emails", 
+    "google_url": "http://news.google.com/./articles/CAIiEDthVHQ5acScjBrzc3p1fWEqFwgEKg8IACoHCAow5uLNATDi2ycw3vRO?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T08:00:05.449761", 
+    "query": "hillary clinton"
+  }, 
+  {
+    "publication": "NBC News", 
+    "idx": 64, 
+    "title": "Journey to power: The history of black voters, 1976 to 2020", 
+    "google_url": "http://news.google.com/./articles/CAIiELrsbAQesKoGZAsWgQW4nBAqGQgEKhAIACoHCAowvIaCCzDnxf4CMP2F8gU?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T08:00:05.449761", 
+    "query": "hillary clinton"
+  }, 
+  {
+    "publication": "The New York Times", 
+    "idx": 65, 
+    "title": "Hillary Clinton Says She Is Not Running for President in 2020", 
+    "google_url": "http://news.google.com/./articles/CAIiEF7RGbxD5kiCIVPDGU0v7f0qFwgEKg8IACoHCAowjuuKAzCWrzwwloEY?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T08:00:05.449761", 
+    "query": "hillary clinton"
+  }, 
+  {
+    "publication": "The Daily Caller", 
+    "idx": 66, 
+    "title": "Hillary Clinton Withdraws As Cybersecurity Conference Keynote, Citing \u2018Unforeseen Circumstance\u2019", 
+    "google_url": "http://news.google.com/./articles/CBMiTGh0dHBzOi8vZGFpbHljYWxsZXIuY29tLzIwMTkvMDcvMDQvaGlsbGFyeS1jbGludG9uLWN5YmVyc2VjdXJpdHktY29uZmVyZW5jZS_SAU9odHRwczovL2FtcC5kYWlseWNhbGxlci5jb20vMjAxOS8wNy8wNC9oaWxsYXJ5LWNsaW50b24tY3liZXJzZWN1cml0eS1jb25mZXJlbmNl?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T08:00:05.449761", 
+    "query": "hillary clinton"
+  }, 
+  {
+    "publication": "USA TODAY", 
+    "idx": 67, 
+    "title": "'You can have the election stolen from you,' Hillary Clinton warns 2020 Democrats", 
+    "google_url": "http://news.google.com/./articles/CAIiENbIp56r7sQwqG4t2P-A3bkqGQgEKhAIACoHCAowjsP7CjCSpPQCMM_b5QU?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T08:00:05.449761", 
+    "query": "hillary clinton"
+  }, 
+  {
+    "publication": "The Daily Caller", 
+    "idx": 68, 
+    "title": "Brother Of Eddie Gallagher Opens Up, Says He\u2019s Furious Hillary Clinton Called The Navy SEAL \u2018Grotesque\u2019", 
+    "google_url": "http://news.google.com/./articles/CBMiQWh0dHBzOi8vZGFpbHljYWxsZXIuY29tLzIwMTkvMDcvMTkvZWRkaWUtZ2FsbGFnaGVyLXRyaWFsLXZlcmRpY3Qv0gFEaHR0cHM6Ly9hbXAuZGFpbHljYWxsZXIuY29tLzIwMTkvMDcvMTkvZWRkaWUtZ2FsbGFnaGVyLXRyaWFsLXZlcmRpY3Q?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T08:00:05.449761", 
+    "query": "hillary clinton"
+  }, 
+  {
+    "publication": "The Washington Post", 
+    "idx": 69, 
+    "title": "Hillary Clinton: Mueller documented a serious crime against all Americans. Here\u2019s how to respond.", 
+    "google_url": "http://news.google.com/./articles/CAIiEKkY3chnpZvTYJFglSjrZDoqGAgEKg8IACoHCAowjtSUCjC30XQw_qe5AQ?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T08:00:05.449761", 
+    "query": "hillary clinton"
+  }, 
+  {
+    "publication": "Los Angeles Times", 
+    "idx": 70, 
+    "title": "Hillary Clinton says Mueller report shows Russian interference and obstruction of justice", 
+    "google_url": "http://news.google.com/./articles/CAIiEJXaMo8Ow2TpJNmAC2w2dAUqFggEKg4IACoGCAowjKxcMOvhCzCZzg8?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T08:00:05.449761", 
+    "query": "hillary clinton"
+  }, 
+  {
+    "publication": "The New York Times", 
+    "idx": 71, 
+    "title": "Hillary Clinton Is Not a Candidate. But She Has a Role in 2020 Anyway.", 
+    "google_url": "http://news.google.com/./articles/CAIiEIiN7rRcSxj4uAARMI9KSekqFwgEKg8IACoHCAowjuuKAzCWrzwwqIQY?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T08:00:05.449761", 
+    "query": "hillary clinton"
+  }, 
+  {
+    "publication": "The Intercept", 
+    "idx": 72, 
+    "title": "Hillary Clinton Is Still Deeply Confused About What Happened in Wisconsin. Here\u2019s Why That Matters.", 
+    "google_url": "http://news.google.com/./articles/CBMiT2h0dHBzOi8vdGhlaW50ZXJjZXB0LmNvbS8yMDE5LzAzLzEwL2hpbGxhcnktY2xpbnRvbi1ibG9vZHktc3VuZGF5LXNwZWVjaC1zZWxtYS_SAVNodHRwczovL3N0YXRpYy50aGVpbnRlcmNlcHQuY29tL2FtcC9oaWxsYXJ5LWNsaW50b24tYmxvb2R5LXN1bmRheS1zcGVlY2gtc2VsbWEuaHRtbA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T08:00:05.449761", 
+    "query": "hillary clinton"
+  }, 
+  {
+    "publication": "Capstone Report", 
+    "idx": 73, 
+    "title": "Baptist pastor who voted for Hillary Clinton attacks Baptists for 'suppression of women'", 
+    "google_url": "http://news.google.com/./articles/CBMiggFodHRwOi8vY2Fwc3RvbmVyZXBvcnQuY29tLzIwMTkvMDcvMjEvYmFwdGlzdC1wYXN0b3Itd2hvLXZvdGVkLWZvci1oaWxsYXJ5LWNsaW50b24tYXR0YWNrcy1iYXB0aXN0cy1mb3Itc3VwcHJlc3Npb24tb2Ytd29tZW4vMzI3OTgv0gEA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T08:00:05.449761", 
+    "query": "hillary clinton"
+  }, 
+  {
+    "publication": "The Daily Wire", 
+    "idx": 74, 
+    "title": "It\u2019s Not Just Straws: Trump Campaign Merchandise Trolls Adam Schiff, Russian Collusion Conspiracy Theorists", 
+    "google_url": "http://news.google.com/./articles/CBMiXmh0dHBzOi8vd3d3LmRhaWx5d2lyZS5jb20vbmV3cy81MDAzMS9pdHMtbm90LWp1c3Qtc3RyYXdzLXRydW1wLWNhbXBhaWduLW1lcmNoYW5kaXNlLWFzaGUtc2Nob3fSAWJodHRwczovL3d3dy5kYWlseXdpcmUuY29tL25ld3MvNTAwMzEvaXRzLW5vdC1qdXN0LXN0cmF3cy10cnVtcC1jYW1wYWlnbi1tZXJjaGFuZGlzZS1hc2hlLXNjaG93P2FtcA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T08:00:05.449761", 
+    "query": "hillary clinton"
+  }, 
+  {
+    "publication": "The New York Times", 
+    "idx": 75, 
+    "title": "Hillary Clinton Blasts Trump, Barr and Parts of Mueller Report", 
+    "google_url": "http://news.google.com/./articles/CAIiEHaGNq9gJxc9F0qNddDyVjQqFwgEKg8IACoHCAowjuuKAzCWrzwwt4QY?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T08:00:05.449761", 
+    "query": "hillary clinton"
+  }, 
+  {
+    "publication": "The Atlantic", 
+    "idx": 76, 
+    "title": "The Clintons Are Nervous About 2020", 
+    "google_url": "http://news.google.com/./articles/CAIiEJFfdSblKNoOy9gO1T-Ny64qFAgEKg0IACoGCAowm_EEMKAiMPtZ?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T08:00:05.449761", 
+    "query": "hillary clinton"
+  }, 
+  {
+    "publication": "New York Magazine", 
+    "idx": 77, 
+    "title": "The End of Mueller\u2019s Probe Renewed the Right\u2019s Hillary Clinton Obsession", 
+    "google_url": "http://news.google.com/./articles/CBMiZmh0dHA6Ly9ueW1hZy5jb20vaW50ZWxsaWdlbmNlci8yMDE5LzAzL2dvcHMtaGlsbGFyeS1jbGludG9uLW9ic2Vzc2lvbi1yZW5ld2VkLWFmdGVyLW11ZWxsZXItcHJvYmUuaHRtbNIBamh0dHA6Ly9ueW1hZy5jb20vaW50ZWxsaWdlbmNlci9hbXAvMjAxOS8wMy9nb3BzLWhpbGxhcnktY2xpbnRvbi1vYnNlc3Npb24tcmVuZXdlZC1hZnRlci1tdWVsbGVyLXByb2JlLmh0bWw?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T08:00:05.449761", 
+    "query": "hillary clinton"
+  }, 
+  {
+    "publication": "CNN", 
+    "idx": 78, 
+    "title": "Hillary Clinton offers rare glimpse inside family's DC home", 
+    "google_url": "http://news.google.com/./articles/CAIiEFJF6fHBa_P4shenNXoei9YqGQgEKhAIACoHCAowocv1CjCSptoCMIbnyQU?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T08:00:05.449761", 
+    "query": "hillary clinton"
+  }, 
+  {
+    "publication": "The New York Times", 
+    "idx": 79, 
+    "title": "Some Look at Joe Biden\u2019s Campaign and See Hillary Clinton\u2019s", 
+    "google_url": "http://news.google.com/./articles/CAIiEN4p3TZcNbY_awZukw66sFoqFwgEKg8IACoHCAowjuuKAzCWrzwwt4QY?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T08:00:05.449761", 
+    "query": "hillary clinton"
+  }, 
+  {
+    "publication": "Newsweek", 
+    "idx": 80, 
+    "title": "Bill and Hillary Clinton's Life in Exile: The Once-Powerful Political Couple Now Seeks Attention, Audience", 
+    "google_url": "http://news.google.com/./articles/CAIiEOZ-HSmCAMwujTeLOblAt8MqGQgEKhAIACoHCAow77zbCjDiq8wBMNiCsgU?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T08:00:05.449761", 
+    "query": "hillary clinton"
+  }, 
+  {
+    "publication": "Forbes", 
+    "idx": 81, 
+    "title": "Hillary Clinton Returns?", 
+    "google_url": "http://news.google.com/./articles/CAIiED7PTPz-U-0VcUR_QUGU3tEqFQgEKg0IACoGCAowrqkBMKBFMI_CEg?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T08:00:05.449761", 
+    "query": "hillary clinton"
+  }, 
+  {
+    "publication": "Fox News", 
+    "idx": 82, 
+    "title": "Hillary Clinton unloads on Assange, calls him 'only foreigner that this administration would welcome to the...", 
+    "google_url": "http://news.google.com/./articles/CBMiVGh0dHBzOi8vd3d3LmZveG5ld3MuY29tL3BvbGl0aWNzL2hpbGxhcnktY2xpbnRvbi1hc3NhbmdlLWZvcmVpZ25lci1ueWMtc3BlYWtpbmctdG91ctIBWGh0dHBzOi8vd3d3LmZveG5ld3MuY29tL3BvbGl0aWNzL2hpbGxhcnktY2xpbnRvbi1hc3NhbmdlLWZvcmVpZ25lci1ueWMtc3BlYWtpbmctdG91ci5hbXA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T08:00:05.449761", 
+    "query": "hillary clinton"
+  }, 
+  {
+    "publication": "TIME", 
+    "idx": 83, 
+    "title": "Hillary Clinton: Anyone Else Would Have Been Indicted After Mueller Report", 
+    "google_url": "http://news.google.com/./articles/CAIiECMYnhhNsf79cG72Bi6jhtcqGQgEKhAIACoHCAowmICNCzDjmZ4DMJXOqQY?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T08:00:05.449761", 
+    "query": "hillary clinton"
+  }, 
+  {
+    "publication": "CNN", 
+    "idx": 84, 
+    "title": "Hillary Clinton: Trump administration tearing down 'hard-won civil rights'", 
+    "google_url": "http://news.google.com/./articles/CAIiEPOZw4AYF-okuZqMdXiDuG0qGQgEKhAIACoHCAowocv1CjCSptoCMPrTpgU?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T08:00:05.449761", 
+    "query": "hillary clinton"
+  }, 
+  {
+    "publication": "Rolling Stone", 
+    "idx": 85, 
+    "title": "Trump Is Clinging on to Hillary Clinton Like Grim Death \u2014 Is It Actually Working?", 
+    "google_url": "http://news.google.com/./articles/CAIiEHxpQHmD-6b6ASM3LdKAoGMqGQgEKhAIACoHCAow9MSGCzCKpYQDML-UuQM?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T08:00:05.449761", 
+    "query": "hillary clinton"
+  }, 
+  {
+    "publication": "WND.com", 
+    "idx": 86, 
+    "title": "Hillary fan warns: Google gave Hillary millions of votes in 2016", 
+    "google_url": "http://news.google.com/./articles/CBMiXGh0dHBzOi8vd3d3LnduZC5jb20vMjAxOS8wNy9oaWxsYXJ5LWZhbi13YXJucy1nb29nbGUtZ2F2ZS1oaWxsYXJ5LW1pbGxpb25zLW9mLXZvdGVzLWluLTIwMTYv0gFgaHR0cHM6Ly93d3cud25kLmNvbS8yMDE5LzA3L2hpbGxhcnktZmFuLXdhcm5zLWdvb2dsZS1nYXZlLWhpbGxhcnktbWlsbGlvbnMtb2Ytdm90ZXMtaW4tMjAxNi9hbXAv?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T08:00:05.449761", 
+    "query": "hillary clinton"
+  }, 
+  {
+    "publication": "Newsweek", 
+    "idx": 87, 
+    "title": "Who's Afraid of Hillary Clinton?", 
+    "google_url": "http://news.google.com/./articles/CAIiEBHdqYLpov6eEiWdtMhtA58qGQgEKhAIACoHCAow77zbCjDiq8wBMNiCsgU?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T08:00:05.449761", 
+    "query": "hillary clinton"
+  }, 
+  {
+    "publication": "POLITICO", 
+    "idx": 88, 
+    "title": "\u2018Sexist trash\u2019: Hillary Clinton slams Facebook for keeping up Pelosi videos", 
+    "google_url": "http://news.google.com/./articles/CAIiEBUhbSCspmLkv-oyPJBYpc0qGQgEKhAIACoHCAow4Zn5CjCu8uACMLTRlgY?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T08:00:05.449761", 
+    "query": "hillary clinton"
+  }, 
+  {
+    "publication": "New York Post", 
+    "idx": 89, 
+    "title": "Democrats are leaving Hillary Clinton behind", 
+    "google_url": "http://news.google.com/./articles/CAIiEAUCFVwOpvG7UuFnDYz0zIEqGAgEKg8IACoHCAowhK-LAjD4ySww-9S0BQ?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T08:00:05.449761", 
+    "query": "hillary clinton"
+  }, 
+  {
+    "publication": "BBC News", 
+    "idx": 90, 
+    "title": "US election 2020: Do front-runners win their party's nomination?", 
+    "google_url": "http://news.google.com/./articles/CBMiM2h0dHBzOi8vd3d3LmJiYy5jby51ay9uZXdzL3dvcmxkLXVzLWNhbmFkYS00OTA3MDg3MtIBN2h0dHBzOi8vd3d3LmJiYy5jby51ay9uZXdzL2FtcC93b3JsZC11cy1jYW5hZGEtNDkwNzA4NzI?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T08:00:05.449761", 
+    "query": "hillary clinton"
+  }, 
+  {
+    "publication": "Oprah Mag", 
+    "idx": 91, 
+    "title": "Here's What Hillary Clinton Is Doing Now", 
+    "google_url": "http://news.google.com/./articles/CBMiWGh0dHBzOi8vd3d3Lm9wcmFobWFnLmNvbS9lbnRlcnRhaW5tZW50L2EyNjcyMzM0NS93aGF0LWhpbGxhcnktY2xpbnRvbi1pcy1kb2luZy1ub3ctMjAyMC_SAVpodHRwczovL3d3dy5vcHJhaG1hZy5jb20vZW50ZXJ0YWlubWVudC9hbXAyNjcyMzM0NS93aGF0LWhpbGxhcnktY2xpbnRvbi1pcy1kb2luZy1ub3ctMjAyMC8?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T08:00:05.449761", 
+    "query": "hillary clinton"
+  }, 
+  {
+    "publication": "The Hill", 
+    "idx": 92, 
+    "title": "Hillary Clinton's brother Tony Rodham dies | TheHill", 
+    "google_url": "http://news.google.com/./articles/CBMiaGh0dHBzOi8vdGhlaGlsbC5jb20vYmxvZ3MvYmxvZy1icmllZmluZy1yb29tL25ld3MvNDQ3NTgyLWhpbGxhcnktY2xpbnRvbi1zaGFyZXMtbmV3cy1vZi1kZWF0aC1vZi1icm90aGVy0gFsaHR0cHM6Ly90aGVoaWxsLmNvbS9ibG9ncy9ibG9nLWJyaWVmaW5nLXJvb20vbmV3cy80NDc1ODItaGlsbGFyeS1jbGludG9uLXNoYXJlcy1uZXdzLW9mLWRlYXRoLW9mLWJyb3RoZXI_YW1w?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T08:00:05.449761", 
+    "query": "hillary clinton"
+  }, 
+  {
+    "publication": "The New York Times", 
+    "idx": 93, 
+    "title": "Mueller Report Reveals Trump\u2019s Fixation on Targeting Hillary Clinton", 
+    "google_url": "http://news.google.com/./articles/CAIiEN048NfWhkya2BQEAz1OBecqFwgEKg8IACoHCAowjuuKAzCWrzwwloEY?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T08:00:05.449761", 
+    "query": "hillary clinton"
+  }, 
+  {
+    "publication": "HuffPost", 
+    "idx": 94, 
+    "title": "Howard Stern: If Hillary Clinton Listened To Me, She'd Be President", 
+    "google_url": "http://news.google.com/./articles/CAIiEM4za6hn-fwPbU5NAqPlGhkqFQgEKg0IACoGCAowxYgCMIBNMKOXAg?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T08:00:05.449761", 
+    "query": "hillary clinton"
+  }, 
+  {
+    "publication": "CNN", 
+    "idx": 95, 
+    "title": "Hillary Clinton says economy isn't the only reason to elect a president 'or in this case retire one'", 
+    "google_url": "http://news.google.com/./articles/CAIiEGROXNCyZzPz_uyCnYpgQzsqGQgEKhAIACoHCAowocv1CjCSptoCMPrTpgU?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T08:00:05.449761", 
+    "query": "hillary clinton"
+  }, 
+  {
+    "publication": "CBS News", 
+    "idx": 96, 
+    "title": "Kirsten Gillibrand: I'm close with Hillary Clinton, despite my remarks about Bill", 
+    "google_url": "http://news.google.com/./articles/CAIiEH274HwETR11g1owgSdYZewqGQgEKhAIACoHCAowyNj6CjDyiPICMK_dxAU?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T08:00:05.449761", 
+    "query": "hillary clinton"
+  }, 
+  {
+    "publication": "CNN", 
+    "idx": 97, 
+    "title": "Here's why Hillary Clinton 4.0 is a terrible idea", 
+    "google_url": "http://news.google.com/./articles/CAIiEC8fvchyg1OgVuVCJE9Sik0qGQgEKhAIACoHCAowocv1CjCSptoCMPrTpgU?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T08:00:05.449761", 
+    "query": "hillary clinton"
+  }, 
+  {
+    "publication": "CNN", 
+    "idx": 98, 
+    "title": "Fact-checking Trump's tweet about Hillary Clinton email review", 
+    "google_url": "http://news.google.com/./articles/CAIiEC3iJJgtolX_DZEBHTCmUE4qGQgEKhAIACoHCAowocv1CjCSptoCMPrTpgU?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T08:00:05.449761", 
+    "query": "hillary clinton"
+  }, 
+  {
+    "publication": "The Hill", 
+    "idx": 99, 
+    "title": "Hillary Clinton says 'Game of Thrones' best describes life in politics | TheHill", 
+    "google_url": "http://news.google.com/./articles/CBMidGh0dHBzOi8vdGhlaGlsbC5jb20vYmxvZ3MvaW4tdGhlLWtub3cvaW4tdGhlLWtub3cvNDM4NTc5LWhpbGxhcnktY2xpbnRvbi1zYXlzLWdhbWUtb2YtdGhyb25lcy1iZXN0LWRlc2NyaWJlcy1saWZlLWlu0gF4aHR0cHM6Ly90aGVoaWxsLmNvbS9ibG9ncy9pbi10aGUta25vdy9pbi10aGUta25vdy80Mzg1NzktaGlsbGFyeS1jbGludG9uLXNheXMtZ2FtZS1vZi10aHJvbmVzLWJlc3QtZGVzY3JpYmVzLWxpZmUtaW4_YW1w?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-30T08:00:05.449761", 
+    "query": "hillary clinton"
+  }
+]

@@ -1,0 +1,802 @@
+[
+  {
+    "publication": "POLITICO", 
+    "idx": 0, 
+    "title": "\u2018Joe Biden needs to atone\u2019: Ex-veep braces for debate pile-on", 
+    "google_url": "http://news.google.com/./articles/CAIiENxmNMUTtAXw3JhasdRnEWoqGQgEKhAIACoHCAow4Zn5CjCu8uACMLTRlgY?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-31T13:00:05.430389", 
+    "query": "joe biden"
+  }, 
+  {
+    "publication": "CNN", 
+    "idx": 1, 
+    "title": "Joe Biden: After my family's car accident, health care became personal for me", 
+    "google_url": "http://news.google.com/./articles/CAIiEMUy_Is9s-Xb5R9d78jpV0UqGQgEKhAIACoHCAowocv1CjCSptoCMKrUpgU?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-31T13:00:05.430389", 
+    "query": "joe biden"
+  }, 
+  {
+    "publication": "TIME", 
+    "idx": 2, 
+    "title": "Why Joe Biden\u2019s First Campaign for President Collapsed After Just 3 Months", 
+    "google_url": "http://news.google.com/./articles/CBMiOmh0dHBzOi8vdGltZS5jb20vNTYzNjcxNS9iaWRlbi0xOTg4LXByZXNpZGVudGlhbC1jYW1wYWlnbi_SAUNodHRwczovL3RpbWUuY29tLzU2MzY3MTUvYmlkZW4tMTk4OC1wcmVzaWRlbnRpYWwtY2FtcGFpZ24vP2FtcD10cnVl?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-31T13:00:05.430389", 
+    "query": "joe biden"
+  }, 
+  {
+    "publication": "POLITICO", 
+    "idx": 3, 
+    "title": "'Joe Biden Won This Debate' - POLITICO Magazine", 
+    "google_url": "http://news.google.com/./articles/CAIiEF6iTKgvb1fMTcBzALNOtRYqGQgEKhAIACoHCAow4Zn5CjCu8uACMLTRlgY?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-31T13:00:05.430389", 
+    "query": "joe biden"
+  }, 
+  {
+    "publication": "The New York Times", 
+    "idx": 4, 
+    "title": "Why Joe Biden\u2019s Age Worries Some Democratic Allies and Voters", 
+    "google_url": "http://news.google.com/./articles/CAIiELNv8GWv8Vh7rKTkmnVSbdMqFwgEKg8IACoHCAowjuuKAzCWrzwwloEY?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-31T13:00:05.430389", 
+    "query": "joe biden"
+  }, 
+  {
+    "publication": "CNN", 
+    "idx": 5, 
+    "title": "Is Joe Biden too old to be president?", 
+    "google_url": "http://news.google.com/./articles/CAIiEEO-Eghb1TzoSKArmstOvckqGQgEKhAIACoHCAowocv1CjCSptoCMPrTpgU?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-31T13:00:05.430389", 
+    "query": "joe biden"
+  }, 
+  {
+    "publication": "The Washington Post", 
+    "idx": 6, 
+    "title": "The poignant but complicated friendship of Joe Biden and Barack Obama", 
+    "google_url": "http://news.google.com/./articles/CAIiEPcrj2m-NqBowTq9drsASHwqGAgEKg8IACoHCAowjtSUCjC30XQwzqe5AQ?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-31T13:00:05.430389", 
+    "query": "joe biden"
+  }, 
+  {
+    "publication": "CNBC", 
+    "idx": 7, 
+    "title": "How Democratic presidential candidate Joe Biden plans to increase Social Security benefits", 
+    "google_url": "http://news.google.com/./articles/CAIiEIXudCIW1Uvy0CBG3WdMjxAqGQgEKhAIACoHCAow2Nb3CjDivdcCMJ_d7gU?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-31T13:00:05.430389", 
+    "query": "joe biden"
+  }, 
+  {
+    "publication": "PBS NewsHour", 
+    "idx": 8, 
+    "title": "Joe Biden draws line against progressives on health care", 
+    "google_url": "http://news.google.com/./articles/CAIiECc7QArHT76f79BIKy6pexsqGQgEKhAIACoHCAow6-PzCjD7sNQCMIbmlgY?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-31T13:00:05.430389", 
+    "query": "joe biden"
+  }, 
+  {
+    "publication": "TIME", 
+    "idx": 9, 
+    "title": "Why Joe Biden's Campaign is Struggling", 
+    "google_url": "http://news.google.com/./articles/CAIiECrJZQng0Eomc32iR46Yg6gqGQgEKhAIACoHCAowmICNCzDjmZ4DMLXOqQY?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-31T13:00:05.430389", 
+    "query": "joe biden"
+  }, 
+  {
+    "publication": "Axios", 
+    "idx": 10, 
+    "title": "Democrats prepare to take on Biden at second debate", 
+    "google_url": "http://news.google.com/./articles/CAIiEGLieIX52VYWf9n-5YNzOQMqGQgEKhAIACoHCAowysWECzCkqIEDMN-pgwY?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-31T13:00:05.430389", 
+    "query": "joe biden"
+  }, 
+  {
+    "publication": "POLITICO", 
+    "idx": 11, 
+    "title": "\u2018He realizes now that he screwed up\u2019: Biden scrambles to recover from debate flop", 
+    "google_url": "http://news.google.com/./articles/CAIiELUDDoIhRKaZ758RkW1DKykqGQgEKhAIACoHCAow4Zn5CjCu8uACMLTRlgY?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-31T13:00:05.430389", 
+    "query": "joe biden"
+  }, 
+  {
+    "publication": "The New York Times", 
+    "idx": 12, 
+    "title": "Joe Biden Wants to Take America Back to a Time Before Trump", 
+    "google_url": "http://news.google.com/./articles/CAIiEORmBk0P-IYbYWMlLkJ3zLwqFwgEKg8IACoHCAowjuuKAzCWrzwwt4QY?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-31T13:00:05.430389", 
+    "query": "joe biden"
+  }, 
+  {
+    "publication": "Vanity Fair", 
+    "idx": 13, 
+    "title": "Kirsten Gillibrand Is Targeting Joe Biden", 
+    "google_url": "http://news.google.com/./articles/CAIiEPGlEvgxahqAAukvPoNkYBcqGAgEKg8IACoHCAowmKPyCTCo8nIw87nsBQ?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-31T13:00:05.430389", 
+    "query": "joe biden"
+  }, 
+  {
+    "publication": "CBS News", 
+    "idx": 14, 
+    "title": "Joe Biden 2020: Democratic presidential frontrunner warns that he's ready to hit back at opponents", 
+    "google_url": "http://news.google.com/./articles/CAIiEKiq6PDfAdeg71M0_kOaObcqGQgEKhAIACoHCAowyNj6CjDyiPICMK_dxAU?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-31T13:00:05.430389", 
+    "query": "joe biden"
+  }, 
+  {
+    "publication": "The Washington Post", 
+    "idx": 15, 
+    "title": "The school busing debate between Joe Biden and Kamala Harris", 
+    "google_url": "http://news.google.com/./articles/CAIiEBkneglwJnz9RVHghrqTsbgqGAgEKg8IACoHCAowjtSUCjC30XQw36e5AQ?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-31T13:00:05.430389", 
+    "query": "joe biden"
+  }, 
+  {
+    "publication": "The New York Times", 
+    "idx": 16, 
+    "title": "Joe Biden Decides He Doesn\u2019t Need to Stay Above the Fray After All", 
+    "google_url": "http://news.google.com/./articles/CAIiED97Rowxe6h3b_6_vjOszZAqFwgEKg8IACoHCAowjuuKAzCWrzwwloEY?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-31T13:00:05.430389", 
+    "query": "joe biden"
+  }, 
+  {
+    "publication": "Courier Journal", 
+    "idx": 17, 
+    "title": "Pete Buttigieg, not Joe Biden, is the best Democratic candidate to defeat Donald Trump", 
+    "google_url": "http://news.google.com/./articles/CBMieWh0dHBzOi8vd3d3LmNvdXJpZXItam91cm5hbC5jb20vc3Rvcnkvb3Bpbmlvbi8yMDE5LzA3LzMwL2RvbmFsZC10cnVtcC1jYW4tYmVhdGVuLXBldGUtYnV0dGlnaWVnLW5vdC1qb2UtYmlkZW4vMTgxNzcxODAwMS_SAS5odHRwczovL2FtcC5jb3VyaWVyLWpvdXJuYWwuY29tL2FtcC8xODE3NzE4MDAx?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-31T13:00:05.430389", 
+    "query": "joe biden"
+  }, 
+  {
+    "publication": "CNBC", 
+    "idx": 18, 
+    "title": "Joe Biden says his campaign is 'not a continuation' of the Obama administration", 
+    "google_url": "http://news.google.com/./articles/CAIiEIrmQNc14AYbHX_wgKlOn58qGQgEKhAIACoHCAow2Nb3CjDivdcCMKuvhQY?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-31T13:00:05.430389", 
+    "query": "joe biden"
+  }, 
+  {
+    "publication": "Washington Examiner", 
+    "idx": 19, 
+    "title": "No, Joe Biden is not Jeb! 2016", 
+    "google_url": "http://news.google.com/./articles/CBMiR2h0dHBzOi8vd3d3Lndhc2hpbmd0b25leGFtaW5lci5jb20vb3Bpbmlvbi9uby1qb2UtYmlkZW4taXMtbm90LWplYi0yMDE20gEA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-31T13:00:05.430389", 
+    "query": "joe biden"
+  }, 
+  {
+    "publication": "Wall Street Journal", 
+    "idx": 20, 
+    "title": "Joe Biden, BernieCare and Medicare for All", 
+    "google_url": "http://news.google.com/./articles/CBMiUmh0dHBzOi8vd3d3Lndzai5jb20vYXJ0aWNsZXMvam9lLWJpZGVuLWJlcm5pZWNhcmUtYW5kLW1lZGljYXJlLWZvci1hbGwtMTE1NjQ1MDY1MDHSAVZodHRwczovL3d3dy53c2ouY29tL2FtcC9hcnRpY2xlcy9qb2UtYmlkZW4tYmVybmllY2FyZS1hbmQtbWVkaWNhcmUtZm9yLWFsbC0xMTU2NDUwNjUwMQ?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-31T13:00:05.430389", 
+    "query": "joe biden"
+  }, 
+  {
+    "publication": "CNBC", 
+    "idx": 21, 
+    "title": "How Joe Biden, who called himself 'the poorest man in Congress,' became a multimillionaire", 
+    "google_url": "http://news.google.com/./articles/CAIiEHmp8ApnUpX0Z7sQt85r_wgqGQgEKhAIACoHCAow2Nb3CjDivdcCMKuvhQY?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-31T13:00:05.430389", 
+    "query": "joe biden"
+  }, 
+  {
+    "publication": "USA TODAY", 
+    "idx": 22, 
+    "title": "Trump says he's 'the least racist person' in the world, sees Joe Biden as Democratic debate favorite", 
+    "google_url": "http://news.google.com/./articles/CAIiEBnYaFC-LQNYgwE8lndEhUAqGQgEKhAIACoHCAowjsP7CjCSpPQCMKCK0wU?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-31T13:00:05.430389", 
+    "query": "joe biden"
+  }, 
+  {
+    "publication": "Axios", 
+    "idx": 23, 
+    "title": "Bernie Sanders says he regrets voting for Joe Biden's 1994 crime bill", 
+    "google_url": "http://news.google.com/./articles/CAIiEBoXCJaAb_vuEEAvihjeCmwqGQgEKhAIACoHCAowysWECzCkqIEDMN-pgwY?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-31T13:00:05.430389", 
+    "query": "joe biden"
+  }, 
+  {
+    "publication": "CNBC", 
+    "idx": 24, 
+    "title": "Joe and Jill Biden made more than $15 million in two years after leaving the White House, tax returns show", 
+    "google_url": "http://news.google.com/./articles/CAIiEB_K52Fgg0cMyD5EE0j08vwqGQgEKhAIACoHCAow2Nb3CjDivdcCMJ_d7gU?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-31T13:00:05.430389", 
+    "query": "joe biden"
+  }, 
+  {
+    "publication": "CNN", 
+    "idx": 25, 
+    "title": "CNN Exclusive: Joe Biden says he wasn't prepared for Kamala Harris to confront him the way she did", 
+    "google_url": "http://news.google.com/./articles/CBMiSmh0dHBzOi8vd3d3LmNubi5jb20vMjAxOS8wNy8wNS9wb2xpdGljcy9qb2UtYmlkZW4tY25uLWludGVydmlldy9pbmRleC5odG1s0gEA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-31T13:00:05.430389", 
+    "query": "joe biden"
+  }, 
+  {
+    "publication": "CBS News", 
+    "idx": 26, 
+    "title": "Biden 2020: Former Vice President Joe Biden raises $21.5 million", 
+    "google_url": "http://news.google.com/./articles/CAIiEEGWBnFL4pMS-zm2vJouCAgqGQgEKhAIACoHCAowyNj6CjDyiPICMK_dxAU?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-31T13:00:05.430389", 
+    "query": "joe biden"
+  }, 
+  {
+    "publication": "The Washington Post", 
+    "idx": 27, 
+    "title": "The Post\u2019s theater critic is reviewing the performances of the Democratic candidates. In this installment, Joe Biden is back for an encore.", 
+    "google_url": "http://news.google.com/./articles/CAIiEEyZ7n2S5PoXGf7pcCrT9RQqGAgEKg8IACoHCAowjtSUCjC30XQwnqi5AQ?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-31T13:00:05.430389", 
+    "query": "joe biden"
+  }, 
+  {
+    "publication": "Above the Law", 
+    "idx": 28, 
+    "title": "Joe Biden's Criminal Justice Reform Package Seems Designed To Help Joe Biden More Than Black People", 
+    "google_url": "http://news.google.com/./articles/CBMiQmh0dHBzOi8vYWJvdmV0aGVsYXcuY29tLzIwMTkvMDcvam9lLWJpZGVuLWNyaW1pbmFsLWp1c3RpY2UtcmVmb3JtL9IBAA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-31T13:00:05.430389", 
+    "query": "joe biden"
+  }, 
+  {
+    "publication": "The New York Times", 
+    "idx": 29, 
+    "title": "Putting Joe Biden\u2019s L.A. Visit in Context", 
+    "google_url": "http://news.google.com/./articles/CAIiEIDQgzJ2ZmMAxl_SqW4OFBsqFwgEKg8IACoHCAowjuuKAzCWrzwwloEY?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-31T13:00:05.430389", 
+    "query": "joe biden"
+  }, 
+  {
+    "publication": "The Atlantic", 
+    "idx": 30, 
+    "title": "Is Joe Biden \u2018Too Old\u2019?", 
+    "google_url": "http://news.google.com/./articles/CAIiEKf4qpuRUhCJUXnHPpsg_PEqFAgEKg0IACoGCAowm_EEMKAiMPtZ?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-31T13:00:05.430389", 
+    "query": "joe biden"
+  }, 
+  {
+    "publication": "POLITICO", 
+    "idx": 31, 
+    "title": "How Joe Biden would address agriculture and rural issues", 
+    "google_url": "http://news.google.com/./articles/CAIiEK8RSiFnraQX5DMDz1vETVIqGQgEKhAIACoHCAow4Zn5CjCu8uACMMvYnQY?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-31T13:00:05.430389", 
+    "query": "joe biden"
+  }, 
+  {
+    "publication": "The Denver Post", 
+    "idx": 32, 
+    "title": "Federico Pe\u00f1a supports Joe Biden over Coloradans in presidential primary", 
+    "google_url": "http://news.google.com/./articles/CAIiEK9OdOs22lckHrnIBos1f-sqGAgEKg8IACoHCAow97HTATCF2zUw1eebAg?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-31T13:00:05.430389", 
+    "query": "joe biden"
+  }, 
+  {
+    "publication": "PhillyVoice.com", 
+    "idx": 33, 
+    "title": "Joe Biden leads campaign contributions in Philadelphia and Pennsylvania", 
+    "google_url": "http://news.google.com/./articles/CBMiZmh0dHBzOi8vd3d3LnBoaWxseXZvaWNlLmNvbS9qb2UtYmlkZW4tMjAyMC1jYW1wYWlnbi1jb250cmlidXRpb25zLXBoaWxhZGVscGhpYS1wZW5uc3lsdmFuaWEtZGVtb2NyYXRzL9IBamh0dHBzOi8vd3d3LnBoaWxseXZvaWNlLmNvbS9qb2UtYmlkZW4tMjAyMC1jYW1wYWlnbi1jb250cmlidXRpb25zLXBoaWxhZGVscGhpYS1wZW5uc3lsdmFuaWEtZGVtb2NyYXRzL2FtcC8?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-31T13:00:05.430389", 
+    "query": "joe biden"
+  }, 
+  {
+    "publication": "CNN", 
+    "idx": 34, 
+    "title": "Biden says Democrats haven't been straightforward about 'Medicare for All'", 
+    "google_url": "http://news.google.com/./articles/CAIiEIiXVNXLUKQxgovysGoz_hwqGQgEKhAIACoHCAowocv1CjCSptoCMPrTpgU?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-31T13:00:05.430389", 
+    "query": "joe biden"
+  }, 
+  {
+    "publication": "The Daily Beast", 
+    "idx": 35, 
+    "title": "Joe Biden's Big Job Wednesday Night: Bury the Age Issue Once and for All", 
+    "google_url": "http://news.google.com/./articles/CAIiEOxVsUL6TaaQogEiLIN5gjkqFggEKg0IACoGCAow7s8BMNBIMPrwlwI?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-31T13:00:05.430389", 
+    "query": "joe biden"
+  }, 
+  {
+    "publication": "ABC News", 
+    "idx": 36, 
+    "title": "Joe Biden represents status quo that Americans want to break out of: Bill de Blasio", 
+    "google_url": "http://news.google.com/./articles/CBMiZmh0dHBzOi8vYWJjbmV3cy5nby5jb20vUG9saXRpY3MvdHJ1bXBzLXR3ZWV0cy1kaXN0cmFjdC1wZW9wbGUtbGFyZ2VyLXJlYWxpdHktYmlsbC1kZS9zdG9yeT9pZD02NDYwODI3MtIBamh0dHBzOi8vYWJjbmV3cy5nby5jb20vYW1wL1BvbGl0aWNzL3RydW1wcy10d2VldHMtZGlzdHJhY3QtcGVvcGxlLWxhcmdlci1yZWFsaXR5LWJpbGwtZGUvc3Rvcnk_aWQ9NjQ2MDgyNzI?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-31T13:00:05.430389", 
+    "query": "joe biden"
+  }, 
+  {
+    "publication": "USA TODAY", 
+    "idx": 37, 
+    "title": "Joe Biden taught me about loss and love. Now, he can teach us how to make a graceful exit.", 
+    "google_url": "http://news.google.com/./articles/CAIiEBz2d-V-FgyAyiAi4uGDwHUqGQgEKhAIACoHCAowjsP7CjCSpPQCMJCK0wU?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-31T13:00:05.430389", 
+    "query": "joe biden"
+  }, 
+  {
+    "publication": "CNN", 
+    "idx": 38, 
+    "title": "Joe Biden gets a high-risk, high-reward debate slot", 
+    "google_url": "http://news.google.com/./articles/CAIiECWl3S1wOj72sO_DuKQGKkgqGQgEKhAIACoHCAowocv1CjCSptoCMPrTpgU?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-31T13:00:05.430389", 
+    "query": "joe biden"
+  }, 
+  {
+    "publication": "USA TODAY", 
+    "idx": 39, 
+    "title": "Mueller testimony should prompt 2nd thoughts on Donald Trump, Bernie Sanders &amp; Joe Biden", 
+    "google_url": "http://news.google.com/./articles/CAIiEKXe08DlsJn64bWCLS62_zIqGQgEKhAIACoHCAowjsP7CjCSpPQCMJCK0wU?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-31T13:00:05.430389", 
+    "query": "joe biden"
+  }, 
+  {
+    "publication": "The Federalist", 
+    "idx": 40, 
+    "title": "Why Did Joe Biden Deliberately Avoid Paying Taxes For Obamacare?", 
+    "google_url": "http://news.google.com/./articles/CBMibWh0dHBzOi8vdGhlZmVkZXJhbGlzdC5jb20vMjAxOS8wNy8zMS9qb2UtYmlkZW4tc2F5cy1sb3Zlcy1tZWRpY2FyZS1vYmFtYWNhcmUtZGVsaWJlcmF0ZWx5LWF2b2lkLXBheWluZy10YXhlcy_SAQA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-31T13:00:05.430389", 
+    "query": "joe biden"
+  }, 
+  {
+    "publication": "MSNBC", 
+    "idx": 41, 
+    "title": "What Joe Biden will do differently in second debate", 
+    "google_url": "http://news.google.com/./articles/CBMiZGh0dHBzOi8vd3d3Lm1zbmJjLmNvbS9rYXR5LXR1ci93YXRjaC93aGF0LWpvZS1iaWRlbi13aWxsLWRvLWRpZmZlcmVudGx5LWluLXNlY29uZC1kZWJhdGUtNjQ1NjczNjU2OTLSAQA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-31T13:00:05.430389", 
+    "query": "joe biden"
+  }, 
+  {
+    "publication": "Washington Examiner", 
+    "idx": 42, 
+    "title": "Biden trumpets endorsement from former congressman aged 99", 
+    "google_url": "http://news.google.com/./articles/CBMiYmh0dHBzOi8vd3d3Lndhc2hpbmd0b25leGFtaW5lci5jb20vbmV3cy9iaWRlbi10cnVtcGV0cy1lbmRvcnNlbWVudC1mcm9tLWZvcm1lci1jb25ncmVzc21hbi1hZ2VkLTk50gEA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-31T13:00:05.430389", 
+    "query": "joe biden"
+  }, 
+  {
+    "publication": "Jezebel", 
+    "idx": 43, 
+    "title": "Explaining Joe Biden, Who America Should Divorce Immediately", 
+    "google_url": "http://news.google.com/./articles/CBMiXWh0dHBzOi8vdGhlc2xvdC5qZXplYmVsLmNvbS9leHBsYWluaW5nLWpvZS1iaWRlbi13aG8tYW1lcmljYS1zaG91bGQtZGl2b3JjZS1pbW1lZGktMTgzNTU4MDcwMNIBYWh0dHBzOi8vdGhlc2xvdC5qZXplYmVsLmNvbS9leHBsYWluaW5nLWpvZS1iaWRlbi13aG8tYW1lcmljYS1zaG91bGQtZGl2b3JjZS1pbW1lZGktMTgzNTU4MDcwMC9hbXA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-31T13:00:05.430389", 
+    "query": "joe biden"
+  }, 
+  {
+    "publication": "MuckRock", 
+    "idx": 44, 
+    "title": "Explore the CIA's cache of records referencing Joe Biden", 
+    "google_url": "http://news.google.com/./articles/CBMiSGh0dHBzOi8vd3d3Lm11Y2tyb2NrLmNvbS9uZXdzL2FyY2hpdmVzLzIwMTkvanVsLzMwL2NpYS1iaWRlbi1hc3NpZ25tZW50L9IBAA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-31T13:00:05.430389", 
+    "query": "joe biden"
+  }, 
+  {
+    "publication": "CNN", 
+    "idx": 45, 
+    "title": "Joe Biden's soft polling underbelly just got exposed", 
+    "google_url": "http://news.google.com/./articles/CBMiRWh0dHBzOi8vd3d3LmNubi5jb20vMjAxOS8wNy8wMS9wb2xpdGljcy9qb2UtYmlkZW4tY25uLXBvbGwvaW5kZXguaHRtbNIBSWh0dHBzOi8vYW1wLmNubi5jb20vY25uLzIwMTkvMDcvMDEvcG9saXRpY3Mvam9lLWJpZGVuLWNubi1wb2xsL2luZGV4Lmh0bWw?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-31T13:00:05.430389", 
+    "query": "joe biden"
+  }, 
+  {
+    "publication": "BET", 
+    "idx": 46, 
+    "title": "Joe Biden Defends Co-Authoring 1994 Crime Bill At NAACP Convention", 
+    "google_url": "http://news.google.com/./articles/CBMiTmh0dHBzOi8vd3d3LmJldC5jb20vbmV3cy9uYXRpb25hbC8yMDE5LzA3LzI4L2pvZS1iaWRlbi1kZWZlbmRzLWNyaW1lLWJpbGwuaHRtbNIBAA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-31T13:00:05.430389", 
+    "query": "joe biden"
+  }, 
+  {
+    "publication": "BuzzFeed News", 
+    "idx": 47, 
+    "title": "Joe Biden\u2019s Time As A Public Defender Was A Brief Line On His R\u00e9sum\u00e9. Now It\u2019s A Virtue Signal For His Campaign.", 
+    "google_url": "http://news.google.com/./articles/CAIiEEqi9F63MjrUBVKC538Ue48qFggEKg4IACoGCAowjJ0RMKC-AjCwjQ0?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-31T13:00:05.430389", 
+    "query": "joe biden"
+  }, 
+  {
+    "publication": "Vox.com", 
+    "idx": 48, 
+    "title": "Joe Biden foreign policy speech: restore the pre-Trump world order", 
+    "google_url": "http://news.google.com/./articles/CAIiEMjG8qNYE01J8R5WmPu0MzsqGAgEKg8IACoHCAowlOzSATCaiDUwtaKsBQ?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-31T13:00:05.430389", 
+    "query": "joe biden"
+  }, 
+  {
+    "publication": "Washington Examiner", 
+    "idx": 49, 
+    "title": "Bankers find their favorite Dems in Biden and Buttigieg", 
+    "google_url": "http://news.google.com/./articles/CBMiaGh0dHBzOi8vd3d3Lndhc2hpbmd0b25leGFtaW5lci5jb20vbmV3cy9iYW5rZXJzLWZpbmQtdGhlaXItZmF2b3JpdGUtZGVtcy1pbi1qb2UtYmlkZW4tYW5kLXBldGUtYnV0dGlnaWVn0gEA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-31T13:00:05.430389", 
+    "query": "joe biden"
+  }, 
+  {
+    "publication": "Indianapolis Star", 
+    "idx": 50, 
+    "title": "Mike Pence, Christian right made 'Faustian bargain\u2019 with Donald Trump, Joe Biden says", 
+    "google_url": "http://news.google.com/./articles/CBMiqAFodHRwczovL3d3dy5pbmR5c3Rhci5jb20vc3RvcnkvbmV3cy9wb2xpdGljcy9lbGVjdGlvbnMvMjAxOS8wNy8yNS9qb2UtYmlkZW4tbmF0aW9uYWwtdXJiYW4tbGVhZ3VlLWRlbW9jcmF0aWMtcHJpbWFyeS0yMDIwLWluZGlhbmFwb2xpcy10cnVtcC1wZW5jZS1idXR0aWdpZWcvMTgyOTE4NDAwMS_SASdodHRwczovL2FtcC5pbmR5c3Rhci5jb20vYW1wLzE4MjkxODQwMDE?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-31T13:00:05.430389", 
+    "query": "joe biden"
+  }, 
+  {
+    "publication": "Reuters", 
+    "idx": 51, 
+    "title": "Joe Biden compares Trump to segregationist George Wallace", 
+    "google_url": "http://news.google.com/./articles/CAIiEE_AODUSW1GzQbWGMkCEY3IqFggEKg0IACoGCAowt6AMMLAmMMT5lwM?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-31T13:00:05.430389", 
+    "query": "joe biden"
+  }, 
+  {
+    "publication": "Washington Post", 
+    "idx": 52, 
+    "title": "Joe Biden\u2019s cancer nonprofit suspends operations indefinitely", 
+    "google_url": "http://news.google.com/./articles/CBMibmh0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS9oZWFsdGgvMjAxOS8wNy8xNS9qb2UtYmlkZW5zLWNhbmNlci1ub25wcm9maXQtc3VzcGVuZHMtb3BlcmF0aW9ucy1pbmRlZmluaXRlbHkv0gF-aHR0cHM6Ly9iZXRhLndhc2hpbmd0b25wb3N0LmNvbS9oZWFsdGgvMjAxOS8wNy8xNS9qb2UtYmlkZW5zLWNhbmNlci1ub25wcm9maXQtc3VzcGVuZHMtb3BlcmF0aW9ucy1pbmRlZmluaXRlbHkvP291dHB1dFR5cGU9YW1w?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-31T13:00:05.430389", 
+    "query": "joe biden"
+  }, 
+  {
+    "publication": "The New York Times", 
+    "idx": 53, 
+    "title": "Joe Biden, Closet Republican", 
+    "google_url": "http://news.google.com/./articles/CAIiED2gywhB1cRjcucBBEwr1DUqGAgEKg8IACoHCAowjuuKAzCWrzwworyzBg?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-31T13:00:05.430389", 
+    "query": "joe biden"
+  }, 
+  {
+    "publication": "Commentary Magazine", 
+    "idx": 54, 
+    "title": "What Joe Biden Should Say About the 1994 Crime Bill", 
+    "google_url": "http://news.google.com/./articles/CBMiVmh0dHBzOi8vd3d3LmNvbW1lbnRhcnltYWdhemluZS5jb20vcG9saXRpY3MtaWRlYXMvam9lLWJpZGVuLXZzLXRoZS1zb2Z0LW9uLWNyaW1lLWxlZnQv0gEA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-31T13:00:05.430389", 
+    "query": "joe biden"
+  }, 
+  {
+    "publication": "KSCJ", 
+    "idx": 55, 
+    "title": "JILL BIDEN TO DEDICATE OPENING OF LOCAL JOE BIDEN CAMPAIGN OFFICE", 
+    "google_url": "http://news.google.com/./articles/CBMiXWh0dHA6Ly9rc2NqLmNvbS8yMDE5LzA3LzMwL2ppbGwtYmlkZW4tdG8tZGVkaWNhdGUtb3BlbmluZy1vZi1sb2NhbC1qb2UtYmlkZW4tY2FtcGFpZ24tb2ZmaWNlL9IBAA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-31T13:00:05.430389", 
+    "query": "joe biden"
+  }, 
+  {
+    "publication": "Deseret News", 
+    "idx": 56, 
+    "title": "Joe Biden announces new Utah endorsements; Rep. Rob Bishop won't run again; Utah football players on...", 
+    "google_url": "http://news.google.com/./articles/CAIiEOMG_pNCnvPaHzebE5n2vnQqGQgEKhAIACoHCAow4P_3CjD_3tgCMN2C7wU?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-31T13:00:05.430389", 
+    "query": "joe biden"
+  }, 
+  {
+    "publication": "Washington Examiner", 
+    "idx": 57, 
+    "title": "Jay Inslee should ask Joe Biden and Bernie Sanders why they voted to bomb Serbian journalists and civilians", 
+    "google_url": "http://news.google.com/./articles/CBMilgFodHRwczovL3d3dy53YXNoaW5ndG9uZXhhbWluZXIuY29tL29waW5pb24vamF5LWluc2xlZS1zaG91bGQtYXNrLWpvZS1iaWRlbi1hbmQtYmVybmllLXNhbmRlcnMtd2h5LXRoZXktdm90ZWQtdG8tYm9tYi1zZXJiaWFuLWpvdXJuYWxpc3RzLWFuZC1jaXZpbGlhbnPSAQA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-31T13:00:05.430389", 
+    "query": "joe biden"
+  }, 
+  {
+    "publication": "The New Yorker", 
+    "idx": 58, 
+    "title": "Don\u2019t Worry About the Democratic Presidential Polls", 
+    "google_url": "http://news.google.com/./articles/CAIiENSYRciW31j6YasNoq3KY4oqGQgEKhAIACoHCAowjMqjCjCJhZwBMKHUywM?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-31T13:00:05.430389", 
+    "query": "joe biden"
+  }, 
+  {
+    "publication": "Vox.com", 
+    "idx": 59, 
+    "title": "Joe Biden\u2019s 1994 bill put these 4 men on death row", 
+    "google_url": "http://news.google.com/./articles/CAIiEI3BTA19QBPiJIKtkLnanwUqFwgEKg8IACoHCAowlOzSATCaiDUwo9dy?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-31T13:00:05.430389", 
+    "query": "joe biden"
+  }, 
+  {
+    "publication": "The Washington Post", 
+    "idx": 60, 
+    "title": "Joe Biden\u2019s claim that he got \u2018150,000 combat troops out of Iraq\u2019", 
+    "google_url": "http://news.google.com/./articles/CAIiEJ5tj9ujpJf-UIRFIJi68DEqGAgEKg8IACoHCAowjtSUCjC30XQw36e5AQ?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-31T13:00:05.430389", 
+    "query": "joe biden"
+  }, 
+  {
+    "publication": "CNN", 
+    "idx": 61, 
+    "title": "Joe Biden dominates, but Pete Buttigieg makes inroads with Obama's elite bundlers", 
+    "google_url": "http://news.google.com/./articles/CAIiEDt2gdpfMYgDvHBpJyh0oeUqGQgEKhAIACoHCAowocv1CjCSptoCMJrUpgU?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-31T13:00:05.430389", 
+    "query": "joe biden"
+  }, 
+  {
+    "publication": "The Gazette", 
+    "idx": 62, 
+    "title": "Neal Smith, longest-serving Iowan in U.S. House, endorses Joe Biden for president", 
+    "google_url": "http://news.google.com/./articles/CAIiEPeligMMvhjmUrgkvMur5GkqGQgEKhAIACoHCAow-sb3CjDJi9cCMPyiqQU?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-31T13:00:05.430389", 
+    "query": "joe biden"
+  }, 
+  {
+    "publication": "CNBC", 
+    "idx": 63, 
+    "title": "Joe Biden lines up backing from Paramount CEO after losing bundler in wake of debate performance", 
+    "google_url": "http://news.google.com/./articles/CAIiEJzcWVGwAMt-y0goj3e7SL0qGQgEKhAIACoHCAow2Nb3CjDivdcCMKuvhQY?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-31T13:00:05.430389", 
+    "query": "joe biden"
+  }, 
+  {
+    "publication": "Washington Examiner", 
+    "idx": 64, 
+    "title": "Joe Biden has set himself up for a Tim Pawlenty moment in the Democratic debate", 
+    "google_url": "http://news.google.com/./articles/CBMiemh0dHBzOi8vd3d3Lndhc2hpbmd0b25leGFtaW5lci5jb20vb3Bpbmlvbi9qb2UtYmlkZW4taGFzLXNldC1oaW1zZWxmLXVwLWZvci1hLXRpbS1wYXdsZW50eS1tb21lbnQtaW4tdGhlLWRlbW9jcmF0aWMtZGViYXRl0gEA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-31T13:00:05.430389", 
+    "query": "joe biden"
+  }, 
+  {
+    "publication": "Vox.com", 
+    "idx": 65, 
+    "title": "Will Joe Biden win? What past primary results tell us", 
+    "google_url": "http://news.google.com/./articles/CAIiECN-H2GXu8L_XJUoDsZPo7MqFwgEKg8IACoHCAowlOzSATCaiDUwo9dy?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-31T13:00:05.430389", 
+    "query": "joe biden"
+  }, 
+  {
+    "publication": "The New York Times", 
+    "idx": 66, 
+    "title": "How Joe Biden Became the Democrats\u2019 Anti-Busing Crusader", 
+    "google_url": "http://news.google.com/./articles/CAIiEBAk9x59XB8uumOKQIMlaLYqFwgEKg8IACoHCAowjuuKAzCWrzwwt4QY?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-31T13:00:05.430389", 
+    "query": "joe biden"
+  }, 
+  {
+    "publication": "The Guardian", 
+    "idx": 67, 
+    "title": "It's Biden's race to lose in Iowa \u2013 but he should beware the rise of Warren", 
+    "google_url": "http://news.google.com/./articles/CAIiEFSNsDIMKdPhfdebcE6zVFYqFggEKg4IACoGCAowl6p7MN-zCTC9vBU?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-31T13:00:05.430389", 
+    "query": "joe biden"
+  }, 
+  {
+    "publication": "Vox.com", 
+    "idx": 68, 
+    "title": "2020: Joe Biden has questions about Bernie Sanders\u2019s Medicare-for-all plan. We answered them.", 
+    "google_url": "http://news.google.com/./articles/CAIiEIz3QQH7O_-FM1pikokTnVAqGAgEKg8IACoHCAowlOzSATCaiDUw1aKsBQ?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-31T13:00:05.430389", 
+    "query": "joe biden"
+  }, 
+  {
+    "publication": "National Review", 
+    "idx": 69, 
+    "title": "Joe Biden Gets Paid \u2014 a Lot", 
+    "google_url": "http://news.google.com/./articles/CAIiEMBTdGhtTay8Lv9eCt_S3pEqGQgEKhAIACoHCAowh4uHCzDap4UDMJLvnAY?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-31T13:00:05.430389", 
+    "query": "joe biden"
+  }, 
+  {
+    "publication": "Townhall", 
+    "idx": 70, 
+    "title": "Joe Biden Steps Up Gun Targeting Ahead of Debate", 
+    "google_url": "http://news.google.com/./articles/CBMicmh0dHBzOi8vdG93bmhhbGwuY29tL2NvbHVtbmlzdHMvbGF3cmVuY2VrZWFuZS8yMDE5LzA3LzMwL2pvZS1iaWRlbi1zdGVwcy11cC1ndW4tdGFyZ2V0aW5nLWFoZWFkLW9mLWRlYmF0ZS1uMjU1MDc3OdIBe2h0dHBzOi8vdG93bmhhbGwuY29tL2NvbHVtbmlzdHMvbGF3cmVuY2VrZWFuZS8yMDE5LzA3LzMwL2pvZS1iaWRlbi1zdGVwcy11cC1ndW4tdGFyZ2V0aW5nLWFoZWFkLW9mLWRlYmF0ZS1uMjU1MDc3OT9hbXA9dHJ1ZQ?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-31T13:00:05.430389", 
+    "query": "joe biden"
+  }, 
+  {
+    "publication": "National Review", 
+    "idx": 71, 
+    "title": "Episode 146: Gluing Joe Biden to the Driver\u2019s Seat", 
+    "google_url": "http://news.google.com/./articles/CBMiaWh0dHBzOi8vd3d3Lm5hdGlvbmFscmV2aWV3LmNvbS9wb2RjYXN0cy9vcmRlcmVkLWxpYmVydHkvZXBpc29kZS0xNDYtZ2x1aW5nLWpvZS1iaWRlbi10by10aGUtZHJpdmVycy1zZWF0L9IBAA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-31T13:00:05.430389", 
+    "query": "joe biden"
+  }, 
+  {
+    "publication": "Washington Post", 
+    "idx": 72, 
+    "title": "Joe Biden isn\u2019t the only \u2018electable\u2019 candidate. Here\u2019s what Democratic primary voters are thinking \u2014 and how to change it.", 
+    "google_url": "http://news.google.com/./articles/CBMimwFodHRwczovL3d3dy53YXNoaW5ndG9ucG9zdC5jb20vcG9saXRpY3MvMjAxOS8wNy8xOS9qb2UtYmlkZW4taXNudC1vbmx5LWVsZWN0YWJsZS1jYW5kaWRhdGUtaGVyZXMtd2hhdC1kZW1vY3JhdGljLXByaW1hcnktdm90ZXJzLWFyZS10aGlua2luZy1ob3ctY2hhbmdlLWl0L9IBqwFodHRwczovL2JldGEud2FzaGluZ3RvbnBvc3QuY29tL3BvbGl0aWNzLzIwMTkvMDcvMTkvam9lLWJpZGVuLWlzbnQtb25seS1lbGVjdGFibGUtY2FuZGlkYXRlLWhlcmVzLXdoYXQtZGVtb2NyYXRpYy1wcmltYXJ5LXZvdGVycy1hcmUtdGhpbmtpbmctaG93LWNoYW5nZS1pdC8_b3V0cHV0VHlwZT1hbXA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-31T13:00:05.430389", 
+    "query": "joe biden"
+  }, 
+  {
+    "publication": "CNN", 
+    "idx": 73, 
+    "title": "Exclusive: Joe Biden on Obamacare and Medicare for All: 'Starting over would be, I think, a sin'", 
+    "google_url": "http://news.google.com/./articles/CBMiV2h0dHBzOi8vd3d3LmNubi5jb20vMjAxOS8wNy8wOC9wb2xpdGljcy9qb2UtYmlkZW4tb2JhbWFjYXJlLW1lZGljYXJlLWZvci1hbGwvaW5kZXguaHRtbNIBW2h0dHBzOi8vYW1wLmNubi5jb20vY25uLzIwMTkvMDcvMDgvcG9saXRpY3Mvam9lLWJpZGVuLW9iYW1hY2FyZS1tZWRpY2FyZS1mb3ItYWxsL2luZGV4Lmh0bWw?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-31T13:00:05.430389", 
+    "query": "joe biden"
+  }, 
+  {
+    "publication": "National Review", 
+    "idx": 74, 
+    "title": "Joe Biden\u2019s Wake-Up Call", 
+    "google_url": "http://news.google.com/./articles/CAIiEB6lw1iuC520ML6yFfe8bDoqGQgEKhAIACoHCAowh4uHCzDap4UDMJT9lgY?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-31T13:00:05.430389", 
+    "query": "joe biden"
+  }, 
+  {
+    "publication": "HuffPost", 
+    "idx": 75, 
+    "title": "In 1981, Joe Biden Took A Lonely Stand Against Expanding A Child Care Tax Credit", 
+    "google_url": "http://news.google.com/./articles/CAIiEHGA0N2dl3iK_JJahCKhPEkqFQgEKg0IACoGCAowxYgCMIBNMOGXAg?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-31T13:00:05.430389", 
+    "query": "joe biden"
+  }, 
+  {
+    "publication": "KTVB.com", 
+    "idx": 76, 
+    "title": "Democratic presidential candidate Joe Biden scheduled to visit Boise and Sun Valley", 
+    "google_url": "http://news.google.com/./articles/CBMipQFodHRwczovL3d3dy5rdHZiLmNvbS92aWRlby9uZXdzL3BvbGl0aWNzL2RlbW9jcmF0aWMtcHJlc2lkZW50aWFsLWNhbmRpZGF0ZS1qb2UtYmlkZW4tc2NoZWR1bGVkLXRvLXZpc2l0LWJvaXNlLWFuZC1zdW4tdmFsbGV5LzI3Ny02ZjExY2JlMC02YTJkLTQ0NmUtOTRkNC0yOGMzOGRiODU5ZmbSAQA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-31T13:00:05.430389", 
+    "query": "joe biden"
+  }, 
+  {
+    "publication": "The New York Times", 
+    "idx": 77, 
+    "title": "Is Joe Biden 2020\u2019s Jeb Bush?", 
+    "google_url": "http://news.google.com/./articles/CAIiEAuL5oEmw1aCufwGkYb27scqGAgEKg8IACoHCAowjuuKAzCWrzwworyzBg?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-31T13:00:05.430389", 
+    "query": "joe biden"
+  }, 
+  {
+    "publication": "New York Magazine", 
+    "idx": 78, 
+    "title": "Sanders Third, Biden Fourth in New, High-Quality California Poll", 
+    "google_url": "http://news.google.com/./articles/CAIiEPeniZK5oBqh3C75acLr5-oqGQgEKhAIACoHCAowi_yDCzDblYADMKD-9QU?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-31T13:00:05.430389", 
+    "query": "joe biden"
+  }, 
+  {
+    "publication": "Washington Examiner", 
+    "idx": 79, 
+    "title": "Bernie Sanders campaign accuses Joe Biden of 'insurance company scare tactics'", 
+    "google_url": "http://news.google.com/./articles/CBMidGh0dHBzOi8vd3d3Lndhc2hpbmd0b25leGFtaW5lci5jb20vbmV3cy9iZXJuaWUtc2FuZGVycy1jYW1wYWlnbi1hY2N1c2VzLWpvZS1iaWRlbi1vZi1pbnN1cmFuY2UtY29tcGFueS1zY2FyZS10YWN0aWNz0gEA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-31T13:00:05.430389", 
+    "query": "joe biden"
+  }, 
+  {
+    "publication": "Consortium News", 
+    "idx": 80, 
+    "title": "Joe Biden Fueled the Latin American Migration Crisis", 
+    "google_url": "http://news.google.com/./articles/CBMiX2h0dHBzOi8vY29uc29ydGl1bW5ld3MuY29tLzIwMTkvMDcvMzEvaG93LWpvZS1iaWRlbi1mdWVsZWQtdGhlLWxhdGluLWFtZXJpY2FuLW1pZ3JhdGlvbi1jcmlzaXMv0gEA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-31T13:00:05.430389", 
+    "query": "joe biden"
+  }, 
+  {
+    "publication": "CNN", 
+    "idx": 81, 
+    "title": "Joe Biden: This is what I'm looking for in a running mate", 
+    "google_url": "http://news.google.com/./articles/CBMigwFodHRwczovL3d3dy5jbm4uY29tL3ZpZGVvcy9wb2xpdGljcy8yMDE5LzA3LzA1L2pvZS1iaWRlbi1ydW5uaW5nLW1hdGUtbWlkZGxlLWNsYXNzLWFsZXhhbmRyaWEtb2Nhc2lvLWNvcnRlei1jdW9tby1pbnRlcnZpZXctdnB4LmNubtIBAA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-31T13:00:05.430389", 
+    "query": "joe biden"
+  }, 
+  {
+    "publication": "Mediaite", 
+    "idx": 82, 
+    "title": "Hillary Clinton and Joe Biden Made People\u2019s \u2018Skin Crawl\u2019 on Cable News But Didn\u2019t Make Ads About It", 
+    "google_url": "http://news.google.com/./articles/CBMifGh0dHBzOi8vd3d3Lm1lZGlhaXRlLmNvbS90di9oaWxsYXJ5LWNsaW50b24tYW5kLWpvZS1iaWRlbi1tYWRlLXBlb3BsZXMtc2tpbi1jcmF3bC1vbi1jYWJsZS1uZXdzLWJ1dC1kaWRudC1tYWtlLWFkcy1hYm91dC1pdC_SAYABaHR0cHM6Ly93d3cubWVkaWFpdGUuY29tL3R2L2hpbGxhcnktY2xpbnRvbi1hbmQtam9lLWJpZGVuLW1hZGUtcGVvcGxlcy1za2luLWNyYXdsLW9uLWNhYmxlLW5ld3MtYnV0LWRpZG50LW1ha2UtYWRzLWFib3V0LWl0L2FtcC8?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-31T13:00:05.430389", 
+    "query": "joe biden"
+  }, 
+  {
+    "publication": "Salon", 
+    "idx": 83, 
+    "title": "Joe Biden's health care plan isn't enough \u2014 but Medicare for All may be too much", 
+    "google_url": "http://news.google.com/./articles/CAIiEK-adwPFpZQFuZGHYwq-7f4qFAgEKgsIACoFCAowgGAwADDklYsG?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-31T13:00:05.430389", 
+    "query": "joe biden"
+  }, 
+  {
+    "publication": "The Garden City Telegram", 
+    "idx": 84, 
+    "title": "Joe Biden: Its time to pick up our heads and remember who in God\u2019s name we are!", 
+    "google_url": "http://news.google.com/./articles/CBMidWh0dHBzOi8vd3d3LmdjdGVsZWdyYW0uY29tL25ld3MvMjAxOTA3Mjkvam9lLWJpZGVuLWl0cy10aW1lLXRvLXBpY2stdXAtb3VyLWhlYWRzLWFuZC1yZW1lbWJlci13aG8taW4tZ29kcy1uYW1lLXdlLWFyZdIBhQFodHRwczovL3d3dy5nY3RlbGVncmFtLmNvbS9uZXdzLzIwMTkwNzI5L2pvZS1iaWRlbi1pdHMtdGltZS10by1waWNrLXVwLW91ci1oZWFkcy1hbmQtcmVtZW1iZXItd2hvLWluLWdvZHMtbmFtZS13ZS1hcmU_dGVtcGxhdGU9YW1wYXJ0?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-31T13:00:05.430389", 
+    "query": "joe biden"
+  }, 
+  {
+    "publication": "The New York Times", 
+    "idx": 85, 
+    "title": "The Bro-iness of Joe Biden", 
+    "google_url": "http://news.google.com/./articles/CAIiEI9NKUy74XZD_wnP0i0P1TYqFwgEKg8IACoHCAowjuuKAzCWrzwwqIQY?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-31T13:00:05.430389", 
+    "query": "joe biden"
+  }, 
+  {
+    "publication": "The Intercept", 
+    "idx": 86, 
+    "title": "Joe Biden's New Foreign Policy Adviser Supported Iraq War", 
+    "google_url": "http://news.google.com/./articles/CBMiTGh0dHBzOi8vdGhlaW50ZXJjZXB0LmNvbS8yMDE5LzA3LzI0L2pvZS1iaWRlbi1uaWNob2xhcy1idXJucy1mb3JlaWduLXBvbGljeS_SAQA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-31T13:00:05.430389", 
+    "query": "joe biden"
+  }, 
+  {
+    "publication": "New York Post", 
+    "idx": 87, 
+    "title": "Pushups won't save Joe Biden and other commentary", 
+    "google_url": "http://news.google.com/./articles/CAIiEAk9AuWdnoon_-shx965CDMqGAgEKg8IACoHCAowhK-LAjD4ySww-9S0BQ?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-31T13:00:05.430389", 
+    "query": "joe biden"
+  }, 
+  {
+    "publication": "CNN", 
+    "idx": 88, 
+    "title": "Biden says Trump's July 4th event is designed 'to stroke his ego'", 
+    "google_url": "http://news.google.com/./articles/CBMiU2h0dHBzOi8vd3d3LmNubi5jb20vMjAxOS8wNy8wNC9wb2xpdGljcy9iaWRlbi10cnVtcC1mb3VydGgtb2YtanVseS1ldmVudC9pbmRleC5odG1s0gFXaHR0cHM6Ly9hbXAuY25uLmNvbS9jbm4vMjAxOS8wNy8wNC9wb2xpdGljcy9iaWRlbi10cnVtcC1mb3VydGgtb2YtanVseS1ldmVudC9pbmRleC5odG1s?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-31T13:00:05.430389", 
+    "query": "joe biden"
+  }, 
+  {
+    "publication": "Washington Post", 
+    "idx": 89, 
+    "title": "Joe Biden\u2019s \u2018civility\u2019 comment told biased whites that he won\u2019t upset the racial order", 
+    "google_url": "http://news.google.com/./articles/CBMiggFodHRwczovL3d3dy53YXNoaW5ndG9ucG9zdC5jb20vcG9saXRpY3MvMjAxOS8wNy8wMi9qb2UtYmlkZW5zLWNpdmlsaXR5LWNvbW1lbnQtdG9sZC1iaWFzZWQtd2hpdGVzLXRoYXQtaGUtd29udC11cHNldC1yYWNpYWwtb3JkZXIv0gGSAWh0dHBzOi8vYmV0YS53YXNoaW5ndG9ucG9zdC5jb20vcG9saXRpY3MvMjAxOS8wNy8wMi9qb2UtYmlkZW5zLWNpdmlsaXR5LWNvbW1lbnQtdG9sZC1iaWFzZWQtd2hpdGVzLXRoYXQtaGUtd29udC11cHNldC1yYWNpYWwtb3JkZXIvP291dHB1dFR5cGU9YW1w?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-31T13:00:05.430389", 
+    "query": "joe biden"
+  }, 
+  {
+    "publication": "Business Insider", 
+    "idx": 90, 
+    "title": "Joe Biden's past work with segregationist senators is a major deal breaker for lots of Democrats", 
+    "google_url": "http://news.google.com/./articles/CAIiELUQyt4FE7uJtosCFsw5Ec4qLggEKiUIACIbd3d3LmJ1c2luZXNzaW5zaWRlci5jb20vc2FpKgQICjAMMJzw5wE?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-31T13:00:05.430389", 
+    "query": "joe biden"
+  }, 
+  {
+    "publication": "The Washington Post", 
+    "idx": 91, 
+    "title": "Bravado or belligerent, it\u2019s Joe Biden\u2019s response to nearly everything: \u2018C\u2019mon, man!\u2019", 
+    "google_url": "http://news.google.com/./articles/CAIiEGkt0rsnBHzJILJryp6A344qGAgEKg8IACoHCAowjtSUCjC30XQwzqe5AQ?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-31T13:00:05.430389", 
+    "query": "joe biden"
+  }, 
+  {
+    "publication": "CNN", 
+    "idx": 92, 
+    "title": "Biden: I wasn't prepared for how Harris came at me", 
+    "google_url": "http://news.google.com/./articles/CBMihQFodHRwczovL3d3dy5jbm4uY29tL3ZpZGVvcy9wb2xpdGljcy8yMDE5LzA3LzA1L2pvZS1iaWRlbi1rYW1hbGEtaGFycmlzLWRlbW9jcmF0aWMtZGViYXRlLWJ1c2luZy1kZXNlZ3JlZ2F0aW9uLWN1b21vLWludGVydmlldy12cHguY25u0gGJAWh0dHBzOi8vYW1wLmNubi5jb20vY25uL3ZpZGVvcy9wb2xpdGljcy8yMDE5LzA3LzA1L2pvZS1iaWRlbi1rYW1hbGEtaGFycmlzLWRlbW9jcmF0aWMtZGViYXRlLWJ1c2luZy1kZXNlZ3JlZ2F0aW9uLWN1b21vLWludGVydmlldy12cHguY25u?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-31T13:00:05.430389", 
+    "query": "joe biden"
+  }, 
+  {
+    "publication": "Democracy Now!", 
+    "idx": 93, 
+    "title": "Joe Biden Defends His Role as Co-Author of 1994 Crime Bill", 
+    "google_url": "http://news.google.com/./articles/CBMia2h0dHBzOi8vd3d3LmRlbW9jcmFjeW5vdy5vcmcvMjAxOS83LzI1L2hlYWRsaW5lcy9qb2VfYmlkZW5fZGVmZW5kc19oaXNfcm9sZV9hc19jb19hdXRob3Jfb2ZfMTk5NF9jcmltZV9iaWxs0gEA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-31T13:00:05.430389", 
+    "query": "joe biden"
+  }, 
+  {
+    "publication": "The New York Times", 
+    "idx": 94, 
+    "title": "Sherrod Brown Doesn't Think Joe Biden Will Be the Nominee", 
+    "google_url": "http://news.google.com/./articles/CAIiEEAXX2iDsbTmgoxiYf-w9koqFwgEKg8IACoHCAowjuuKAzCWrzwwt4QY?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-31T13:00:05.430389", 
+    "query": "joe biden"
+  }, 
+  {
+    "publication": "The Philadelphia Inquirer", 
+    "idx": 95, 
+    "title": "As vice president, Joe Biden said Ukraine should increase gas production. Then his son got a job with a Ukrain", 
+    "google_url": "http://news.google.com/./articles/CBMibmh0dHBzOi8vd3d3LmlucXVpcmVyLmNvbS9wb2xpdGljcy9uYXRpb24vam9lLWJpZGVuLXNvbi1qb2Itd2l0aC11a3JhaW5lLWdhcy1jb21wYW55LWh1bnRlci1iaWRlbi0yMDE5MDcyMi5odG1s0gF9aHR0cHM6Ly93d3cuaW5xdWlyZXIuY29tL3BvbGl0aWNzL25hdGlvbi9qb2UtYmlkZW4tc29uLWpvYi13aXRoLXVrcmFpbmUtZ2FzLWNvbXBhbnktaHVudGVyLWJpZGVuLTIwMTkwNzIyLmh0bWw_b3V0cHV0VHlwZT1hbXA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-31T13:00:05.430389", 
+    "query": "joe biden"
+  }, 
+  {
+    "publication": "CNN", 
+    "idx": 96, 
+    "title": "Fact check: Joe Biden falsely claims he opposed spending more money to build state prisons", 
+    "google_url": "http://news.google.com/./articles/CBMiXGh0dHBzOi8vd3d3LmNubi5jb20vMjAxOS8wNy8wNy9wb2xpdGljcy9mYWN0LWNoZWNrLWpvZS1iaWRlbi1zdGF0ZS1wcmlzb24tZnVuZGluZy9pbmRleC5odG1s0gEA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-31T13:00:05.430389", 
+    "query": "joe biden"
+  }, 
+  {
+    "publication": "The Daily Beast", 
+    "idx": 97, 
+    "title": "Joy Behar Confronts Meghan McCain: Why Do You Believe Joe Biden But Not Al Franken?", 
+    "google_url": "http://news.google.com/./articles/CAIiEAKhV7rMFqB6KV1YCbvRQ_EqFggEKg0IACoGCAow7s8BMNBIMKv-lwI?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-31T13:00:05.430389", 
+    "query": "joe biden"
+  }, 
+  {
+    "publication": "CNN", 
+    "idx": 98, 
+    "title": "Joe Biden, Kamala Harris will face off again as lineups for CNN Democratic primary debates are set", 
+    "google_url": "http://news.google.com/./articles/CAIiEHRIj9ztuY_ZoiuqmyYrLMcqGQgEKhAIACoHCAowocv1CjCSptoCMPrTpgU?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-31T13:00:05.430389", 
+    "query": "joe biden"
+  }, 
+  {
+    "publication": "CNN", 
+    "idx": 99, 
+    "title": "Biden pledges to pick a public school teacher for education secretary", 
+    "google_url": "http://news.google.com/./articles/CBMiYGh0dHBzOi8vd3d3LmNubi5jb20vMjAxOS8wNy8wNS9wb2xpdGljcy9qb2UtYmlkZW4tYXBwb2ludC10ZWFjaGVyLWVkdWNhdGlvbi1zZWNyZXRhcnkvaW5kZXguaHRtbNIBZGh0dHBzOi8vYW1wLmNubi5jb20vY25uLzIwMTkvMDcvMDUvcG9saXRpY3Mvam9lLWJpZGVuLWFwcG9pbnQtdGVhY2hlci1lZHVjYXRpb24tc2VjcmV0YXJ5L2luZGV4Lmh0bWw?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-31T13:00:05.430389", 
+    "query": "joe biden"
+  }
+]

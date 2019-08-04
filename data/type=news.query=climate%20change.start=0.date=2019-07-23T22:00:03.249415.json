@@ -1,0 +1,802 @@
+[
+  {
+    "publication": "The Conversation AU", 
+    "idx": 0, 
+    "title": "40 years ago, scientists predicted climate change. And hey, they were right", 
+    "google_url": "http://news.google.com/./articles/CBMiamh0dHA6Ly90aGVjb252ZXJzYXRpb24uY29tLzQwLXllYXJzLWFnby1zY2llbnRpc3RzLXByZWRpY3RlZC1jbGltYXRlLWNoYW5nZS1hbmQtaGV5LXRoZXktd2VyZS1yaWdodC0xMjA1MDLSAW9odHRwczovL3RoZWNvbnZlcnNhdGlvbi5jb20vYW1wLzQwLXllYXJzLWFnby1zY2llbnRpc3RzLXByZWRpY3RlZC1jbGltYXRlLWNoYW5nZS1hbmQtaGV5LXRoZXktd2VyZS1yaWdodC0xMjA1MDI?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-23T22:00:03.249415", 
+    "query": "climate change"
+  }, 
+  {
+    "publication": "Houston Chronicle", 
+    "idx": 1, 
+    "title": "Deadly fungal disease may be linked to climate change, study suggests", 
+    "google_url": "http://news.google.com/./articles/CAIiEFuKNq5HVIN-6R8We4pCeGkqGQgEKhAIACoHCAow8-P4CjDSst8CMKCcxAU?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-23T22:00:03.249415", 
+    "query": "climate change"
+  }, 
+  {
+    "publication": "USA TODAY", 
+    "idx": 2, 
+    "title": "'Killed' by climate change: Iceland to erect memorial to lost glacier", 
+    "google_url": "http://news.google.com/./articles/CAIiEPw5zbI91KnqQKRKmDNOHYcqGQgEKhAIACoHCAowjsP7CjCSpPQCMM_b5QU?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-23T22:00:03.249415", 
+    "query": "climate change"
+  }, 
+  {
+    "publication": "WIRED", 
+    "idx": 3, 
+    "title": "Many Animals Can\u2019t Adapt to Climate Change Fast Enough", 
+    "google_url": "http://news.google.com/./articles/CAIiECwhHpgoPEMbyJzDmAOroCkqGAgEKg8IACoHCAow-KLyCTDo8XIw6q7pBQ?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-23T22:00:03.249415", 
+    "query": "climate change"
+  }, 
+  {
+    "publication": "Science Daily", 
+    "idx": 4, 
+    "title": "Ozone threat from climate change: Increasing global temperatures will impact air quality", 
+    "google_url": "http://news.google.com/./articles/CBMiPmh0dHBzOi8vd3d3LnNjaWVuY2VkYWlseS5jb20vcmVsZWFzZXMvMjAxOS8wNy8xOTA3MjMxMjE5MDYuaHRt0gEA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-23T22:00:03.249415", 
+    "query": "climate change"
+  }, 
+  {
+    "publication": "Foreign Policy", 
+    "idx": 5, 
+    "title": "Europe Should Bide Its Time on Climate Change", 
+    "google_url": "http://news.google.com/./articles/CAIiEKTgj09z2q0m2Ayg1o-7TmAqGQgEKhAIACoHCAow0sSICzDyn4cDMKKUrwY?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-23T22:00:03.249415", 
+    "query": "climate change"
+  }, 
+  {
+    "publication": "Scientific American", 
+    "idx": 6, 
+    "title": "How to Talk Effectively about Climate Change", 
+    "google_url": "http://news.google.com/./articles/CBMiX2h0dHBzOi8vYmxvZ3Muc2NpZW50aWZpY2FtZXJpY2FuLmNvbS9vYnNlcnZhdGlvbnMvaG93LXRvLXRhbGstZWZmZWN0aXZlbHktYWJvdXQtY2xpbWF0ZS1jaGFuZ2Uv0gEA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-23T22:00:03.249415", 
+    "query": "climate change"
+  }, 
+  {
+    "publication": "Forbes", 
+    "idx": 7, 
+    "title": "Implementing The One Viable Solution To Climate Change", 
+    "google_url": "http://news.google.com/./articles/CAIiEDVguGc5M-VCXhdQMJae8u0qFQgEKg0IACoGCAowrqkBMKBFMI_CEg?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-23T22:00:03.249415", 
+    "query": "climate change"
+  }, 
+  {
+    "publication": "The Wall Street Journal", 
+    "idx": 8, 
+    "title": "As Animals Wash Up on West Coast, Scientists Look to Climate Change", 
+    "google_url": "http://news.google.com/./articles/CAIiEOcO2OAOeC_nn6F37gINhNMqGAgEKg8IACoHCAow1tzJATDnyxUwiK20AQ?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-23T22:00:03.249415", 
+    "query": "climate change"
+  }, 
+  {
+    "publication": "Conservation International", 
+    "idx": 9, 
+    "title": "Climate Change", 
+    "google_url": "http://news.google.com/./articles/CBMiNmh0dHBzOi8vd3d3LmNvbnNlcnZhdGlvbi5vcmcvcHJpb3JpdGllcy9jbGltYXRlLWNoYW5nZdIBAA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-23T22:00:03.249415", 
+    "query": "climate change"
+  }, 
+  {
+    "publication": "CNN", 
+    "idx": 10, 
+    "title": "The cement industry produces more CO2 emissions than most countries. It may not survive", 
+    "google_url": "http://news.google.com/./articles/CAIiEC8TWLrkLT93HZX235JrLPAqGQgEKhAIACoHCAowocv1CjCSptoCMMSUnAY?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-23T22:00:03.249415", 
+    "query": "climate change"
+  }, 
+  {
+    "publication": "Yale Climate Connections", 
+    "idx": 11, 
+    "title": "A brief introduction to climate change and national security", 
+    "google_url": "http://news.google.com/./articles/CBMibGh0dHBzOi8vd3d3LnlhbGVjbGltYXRlY29ubmVjdGlvbnMub3JnLzIwMTkvMDcvYS1icmllZi1pbnRyb2R1Y3Rpb24tdG8tY2xpbWF0ZS1jaGFuZ2UtYW5kLW5hdGlvbmFsLXNlY3VyaXR5L9IBAA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-23T22:00:03.249415", 
+    "query": "climate change"
+  }, 
+  {
+    "publication": "Live Science", 
+    "idx": 12, 
+    "title": "The First Glacier Killed by Climate Change Is Getting a Haunting Memorial in Iceland", 
+    "google_url": "http://news.google.com/./articles/CBMiSWh0dHBzOi8vd3d3LmxpdmVzY2llbmNlLmNvbS82NTk5Ni1pY2VsYW5kLW9rLWdsYWNpZXItbWVtb3JpYWwtcGxhcXVlLmh0bWzSAUlodHRwczovL2FtcC5saXZlc2NpZW5jZS5jb20vNjU5OTYtaWNlbGFuZC1vay1nbGFjaWVyLW1lbW9yaWFsLXBsYXF1ZS5odG1s?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-23T22:00:03.249415", 
+    "query": "climate change"
+  }, 
+  {
+    "publication": "Science Daily", 
+    "idx": 13, 
+    "title": "North Carolina coastal flooding is worsening with climate change, population growth", 
+    "google_url": "http://news.google.com/./articles/CBMiPmh0dHBzOi8vd3d3LnNjaWVuY2VkYWlseS5jb20vcmVsZWFzZXMvMjAxOS8wNy8xOTA3MjMwODU5NTcuaHRt0gEA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-23T22:00:03.249415", 
+    "query": "climate change"
+  }, 
+  {
+    "publication": "USA TODAY", 
+    "idx": 14, 
+    "title": "Thanks to climate change, parts of the Arctic are on fire. Scientists are concerned", 
+    "google_url": "http://news.google.com/./articles/CAIiEHIVtd-tNto9rv9Y8ChVq4YqGQgEKhAIACoHCAowjsP7CjCSpPQCMKCK0wU?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-23T22:00:03.249415", 
+    "query": "climate change"
+  }, 
+  {
+    "publication": "Reuters", 
+    "idx": 15, 
+    "title": "BHP makes $400 million climate-change emissions pledge", 
+    "google_url": "http://news.google.com/./articles/CBMieGh0dHBzOi8vd3d3LnJldXRlcnMuY29tL2FydGljbGUvdXMtY2xpbWF0ZWNoYW5nZS1iaHAvYmhwLW1ha2VzLTQwMC1taWxsaW9uLWNsaW1hdGUtY2hhbmdlLWVtaXNzaW9ucy1wbGVkZ2UtaWRVU0tDTjFVSTBVVNIBNGh0dHBzOi8vbW9iaWxlLnJldXRlcnMuY29tL2FydGljbGUvYW1wL2lkVVNLQ04xVUkwVVQ?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-23T22:00:03.249415", 
+    "query": "climate change"
+  }, 
+  {
+    "publication": "WIRED", 
+    "idx": 16, 
+    "title": "Climate Change Is Very Real. But So Much of It Is Uncertain", 
+    "google_url": "http://news.google.com/./articles/CAIiEMRRe_8nZjHlHa3kagNHJ6kqGAgEKg8IACoHCAow-KLyCTDo8XIw6q7pBQ?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-23T22:00:03.249415", 
+    "query": "climate change"
+  }, 
+  {
+    "publication": "Fast Company", 
+    "idx": 17, 
+    "title": "22 ways that climate change may ruin your summer", 
+    "google_url": "http://news.google.com/./articles/CBMiVWh0dHBzOi8vd3d3LmZhc3Rjb21wYW55LmNvbS85MDM3ODA3Mi8yMi13YXlzLXRoYXQtY2xpbWF0ZS1jaGFuZ2UtbWF5LXJ1aW4teW91ci1zdW1tZXLSAQA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-23T22:00:03.249415", 
+    "query": "climate change"
+  }, 
+  {
+    "publication": "Scientific American", 
+    "idx": 18, 
+    "title": "Climate Change Will Strain Federal Finances", 
+    "google_url": "http://news.google.com/./articles/CBMiV2h0dHBzOi8vd3d3LnNjaWVudGlmaWNhbWVyaWNhbi5jb20vYXJ0aWNsZS9jbGltYXRlLWNoYW5nZS13aWxsLXN0cmFpbi1mZWRlcmFsLWZpbmFuY2VzL9IBAA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-23T22:00:03.249415", 
+    "query": "climate change"
+  }, 
+  {
+    "publication": "CNN", 
+    "idx": 19, 
+    "title": "Record high temperatures far exceed record lows -- a trend of the climate crisis", 
+    "google_url": "http://news.google.com/./articles/CAIiEBidFPmxh84PsDB3HXn5brwqGQgEKhAIACoHCAowocv1CjCSptoCMIrUpgU?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-23T22:00:03.249415", 
+    "query": "climate change"
+  }, 
+  {
+    "publication": "National Geographic", 
+    "idx": 20, 
+    "title": "How artificial intelligence can tackle climate change", 
+    "google_url": "http://news.google.com/./articles/CAIiECH3YzOlj07K8IyNFxoYRHMqGQgEKhAIACoHCAowmrWECzDc_IADMP7SgwY?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-23T22:00:03.249415", 
+    "query": "climate change"
+  }, 
+  {
+    "publication": "NPR", 
+    "idx": 21, 
+    "title": "Can The Current U.S. Heat Wave Be Linked To Climate Change?", 
+    "google_url": "http://news.google.com/./articles/CBMiYmh0dHBzOi8vd3d3Lm5wci5vcmcvMjAxOS8wNy8xOS83NDMzNTA5NjQvY2FuLXRoZS1jdXJyZW50LXUtcy1oZWF0LXdhdmUtYmUtbGlua2VkLXRvLWNsaW1hdGUtY2hhbmdl0gEA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-23T22:00:03.249415", 
+    "query": "climate change"
+  }, 
+  {
+    "publication": "Medical Xpress", 
+    "idx": 22, 
+    "title": "Has your doctor asked you about climate change?", 
+    "google_url": "http://news.google.com/./articles/CBMiOmh0dHBzOi8vbWVkaWNhbHhwcmVzcy5jb20vbmV3cy8yMDE5LTA3LWRvY3Rvci1jbGltYXRlLmh0bWzSATlodHRwczovL21lZGljYWx4cHJlc3MuY29tL25ld3MvMjAxOS0wNy1kb2N0b3ItY2xpbWF0ZS5hbXA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-23T22:00:03.249415", 
+    "query": "climate change"
+  }, 
+  {
+    "publication": "Natural Resources Defense Council", 
+    "idx": 23, 
+    "title": "Top House Democrats Vow ''Bold'' Plan to Combat Climate Change", 
+    "google_url": "http://news.google.com/./articles/CBMiKGh0dHBzOi8vd3d3Lm5yZGMub3JnL21lZGlhLzIwMTkvMTkwNzIzLTDSAQA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-23T22:00:03.249415", 
+    "query": "climate change"
+  }, 
+  {
+    "publication": "MIT Technology Review", 
+    "idx": 24, 
+    "title": "10 technologies that could combat climate change as food demand soars", 
+    "google_url": "http://news.google.com/./articles/CBMic2h0dHBzOi8vd3d3LnRlY2hub2xvZ3lyZXZpZXcuY29tL3MvNjEzOTc5L2dlbmUtZWRpdGluZy13aWxsLWhlbHAtZmFyLW1vcmUtdGhhbi1vcmdhbmljLWZvb2QtdG8tc2xvdy1nbG9iYWwtd2FybWluZy_SAXdodHRwczovL3d3dy50ZWNobm9sb2d5cmV2aWV3LmNvbS9zLzYxMzk3OS9nZW5lLWVkaXRpbmctd2lsbC1oZWxwLWZhci1tb3JlLXRoYW4tb3JnYW5pYy1mb29kLXRvLXNsb3ctZ2xvYmFsLXdhcm1pbmcvYW1wLw?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-23T22:00:03.249415", 
+    "query": "climate change"
+  }, 
+  {
+    "publication": "NPR", 
+    "idx": 25, 
+    "title": "A New Battery Could Be Key To Cutting Carbon Emissions, Slowing Climate Change", 
+    "google_url": "http://news.google.com/./articles/CBMidmh0dHBzOi8vd3d3Lm5wci5vcmcvMjAxOS8wNy8yMi83NDQyMDYwNDkvYS1uZXctYmF0dGVyeS1jb3VsZC1iZS1rZXktdG8tY3V0dGluZy1jYXJib24tZW1pc3Npb25zLXNsb3dpbmctY2xpbWF0ZS1jaGFuZ2XSAQA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-23T22:00:03.249415", 
+    "query": "climate change"
+  }, 
+  {
+    "publication": "CBC.ca", 
+    "idx": 26, 
+    "title": "How climate change is taught in Canadian high schools \u2014 and how it can improve", 
+    "google_url": "http://news.google.com/./articles/CBMiZGh0dHBzOi8vd3d3LmNiYy5jYS9uZXdzL2NhbmFkYS9ub3ZhLXNjb3RpYS9jbGltYXRlLWNoYW5nZS1jdXJyaWN1bHVtLWNhbmFkaWFuLWhpZ2gtc2Nob29scy0xLjUyMjEzNTjSASBodHRwczovL3d3dy5jYmMuY2EvYW1wLzEuNTIyMTM1OA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-23T22:00:03.249415", 
+    "query": "climate change"
+  }, 
+  {
+    "publication": "Washington Post", 
+    "idx": 27, 
+    "title": "We finally know why Florida\u2019s coral reefs are dying, and it\u2019s not just climate change", 
+    "google_url": "http://news.google.com/./articles/CBMiswFodHRwczovL3d3dy53YXNoaW5ndG9ucG9zdC5jb20vaGVhbHRoL3dlLWZpbmFsbHkta25vdy13aHktZmxvcmlkYXMtY29yYWwtcmVlZnMtYXJlLWR5aW5nLWFuZC1pdHMtbm90LWp1c3QtY2xpbWF0ZS1jaGFuZ2UvMjAxOS8wNy8xOS8wZDdlOWM0Yy1hOTgzLTExZTktOTIxNC0yNDZlNTk0ZGU1ZDVfc3RvcnkuaHRtbNIBwwFodHRwczovL2JldGEud2FzaGluZ3RvbnBvc3QuY29tL2hlYWx0aC93ZS1maW5hbGx5LWtub3ctd2h5LWZsb3JpZGFzLWNvcmFsLXJlZWZzLWFyZS1keWluZy1hbmQtaXRzLW5vdC1qdXN0LWNsaW1hdGUtY2hhbmdlLzIwMTkvMDcvMTkvMGQ3ZTljNGMtYTk4My0xMWU5LTkyMTQtMjQ2ZTU5NGRlNWQ1X3N0b3J5Lmh0bWw_b3V0cHV0VHlwZT1hbXA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-23T22:00:03.249415", 
+    "query": "climate change"
+  }, 
+  {
+    "publication": "Financial Post", 
+    "idx": 28, 
+    "title": "Joe Oliver: We should prepare for extreme weather, but tying it to climate change is a mistake", 
+    "google_url": "http://news.google.com/./articles/CBMihwFodHRwczovL2J1c2luZXNzLmZpbmFuY2lhbHBvc3QuY29tL29waW5pb24vam9lLW9saXZlci13ZS1zaG91bGQtcHJlcGFyZS1mb3ItZXh0cmVtZS13ZWF0aGVyLWJ1dC10eWluZy1pdC10by1jbGltYXRlLWNoYW5nZS1pcy1hLW1pc3Rha2XSAYsBaHR0cHM6Ly9idXNpbmVzcy5maW5hbmNpYWxwb3N0LmNvbS9vcGluaW9uL2pvZS1vbGl2ZXItd2Utc2hvdWxkLXByZXBhcmUtZm9yLWV4dHJlbWUtd2VhdGhlci1idXQtdHlpbmctaXQtdG8tY2xpbWF0ZS1jaGFuZ2UtaXMtYS1taXN0YWtlL2FtcA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-23T22:00:03.249415", 
+    "query": "climate change"
+  }, 
+  {
+    "publication": "Axios", 
+    "idx": 29, 
+    "title": "Scoop: Fed to host its first conference dedicated to climate change", 
+    "google_url": "http://news.google.com/./articles/CAIiELZvH7BoEXwOARJTTEOmERkqGQgEKhAIACoHCAowysWECzCkqIEDMO-pgwY?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-23T22:00:03.249415", 
+    "query": "climate change"
+  }, 
+  {
+    "publication": "Streetsblog San Francisco", 
+    "idx": 30, 
+    "title": "Mayors Seek Transit Funds To Fight Climate Change (And What's Happening in This Picture)", 
+    "google_url": "http://news.google.com/./articles/CBMiW2h0dHBzOi8vdXNhLnN0cmVldHNibG9nLm9yZy8yMDE5LzA3LzIzL21heW9ycy1kZW1hbmQtdHJhbnNpdC1mdW5kcy10by1maWdodC1jbGltYXRlLWNoYW5nZS_SAQA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-23T22:00:03.249415", 
+    "query": "climate change"
+  }, 
+  {
+    "publication": "Foreign Policy", 
+    "idx": 31, 
+    "title": "Climate Change Requires Big Solutions. But Baby Steps Are the Only Way to Go.", 
+    "google_url": "http://news.google.com/./articles/CAIiENq4AWbCbIhfZvrfKAqBUq0qGQgEKhAIACoHCAow0sSICzDyn4cDMKKUrwY?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-23T22:00:03.249415", 
+    "query": "climate change"
+  }, 
+  {
+    "publication": "Singularity Hub", 
+    "idx": 32, 
+    "title": "Machine Learning vs. Climate Change: AI for the Greener Good", 
+    "google_url": "http://news.google.com/./articles/CBMiYWh0dHBzOi8vc2luZ3VsYXJpdHlodWIuY29tLzIwMTkvMDcvMjEvbWFjaGluZS1sZWFybmluZy12cy1jbGltYXRlLWNoYW5nZS1haS1mb3ItdGhlLWdyZWVuZXItZ29vZC_SAQA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-23T22:00:03.249415", 
+    "query": "climate change"
+  }, 
+  {
+    "publication": "The New York Times", 
+    "idx": 33, 
+    "title": "We Went to the Moon. Why Can\u2019t We Solve Climate Change?", 
+    "google_url": "http://news.google.com/./articles/CAIiEB8bei__id7G_RnFhr6HRu4qFwgEKg8IACoHCAowjuuKAzCWrzwwxoIY?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-23T22:00:03.249415", 
+    "query": "climate change"
+  }, 
+  {
+    "publication": "State of the Planet", 
+    "idx": 34, 
+    "title": "Nothing to Sneeze At: How Climate Change Could Make Your Allergies Worse", 
+    "google_url": "http://news.google.com/./articles/CBMiQmh0dHBzOi8vYmxvZ3MuZWkuY29sdW1iaWEuZWR1LzIwMTkvMDcvMjMvYWxsZXJnaWVzLWNsaW1hdGUtY2hhbmdlL9IBAA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-23T22:00:03.249415", 
+    "query": "climate change"
+  }, 
+  {
+    "publication": "POLITICO", 
+    "idx": 35, 
+    "title": "Trump's USDA buried sweeping climate change response plan", 
+    "google_url": "http://news.google.com/./articles/CAIiEGC7Lb9q-eye5Rl9xCw53AEqGQgEKhAIACoHCAow4Zn5CjCu8uACMLTRlgY?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-23T22:00:03.249415", 
+    "query": "climate change"
+  }, 
+  {
+    "publication": "Science Daily", 
+    "idx": 36, 
+    "title": "Airborne lidar system poised to improve accuracy of climate change models: Instrument improves measurements of atmospheric gases that shape the planet's climate", 
+    "google_url": "http://news.google.com/./articles/CBMiPmh0dHBzOi8vd3d3LnNjaWVuY2VkYWlseS5jb20vcmVsZWFzZXMvMjAxOS8wNy8xOTA3MjIxMTU5MzEuaHRt0gEA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-23T22:00:03.249415", 
+    "query": "climate change"
+  }, 
+  {
+    "publication": "The Conversation UK", 
+    "idx": 37, 
+    "title": "Southampton to Shanghai by train \u2013 one climate change researcher's quest to avoid flying", 
+    "google_url": "http://news.google.com/./articles/CBMid2h0dHA6Ly90aGVjb252ZXJzYXRpb24uY29tL3NvdXRoYW1wdG9uLXRvLXNoYW5naGFpLWJ5LXRyYWluLW9uZS1jbGltYXRlLWNoYW5nZS1yZXNlYXJjaGVycy1xdWVzdC10by1hdm9pZC1mbHlpbmctMTIwMDE10gF8aHR0cHM6Ly90aGVjb252ZXJzYXRpb24uY29tL2FtcC9zb3V0aGFtcHRvbi10by1zaGFuZ2hhaS1ieS10cmFpbi1vbmUtY2xpbWF0ZS1jaGFuZ2UtcmVzZWFyY2hlcnMtcXVlc3QtdG8tYXZvaWQtZmx5aW5nLTEyMDAxNQ?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-23T22:00:03.249415", 
+    "query": "climate change"
+  }, 
+  {
+    "publication": "Aljazeera.com", 
+    "idx": 38, 
+    "title": "Investors warn cement makers climate change is a business risk", 
+    "google_url": "http://news.google.com/./articles/CBMicWh0dHBzOi8vd3d3LmFsamF6ZWVyYS5jb20vYWppbXBhY3QvaW52ZXN0b3JzLXdhcm4tY2VtZW50LW1ha2Vycy1jbGltYXRlLWNoYW5nZS1idXNpbmVzcy1yaXNrLTE5MDcyMjIyMTQ0NzkxNy5odG1s0gF1aHR0cHM6Ly93d3cuYWxqYXplZXJhLmNvbS9hbXAvYWppbXBhY3QvaW52ZXN0b3JzLXdhcm4tY2VtZW50LW1ha2Vycy1jbGltYXRlLWNoYW5nZS1idXNpbmVzcy1yaXNrLTE5MDcyMjIyMTQ0NzkxNy5odG1s?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-23T22:00:03.249415", 
+    "query": "climate change"
+  }, 
+  {
+    "publication": "The Wall Street Journal", 
+    "idx": 39, 
+    "title": "USDA Report Sees Dire Climate-Change Impact on U.S. Crops", 
+    "google_url": "http://news.google.com/./articles/CAIiECrrfhIYCh5sO9DNTpmqZyAqGAgEKg8IACoHCAow1tzJATDnyxUwiqe0AQ?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-23T22:00:03.249415", 
+    "query": "climate change"
+  }, 
+  {
+    "publication": "Beyond Chron", 
+    "idx": 40, 
+    "title": "Progressive Cities Lack Urgency on Climate Change", 
+    "google_url": "http://news.google.com/./articles/CBMiUWh0dHA6Ly9iZXlvbmRjaHJvbi5vcmcvd2hhdC1hcmUtcHJvZ3Jlc3NpdmUtY2l0aWVzLXdhaXRpbmctZm9yLW9uLWNsaW1hdGUtY2hhbmdlL9IBAA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-23T22:00:03.249415", 
+    "query": "climate change"
+  }, 
+  {
+    "publication": "Scientific American", 
+    "idx": 41, 
+    "title": "Climate Change Made Europe's Mega Heat Wave Five Times More Likely", 
+    "google_url": "http://news.google.com/./articles/CBMibWh0dHBzOi8vd3d3LnNjaWVudGlmaWNhbWVyaWNhbi5jb20vYXJ0aWNsZS9jbGltYXRlLWNoYW5nZS1tYWRlLWV1cm9wZXMtbWVnYS1oZWF0LXdhdmUtZml2ZS10aW1lcy1tb3JlLWxpa2VseS_SAQA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-23T22:00:03.249415", 
+    "query": "climate change"
+  }, 
+  {
+    "publication": "World Economic Forum", 
+    "idx": 42, 
+    "title": "Global farmers can take on climate change. Here's how", 
+    "google_url": "http://news.google.com/./articles/CBMiS2h0dHBzOi8vd3d3LndlZm9ydW0ub3JnL2FnZW5kYS8yMDE5LzA3L2FncmljdWx0dXJlLWNsaW1hdGUtY2hhbmdlLXNvbHV0aW9uL9IBAA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-23T22:00:03.249415", 
+    "query": "climate change"
+  }, 
+  {
+    "publication": "TIME", 
+    "idx": 43, 
+    "title": "Scientists Predict Climate Change Will Make Dangerous Heat Waves Far More Common", 
+    "google_url": "http://news.google.com/./articles/CAIiEKaHdiNwuoH2k2P8qu1f0fQqGQgEKhAIACoHCAowmICNCzDjmZ4DMJXOqQY?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-23T22:00:03.249415", 
+    "query": "climate change"
+  }, 
+  {
+    "publication": "WCAI", 
+    "idx": 44, 
+    "title": "How Climate Change Has Moved Endangered Right Whales Into Deadly Waters", 
+    "google_url": "http://news.google.com/./articles/CBMiaGh0dHBzOi8vd3d3LmNhcGVhbmRpc2xhbmRzLm9yZy9wb3N0L2hvdy1jbGltYXRlLWNoYW5nZS1oYXMtbW92ZWQtZW5kYW5nZXJlZC1yaWdodC13aGFsZXMtZGVhZGx5LXdhdGVycy0w0gEA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-23T22:00:03.249415", 
+    "query": "climate change"
+  }, 
+  {
+    "publication": "CNN", 
+    "idx": 45, 
+    "title": "How rich people could help save the planet from climate change", 
+    "google_url": "http://news.google.com/./articles/CAIiEO-VOfNpPaSniuyGaxTuX00qGQgEKhAIACoHCAowocv1CjCSptoCMPrTpgU?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-23T22:00:03.249415", 
+    "query": "climate change"
+  }, 
+  {
+    "publication": "CBC.ca", 
+    "idx": 46, 
+    "title": "Bird populations dive in part due to climate change, says Alberta naturalist", 
+    "google_url": "http://news.google.com/./articles/CBMiZ2h0dHBzOi8vd3d3LmNiYy5jYS9uZXdzL2NhbmFkYS9jYWxnYXJ5L2JpcmQtcG9wdWxhdGlvbnMtZGVjbGluZS1jbGltYXRlLWNoYW5nZS1odW1hbi1hY3Rpdml0eS0xLjUyMjA0MTXSASBodHRwczovL3d3dy5jYmMuY2EvYW1wLzEuNTIyMDQxNQ?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-23T22:00:03.249415", 
+    "query": "climate change"
+  }, 
+  {
+    "publication": "BBC News", 
+    "idx": 47, 
+    "title": "Climate change: How hot cities could be in 2050", 
+    "google_url": "http://news.google.com/./articles/CBMiKmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy9uZXdzYmVhdC00ODk0NzU3M9IBLmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy9hbXAvbmV3c2JlYXQtNDg5NDc1NzM?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-23T22:00:03.249415", 
+    "query": "climate change"
+  }, 
+  {
+    "publication": "Forbes", 
+    "idx": 48, 
+    "title": "Climate Change Divides Europe", 
+    "google_url": "http://news.google.com/./articles/CAIiEEsmcqqqUMX-zY2RBoDdO1kqFQgEKg0IACoGCAowrqkBMKBFMLKAAg?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-23T22:00:03.249415", 
+    "query": "climate change"
+  }, 
+  {
+    "publication": "NPR", 
+    "idx": 49, 
+    "title": "Doctors Begin To Raise Climate Change's Health Effects With Patients : Shots - Health News", 
+    "google_url": "http://news.google.com/./articles/CAIiEMbyc840Ym_B6BOCwviZSZoqFggEKg4IACoGCAow9vBNMK3UCDDq0Rc?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-23T22:00:03.249415", 
+    "query": "climate change"
+  }, 
+  {
+    "publication": "UNC Chapell Hill", 
+    "idx": 50, 
+    "title": "North Carolina tropical cyclone-driven coastal flooding is worsening with climate change, population growth", 
+    "google_url": "http://news.google.com/./articles/CBMikAFodHRwczovL3d3dy51bmMuZWR1L3Bvc3RzLzIwMTkvMDcvMjMvbm9ydGgtY2Fyb2xpbmEtdHJvcGljYWwtY3ljbG9uZS1kcml2ZW4tY29hc3RhbC1mbG9vZGluZy1pcy13b3JzZW5pbmctd2l0aC1jbGltYXRlLWNoYW5nZS1wb3B1bGF0aW9uLWdyb3d0aC_SAQA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-23T22:00:03.249415", 
+    "query": "climate change"
+  }, 
+  {
+    "publication": "The Conversation UK", 
+    "idx": 51, 
+    "title": "Climate change and air travel: why we have a responsibility to countries dependent on tourism", 
+    "google_url": "http://news.google.com/./articles/CAIiEIiEm1bHnGYZv3RC6RtBYpIqGQgEKhAIACoHCAow2cb3CjCTjNcCMLLArQY?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-23T22:00:03.249415", 
+    "query": "climate change"
+  }, 
+  {
+    "publication": "Forbes", 
+    "idx": 52, 
+    "title": "The One Viable Solution To Climate Change", 
+    "google_url": "http://news.google.com/./articles/CAIiECyasY90euvgnkkFjCv16REqFQgEKg0IACoGCAowrqkBMKBFMKGBAg?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-23T22:00:03.249415", 
+    "query": "climate change"
+  }, 
+  {
+    "publication": "Live Science", 
+    "idx": 53, 
+    "title": "Greenland\u2019s Superfast \u2018Ice Slides\u2019 Could Be Bad News for Climate Change", 
+    "google_url": "http://news.google.com/./articles/CBMiQmh0dHBzOi8vd3d3LmxpdmVzY2llbmNlLmNvbS82NTkzMC1ncmVlbmxhbmQtaWNlLXNoZWV0LXNsaWRpbmcuaHRtbNIBQmh0dHBzOi8vYW1wLmxpdmVzY2llbmNlLmNvbS82NTkzMC1ncmVlbmxhbmQtaWNlLXNoZWV0LXNsaWRpbmcuaHRtbA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-23T22:00:03.249415", 
+    "query": "climate change"
+  }, 
+  {
+    "publication": "Axios", 
+    "idx": 54, 
+    "title": "Poll: Climate change is a top issue for early state Democrats in 2020", 
+    "google_url": "http://news.google.com/./articles/CAIiELn87Y8hj_cZyHgL6gonRGEqGQgEKhAIACoHCAowysWECzCkqIEDMN-pgwY?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-23T22:00:03.249415", 
+    "query": "climate change"
+  }, 
+  {
+    "publication": "TIME", 
+    "idx": 55, 
+    "title": "Donald Trump Called Climate Change a Hoax. Now He's Awkwardly Boasting About Fighting It", 
+    "google_url": "http://news.google.com/./articles/CAIiEPBV5pJ-VfqdXBX_Gyy_DnsqGQgEKhAIACoHCAowmICNCzDjmZ4DMLXOqQY?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-23T22:00:03.249415", 
+    "query": "climate change"
+  }, 
+  {
+    "publication": "World Economic Forum", 
+    "idx": 56, 
+    "title": "Climate change is causing strange events in the Arctic, research shows", 
+    "google_url": "http://news.google.com/./articles/CBMiYWh0dHBzOi8vd3d3LndlZm9ydW0ub3JnL2FnZW5kYS8yMDE5LzA3LzQtY3JhenktdGhpbmdzLXRoYXQtYXJlLWhhcHBlbmluZy1pbi10aGUtYXJjdGljLXJpZ2h0LW5vdy_SAQA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-23T22:00:03.249415", 
+    "query": "climate change"
+  }, 
+  {
+    "publication": "NEXTpittsburgh", 
+    "idx": 57, 
+    "title": "Woodland Hills becomes the first PA school district to pass climate change resolution", 
+    "google_url": "http://news.google.com/./articles/CBMihAFodHRwczovL3d3dy5uZXh0cGl0dHNidXJnaC5jb20vbGF0ZXN0LW5ld3Mvd29vZGxhbmQtaGlsbHMtc2Nob29sLWRpc3RyaWN0LWJlY29tZXMtdGhlLWZpcnN0LWluLXBhLXRvLXBhc3MtY2xpbWF0ZS1jaGFuZ2UtcmVzb2x1dGlvbi_SAQA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-23T22:00:03.249415", 
+    "query": "climate change"
+  }, 
+  {
+    "publication": "The Montgomery Herald", 
+    "idx": 58, 
+    "title": "We must work together to slow climate change", 
+    "google_url": "http://news.google.com/./articles/CBMiiAFodHRwczovL3d3dy5tb250Z29tZXJ5LWhlcmFsZC5jb20vb3Bpbmlvbi93ZS1tdXN0LXdvcmstdG9nZXRoZXItdG8tc2xvdy1jbGltYXRlLWNoYW5nZS9hcnRpY2xlXzc0ZGYwY2VhLWFjYTktMTFlOS05NzBiLTNmN2VjNTkzNzJlOS5odG1s0gEA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-23T22:00:03.249415", 
+    "query": "climate change"
+  }, 
+  {
+    "publication": "WFAE", 
+    "idx": 59, 
+    "title": "Scientists Warn Climate Change Will Increase Dangerous Heat Days", 
+    "google_url": "http://news.google.com/./articles/CBMiWmh0dHBzOi8vd3d3LndmYWUub3JnL3Bvc3Qvc2NpZW50aXN0cy13YXJuLWNsaW1hdGUtY2hhbmdlLXdpbGwtaW5jcmVhc2UtZGFuZ2Vyb3VzLWhlYXQtZGF5c9IBAA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-23T22:00:03.249415", 
+    "query": "climate change"
+  }, 
+  {
+    "publication": "Livemint", 
+    "idx": 60, 
+    "title": "The growing threat of climate change in India", 
+    "google_url": "http://news.google.com/./articles/CAIiEFJ5_Uf2FoMGuY2nKrWJ9sMqFwgEKg4IACoGCAowxLQ_MNevCDDnvNMF?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-23T22:00:03.249415", 
+    "query": "climate change"
+  }, 
+  {
+    "publication": "Forbes", 
+    "idx": 61, 
+    "title": "Is The Climate Change Debate A Replay Of The Reformation?", 
+    "google_url": "http://news.google.com/./articles/CAIiEEjhim2MnEt_p_mKd9N7TXEqFQgEKg0IACoGCAowrqkBMKBFMI_CEg?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-23T22:00:03.249415", 
+    "query": "climate change"
+  }, 
+  {
+    "publication": "Science News", 
+    "idx": 62, 
+    "title": "Planting trees could buy more time to fight climate change than thought", 
+    "google_url": "http://news.google.com/./articles/CBMiY2h0dHBzOi8vd3d3LnNjaWVuY2VuZXdzLm9yZy9hcnRpY2xlL3BsYW50aW5nLXRyZWVzLWNvdWxkLWJ1eS1tb3JlLXRpbWUtZmlnaHQtY2xpbWF0ZS1jaGFuZ2UtdGhvdWdodNIBAA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-23T22:00:03.249415", 
+    "query": "climate change"
+  }, 
+  {
+    "publication": "Los Angeles Times", 
+    "idx": 63, 
+    "title": "California was warned about climate change 30 years ago. Now it's feeling the effects", 
+    "google_url": "http://news.google.com/./articles/CBMiXmh0dHBzOi8vd3d3LmxhdGltZXMuY29tL3NjaWVuY2UvbGEtc2NpLWNsaW1hdGUtY2hhbmdlLXByZWRpY3Rpb25zLXByb2dyZXNzLTIwMTkwNjI2LXN0b3J5Lmh0bWzSAWhodHRwczovL3d3dy5sYXRpbWVzLmNvbS9zY2llbmNlL2xhLXNjaS1jbGltYXRlLWNoYW5nZS1wcmVkaWN0aW9ucy1wcm9ncmVzcy0yMDE5MDYyNi1zdG9yeS5odG1sP19hbXA9dHJ1ZQ?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-23T22:00:03.249415", 
+    "query": "climate change"
+  }, 
+  {
+    "publication": "Politico", 
+    "idx": 64, 
+    "title": "New York takes lead in climate change fight", 
+    "google_url": "http://news.google.com/./articles/CBMidGh0dHBzOi8vd3d3LnBvbGl0aWNvLmNvbS9zdGF0ZXMvbmV3LXlvcmsvYWxiYW55L3N0b3J5LzIwMTkvMDcvMTgvbmV3LXlvcmstdGFrZXMtbGVhZC1pbi1jbGltYXRlLWNoYW5nZS1maWdodC0xMTA3OTY00gEA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-23T22:00:03.249415", 
+    "query": "climate change"
+  }, 
+  {
+    "publication": "The Indian Express", 
+    "idx": 65, 
+    "title": "Climate Change Is Scaring Kids. Here\u2019s How to Talk to Them.", 
+    "google_url": "http://news.google.com/./articles/CAIiELIKnpbtvBsX-e3BNb7afrEqGAgEKg8IACoHCAow3rvTBDD89X4w8YzmBQ?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-23T22:00:03.249415", 
+    "query": "climate change"
+  }, 
+  {
+    "publication": "ABC News", 
+    "idx": 66, 
+    "title": "If your coastal home could be threatened by flooding 80 years from now, would you want to know?", 
+    "google_url": "http://news.google.com/./articles/CAIiEPlYEKlsDdihoDVgTksA9JsqFggEKg4IACoGCAow3vI9MPeaCDDciw4?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-23T22:00:03.249415", 
+    "query": "climate change"
+  }, 
+  {
+    "publication": "Vox.com", 
+    "idx": 67, 
+    "title": "The climate change policy with the most potential is the most neglected", 
+    "google_url": "http://news.google.com/./articles/CAIiENH1ySeNDN40uxqwL5Dnda0qGAgEKg8IACoHCAowlOzSATCaiDUw672eBg?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-23T22:00:03.249415", 
+    "query": "climate change"
+  }, 
+  {
+    "publication": "CBC.ca", 
+    "idx": 68, 
+    "title": "Some high school science courses outdated on climate change, UBC study finds", 
+    "google_url": "http://news.google.com/./articles/CBMiZmh0dHBzOi8vd3d3LmNiYy5jYS9uZXdzL2NhbmFkYS9wcmluY2UtZWR3YXJkLWlzbGFuZC9wZWktaGlnaC1zY2hvb2wtY2xpbWF0ZS1jaGFuZ2UtY3VycmljdWxhLTEuNTIxOTkyMdIBIGh0dHBzOi8vd3d3LmNiYy5jYS9hbXAvMS41MjE5OTIx?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-23T22:00:03.249415", 
+    "query": "climate change"
+  }, 
+  {
+    "publication": "CNN", 
+    "idx": 69, 
+    "title": "Abu Dhabi is replanting mangroves in the fight against climate change", 
+    "google_url": "http://news.google.com/./articles/CAIiEM8tdtkb5Q_l94f4U_Ax6YcqGQgEKhAIACoHCAowocv1CjCSptoCMPrTpgU?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-23T22:00:03.249415", 
+    "query": "climate change"
+  }, 
+  {
+    "publication": "NPR", 
+    "idx": 70, 
+    "title": "Barry And Climate Change", 
+    "google_url": "http://news.google.com/./articles/CAIiEBa69IztIgxCnEAKD7ArwecqFggEKg4IACoGCAow9vBNMK3UCDCvpUk?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-23T22:00:03.249415", 
+    "query": "climate change"
+  }, 
+  {
+    "publication": "Science Daily", 
+    "idx": 71, 
+    "title": "Climate change to blame for displacement of 55 species in UK", 
+    "google_url": "http://news.google.com/./articles/CBMiPmh0dHBzOi8vd3d3LnNjaWVuY2VkYWlseS5jb20vcmVsZWFzZXMvMjAxOS8wNy8xOTA3MTgwODUzMTIuaHRt0gEA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-23T22:00:03.249415", 
+    "query": "climate change"
+  }, 
+  {
+    "publication": "TIME", 
+    "idx": 72, 
+    "title": "The 10 Countries Most Vulnerable to Climate Change Will Experience Population Booms in the Coming Decades", 
+    "google_url": "http://news.google.com/./articles/CAIiEHHS18aOZ1MeHEqJU7dHCJgqGQgEKhAIACoHCAowmICNCzDjmZ4DMJXOqQY?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-23T22:00:03.249415", 
+    "query": "climate change"
+  }, 
+  {
+    "publication": "Science Magazine", 
+    "idx": 73, 
+    "title": "Trump officials deleting mentions of 'climate change' from U.S. Geological Survey press releases", 
+    "google_url": "http://news.google.com/./articles/CBMifGh0dHBzOi8vd3d3LnNjaWVuY2VtYWcub3JnL25ld3MvMjAxOS8wNy90cnVtcC1vZmZpY2lhbHMtZGVsZXRpbmctbWVudGlvbnMtY2xpbWF0ZS1jaGFuZ2UtdXMtZ2VvbG9naWNhbC1zdXJ2ZXktcHJlc3MtcmVsZWFzZXPSAQA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-23T22:00:03.249415", 
+    "query": "climate change"
+  }, 
+  {
+    "publication": "The Nation", 
+    "idx": 74, 
+    "title": "We Need a New Manhattan Project to Combat Climate Change", 
+    "google_url": "http://news.google.com/./articles/CBMiUGh0dHBzOi8vd3d3LnRoZW5hdGlvbi5jb20vYXJ0aWNsZS90b20tZGlzcGF0Y2gtbWFuaGF0dGFuLXByb2plY3QtY2xpbWF0ZS1jaGFuZ2Uv0gEA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-23T22:00:03.249415", 
+    "query": "climate change"
+  }, 
+  {
+    "publication": "Truthout", 
+    "idx": 75, 
+    "title": "Don't \"Make War\" on Climate Change", 
+    "google_url": "http://news.google.com/./articles/CBMiPmh0dHBzOi8vdHJ1dGhvdXQub3JnL2FydGljbGVzL2RvbnQtbWFrZS13YXItb24tY2xpbWF0ZS1jaGFuZ2Uv0gEA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-23T22:00:03.249415", 
+    "query": "climate change"
+  }, 
+  {
+    "publication": "OZY", 
+    "idx": 76, 
+    "title": "Tomorrow's Doctors Will Diagnose the Mental Toll of Climate Change", 
+    "google_url": "http://news.google.com/./articles/CAIiEAUqui2qKh3U0UWA7g3UpkMqGQgEKhAIACoHCAowy4j7CjCUjPMCMP_zxwU?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-23T22:00:03.249415", 
+    "query": "climate change"
+  }, 
+  {
+    "publication": "The Guardian", 
+    "idx": 77, 
+    "title": "Ex-Unilever boss seeks 'heroic CEOs' to tackle climate change and inequality", 
+    "google_url": "http://news.google.com/./articles/CAIiEB8879spa-2jPQStTirghl8qFggEKg4IACoGCAowl6p7MN-zCTDMwRU?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-23T22:00:03.249415", 
+    "query": "climate change"
+  }, 
+  {
+    "publication": "Gizmodo", 
+    "idx": 78, 
+    "title": "Joshua Trees Are Being Wiped Out by Climate Change", 
+    "google_url": "http://news.google.com/./articles/CBMiWWh0dHBzOi8vZWFydGhlci5naXptb2RvLmNvbS9qb3NodWEtdHJlZXMtYXJlLWJlaW5nLXdpcGVkLW91dC1ieS1jbGltYXRlLWNoYW5nZS0xODM2NDU2Njc30gFdaHR0cHM6Ly9lYXJ0aGVyLmdpem1vZG8uY29tL2pvc2h1YS10cmVlcy1hcmUtYmVpbmctd2lwZWQtb3V0LWJ5LWNsaW1hdGUtY2hhbmdlLTE4MzY0NTY2NzcvYW1w?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-23T22:00:03.249415", 
+    "query": "climate change"
+  }, 
+  {
+    "publication": "Science Magazine", 
+    "idx": 79, 
+    "title": "Hungry elephants fight climate change one mouthful at a time", 
+    "google_url": "http://news.google.com/./articles/CBMiX2h0dHBzOi8vd3d3LnNjaWVuY2VtYWcub3JnL25ld3MvMjAxOS8wNy9odW5ncnktZWxlcGhhbnRzLWZpZ2h0LWNsaW1hdGUtY2hhbmdlLW9uZS1tb3V0aGZ1bC10aW1l0gEA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-23T22:00:03.249415", 
+    "query": "climate change"
+  }, 
+  {
+    "publication": "Gizmodo", 
+    "idx": 80, 
+    "title": "Scientists Wrote a Eulogy for Iceland's First Glacier Lost to Climate Change", 
+    "google_url": "http://news.google.com/./articles/CBMiXmh0dHBzOi8vZWFydGhlci5naXptb2RvLmNvbS9zY2llbnRpc3RzLXdyb3RlLWEtZXVsb2d5LWZvci1pY2VsYW5kcy1maXJzdC1nbGFjaWVyLWxvLTE4MzY1NDI3NDXSAWJodHRwczovL2VhcnRoZXIuZ2l6bW9kby5jb20vc2NpZW50aXN0cy13cm90ZS1hLWV1bG9neS1mb3ItaWNlbGFuZHMtZmlyc3QtZ2xhY2llci1sby0xODM2NTQyNzQ1L2FtcA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-23T22:00:03.249415", 
+    "query": "climate change"
+  }, 
+  {
+    "publication": "Vox.com", 
+    "idx": 81, 
+    "title": "Climate change solutions: forest restoration might be one of the best ways to fight climate change", 
+    "google_url": "http://news.google.com/./articles/CAIiEOlwjXCWRAKy9yCJuOvvYeAqGAgEKg8IACoHCAowlOzSATCaiDUwzdjoBQ?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-23T22:00:03.249415", 
+    "query": "climate change"
+  }, 
+  {
+    "publication": "The New York Times", 
+    "idx": 82, 
+    "title": "To Understand Climate Change, We Need to Understand Greenland", 
+    "google_url": "http://news.google.com/./articles/CAIiEHpzbIJDijaii_CONiVYnhkqFwgEKg8IACoHCAowjuuKAzCWrzww14QY?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-23T22:00:03.249415", 
+    "query": "climate change"
+  }, 
+  {
+    "publication": "BBC News", 
+    "idx": 83, 
+    "title": "'Restore UK bogs' to tackle climate change", 
+    "google_url": "http://news.google.com/./articles/CBMiJmh0dHBzOi8vd3d3LmJiYy5jby51ay9uZXdzL3VrLTQ5MDc0ODcy0gEqaHR0cHM6Ly93d3cuYmJjLmNvLnVrL25ld3MvYW1wL3VrLTQ5MDc0ODcy?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-23T22:00:03.249415", 
+    "query": "climate change"
+  }, 
+  {
+    "publication": "KUNC", 
+    "idx": 84, 
+    "title": "As Southwest Water Managers Grapple With Climate Change, Can A 'Grand Bargain' Work?", 
+    "google_url": "http://news.google.com/./articles/CBMiYGh0dHBzOi8vd3d3Lmt1bmMub3JnL3Bvc3Qvc291dGh3ZXN0LXdhdGVyLW1hbmFnZXJzLWdyYXBwbGUtY2xpbWF0ZS1jaGFuZ2UtY2FuLWdyYW5kLWJhcmdhaW4td29ya9IBAA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-23T22:00:03.249415", 
+    "query": "climate change"
+  }, 
+  {
+    "publication": "The New York Times", 
+    "idx": 85, 
+    "title": "As the World Heats Up, the Climate for News Is Changing, Too", 
+    "google_url": "http://news.google.com/./articles/CAIiEK4A_uMuzM2XQzQZ1ldBVlMqFwgEKg8IACoHCAowjuuKAzCWrzww9oAY?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-23T22:00:03.249415", 
+    "query": "climate change"
+  }, 
+  {
+    "publication": "BBC News", 
+    "idx": 86, 
+    "title": "'Triple whammy' threatens UN action on climate change", 
+    "google_url": "http://news.google.com/./articles/CBMiNWh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy9zY2llbmNlLWVudmlyb25tZW50LTQ4NzQ2MTM30gE5aHR0cHM6Ly93d3cuYmJjLmNvbS9uZXdzL2FtcC9zY2llbmNlLWVudmlyb25tZW50LTQ4NzQ2MTM3?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-23T22:00:03.249415", 
+    "query": "climate change"
+  }, 
+  {
+    "publication": "InsideClimate News", 
+    "idx": 87, 
+    "title": "Could Climate Change Spark a Financial Crisis? Candidates Warn Fed It\u2019s a Risk", 
+    "google_url": "http://news.google.com/./articles/CBMifmh0dHBzOi8vaW5zaWRlY2xpbWF0ZW5ld3Mub3JnL25ld3MvMTUwNzIwMTkvY2xpbWF0ZS1jaGFuZ2UtZmluYW5jaWFsLWNyaXNpcy1mZWQtcG93ZWxsLXByZXNpZGVudGlhbC1jYW5kaWRhdGVzLXN0cmFuZGVkLWFzc2V0c9IBggFodHRwczovL2luc2lkZWNsaW1hdGVuZXdzLm9yZy9uZXdzLzE1MDcyMDE5L2NsaW1hdGUtY2hhbmdlLWZpbmFuY2lhbC1jcmlzaXMtZmVkLXBvd2VsbC1wcmVzaWRlbnRpYWwtY2FuZGlkYXRlcy1zdHJhbmRlZC1hc3NldHM_YW1w?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-23T22:00:03.249415", 
+    "query": "climate change"
+  }, 
+  {
+    "publication": "Forbes", 
+    "idx": 88, 
+    "title": "4 Reasons Climate Change Impacts On Agriculture Matter To You", 
+    "google_url": "http://news.google.com/./articles/CAIiEOks7l-xfh1ORocFSTfkPUoqFQgEKg0IACoGCAowrqkBMKBFMI_CEg?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-23T22:00:03.249415", 
+    "query": "climate change"
+  }, 
+  {
+    "publication": "The New York Times", 
+    "idx": 89, 
+    "title": "Climate Change Denialists Dubbed Auto Makers the \u2018Opposition\u2019 in Fight Over Trump\u2019s Emissions Rollback", 
+    "google_url": "http://news.google.com/./articles/CAIiEA-4EC0iGgj7YF1KyvAZkV4qFwgEKg8IACoHCAowjuuKAzCWrzwwpoAY?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-23T22:00:03.249415", 
+    "query": "climate change"
+  }, 
+  {
+    "publication": "The Conversation - Canada", 
+    "idx": 90, 
+    "title": "The counter-intuitive solution to getting people to care about climate change", 
+    "google_url": "http://news.google.com/./articles/CAIiEJlhtiGkilWppB9MGkZSag4qGQgEKhAIACoHCAowvPKBCzDEmv4CMPHI8QU?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-23T22:00:03.249415", 
+    "query": "climate change"
+  }, 
+  {
+    "publication": "Forbes", 
+    "idx": 91, 
+    "title": "Study: Closing Coal Power Plants Won't Budge The Needle On Climate Change", 
+    "google_url": "http://news.google.com/./articles/CAIiENhi-PiAd_H07Q7fiA_quZoqFQgEKg0IACoGCAowrqkBMKBFMMGBAg?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-23T22:00:03.249415", 
+    "query": "climate change"
+  }, 
+  {
+    "publication": "New Scientist News", 
+    "idx": 92, 
+    "title": "David Attenborough on climate change: \u2018We cannot be radical enough\u2019", 
+    "google_url": "http://news.google.com/./articles/CAIiEMbjVwoZq1jktEcCid38-SMqFwgEKg8IACoHCAowyseYCTDXhmww8pwn?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-23T22:00:03.249415", 
+    "query": "climate change"
+  }, 
+  {
+    "publication": "National Geographic", 
+    "idx": 93, 
+    "title": "We have too many fossil-fuel power plants to meet climate change goals", 
+    "google_url": "http://news.google.com/./articles/CAIiEHR37QADUEqs2EnqefBP4ksqGQgEKhAIACoHCAowmrWECzDc_IADMP7SgwY?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-23T22:00:03.249415", 
+    "query": "climate change"
+  }, 
+  {
+    "publication": "Grist", 
+    "idx": 94, 
+    "title": "Colombian coffee farmers are paying the price for climate change", 
+    "google_url": "http://news.google.com/./articles/CBMiW2h0dHBzOi8vZ3Jpc3Qub3JnL2FydGljbGUvY29sb21iaWFuLWNvZmZlZS1mYXJtZXJzLWFyZS1wYXlpbmctdGhlLXByaWNlLWZvci1jbGltYXRlLWNoYW5nZS_SAQA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-23T22:00:03.249415", 
+    "query": "climate change"
+  }, 
+  {
+    "publication": "The Independent", 
+    "idx": 95, 
+    "title": "Boris Johnson voting record: How has new prime minister voted on fox hunting, Iraq and climate change?", 
+    "google_url": "http://news.google.com/./articles/CAIiECK_jfdcmbuWxeZsVScDut0qFggEKg4IACoGCAowzdp7ML-3CTCtyxU?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-23T22:00:03.249415", 
+    "query": "climate change"
+  }, 
+  {
+    "publication": "FiveThirtyEight", 
+    "idx": 96, 
+    "title": "What Questions Do You Want Answered About Climate Change?", 
+    "google_url": "http://news.google.com/./articles/CBMiXmh0dHBzOi8vZml2ZXRoaXJ0eWVpZ2h0LmNvbS9mZWF0dXJlcy93aGF0LXF1ZXN0aW9ucy1kby15b3Utd2FudC1hbnN3ZXJlZC1hYm91dC1jbGltYXRlLWNoYW5nZS_SAWJodHRwczovL2ZpdmV0aGlydHllaWdodC5jb20vZmVhdHVyZXMvd2hhdC1xdWVzdGlvbnMtZG8teW91LXdhbnQtYW5zd2VyZWQtYWJvdXQtY2xpbWF0ZS1jaGFuZ2UvYW1wLw?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-23T22:00:03.249415", 
+    "query": "climate change"
+  }, 
+  {
+    "publication": "NPR", 
+    "idx": 97, 
+    "title": "Corals In Florida Are Dying, But Warming Waters Aren't The Only Cause", 
+    "google_url": "http://news.google.com/./articles/CAIiEGJ6fQs9n_vNfWFErMzzN8kqFggEKg4IACoGCAow9vBNMK3UCDDq0Rc?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-23T22:00:03.249415", 
+    "query": "climate change"
+  }, 
+  {
+    "publication": "The Washington Post", 
+    "idx": 98, 
+    "title": "As G-20 reaffirms fight against climate change, Trump again stands apart", 
+    "google_url": "http://news.google.com/./articles/CAIiEGAHoxOKPT86eEj-jyfrMigqGAgEKg8IACoHCAowjtSUCjC30XQwzqe5AQ?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-23T22:00:03.249415", 
+    "query": "climate change"
+  }, 
+  {
+    "publication": "State of the Planet", 
+    "idx": 99, 
+    "title": "Study Bolsters Case That Climate Change Is Driving Many California Wildfires", 
+    "google_url": "http://news.google.com/./articles/CBMid2h0dHBzOi8vYmxvZ3MuZWkuY29sdW1iaWEuZWR1LzIwMTkvMDcvMTUvc3R1ZHktYm9sc3RlcnMtY2FzZS10aGF0LXdhcm1pbmctY2xpbWF0ZS1pcy1kcml2aW5nLW1hbnktY2FsaWZvcm5pYS13aWxkZmlyZXMv0gEA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-07-23T22:00:03.249415", 
+    "query": "climate change"
+  }
+]

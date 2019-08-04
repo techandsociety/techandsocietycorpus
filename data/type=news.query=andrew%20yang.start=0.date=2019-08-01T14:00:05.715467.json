@@ -1,0 +1,802 @@
+[
+  {
+    "publication": "CNN", 
+    "idx": 0, 
+    "title": "Andrew Yang is consistently on message", 
+    "google_url": "http://news.google.com/./articles/CAIiEL4U7y-WWLaakaXbgNSjOp8qGQgEKhAIACoHCAowocv1CjCSptoCMI29pgU?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-08-01T14:00:05.715467", 
+    "query": "andrew yang"
+  }, 
+  {
+    "publication": "CNN", 
+    "idx": 1, 
+    "title": "Andrew Yang: This won't help us defeat Trump in 2020", 
+    "google_url": "http://news.google.com/./articles/CAIiEPAQXUBTMEpaFQXbddoTgZoqGQgEKhAIACoHCAowocv1CjCSptoCMI29pgU?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-08-01T14:00:05.715467", 
+    "query": "andrew yang"
+  }, 
+  {
+    "publication": "The Washington Post", 
+    "idx": 2, 
+    "title": "Analysis | The Technology 202: Did Andrew Yang succeed in stoking a debate on AI and universal basic income?", 
+    "google_url": "http://news.google.com/./articles/CAIiEFB9N23I3OflgaZ7SPL51xMqGAgEKg8IACoHCAowjtSUCjC30XQw78SzBg?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-08-01T14:00:05.715467", 
+    "query": "andrew yang"
+  }, 
+  {
+    "publication": "CNN", 
+    "idx": 3, 
+    "title": "Andrew Yang: This is why Trump is President", 
+    "google_url": "http://news.google.com/./articles/CAIiEDz71rIQi-UO4t--mjpvad8qGQgEKhAIACoHCAowocv1CjCSptoCMI29pgU?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-08-01T14:00:05.715467", 
+    "query": "andrew yang"
+  }, 
+  {
+    "publication": "Yahoo Finance", 
+    "idx": 4, 
+    "title": "Andrew Yang's Hot Topic: Bringing Back Dead Malls", 
+    "google_url": "http://news.google.com/./articles/CBMiTWh0dHBzOi8vZmluYW5jZS55YWhvby5jb20vbmV3cy9hbmRyZXcteWFuZ3MtaG90LXRvcGljLWJyaW5naW5nLTE1MDAwMDI3Ni5odG1s0gEA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-08-01T14:00:05.715467", 
+    "query": "andrew yang"
+  }, 
+  {
+    "publication": "CNN", 
+    "idx": 5, 
+    "title": "Andrew Yang: What I learned from five unhappy months as a corporate lawyer", 
+    "google_url": "http://news.google.com/./articles/CAIiEGq-o21njRf5Pva2iT9lCkcqGQgEKhAIACoHCAowocv1CjCSptoCMPrTpgU?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-08-01T14:00:05.715467", 
+    "query": "andrew yang"
+  }, 
+  {
+    "publication": "Yahoo Finance", 
+    "idx": 6, 
+    "title": "Andrew Yang is among top 3 Democratic presidential candidates \u2014 based on new web traffic data", 
+    "google_url": "http://news.google.com/./articles/CBMiigFodHRwczovL2ZpbmFuY2UueWFob28uY29tL25ld3MvYW5kcmV3LXlhbmctc3VycHJpc2luZ2x5LWFtb25nLXRvcC0zLWRlbW9jcmF0aWMtcHJlc2lkZW50aWFsLWNhbmRpZGF0ZXMtYmFzZWQtb24td2ViLXRyYWZmaWMtMTQ0MTMwMzU4Lmh0bWzSAZIBaHR0cHM6Ly9maW5hbmNlLnlhaG9vLmNvbS9hbXBodG1sL25ld3MvYW5kcmV3LXlhbmctc3VycHJpc2luZ2x5LWFtb25nLXRvcC0zLWRlbW9jcmF0aWMtcHJlc2lkZW50aWFsLWNhbmRpZGF0ZXMtYmFzZWQtb24td2ViLXRyYWZmaWMtMTQ0MTMwMzU4Lmh0bWw?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-08-01T14:00:05.715467", 
+    "query": "andrew yang"
+  }, 
+  {
+    "publication": "CNBC", 
+    "idx": 7, 
+    "title": "Silicon Valley has found its presidential candidate in Andrew Yang", 
+    "google_url": "http://news.google.com/./articles/CAIiEAfViDBkT4B8SAWsPz9kpIsqGQgEKhAIACoHCAow2Nb3CjDivdcCMMPf7gU?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-08-01T14:00:05.715467", 
+    "query": "andrew yang"
+  }, 
+  {
+    "publication": "Newsweek", 
+    "idx": 8, 
+    "title": "Andrew Yang, Cory Booker: College Republicans and Democrats Divided on Who Won Second Night of CNN Debate", 
+    "google_url": "http://news.google.com/./articles/CAIiEBvT440Cm2P4-WiCwf2Ls04qGQgEKhAIACoHCAow77zbCjDiq8wBMNiCsgU?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-08-01T14:00:05.715467", 
+    "query": "andrew yang"
+  }, 
+  {
+    "publication": "NBC4 Washington", 
+    "idx": 9, 
+    "title": "Andrew Yang: Industrial Job Loss Helped Trump Win", 
+    "google_url": "http://news.google.com/./articles/CBMiaGh0dHBzOi8vd3d3Lm5iY3dhc2hpbmd0b24uY29tL211bHRpbWVkaWEvQW5kcmV3LVlhbmctSW5kdXN0cmlhbC1Kb2ItTG9zcy1IZWxwZWQtVHJ1bXAtV2luLTUxMzQ3NDUyMi5odG1s0gFxaHR0cHM6Ly93d3cubmJjd2FzaGluZ3Rvbi5jb20vbmV3cy9wb2xpdGljcy9BbmRyZXctWWFuZy1JbmR1c3RyaWFsLUpvYi1Mb3NzLUhlbHBlZC1UcnVtcC1XaW4tNTEzNDc0NTIyLmh0bWw_YW1wPXk?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-08-01T14:00:05.715467", 
+    "query": "andrew yang"
+  }, 
+  {
+    "publication": "The New Yorker", 
+    "idx": 10, 
+    "title": "How Andrew Yang\u2019s Robot Apocalypse Can Heal a Divided Nation", 
+    "google_url": "http://news.google.com/./articles/CAIiELusJTumrFK0gINO2Ws5vtwqGQgEKhAIACoHCAowjMqjCjCJhZwBMKDUywM?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-08-01T14:00:05.715467", 
+    "query": "andrew yang"
+  }, 
+  {
+    "publication": "MSNBC", 
+    "idx": 11, 
+    "title": "Andrew Yang talks plan for racial wealth gap", 
+    "google_url": "http://news.google.com/./articles/CBMiY2h0dHBzOi8vd3d3Lm1zbmJjLmNvbS9wb2xpdGljc25hdGlvbi93YXRjaC9hbmRyZXcteWFuZy10YWxrcy1wbGFuLWZvci1yYWNpYWwtd2VhbHRoLWdhcC02NDc2NjAyMTg5MdIBAA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-08-01T14:00:05.715467", 
+    "query": "andrew yang"
+  }, 
+  {
+    "publication": "POLITICO", 
+    "idx": 12, 
+    "title": "How Andrew Yang would improve veterans' services", 
+    "google_url": "http://news.google.com/./articles/CAIiEHhTf8FyyDP9-pI7XGhe5o8qGQgEKhAIACoHCAow4Zn5CjCu8uACMMvYnQY?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-08-01T14:00:05.715467", 
+    "query": "andrew yang"
+  }, 
+  {
+    "publication": "Business Insider", 
+    "idx": 13, 
+    "title": "How Andrew Yang plans to bounce back from first debate performance", 
+    "google_url": "http://news.google.com/./articles/CAIiEP4nMhHm2TUeIVvMapFCrhgqLQgEKiUIACIbd3d3LmJ1c2luZXNzaW5zaWRlci5jb20vc2FpKgQICjAMMJD-CQ?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-08-01T14:00:05.715467", 
+    "query": "andrew yang"
+  }, 
+  {
+    "publication": "Vox.com", 
+    "idx": 14, 
+    "title": "2020 presidential candidate Andrew Yang on Kara Swisher podcast Recode Decode", 
+    "google_url": "http://news.google.com/./articles/CAIiEGsAvPEUTagKqOTjTnNWIIEqGAgEKg8IACoHCAowlOzSATCaiDUwzdjoBQ?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-08-01T14:00:05.715467", 
+    "query": "andrew yang"
+  }, 
+  {
+    "publication": "The Onion", 
+    "idx": 15, 
+    "title": "Andrew Yang Loads Shotgun As Hissing, Crackling Copy Machine Lurches Towards Campaign Staff", 
+    "google_url": "http://news.google.com/./articles/CBMiX2h0dHBzOi8vcG9saXRpY3MudGhlb25pb24uY29tL2FuZHJldy15YW5nLWxvYWRzLXNob3RndW4tYXMtaGlzc2luZy1jcmFja2xpbmctY29weS1tYS0xODM2Nzk3NDM50gFjaHR0cHM6Ly9wb2xpdGljcy50aGVvbmlvbi5jb20vYW5kcmV3LXlhbmctbG9hZHMtc2hvdGd1bi1hcy1oaXNzaW5nLWNyYWNrbGluZy1jb3B5LW1hLTE4MzY3OTc0MzkvYW1w?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-08-01T14:00:05.715467", 
+    "query": "andrew yang"
+  }, 
+  {
+    "publication": "Newsweek", 
+    "idx": 16, 
+    "title": "Andrew Yang Says It'll Be 'Tough' for GOP to Kill Universal Basic Income", 
+    "google_url": "http://news.google.com/./articles/CAIiEDxdd2JH5xNAyICJTfyFqnkqGQgEKhAIACoHCAow77zbCjDiq8wBMNiCsgU?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-08-01T14:00:05.715467", 
+    "query": "andrew yang"
+  }, 
+  {
+    "publication": "CNBC", 
+    "idx": 17, 
+    "title": "Survey: 61% of voters making over $125,000 oppose free cash handouts to Americans", 
+    "google_url": "http://news.google.com/./articles/CAIiEDApQ15gS0gqLDs2-IeJPegqGQgEKhAIACoHCAow2Nb3CjDivdcCMPLg7gU?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-08-01T14:00:05.715467", 
+    "query": "andrew yang"
+  }, 
+  {
+    "publication": "Rolling Stone", 
+    "idx": 18, 
+    "title": "\u2018I Came From the Internet\u2019: Inside Andrew Yang\u2019s Wild Ride", 
+    "google_url": "http://news.google.com/./articles/CAIiEIJL1xSMRemxa6rgr6EBjLcqGQgEKhAIACoHCAow9MSGCzCKpYQDML-UuQM?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-08-01T14:00:05.715467", 
+    "query": "andrew yang"
+  }, 
+  {
+    "publication": "ABC News", 
+    "idx": 19, 
+    "title": "Andrew Yang on 'The View': Looking forward to upcoming debates", 
+    "google_url": "http://news.google.com/./articles/CBMidWh0dHBzOi8vYWJjbmV3cy5nby5jb20vUG9saXRpY3MvZGVtb2NyYXRpYy1wcmVzaWRlbnRpYWwtY2FuZGlkYXRlLWFuZHJldy15YW5nLXZpZXctZm9yd2FyZC11cGNvbWluZy9zdG9yeT9pZD02NDE3OTUyOdIBeWh0dHBzOi8vYWJjbmV3cy5nby5jb20vYW1wL1BvbGl0aWNzL2RlbW9jcmF0aWMtcHJlc2lkZW50aWFsLWNhbmRpZGF0ZS1hbmRyZXcteWFuZy12aWV3LWZvcndhcmQtdXBjb21pbmcvc3Rvcnk_aWQ9NjQxNzk1Mjk?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-08-01T14:00:05.715467", 
+    "query": "andrew yang"
+  }, 
+  {
+    "publication": "Des Moines Register", 
+    "idx": 20, 
+    "title": "Iowa Caucus First Impressions: Andrew Yang deserves more voter attention", 
+    "google_url": "http://news.google.com/./articles/CAIiEDRBF3lVA7QjIVTN-mPBVgkqGQgEKhAIACoHCAow5vz_CjDCpIsDMKnz4gU?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-08-01T14:00:05.715467", 
+    "query": "andrew yang"
+  }, 
+  {
+    "publication": "Lasentinel", 
+    "idx": 21, 
+    "title": "Andrew Yang brings presidential campaign to ethnic media", 
+    "google_url": "http://news.google.com/./articles/CBMiVGh0dHBzOi8vbGFzZW50aW5lbC5uZXQvYW5kcmV3LXlhbmctYnJpbmdzLXByZXNpZGVudGlhbC1jYW1wYWlnbi10by1ldGhuaWMtbWVkaWEuaHRtbNIBAA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-08-01T14:00:05.715467", 
+    "query": "andrew yang"
+  }, 
+  {
+    "publication": "The Arab American News", 
+    "idx": 22, 
+    "title": "Presidential candidate Andrew Yang dismissive of problematic US-Israeli relationship", 
+    "google_url": "http://news.google.com/./articles/CBMiggFodHRwczovL3d3dy5hcmFiYW1lcmljYW5uZXdzLmNvbS8yMDE5LzA3LzI4L3ByZXNpZGVudGlhbC1jYW5kaWRhdGUtYW5kcmV3LXlhbmctZGlzbWlzc2l2ZS1vZi1wcm9ibGVtYXRpYy11LXMtaXNyYWVsaS1yZWxhdGlvbnNoaXAv0gEA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-08-01T14:00:05.715467", 
+    "query": "andrew yang"
+  }, 
+  {
+    "publication": "The Hill", 
+    "idx": 23, 
+    "title": "Andrew Yang and Michael Bennet engage in satirical pre-debate Twitter feud | TheHill", 
+    "google_url": "http://news.google.com/./articles/CBMid2h0dHBzOi8vdGhlaGlsbC5jb20vaG9tZW5ld3MvY2FtcGFpZ24vNDU0OTM4LWFuZHJldy15YW5nLWFuZC1taWNoYWVsLWJlbm5ldC1lbmdhZ2UtaW4tc2F0aXJpY2FsLXByZS1kZWJhdGUtdHdpdHRlci1mZXVk0gF7aHR0cHM6Ly90aGVoaWxsLmNvbS9ob21lbmV3cy9jYW1wYWlnbi80NTQ5MzgtYW5kcmV3LXlhbmctYW5kLW1pY2hhZWwtYmVubmV0LWVuZ2FnZS1pbi1zYXRpcmljYWwtcHJlLWRlYmF0ZS10d2l0dGVyLWZldWQ_YW1w?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-08-01T14:00:05.715467", 
+    "query": "andrew yang"
+  }, 
+  {
+    "publication": "San Francisco Chronicle", 
+    "idx": 24, 
+    "title": "Andrew Yang doing better than many veteran politicians in first White House run", 
+    "google_url": "http://news.google.com/./articles/CAIiEFS3haNekGxBt5cKhwzCNrEqGQgEKhAIACoHCAowk-T4CjDyst8CMPiZsgU?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-08-01T14:00:05.715467", 
+    "query": "andrew yang"
+  }, 
+  {
+    "publication": "Fox News", 
+    "idx": 25, 
+    "title": "SEE IT: 2020 Democrat Andrew Yang accepts #BottleCapChallenge", 
+    "google_url": "http://news.google.com/./articles/CBMiW2h0dHBzOi8vd3d3LmZveG5ld3MuY29tL3BvbGl0aWNzLzIwMjAtZGVtb2NyYXQtYW5kcmV3LXlhbmctYWNjZXB0cy1ib3R0bGVjYXBjaGFsbGVuZ2UtdmlkZW_SAV9odHRwczovL3d3dy5mb3huZXdzLmNvbS9wb2xpdGljcy8yMDIwLWRlbW9jcmF0LWFuZHJldy15YW5nLWFjY2VwdHMtYm90dGxlY2FwY2hhbGxlbmdlLXZpZGVvLmFtcA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-08-01T14:00:05.715467", 
+    "query": "andrew yang"
+  }, 
+  {
+    "publication": "FiveThirtyEight", 
+    "idx": 26, 
+    "title": "How Weird Is Andrew Yang\u2019s Tech Policy? Only About As Weird As America\u2019s.", 
+    "google_url": "http://news.google.com/./articles/CBMia2h0dHBzOi8vZml2ZXRoaXJ0eWVpZ2h0LmNvbS9mZWF0dXJlcy9ob3ctY3JhenktaXMtYW5kcmV3LXlhbmdzLXRlY2gtcG9saWN5LW9ubHktYWJvdXQtYXMtY3JhenktYXMtYW1lcmljYXMv0gFvaHR0cHM6Ly9maXZldGhpcnR5ZWlnaHQuY29tL2ZlYXR1cmVzL2hvdy1jcmF6eS1pcy1hbmRyZXcteWFuZ3MtdGVjaC1wb2xpY3ktb25seS1hYm91dC1hcy1jcmF6eS1hcy1hbWVyaWNhcy9hbXAv?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-08-01T14:00:05.715467", 
+    "query": "andrew yang"
+  }, 
+  {
+    "publication": "POLITICO", 
+    "idx": 27, 
+    "title": "Andrew Yang raises $2.8 million in second quarter", 
+    "google_url": "http://news.google.com/./articles/CAIiEP7by9zQA0_jUQZMc2LSRTQqGQgEKhAIACoHCAow4Zn5CjCu8uACMLTRlgY?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-08-01T14:00:05.715467", 
+    "query": "andrew yang"
+  }, 
+  {
+    "publication": "NowThis", 
+    "idx": 28, 
+    "title": "20 Questions for 2020: Andrew Yang", 
+    "google_url": "http://news.google.com/./articles/CAIiEC5jYDpHcfl9C7mi5OR7A4kqGQgEKhAIACoHCAow_8b9CjDspfUCMNyj1gU?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-08-01T14:00:05.715467", 
+    "query": "andrew yang"
+  }, 
+  {
+    "publication": "Pamplin Media Group", 
+    "idx": 29, 
+    "title": "Presidential candidate Andrew Yang draws crowd in Portland", 
+    "google_url": "http://news.google.com/./articles/CBMibGh0dHBzOi8vcGFtcGxpbm1lZGlhLmNvbS9wdC85LW5ld3MvNDMzNDI3LTM0MzEyOC1wcmVzaWRlbnRpYWwtY2FuZGlkYXRlLWFuZHJldy15YW5nLWRyYXdzLWNyb3dkLWluLXBvcnRsYW5kLdIBAA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-08-01T14:00:05.715467", 
+    "query": "andrew yang"
+  }, 
+  {
+    "publication": "Concord Monitor", 
+    "idx": 30, 
+    "title": "Primary 2020: A sit-down with Andrew Yang", 
+    "google_url": "http://news.google.com/./articles/CBMiR2h0dHBzOi8vd3d3LmNvbmNvcmRtb25pdG9yLmNvbS9ZYW5nLW1lZXRzLXdpdGgtRWRpdG9yaWFsLUJvYXJkLTI2MjgxODQ20gEA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-08-01T14:00:05.715467", 
+    "query": "andrew yang"
+  }, 
+  {
+    "publication": "Des Moines Register", 
+    "idx": 31, 
+    "title": "Andrew Yang shouts out to watch company during interview with the Des Moines Register", 
+    "google_url": "http://news.google.com/./articles/CAIiECasUPxXhIZAJdDDjG6MEDAqGQgEKhAIACoHCAow5vz_CjDCpIsDMOvx4gU?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-08-01T14:00:05.715467", 
+    "query": "andrew yang"
+  }, 
+  {
+    "publication": "CityLab", 
+    "idx": 32, 
+    "title": "Andrew Yang Wants to Save Your Dying Mall", 
+    "google_url": "http://news.google.com/./articles/CAIiEAQzlhN24C9EB8JB0WbaWkwqGQgEKhAIACoHCAow9YD3CjCs_9UCML2E5QU?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-08-01T14:00:05.715467", 
+    "query": "andrew yang"
+  }, 
+  {
+    "publication": "TheWrap", 
+    "idx": 33, 
+    "title": "Inside the Democrats' Podcast Presidential Primary", 
+    "google_url": "http://news.google.com/./articles/CBMiX2h0dHBzOi8vd3d3LnRoZXdyYXAuY29tL2RlbW9jcmF0cy1wb2RjYXN0LXByZXNpZGVudGlhbC1wcmltYXJ5LW1hcmlhbm5lLXdpbGxpYW1zb24tYW5kcmV3LXlhbmcv0gEA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-08-01T14:00:05.715467", 
+    "query": "andrew yang"
+  }, 
+  {
+    "publication": "Fox Business", 
+    "idx": 34, 
+    "title": "Andrew Yang vows to \u2018ban\u2019 robocalls if elected president", 
+    "google_url": "http://news.google.com/./articles/CBMiUmh0dHBzOi8vd3d3LmZveGJ1c2luZXNzLmNvbS90ZWNobm9sb2d5L2FuZHJldy15YW5nLWJhbi1yb2JvY2FsbHMtZWxlY3RlZC1wcmVzaWRlbnTSAVZodHRwczovL3d3dy5mb3hidXNpbmVzcy5jb20vdGVjaG5vbG9neS9hbmRyZXcteWFuZy1iYW4tcm9ib2NhbGxzLWVsZWN0ZWQtcHJlc2lkZW50LmFtcA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-08-01T14:00:05.715467", 
+    "query": "andrew yang"
+  }, 
+  {
+    "publication": "Business Insider", 
+    "idx": 35, 
+    "title": "'Yang for Area 51': Democratic presidential candidate Andrew Yang said he would 'love' to declassify Area 51 if he could to promote 'government transparency'", 
+    "google_url": "http://news.google.com/./articles/CAIiEDT5C4bHymvx730O8WQnmnUqLQgEKiUIACIbd3d3LmJ1c2luZXNzaW5zaWRlci5jb20vc2FpKgQICjAMMJD-CQ?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-08-01T14:00:05.715467", 
+    "query": "andrew yang"
+  }, 
+  {
+    "publication": "CoinDesk", 
+    "idx": 36, 
+    "title": "Andrew Yang Super PAC Will Accept Lightning-Powered Bitcoin Donations", 
+    "google_url": "http://news.google.com/./articles/CBMiXmh0dHBzOi8vd3d3LmNvaW5kZXNrLmNvbS9hbmRyZXcteWFuZy1zdXBlci1wYWMtd2lsbC1hY2NlcHQtbGlnaHRuaW5nLXBvd2VyZWQtYml0Y29pbi1kb25hdGlvbnPSAQA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-08-01T14:00:05.715467", 
+    "query": "andrew yang"
+  }, 
+  {
+    "publication": "Fox Business", 
+    "idx": 37, 
+    "title": "Andrew Yang says UBI can empower women to leave 'exploitative' jobs, relationships", 
+    "google_url": "http://news.google.com/./articles/CBMiRmh0dHBzOi8vd3d3LmZveGJ1c2luZXNzLmNvbS9lY29ub215L2FuZHJldy15YW5nLXViaS1lbXBvd2VyLXdvbWVuLWpvYnPSAUpodHRwczovL3d3dy5mb3hidXNpbmVzcy5jb20vZWNvbm9teS9hbmRyZXcteWFuZy11YmktZW1wb3dlci13b21lbi1qb2JzLmFtcA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-08-01T14:00:05.715467", 
+    "query": "andrew yang"
+  }, 
+  {
+    "publication": "MLive.com", 
+    "idx": 38, 
+    "title": "Democrat Andrew Yang wants to end robocalls as president", 
+    "google_url": "http://news.google.com/./articles/CAIiEJhAs6Y3kb_fkvUBS2EaDioqGQgEKhAIACoHCAow_qT_CjDltPgCMILcpAY?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-08-01T14:00:05.715467", 
+    "query": "andrew yang"
+  }, 
+  {
+    "publication": "Reason", 
+    "idx": 39, 
+    "title": "Occupational Licensing Stops Workers From Moving Across State Lines. Andrew Yang Wants To Fix That.", 
+    "google_url": "http://news.google.com/./articles/CAIiEHDNPFF6gWOLKMGWuUGpjaoqFggEKg0IACoGCAow_p4GMNBYMIqzrwY?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-08-01T14:00:05.715467", 
+    "query": "andrew yang"
+  }, 
+  {
+    "publication": "Aljazeera.com", 
+    "idx": 40, 
+    "title": "Universal basic income faces skeptics, despite 'Yang Gang' fans", 
+    "google_url": "http://news.google.com/./articles/CBMibGh0dHBzOi8vd3d3LmFsamF6ZWVyYS5jb20vYWppbXBhY3QvdW5pdmVyc2FsLWJhc2ljLWluY29tZS1mYWNlcy1zY2VwdGljcy15YW5nLWdhbmctZmFucy0xOTA1MjIxODU5NDc4MTEuaHRtbNIBcGh0dHBzOi8vd3d3LmFsamF6ZWVyYS5jb20vYW1wL2FqaW1wYWN0L3VuaXZlcnNhbC1iYXNpYy1pbmNvbWUtZmFjZXMtc2NlcHRpY3MteWFuZy1nYW5nLWZhbnMtMTkwNTIyMTg1OTQ3ODExLmh0bWw?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-08-01T14:00:05.715467", 
+    "query": "andrew yang"
+  }, 
+  {
+    "publication": "Daily Knicks", 
+    "idx": 41, 
+    "title": "New York Knicks: Presidential candidate Andrew Yang rips the offseason", 
+    "google_url": "http://news.google.com/./articles/CAIiEP1EZn5B0tDr9_BPF_qm18EqGQgEKhAIACoHCAow8JCJCzDEkIgDMLy0nwY?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-08-01T14:00:05.715467", 
+    "query": "andrew yang"
+  }, 
+  {
+    "publication": "Northwest Asian Weekly", 
+    "idx": 42, 
+    "title": "Yang Gang furious \u2014 Andrew Yang gets shortest speaking time during Dem. debate", 
+    "google_url": "http://news.google.com/./articles/CBMibmh0dHBzOi8vbndhc2lhbndlZWtseS5jb20vMjAxOS8wNy95YW5nLWdhbmctZnVyaW91cy1hbmRyZXcteWFuZy1nZXRzLXNob3J0ZXN0LXNwZWFraW5nLXRpbWUtZHVyaW5nLWRlbS1kZWJhdGUv0gEA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-08-01T14:00:05.715467", 
+    "query": "andrew yang"
+  }, 
+  {
+    "publication": "Basic Income News", 
+    "idx": 43, 
+    "title": "United States: Unstoppable Andrew Yang carries basic income to the national debate stage", 
+    "google_url": "http://news.google.com/./articles/CBMifWh0dHBzOi8vYmFzaWNpbmNvbWUub3JnL25ld3MvMjAxOS8wNy91bml0ZWQtc3RhdGVzLXVuc3RvcHBhYmxlLWFuZHJldy15YW5nLWNhcnJpZXMtYmFzaWMtaW5jb21lLXRvLXRoZS1uYXRpb25hbC1kZWJhdGUtc3RhZ2Uv0gEA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-08-01T14:00:05.715467", 
+    "query": "andrew yang"
+  }, 
+  {
+    "publication": "Vanity Fair", 
+    "idx": 44, 
+    "title": "Jack Dorsey Maxed Out His Donation to Tulsi Gabbard After the First Debate", 
+    "google_url": "http://news.google.com/./articles/CAIiELWBo3JTEKtPqwVvW56y8xMqGAgEKg8IACoHCAowmKPyCTCo8nIw87nsBQ?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-08-01T14:00:05.715467", 
+    "query": "andrew yang"
+  }, 
+  {
+    "publication": "Basic Income News", 
+    "idx": 45, 
+    "title": "United States: Recent poll reveals exactly who is supporting Andrew Yang's UBI", 
+    "google_url": "http://news.google.com/./articles/CBMicmh0dHBzOi8vYmFzaWNpbmNvbWUub3JnL25ld3MvMjAxOS8wNy91bml0ZWQtc3RhdGVzLXJlY2VudC1wb2xsLXJldmVhbHMtZXhhY3RseS13aG8taXMtc3VwcG9ydGluZy1hbmRyZXcteWFuZ3MtdWJpL9IBAA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-08-01T14:00:05.715467", 
+    "query": "andrew yang"
+  }, 
+  {
+    "publication": "AmmoLand Shooting Sports News", 
+    "idx": 46, 
+    "title": "Will Andrew Yang Protect Your Rights? His Anti-Gun Wishlist is Not a Good Sign", 
+    "google_url": "http://news.google.com/./articles/CBMib2h0dHBzOi8vd3d3LmFtbW9sYW5kLmNvbS8yMDE5LzA3L3dpbGwtYW5kcmV3LXlhbmctcHJvdGVjdC15b3VyLXJpZ2h0cy1oaXMtYW50aS1ndW4td2lzaGxpc3QtaXMtbm90LWEtZ29vZC1zaWduL9IBAA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-08-01T14:00:05.715467", 
+    "query": "andrew yang"
+  }, 
+  {
+    "publication": "The Inquisitr", 
+    "idx": 47, 
+    "title": "Bernie Sanders, Elizabeth Warren And Andrew Yang Are Drawing The Most Traffic To Their Campaign Websites", 
+    "google_url": "http://news.google.com/./articles/CBMiTmh0dHBzOi8vd3d3LmlucXVpc2l0ci5jb20vNTU1ODIyNi9iZXJuaWUtc2FuZGVycy1lbGl6YWJldGgtd2FycmVuLWFuZHJldy15YW5nL9IBAA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-08-01T14:00:05.715467", 
+    "query": "andrew yang"
+  }, 
+  {
+    "publication": "Money and Markets", 
+    "idx": 48, 
+    "title": "Survey: 61% of Wealthy Voters Oppose Yang\u2019s \u2018Freedom Dividend\u2019", 
+    "google_url": "http://news.google.com/./articles/CBMiR2h0dHBzOi8vbW9uZXlhbmRtYXJrZXRzLmNvbS92b3RlcnMtb3Bwb3NlLWFuZHJldy15YW5nLWZyZWVkb20tZGl2aWRlbmQv0gFLaHR0cHM6Ly9tb25leWFuZG1hcmtldHMuY29tL3ZvdGVycy1vcHBvc2UtYW5kcmV3LXlhbmctZnJlZWRvbS1kaXZpZGVuZC9hbXAv?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-08-01T14:00:05.715467", 
+    "query": "andrew yang"
+  }, 
+  {
+    "publication": "Radio Iowa", 
+    "idx": 49, 
+    "title": "UBI advocate Andrew Yang warns of tech-spurred realignment", 
+    "google_url": "http://news.google.com/./articles/CBMiYGh0dHBzOi8vd3d3LnJhZGlvaW93YS5jb20vMjAxOS8wNy8yMS91YmktYWR2b2NhdGUtYW5kcmV3LXlhbmctd2FybnMtb2YtdGVjaC1zcHVycmVkLXJlYWxpZ25tZW50L9IBAA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-08-01T14:00:05.715467", 
+    "query": "andrew yang"
+  }, 
+  {
+    "publication": "Fox Business", 
+    "idx": 50, 
+    "title": "You can't turn truck drivers into coders, Andrew Yang says of job retraining", 
+    "google_url": "http://news.google.com/./articles/CBMiP2h0dHBzOi8vd3d3LmZveGJ1c2luZXNzLmNvbS9lY29ub215L2pvYnMtYXV0b21hdGlvbi1hbmRyZXcteWFuZ9IBAA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-08-01T14:00:05.715467", 
+    "query": "andrew yang"
+  }, 
+  {
+    "publication": "Becker's Hospital Review", 
+    "idx": 51, 
+    "title": "Andrew Yang's veteran healthcare plan: 6 notes", 
+    "google_url": "http://news.google.com/./articles/CBMie2h0dHBzOi8vd3d3LmJlY2tlcnNob3NwaXRhbHJldmlldy5jb20vaG9zcGl0YWwtbWFuYWdlbWVudC1hZG1pbmlzdHJhdGlvbi9hbmRyZXcteWFuZy1zLXZldGVyYW4taGVhbHRoY2FyZS1wbGFuLTYtbm90ZXMuaHRtbNIBAA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-08-01T14:00:05.715467", 
+    "query": "andrew yang"
+  }, 
+  {
+    "publication": "Basic Income News", 
+    "idx": 52, 
+    "title": "Andrew Yang's Main Goal: Abolish Poverty and Make the Wealthy Pay For It \u2013 A Reaction to Chapo Trap House", 
+    "google_url": "http://news.google.com/./articles/CBMiiwFodHRwczovL2Jhc2ljaW5jb21lLm9yZy9uZXdzLzIwMTkvMDcvYW5kcmV3LXlhbmdzLW1haW4tZ29hbC1hYm9saXNoLXBvdmVydHktYW5kLW1ha2UtdGhlLXdlYWx0aHktcGF5LWZvci1pdC1hLXJlYWN0aW9uLXRvLWNoYXBvLXRyYXAtaG91c2Uv0gEA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-08-01T14:00:05.715467", 
+    "query": "andrew yang"
+  }, 
+  {
+    "publication": "The Hill", 
+    "idx": 53, 
+    "title": "Meghan McCain argues with Andrew Yang about free marriage counseling proposal | TheHill", 
+    "google_url": "http://news.google.com/./articles/CBMid2h0dHBzOi8vdGhlaGlsbC5jb20vaG9tZW5ld3MvbWVkaWEvNDUyMDE0LW1lZ2hhbi1tY2NhaW4tYXJndWVzLXdpdGgtYW5kcmV3LXlhbmctYWJvdXQtZnJlZS1tYXJyaWFnZS1jb3Vuc2VsaW5nLXByb3Bvc2Fs0gF7aHR0cHM6Ly90aGVoaWxsLmNvbS9ob21lbmV3cy9tZWRpYS80NTIwMTQtbWVnaGFuLW1jY2Fpbi1hcmd1ZXMtd2l0aC1hbmRyZXcteWFuZy1hYm91dC1mcmVlLW1hcnJpYWdlLWNvdW5zZWxpbmctcHJvcG9zYWw_YW1w?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-08-01T14:00:05.715467", 
+    "query": "andrew yang"
+  }, 
+  {
+    "publication": "The Inquisitr", 
+    "idx": 54, 
+    "title": "Andrew Yang Is Targeting The 'Politically Disengaged' To 'Win The Whole Election'", 
+    "google_url": "http://news.google.com/./articles/CBMiRWh0dHBzOi8vd3d3LmlucXVpc2l0ci5jb20vNTUzMDQ2MS9hbmRyZXcteWFuZy1wb2xpdGljYWxseS1kaXNlbmdhZ2VkL9IBAA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-08-01T14:00:05.715467", 
+    "query": "andrew yang"
+  }, 
+  {
+    "publication": "The Rising", 
+    "idx": 55, 
+    "title": "Andrew Yang understands the climate crisis. Here are 5 ways he\u2019ll tackle it as president.", 
+    "google_url": "http://news.google.com/./articles/CBMiemh0dHBzOi8vdGhlcmlzaW5nLmNvLzIwMTkvMDcvMjcvYW5kcmV3LXlhbmctdW5kZXJzdGFuZHMtdGhlLWNsaW1hdGUtY3Jpc2lzLWhlcmUtYXJlLTUtd2F5cy1oZS13aWxsLXRhY2tsZS1pdC1hcy1wcmVzaWRlbnQv0gF-aHR0cHM6Ly90aGVyaXNpbmcuY28vMjAxOS8wNy8yNy9hbmRyZXcteWFuZy11bmRlcnN0YW5kcy10aGUtY2xpbWF0ZS1jcmlzaXMtaGVyZS1hcmUtNS13YXlzLWhlLXdpbGwtdGFja2xlLWl0LWFzLXByZXNpZGVudC9hbXAv?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-08-01T14:00:05.715467", 
+    "query": "andrew yang"
+  }, 
+  {
+    "publication": "Heavy.com", 
+    "idx": 56, 
+    "title": "'Yang Gang' Trending Neuralink Search Term Before Livestream", 
+    "google_url": "http://news.google.com/./articles/CBMiQ2h0dHBzOi8vaGVhdnkuY29tL3RlY2gvMjAxOS8wNy9hbmRyZXcteWFuZy1nYW5nLXRyZW5kaW5nLW5ldXJhbGluay_SAUdodHRwczovL2hlYXZ5LmNvbS90ZWNoLzIwMTkvMDcvYW5kcmV3LXlhbmctZ2FuZy10cmVuZGluZy1uZXVyYWxpbmsvYW1wLw?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-08-01T14:00:05.715467", 
+    "query": "andrew yang"
+  }, 
+  {
+    "publication": "Fox News", 
+    "idx": 57, 
+    "title": "Eric Swalwell joins Andrew Yang as the only 2020 Dems to condemn Antifa attack on journalist", 
+    "google_url": "http://news.google.com/./articles/CBMiSmh0dHBzOi8vd3d3LmZveG5ld3MuY29tL3BvbGl0aWNzL2VyaWMtc3dhbHdlbGwtYW5kcmV3LXlhbmctYW5keS1uZ28tYW50aWZh0gEA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-08-01T14:00:05.715467", 
+    "query": "andrew yang"
+  }, 
+  {
+    "publication": "The Inquisitr", 
+    "idx": 58, 
+    "title": "Andrew Yang Attacks 'Phony Entrepreneur' Donald Trump, Says 'Real Entrepreneurs Build Strong Teams'", 
+    "google_url": "http://news.google.com/./articles/CBMiSGh0dHBzOi8vd3d3LmlucXVpc2l0ci5jb20vNTUzODg0OC9hbmRyZXcteWFuZy1kb25hbGQtdHJ1bXAtZW50cmVwcmVuZXVyL9IBAA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-08-01T14:00:05.715467", 
+    "query": "andrew yang"
+  }, 
+  {
+    "publication": "Townhall", 
+    "idx": 59, 
+    "title": "Andrew Yang\u2019s Platform Includes Congressional Term Limits And Voting Rights For 16-Year-Olds", 
+    "google_url": "http://news.google.com/./articles/CBMimAFodHRwczovL3Rvd25oYWxsLmNvbS90aXBzaGVldC9hbGV4bml0emJlcmcvMjAxOS8wNy8xMC9hbmRyZXcteWFuZ3MtcGxhdGZvcm0taW5jbHVkZXMtY29uZ3Jlc3Npb25hbC10ZXJtLWxpbWl0cy1hbmQtdm90aW5nLXJpZ2h0cy1mb3ItMTZ5ZWFyb2xkcy1uMjU0OTg4MNIBoQFodHRwczovL3Rvd25oYWxsLmNvbS90aXBzaGVldC9hbGV4bml0emJlcmcvMjAxOS8wNy8xMC9hbmRyZXcteWFuZ3MtcGxhdGZvcm0taW5jbHVkZXMtY29uZ3Jlc3Npb25hbC10ZXJtLWxpbWl0cy1hbmQtdm90aW5nLXJpZ2h0cy1mb3ItMTZ5ZWFyb2xkcy1uMjU0OTg4MD9hbXA9dHJ1ZQ?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-08-01T14:00:05.715467", 
+    "query": "andrew yang"
+  }, 
+  {
+    "publication": "SNY.tv", 
+    "idx": 60, 
+    "title": "Presidential candidate Andrew Yang rips Knicks' team of 'overpaid role players'", 
+    "google_url": "http://news.google.com/./articles/CBMidWh0dHBzOi8vd3d3LnNueS50di9rbmlja3MvbmV3cy9wcmVzaWRlbnRpYWwtY2FuZGlkYXRlLWFuZHJldy15YW5nLXJpcHMta25pY2tzLXRlYW0tb2Ytb3ZlcnBhaWQtcm9sZS1wbGF5ZXJzLzMwOTMzNDM1NNIBAA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-08-01T14:00:05.715467", 
+    "query": "andrew yang"
+  }, 
+  {
+    "publication": "ClutchPoints", 
+    "idx": 61, 
+    "title": "Presidential candidate Andrew Yang blasts Knicks, says roster is \u2018composed of \u2018overpaid role players\u2019", 
+    "google_url": "http://news.google.com/./articles/CBMiggFodHRwczovL2NsdXRjaHBvaW50cy5jb20va25pY2tzLW5ld3MtcHJlc2lkZW50aWFsLWNhbmRpZGF0ZS1hbmRyZXcteWFuZy1ibGFzdHMtdGVhbS1zYXlzLXJvc3Rlci1jb21wb3NlZC1vZi1vdmVycGFpZC1yb2xlLXBsYXllcnMv0gGGAWh0dHBzOi8vY2x1dGNocG9pbnRzLmNvbS9rbmlja3MtbmV3cy1wcmVzaWRlbnRpYWwtY2FuZGlkYXRlLWFuZHJldy15YW5nLWJsYXN0cy10ZWFtLXNheXMtcm9zdGVyLWNvbXBvc2VkLW9mLW92ZXJwYWlkLXJvbGUtcGxheWVycy9hbXAv?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-08-01T14:00:05.715467", 
+    "query": "andrew yang"
+  }, 
+  {
+    "publication": "The Inquisitr", 
+    "idx": 62, 
+    "title": "Andrew Yang Addresses Robert Mueller Testimony, Says United States Needs \u2018A New Narrative\u2019", 
+    "google_url": "http://news.google.com/./articles/CBMiPWh0dHBzOi8vd3d3LmlucXVpc2l0ci5jb20vNTU0NzE4NC9hbmRyZXcteWFuZy1yb2JlcnQtbXVlbGxlci_SAUFodHRwczovL3d3dy5pbnF1aXNpdHIuY29tLzU1NDcxODQvYW5kcmV3LXlhbmctcm9iZXJ0LW11ZWxsZXIvYW1wLw?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-08-01T14:00:05.715467", 
+    "query": "andrew yang"
+  }, 
+  {
+    "publication": "Breitbart", 
+    "idx": 63, 
+    "title": "Biden Could Seek Bromance with Andrew Yang", 
+    "google_url": "http://news.google.com/./articles/CBMiXmh0dHBzOi8vd3d3LmJyZWl0YmFydC5jb20vMjAyMC1lbGVjdGlvbi8yMDE5LzA3LzMxL2JpZGVuLWNvdWxkLXNlZWstYnJvbWFuY2Utd2l0aC1hbmRyZXcteWFuZy_SAWJodHRwczovL3d3dy5icmVpdGJhcnQuY29tLzIwMjAtZWxlY3Rpb24vMjAxOS8wNy8zMS9iaWRlbi1jb3VsZC1zZWVrLWJyb21hbmNlLXdpdGgtYW5kcmV3LXlhbmcvYW1wLw?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-08-01T14:00:05.715467", 
+    "query": "andrew yang"
+  }, 
+  {
+    "publication": "Willamette Week", 
+    "idx": 64, 
+    "title": "The 2020 Presidential Race Hits Portland This Week, With Visits From Two Democratic Primary Candidates", 
+    "google_url": "http://news.google.com/./articles/CBMijAFodHRwczovL3d3dy53d2Vlay5jb20vbmV3cy8yMDE5LzA3LzA3L3RoZS0yMDIwLXByZXNpZGVudGlhbC1yYWNlLWhpdHMtcG9ydGxhbmQtdGhpcy13ZWVrLXdpdGgtdmlzaXRzLWZyb20tdHdvLWRlbW9jcmF0aWMtcHJpbWFyeS1jYW5kaWRhdGVzL9IBAA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-08-01T14:00:05.715467", 
+    "query": "andrew yang"
+  }, 
+  {
+    "publication": "CCN Markets", 
+    "idx": 65, 
+    "title": "Andrew Yang on Automation: \u2018You Can\u2019t Turn Truck Drivers into Coders\u2019", 
+    "google_url": "http://news.google.com/./articles/CBMiZWh0dHBzOi8vd3d3LmNjbi5jb20vbmV3cy9hbmRyZXcteWFuZy10by1zb2x2ZS1hdXRvbWF0aW9uLWJ5LWdpdmluZy1hbWVyaWNhbnMtMTAwMC1hLW1vbnRoLzIwMTkvMDcvMTIv0gFpaHR0cHM6Ly93d3cuY2NuLmNvbS9uZXdzL2FuZHJldy15YW5nLXRvLXNvbHZlLWF1dG9tYXRpb24tYnktZ2l2aW5nLWFtZXJpY2Fucy0xMDAwLWEtbW9udGgvMjAxOS8wNy8xMi9hbXAv?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-08-01T14:00:05.715467", 
+    "query": "andrew yang"
+  }, 
+  {
+    "publication": "The Inquisitr", 
+    "idx": 66, 
+    "title": "Andrew Yang Says 'Mindset Of Scarcity' Is Polarizing The Country And Pitting People Against Each Other", 
+    "google_url": "http://news.google.com/./articles/CBMiP2h0dHBzOi8vd3d3LmlucXVpc2l0ci5jb20vNTU0MDQyMC9hbmRyZXcteWFuZy1taW5kc2V0LXNjYXJjaXR5L9IBAA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-08-01T14:00:05.715467", 
+    "query": "andrew yang"
+  }, 
+  {
+    "publication": "The Inquisitr", 
+    "idx": 67, 
+    "title": "Bernie Sanders And Andrew Yang Have The Most Support From Former Donald Trump Voters, Says Poll", 
+    "google_url": "http://news.google.com/./articles/CBMiSmh0dHBzOi8vd3d3LmlucXVpc2l0ci5jb20vNTU0ODQ2OC9iZXJuaWUtc2FuZGVycy1hbmRyZXcteWFuZy10cnVtcC12b3RlcnMv0gFOaHR0cHM6Ly93d3cuaW5xdWlzaXRyLmNvbS81NTQ4NDY4L2Jlcm5pZS1zYW5kZXJzLWFuZHJldy15YW5nLXRydW1wLXZvdGVycy9hbXAv?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-08-01T14:00:05.715467", 
+    "query": "andrew yang"
+  }, 
+  {
+    "publication": "MSNBC", 
+    "idx": 68, 
+    "title": "2020 Dem says giving everyone $1K a month will save the country", 
+    "google_url": "http://news.google.com/./articles/CBMieGh0dHBzOi8vd3d3Lm1zbmJjLmNvbS90aGUtYmVhdC13aXRoLWFyaS93YXRjaC8yMDIwLWRlbS1zYXlzLWdpdmluZy1ldmVyeW9uZS0xay1hLW1vbnRoLXdpbGwtc2F2ZS10aGUtY291bnRyeS02MzY4NjIxMzYxOdIBAA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-08-01T14:00:05.715467", 
+    "query": "andrew yang"
+  }, 
+  {
+    "publication": "Free Speech TV", 
+    "idx": 69, 
+    "title": "2019 PPC Presidential Candidates' Forum: Andrew Yang", 
+    "google_url": "http://news.google.com/./articles/CBMiNGh0dHBzOi8vZnJlZXNwZWVjaC5vcmcvc3Rvcmllcy8yMDE5LXBwYy1hbmRyZXcteWFuZy_SAQA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-08-01T14:00:05.715467", 
+    "query": "andrew yang"
+  }, 
+  {
+    "publication": "The Inquisitr", 
+    "idx": 70, 
+    "title": "Andrew Yang's UBI Has The Most Support From Democrats, Voters Under 50, And Earners Under $50000", 
+    "google_url": "http://news.google.com/./articles/CBMiN2h0dHBzOi8vd3d3LmlucXVpc2l0ci5jb20vNTUyODkyMS9hbmRyZXcteWFuZy11YmktcG9sbC_SAQA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-08-01T14:00:05.715467", 
+    "query": "andrew yang"
+  }, 
+  {
+    "publication": "The Inquisitr", 
+    "idx": 71, 
+    "title": "Andrew Yang Is Heading To 'The View' To Talk Politics And 'Cheesy Rom-Coms'", 
+    "google_url": "http://news.google.com/./articles/CBMiN2h0dHBzOi8vd3d3LmlucXVpc2l0ci5jb20vNTUxNTU2My9hbmRyZXcteWFuZy10aGUtdmlldy_SAQA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-08-01T14:00:05.715467", 
+    "query": "andrew yang"
+  }, 
+  {
+    "publication": "Washington Times", 
+    "idx": 72, 
+    "title": "Kirsten Gillibrand releases climate plan, Andrew Yang aims to bolster veterans", 
+    "google_url": "http://news.google.com/./articles/CBMiZGh0dHBzOi8vd3d3Lndhc2hpbmd0b250aW1lcy5jb20vbmV3cy8yMDE5L2p1bC8yNS9raXJzdGVuLWdpbGxpYnJhbmQtcmVsZWFzZXMtY2xpbWF0ZS1wbGFuLWFuZHJldy15YS_SAWNodHRwOi8vYW1wLndhc2hpbmd0b250aW1lcy5jb20vbmV3cy8yMDE5L2p1bC8yNS9raXJzdGVuLWdpbGxpYnJhbmQtcmVsZWFzZXMtY2xpbWF0ZS1wbGFuLWFuZHJldy15YS8?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-08-01T14:00:05.715467", 
+    "query": "andrew yang"
+  }, 
+  {
+    "publication": "ETHNews", 
+    "idx": 73, 
+    "title": "Presidential Candidate Andrew Yang Launches Crypto-Friendly Super PAC", 
+    "google_url": "http://news.google.com/./articles/CBMiXWh0dHBzOi8vd3d3LmV0aG5ld3MuY29tL3ByZXNpZGVudGlhbC1jYW5kaWRhdGUtYW5kcmV3LXlhbmctbGF1bmNoZXMtY3J5cHRvLWZyaWVuZGx5LXN1cGVyLXBhY9IBYWh0dHBzOi8vd3d3LmV0aG5ld3MuY29tL2FtcC9wcmVzaWRlbnRpYWwtY2FuZGlkYXRlLWFuZHJldy15YW5nLWxhdW5jaGVzLWNyeXB0by1mcmllbmRseS1zdXBlci1wYWM?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-08-01T14:00:05.715467", 
+    "query": "andrew yang"
+  }, 
+  {
+    "publication": "Pro Sports Extra", 
+    "idx": 74, 
+    "title": "Top 5 Reasons Andrew Yang Has My Vote #YangGang #YangGang2020 @andrewyang", 
+    "google_url": "http://news.google.com/./articles/CBMiYmh0dHBzOi8vcHJvc3BvcnRzZXh0cmEuY29tL3RvcC01LXJlYXNvbnMtYW5kcmV3LXlhbmctaGFzLW15LXZvdGUteWFuZ2dhbmcteWFuZ2dhbmcyMDIwLWFuZHJld3lhbmcv0gEA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-08-01T14:00:05.715467", 
+    "query": "andrew yang"
+  }, 
+  {
+    "publication": "The Inquisitr", 
+    "idx": 75, 
+    "title": "Andrew Yang Isn't Trying To 'Play Trump's Game' To Win The 2020 Election", 
+    "google_url": "http://news.google.com/./articles/CBMiQGh0dHBzOi8vd3d3LmlucXVpc2l0ci5jb20vNTU0NjA4Ny9hbmRyZXcteWFuZy10cnVtcC1yYW5keS1qb25lcy_SAQA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-08-01T14:00:05.715467", 
+    "query": "andrew yang"
+  }, 
+  {
+    "publication": "Raw Story", 
+    "idx": 76, 
+    "title": "Andrew Yang's plan: How Universal Basic Income is a distraction from the big questions we should be asking", 
+    "google_url": "http://news.google.com/./articles/CBMiigFodHRwczovL3d3dy5yYXdzdG9yeS5jb20vMjAxOS8wOC9hbmRyZXcteWFuZ3MtcGxhbi1ob3ctdW5pdmVyc2FsLWJhc2ljLWluY29tZS1pcy1hLWRpc3RyYWN0aW9uLWZyb20tdGhlLWJpZy1xdWVzdGlvbnMtd2Utc2hvdWxkLWJlLWFza2luZy_SAQA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-08-01T14:00:05.715467", 
+    "query": "andrew yang"
+  }, 
+  {
+    "publication": "AllStocks", 
+    "idx": 77, 
+    "title": "2020 Democratic Presidential Candidate Andrew Yang Enables Bitcoin Donations", 
+    "google_url": "http://news.google.com/./articles/CBMiZGh0dHBzOi8vYWxsLXN0b2Nrcy5uZXQvMjAyMC1kZW1vY3JhdGljLXByZXNpZGVudGlhbC1jYW5kaWRhdGUtYW5kcmV3LXlhbmctZW5hYmxlcy1iaXRjb2luLWRvbmF0aW9ucy_SAQA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-08-01T14:00:05.715467", 
+    "query": "andrew yang"
+  }, 
+  {
+    "publication": "The Inquisitr", 
+    "idx": 78, 
+    "title": "politics Andrew Yang Addresses Natural Disasters In Wake Of California Earthquakes", 
+    "google_url": "http://news.google.com/./articles/CBMiRWh0dHBzOi8vd3d3LmlucXVpc2l0ci5jb20vNTUxNjczMy9hbmRyZXcteWFuZy1jYWxpZm9ybmlhLWVhcnRocXVha2VzL9IBAA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-08-01T14:00:05.715467", 
+    "query": "andrew yang"
+  }, 
+  {
+    "publication": "The Inquisitr", 
+    "idx": 79, 
+    "title": "Andrew Yang Is The Only 2020 Presidential Candidate Accepting Bitcoin Donations", 
+    "google_url": "http://news.google.com/./articles/CBMiQGh0dHBzOi8vd3d3LmlucXVpc2l0ci5jb20vNTUyNzE5NC9hbmRyZXcteWFuZy1iaXRjb2luLWRvbmF0aW9ucy_SAURodHRwczovL3d3dy5pbnF1aXNpdHIuY29tLzU1MjcxOTQvYW5kcmV3LXlhbmctYml0Y29pbi1kb25hdGlvbnMvYW1wLw?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-08-01T14:00:05.715467", 
+    "query": "andrew yang"
+  }, 
+  {
+    "publication": "The Inquisitr", 
+    "idx": 80, 
+    "title": "Andrew Yang Praises Justin Amash For Calling Out \u2018Polarization And Hyperpartisanship\u2019 In American Politics", 
+    "google_url": "http://news.google.com/./articles/CBMiO2h0dHBzOi8vd3d3LmlucXVpc2l0ci5jb20vNTUxMzgzMC9hbmRyZXcteWFuZy1qdXN0aW4tYW1hc2gv0gE_aHR0cHM6Ly93d3cuaW5xdWlzaXRyLmNvbS81NTEzODMwL2FuZHJldy15YW5nLWp1c3Rpbi1hbWFzaC9hbXAv?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-08-01T14:00:05.715467", 
+    "query": "andrew yang"
+  }, 
+  {
+    "publication": "Patheos", 
+    "idx": 81, 
+    "title": "Andrew Yang Thinks It's \u201cRidiculous\u201d How Some People Believe Atheists Are Less Moral", 
+    "google_url": "http://news.google.com/./articles/CBMiiwFodHRwczovL3d3dy5wYXRoZW9zLmNvbS9ibG9ncy9hY2NvcmRpbmd0b21hdHRoZXcvMjAxOS8wNy9hbmRyZXcteWFuZy10aGlua3MtaXRzLXJpZGljdWxvdXMtaG93LXNvbWUtcGVvcGxlLWJlbGlldmUtYXRoZWlzdHMtYXJlLWxlc3MtbW9yYWwv0gEA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-08-01T14:00:05.715467", 
+    "query": "andrew yang"
+  }, 
+  {
+    "publication": "Outside The Beltway - Mobile Edition", 
+    "idx": 82, 
+    "title": "Outsider Andrew Yang Raises $2.8 Million In Second Quarter", 
+    "google_url": "http://news.google.com/./articles/CAIiELy0e5XEsjWXqAKBDPWIbF0qFAgEKgwIACoFCAowk0owwEAwofQB?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-08-01T14:00:05.715467", 
+    "query": "andrew yang"
+  }, 
+  {
+    "publication": "The Bipartisan Press", 
+    "idx": 83, 
+    "title": "No, Andrew Yang, Don't Give Everyone Free Money", 
+    "google_url": "http://news.google.com/./articles/CBMiWGh0dHBzOi8vd3d3LnRoZWJpcGFydGlzYW5wcmVzcy5jb20vZWNvbm9teS9uby1hbmRyZXcteWFuZy1kb250LWdpdmUtZXZlcnlvbmUtZnJlZS1tb25leS_SAQA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-08-01T14:00:05.715467", 
+    "query": "andrew yang"
+  }, 
+  {
+    "publication": "NPR", 
+    "idx": 84, 
+    "title": "2nd Democratic Primary Debate: See Which Candidates Made The Cut", 
+    "google_url": "http://news.google.com/./articles/CAIiEOSSV_mM3DHf-anV9rGSOrUqFggEKg4IACoGCAow9vBNMK3UCDCvpUk?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-08-01T14:00:05.715467", 
+    "query": "andrew yang"
+  }, 
+  {
+    "publication": "NBC News", 
+    "idx": 85, 
+    "title": "NBC/WSJ poll: Biden, Warren top 2020 Democratic field", 
+    "google_url": "http://news.google.com/./articles/CAIiEE5mQxW-W5M4ZEVkKi_EUksqGQgEKhAIACoHCAowvIaCCzDnxf4CMP2F8gU?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-08-01T14:00:05.715467", 
+    "query": "andrew yang"
+  }, 
+  {
+    "publication": "The Inquisitr", 
+    "idx": 86, 
+    "title": "politics Andrew Yang Creeps Behind Beto O'Rourke And Pete Buttigieg In New Poll", 
+    "google_url": "http://news.google.com/./articles/CBMiWmh0dHBzOi8vd3d3LmlucXVpc2l0ci5jb20vNTUyMTczOS9hbmRyZXcteWFuZy1iZXRvLW9yb3Vya2UtcGV0ZS1idXR0aWdpZWctZW1lcnNvbi1wb2xsaW5nL9IBAA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-08-01T14:00:05.715467", 
+    "query": "andrew yang"
+  }, 
+  {
+    "publication": "Breitbart", 
+    "idx": 87, 
+    "title": "Andrew Yang on Loyal \u2018Yang Gang\u2019 Base: \u2018I Came from the Internet\u2019", 
+    "google_url": "http://news.google.com/./articles/CBMia2h0dHBzOi8vd3d3LmJyZWl0YmFydC5jb20vcG9saXRpY3MvMjAxOS8wNy8xOS9hbmRyZXcteWFuZy1vbi1sb3lhbC15YW5nLWdhbmctYmFzZS1pLWNhbWUtZnJvbS10aGUtaW50ZXJuZXQv0gFvaHR0cHM6Ly93d3cuYnJlaXRiYXJ0LmNvbS9wb2xpdGljcy8yMDE5LzA3LzE5L2FuZHJldy15YW5nLW9uLWxveWFsLXlhbmctZ2FuZy1iYXNlLWktY2FtZS1mcm9tLXRoZS1pbnRlcm5ldC9hbXAv?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-08-01T14:00:05.715467", 
+    "query": "andrew yang"
+  }, 
+  {
+    "publication": "Vox.com", 
+    "idx": 88, 
+    "title": "Andrew Yang and Yang Gang: the 2020 presidential candidate, explained", 
+    "google_url": "http://news.google.com/./articles/CAIiECwpDxAXGZo3JqiiTutzrBoqGAgEKg8IACoHCAowlOzSATCaiDUw672eBg?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-08-01T14:00:05.715467", 
+    "query": "andrew yang"
+  }, 
+  {
+    "publication": "Patheos", 
+    "idx": 89, 
+    "title": "2020 presidential candidate Yang screws up shout-out to atheists", 
+    "google_url": "http://news.google.com/./articles/CBMiTGh0dHBzOi8vd3d3LnBhdGhlb3MuY29tL2Jsb2dzL2dvZHpvb2tzLzIwMTkvMDcvYXRoZWlzbS1hbmRyZXcteWFuZy1yZWxpZ2lvbi_SAQA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-08-01T14:00:05.715467", 
+    "query": "andrew yang"
+  }, 
+  {
+    "publication": "POLITICO", 
+    "idx": 90, 
+    "title": "Is Andrew Yang for Real?", 
+    "google_url": "http://news.google.com/./articles/CAIiEJK3nzY0-01eMEk06ORy1b0qGQgEKhAIACoHCAow4Zn5CjCu8uACMLTRlgY?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-08-01T14:00:05.715467", 
+    "query": "andrew yang"
+  }, 
+  {
+    "publication": "FiveThirtyEight", 
+    "idx": 91, 
+    "title": "Who\u2019s In And Who\u2019s Out Of The Second Democratic Debate", 
+    "google_url": "http://news.google.com/./articles/CBMiUGh0dHBzOi8vZml2ZXRoaXJ0eWVpZ2h0LmNvbS9mZWF0dXJlcy93aG8td2lsbC1tYWtlLXRoZS1zZWNvbmQtZGVtb2NyYXRpYy1kZWJhdGUv0gFUaHR0cHM6Ly9maXZldGhpcnR5ZWlnaHQuY29tL2ZlYXR1cmVzL3doby13aWxsLW1ha2UtdGhlLXNlY29uZC1kZW1vY3JhdGljLWRlYmF0ZS9hbXAv?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-08-01T14:00:05.715467", 
+    "query": "andrew yang"
+  }, 
+  {
+    "publication": "FiveThirtyEight", 
+    "idx": 92, 
+    "title": "It Won\u2019t Be Easy For Many Democrats To Make The September Debate", 
+    "google_url": "http://news.google.com/./articles/CBMiZWh0dHBzOi8vZml2ZXRoaXJ0eWVpZ2h0LmNvbS9mZWF0dXJlcy9pdC13b250LWJlLWVhc3ktZm9yLW1hbnktZGVtb2NyYXRzLXRvLW1ha2UtdGhlLXNlcHRlbWJlci1kZWJhdGUv0gFpaHR0cHM6Ly9maXZldGhpcnR5ZWlnaHQuY29tL2ZlYXR1cmVzL2l0LXdvbnQtYmUtZWFzeS1mb3ItbWFueS1kZW1vY3JhdHMtdG8tbWFrZS10aGUtc2VwdGVtYmVyLWRlYmF0ZS9hbXAv?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-08-01T14:00:05.715467", 
+    "query": "andrew yang"
+  }, 
+  {
+    "publication": "The Inquisitr", 
+    "idx": 93, 
+    "title": "politics Democratic Presidential Candidate Andrew Yang Accepts Bottle Cap Challenge", 
+    "google_url": "http://news.google.com/./articles/CBMiQ2h0dHBzOi8vd3d3LmlucXVpc2l0ci5jb20vNTUxMzc0My9hbmRyZXcteWFuZy1ib3R0bGUtY2FwLWNoYWxsZW5nZS_SAQA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-08-01T14:00:05.715467", 
+    "query": "andrew yang"
+  }, 
+  {
+    "publication": "The Verge", 
+    "idx": 94, 
+    "title": "Andrew Yang is the candidate for the end of the world", 
+    "google_url": "http://news.google.com/./articles/CAIiEJr3KPjcy6HaMtz_08BVrZgqFggEKg4IACoGCAow3O8nMMqOBjD38Ak?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-08-01T14:00:05.715467", 
+    "query": "andrew yang"
+  }, 
+  {
+    "publication": "The Inquisitr", 
+    "idx": 95, 
+    "title": "Andrew Yang Jumps From Zero To 4.9 Percent In New Hampshire Poll", 
+    "google_url": "http://news.google.com/./articles/CBMiQmh0dHBzOi8vd3d3LmlucXVpc2l0ci5jb20vNTUzMzc2MS9hbmRyZXcteWFuZy1wb2xscy1uZXctaGFtcHNoaXJlL9IBRmh0dHBzOi8vd3d3LmlucXVpc2l0ci5jb20vNTUzMzc2MS9hbmRyZXcteWFuZy1wb2xscy1uZXctaGFtcHNoaXJlL2FtcC8?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-08-01T14:00:05.715467", 
+    "query": "andrew yang"
+  }, 
+  {
+    "publication": "PBS NewsHour", 
+    "idx": 96, 
+    "title": "What does Andrew Yang believe? Where the candidate stands on 5 issues", 
+    "google_url": "http://news.google.com/./articles/CBMiamh0dHBzOi8vd3d3LnBicy5vcmcvbmV3c2hvdXIvcG9saXRpY3Mvd2hhdC1kb2VzLWFuZHJldy15YW5nLWJlbGlldmUtd2hlcmUtdGhlLWNhbmRpZGF0ZS1zdGFuZHMtb24tNS1pc3N1ZXPSAQA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-08-01T14:00:05.715467", 
+    "query": "andrew yang"
+  }, 
+  {
+    "publication": "CNBC", 
+    "idx": 97, 
+    "title": "Meet Andrew Yang, the 44-year-old running for president who wants to give Americans $1,000 free cash per month", 
+    "google_url": "http://news.google.com/./articles/CAIiELlOMp5ciCaLZ1YOnZf9spwqGQgEKhAIACoHCAow2Nb3CjDivdcCMJ_d7gU?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-08-01T14:00:05.715467", 
+    "query": "andrew yang"
+  }, 
+  {
+    "publication": "The Washington Post", 
+    "idx": 98, 
+    "title": "Here's how Andrew Yang \u2014 random opinionated person \u2014 made a place for himself in the Democratic field", 
+    "google_url": "http://news.google.com/./articles/CAIiEJAFasg6bKoXxFUXAxJ9FRMqGAgEKg8IACoHCAowjtSUCjC30XQwzqe5AQ?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-08-01T14:00:05.715467", 
+    "query": "andrew yang"
+  }, 
+  {
+    "publication": "newsBTC", 
+    "idx": 99, 
+    "title": "Crypto Tidbits: Bakkt\u2019s Bitcoin Futures, Monex &amp; Libra, Andrew Yang PAC Accepts BTC", 
+    "google_url": "http://news.google.com/./articles/CBMiZGh0dHBzOi8vd3d3Lm5ld3NidGMuY29tLzIwMTkvMDcvMjcvY3J5cHRvLXRpZGJpdHMtYmFra3QtYml0Y29pbi1mdXR1cmVzLW1vbmV4LWxpYnJhLWFuZHJldy15YW5nLXBhYy_SAWhodHRwczovL3d3dy5uZXdzYnRjLmNvbS8yMDE5LzA3LzI3L2NyeXB0by10aWRiaXRzLWJha2t0LWJpdGNvaW4tZnV0dXJlcy1tb25leC1saWJyYS1hbmRyZXcteWFuZy1wYWMvYW1wLw?hl=en-US&amp;gl=US&amp;ceid=US%3Aen", 
+    "date": "2019-08-01T14:00:05.715467", 
+    "query": "andrew yang"
+  }
+]
