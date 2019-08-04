@@ -6,13 +6,16 @@ index
 					pXr, with X=t for "donald trump", would be ptr
 annotations
 	pXr
-		indicates that the *publication* is calling X a racist
+		indicates that the *publication itself* is *accusing* X of being racist
 		note:
-			this includes the case where a random person Y is calling X a racist
-			this is considered editatorializing
+			this includes the case where a random person editorializees Y is calling X a racist
+			this is considered editatorializing by the publication
+				because the choice of which non-competitor to use is completely arbitrary and voluntary
 	pXd
 		indicates that the *publication* is *defending* X from the charge of racism
-		or, the publication is saying that X was called a racist
+		also includes
+			case where the publication is saying that *X was called* a racist
+				or, that X is a victim of racism
 	cXr
 		indicates that a *competing politician* is calling X a racist
 			note:
