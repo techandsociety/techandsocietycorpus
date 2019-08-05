@@ -71,8 +71,8 @@ if __name__ == "__main__":
 		use_label_file = True
 	else:
 		use_label_file = False
-	if use_label_file:
-		rating_field = sys.argv[3]
+	rating_field = sys.argv[3] # needed even if no label file
+	out_fname = sys.argv[4]
 	substantial_urls = set()
 	if use_label_file:
 		with open(label_file, 'r') as infile:
@@ -122,7 +122,7 @@ if __name__ == "__main__":
 	ax.xaxis_date()
 	plt.xticks(rotation=90)
 	fig.tight_layout()
-	fname = os.path.join(settings.output_image_path(), 'matches.png')
+	fname = os.path.join(out_fname)
 	print('fname', fname)
 	print(row_percents)
 	plt.savefig(fname)
