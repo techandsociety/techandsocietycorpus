@@ -117,8 +117,8 @@ if __name__ == "__main__":
 						pass
 		plt.plot(dates, row_percents, label=query_filter.replace('%20', ' '))
 	plt.legend(loc='upper left')
-	ax.set_ylabel('Percent')
-	ax.set_title('Percent of articles using a "race" word')
+	ax.set_ylabel('Approximate percent')
+	ax.set_title('Approximate percent of articles using a "race" word')
 	ax.xaxis_date()
 	plt.xticks(rotation=90)
 	fig.tight_layout()
