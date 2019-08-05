@@ -19,3 +19,7 @@ It tracks the following queries:
 * "andrew yang"
 * "bernie sanders"
 * "climate change"
+
+The number of samples for each size is depicted here:
+
+![samples per query](images/v1_data_set_sizes.png)
