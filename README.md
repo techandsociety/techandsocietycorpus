@@ -23,8 +23,8 @@ if this corpus is going to hold "big data".
 ### v1
 The "v1" data import is described in [this json file](data_versions/version1.txt).
 
-It tracks the following queries, sampling once per hour, from 21-July-2019 to
-04-Aug-2019:
+It tracks the following queries, searching on "Google News", sampling once per
+hour, from 21-July-2019 to 04-Aug-2019:
 
 * "donald trump"
 * "joe biden"
