@@ -1,3 +1,4 @@
+from recursion_util import *
 import matplotlib.pyplot as plt
 import numpy as np
 import ts_util
@@ -64,12 +65,28 @@ if __name__ == "__main__":
 		"andrew%20yang",
 		"bernie%20sanders",
 	]
-	if sys.argv[2] == 'racism':
+	keyword = sys.argv[1]
+	label_file = sys.argv[2]
+	if label_file != '-':
+		use_label_file = True
+	else:
+		use_label_file = False
+	if use_label_file:
+		rating_field = sys.argv[3]
+	substantial_urls = set()
+	if use_label_file:
+		with open(label_file, 'r') as infile:
+			rows = json.load(infile)
+			for row in rows:
+				rating = RecursiveRead(row, rating_field)
+				if rating != 'n':
+					substantial_urls.add(row['google_url'])
+				else:
+					print (row)
+	if keyword == 'racism':
 		word_list = ['race', 'racial', 'racist', 'racism', 'races']
-	elif sys.argv[2] == 'mueller':
+	elif keyword == 'mueller':
 		word_list = ['mueller', 'russia']
-	elif sys.argv[2] == 'black':
-		word_list = ['black', 'african']
 	else:
 		print('no study name found')
 		sys.exit(1)
@@ -93,8 +110,11 @@ if __name__ == "__main__":
 				if url in seen_urls:
 					pass
 				else:
-					seen_urls.add(url)
-					matching_rows.append(row)
+					if not use_label_file or url in substantial_urls:
+						seen_urls.add(url)
+						matching_rows.append(row)
+					else:
+						pass
 		plt.plot(dates, row_percents, label=query_filter.replace('%20', ' '))
 	plt.legend(loc='upper left')
 	ax.set_ylabel('Percent')
