@@ -11,6 +11,7 @@ import ts_util
 
 field = sys.argv[1]
 legend_file = sys.argv[2]
+out_fname = sys.argv[3]
 
 lines = ''.join(sys.stdin.readlines())
 data_rows = json.loads(lines)
@@ -40,6 +41,6 @@ plt.pie(values, autopct='%1.1f%%', shadow=True,)
 plt.legend(labels=labels, loc="best")
 plt.axis('equal')
 plt.tight_layout()
-fname = os.path.join(settings.output_image_path(), 'pie_chart.png')
+fname = os.path.join(out_fname)
 print(fname)
 plt.savefig(fname)
