@@ -15,12 +15,7 @@ legend_file = sys.argv[2]
 lines = ''.join(sys.stdin.readlines())
 data_rows = json.loads(lines)
 
-legend = {}
-with open(legend_file, 'r') as f:
-	pairs = [l.strip().split('\t') for l in f.readlines()]
-	for pair in pairs:
-		if len(pair) == 2:
-			legend[pair[0]] = pair[1]
+legend = ts_util.GetLegendFromFile(legend_file)
 print(legend)
 
 counts = collections.defaultdict(int)

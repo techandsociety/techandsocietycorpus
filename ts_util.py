@@ -105,3 +105,14 @@ def GetFilesMatching(filters, directory, order, max_matches = None):
 	for idx, fname in enumerate(use_matches):
 		result.append(join(directory, fname))
 	return result
+def GetOrderedLegendFromFile(legend_file):
+	with open(legend_file, 'r') as f:
+		pairs = [l.strip().split('\t') for l in f.readlines()]
+	return pairs
+def GetLegendFromFile(legend_file):
+	legend = {}
+	pairs = GetOrderedLegendFromFile(legend_file)
+	for pair in pairs:
+		if len(pair) == 2:
+			legend[pair[0]] = pair[1]
+	return legend

@@ -3,9 +3,10 @@ import datetime
 import json
 import os
 import sys
+import ts_util
 
-StopWord = 'stop'
-def ReadTuples(data_fname, label_fname, study_code):
+def ReadTuples(data_fname, label_fname, study_code, legend_file):
+	legend = [ p[0] for p in ts_util.GetOrderedLegendFromFile(legend_file) ] + ['n']
 	data_rows = []
 	with open(data_fname) as json_file:
 		data_rows = json.load(json_file)
@@ -36,13 +37,26 @@ def ReadTuples(data_fname, label_fname, study_code):
 		print('\n')
 		print(len(data_rows), len(label_rows))
 		print(json.dumps(row0, indent = 2))
+		for idx, l in enumerate(legend):
+			print(idx + 1, l) # 1 vs 0 offset
 		response = raw_input("> ")
-		if response.strip() == StopWord:
-			break
+		parts = response.split(' ')
+		note = None
+		if len(parts) > 1:
+			note = ' '.join(parts[1:])
+		if parts[0] in legend:
+			response = parts[0]
+		else:
+			int_response = int(parts[0])
+			response = legend[int_response - 1] # 1 vs 0 offset
 		row_copy = dict(row0)
 		if not 'ratings' in row_copy:
 			row_copy['ratings'] = {}
 		row_copy['ratings'][study_code] = response
+		if note:
+			if not 'notes' in row_copy:
+				row_copy['notes'] = {}
+			row_copy['notes'][study_code] = note
 		print(json.dumps(row_copy, indent = 2))
 		label_rows.append(row_copy)
 		with open(label_fname, "w") as write_file:
@@ -52,4 +66,5 @@ if __name__ == "__main__":
 	data_fname = sys.argv[1] 
 	label_fname = sys.argv[2]
 	study_code = sys.argv[3]
-	ReadTuples(data_fname, label_fname, study_code)
+	legend_file = sys.argv[4]
+	ReadTuples(data_fname, label_fname, study_code, legend_file)
