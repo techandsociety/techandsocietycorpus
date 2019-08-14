@@ -68,5 +68,7 @@ def MakeDataset(query_term):
 			json.dump(json_result, write_file, indent = 2)
 	print(query_term, total_lines, len(matches))
 if __name__ == "__main__":
+	print(settings.git_data_path())
+	print(settings.raw_data_path())
 	for query_term in settings.queries_of_interest():
 		MakeDataset(query_term)

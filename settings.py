@@ -41,4 +41,7 @@ def raw_data_path():
 	processing tools might fail. So, we want to still store the more raw data, in
 	case we need to recover.
 	"""
+	if not 'TECHANDSOCIETY_RAW_DATA_PATH' in os.environ:
+		with open('/tmp/record.log', 'a') as log_file:
+			log_file.write(str(os.environ) + '\n')
 	return os.environ['TECHANDSOCIETY_RAW_DATA_PATH']
