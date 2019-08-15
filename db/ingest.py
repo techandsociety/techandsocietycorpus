@@ -1,37 +1,28 @@
-from sqlalchemy.orm import sessionmaker
-import sqlalchemy
-from sqlalchemy import create_engine
-from sqlalchemy import Column, Integer
-from ts_util import *
-from sqlalchemy.ext.declarative import declarative_base
 from collections import defaultdict
+from db.objects import Recommendation
+import sqlalchemy
+from sqlalchemy import Column, Integer
+from sqlalchemy import create_engine
+from sqlalchemy.ext.declarative import declarative_base
+from sqlalchemy.orm import sessionmaker
+from ts_util import *
 import csv
+import datetime
 import json
 import matplotlib.pyplot as plt
 import numpy as np
 import os
 import random
 import settings
+import sqlalchemy
 import sys
 
 query_terms = [
 	'donald trump',
 ]
 
-Deref = False
 Order = FileOrders.OLDEST
-DontRegenerate = True
 
-Base = declarative_base()
-class Recommendation(Base):
-	__tablename__ = 'recommendation'
-	id = Column(Integer, primary_key=True)
-	date = Column(sqlalchemy.types.String(256))
-	google_url = Column(sqlalchemy.types.String(2048))
-	publication = Column(sqlalchemy.types.String(256))
-	query = Column(sqlalchemy.types.String(256))
-	scrape_idx = Column(Integer)
-	title = Column(sqlalchemy.types.String(1024))
 for query_term in query_terms:
 	query_parts = query_term.split(' ')
 	escaped_query_term = '%20'.join(query_parts)
@@ -50,9 +41,12 @@ for query_term in query_terms:
 		print('doing', fname)
 		result = GetAnalyzerResult(fname)
 		json_result = []
+		date_part = fname.split('date=')[-1]
+		date_string = date_part.split('.')[0]
+		datetime = datetime.datetime.strptime(date_string, '%Y-%m-%dT%H:%M:%S')
 		for jdx in range(len(result.sites)):
 			r = Recommendation()
-			r.date = fname.split('date=')[-1]
+			r.time_scraped = datetime
 			r.google_url = result.urls[jdx]
 			r.publication = result.sites[jdx]
 			r.query = query_term
@@ -60,7 +54,7 @@ for query_term in query_terms:
 			r.title = result.titles[jdx]
 			# Check if this exists.
 			existing = session.query(Recommendation).filter(
-				Recommendation.date==r.date,
+				Recommendation.time_scraped==r.time_scraped,
 				Recommendation.google_url==r.google_url,
 				Recommendation.publication==r.publication,
 				Recommendation.query==r.query,
@@ -69,6 +63,7 @@ for query_term in query_terms:
 				).first()
 			if not existing:
 				session.add(r)
+		break
 
 session.commit()
 session.close()
