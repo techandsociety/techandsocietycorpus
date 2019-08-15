@@ -1,51 +1,100 @@
-import settings
-import os
+from sqlalchemy import func
+import datetime
+from collections import defaultdict
+from sqlalchemy import Column, Integer
+from sqlalchemy import create_engine
+from sqlalchemy.ext.declarative import declarative_base
+from sqlalchemy.orm import sessionmaker
+import csv
+import json
 import matplotlib.pyplot as plt
 import numpy as np
-from ts_util import *
-import sys
-from collections import defaultdict
+import os
 import random
-import json
+import sqlalchemy
+import sys
+from db.objects import Recommendation
+import settings
 
-Order = FileOrders.OLDEST
+url = 'postgresql://tech:tech@127.0.0.1/techwatch'
+engine = create_engine(url)
+Session = sessionmaker(bind=engine)
+session = Session()
 
-lines = ''.join(sys.stdin.readlines())
-data_rows = json.loads(lines)
+results = session.\
+	query(Recommendation).\
+	filter(Recommendation.query == 'donald trump')
 
-outer_site_counts = defaultdict(list)
-outer_site_x = defaultdict(list)
-for idx, site_counts in data_rows:
-	for k, v in site_counts.items():
-		outer_site_counts[k].append(v)
-		outer_site_x[k].append(idx)
+count = 0
+date_stories = defaultdict(list)
+date_total = defaultdict(int)
+for result in results.all():
+	date_stories[result.time_scraped].append(result)
+	date_total[result.time_scraped] += 1
+session.close()
+engine.dispose()
 
-outer_site_means = {}
-outer_site_stds = {}
-for k, v in outer_site_counts.items():
-	outer_site_means[k] = np.mean(v)
-	outer_site_stds[k] = np.std(v)
+print('count', len(date_stories))
 
-sorted_means = GetSortedMap(outer_site_means)
-labels = []
-means = []
-stds = []
-for k in sorted_means[:10]:
-	labels.append(k)
-	means.append(outer_site_means[k])
-	stds.append(outer_site_stds[k])
+sorted_dates = sorted(date_total)
+site_percents = defaultdict(list)
+site_dates = defaultdict(list)
+for date in sorted_dates:
+	local_site_percents = defaultdict(float)
+	divisor = date_total[date]
+	for story in date_stories[date]:
+		local_site_percents[story.publication] += 100.0 / divisor
+	for k, v in local_site_percents.items():
+		site_percents[k].append(v)
+		site_dates[k].append(date)
 
-ind = np.arange(len(labels))
-width = 0.5 
-fig, ax = plt.subplots()
-print(means)
-print(stds)
-rects1 = ax.bar(ind, means, width, yerr = stds)
-ax.set_ylabel('y_title')
-ax.set_title('title')
-ax.set_xticks(ind)
-ax.set_xticklabels(labels, rotation=90)
-fig.tight_layout()
-fname = os.path.join(settings.output_image_path(), 'averages.png')
-print('fname', fname)
-plt.savefig(fname)
+site_mean = {}
+site_std = {}
+for k, percents in site_percents.items():
+	site_mean[k] = np.mean(percents)
+	site_std[k] = np.std(percents)
+
+def SortByValue(s):
+	return -1 * s[1]
+site_mean_sorted = sorted(site_mean.items(), key = SortByValue)
+print(site_mean_sorted)
+
+if True:
+	labels = []
+	means = []
+	stds = []
+	for k,v in site_mean_sorted[:15]:
+		labels.append(k)
+		means.append(site_mean[k])
+		stds.append(site_std[k])
+	# Make the bar graph.
+	ind = np.arange(len(labels))
+	width = 0.5 
+	fig, ax = plt.subplots()
+	print(means)
+	print(stds)
+	rects1 = ax.bar(ind, means, width, yerr = stds)
+	ax.set_ylabel('Percentage')
+	ax.set_title('Percent of Articles by Publication for "Donald Trump"')
+	ax.set_xticks(ind)
+	ax.set_xticklabels(labels, rotation=90)
+	fig.tight_layout()
+	fname = os.path.join(settings.output_image_path(), 'averages.png')
+	print('fname', fname)
+	plt.savefig(fname)
+
+if True:
+	# Make the line graph.
+	legend = []
+	for k in site_mean_sorted[:10]:
+		plt.plot(site_dates[k], site_percents[k])
+		legend.append(k)
+	plt.legend(legend, loc='upper left')
+	plt.ylabel('Percent of articles', fontsize=12)
+	plt.xlabel('Time', fontsize=12)
+	plt.title('My new title')
+	ax.set_xticklabels(labels, rotation=90)
+	fname = os.path.join(settings.output_image_path(), 'lines.png')
+	print(fname)
+	plt.savefig(fname)
+

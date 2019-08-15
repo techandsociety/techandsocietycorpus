@@ -7,7 +7,7 @@ from sqlalchemy.ext.declarative import declarative_base
 from sqlalchemy.orm import sessionmaker
 from ts_util import *
 import csv
-import datetime
+from datetime import datetime
 import json
 import matplotlib.pyplot as plt
 import numpy as np
@@ -43,7 +43,7 @@ for query_term in query_terms:
 		json_result = []
 		date_part = fname.split('date=')[-1]
 		date_string = date_part.split('.')[0]
-		datetime = datetime.datetime.strptime(date_string, '%Y-%m-%dT%H:%M:%S')
+		datetime = datetime.strptime(date_string, '%Y-%m-%dT%H:%M:%S')
 		for jdx in range(len(result.sites)):
 			r = Recommendation()
 			r.time_scraped = datetime
@@ -63,7 +63,6 @@ for query_term in query_terms:
 				).first()
 			if not existing:
 				session.add(r)
-		break
 
 session.commit()
 session.close()
