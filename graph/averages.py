@@ -59,42 +59,25 @@ def SortByValue(s):
 site_mean_sorted = sorted(site_mean.items(), key = SortByValue)
 print(site_mean_sorted)
 
-if True:
-	labels = []
-	means = []
-	stds = []
-	for k,v in site_mean_sorted[:15]:
-		labels.append(k)
-		means.append(site_mean[k])
-		stds.append(site_std[k])
-	# Make the bar graph.
-	ind = np.arange(len(labels))
-	width = 0.5 
-	fig, ax = plt.subplots()
-	print(means)
-	print(stds)
-	rects1 = ax.bar(ind, means, width, yerr = stds)
-	ax.set_ylabel('Percentage')
-	ax.set_title('Percent of Articles by Publication for "Donald Trump"')
-	ax.set_xticks(ind)
-	ax.set_xticklabels(labels, rotation=90)
-	fig.tight_layout()
-	fname = os.path.join(settings.output_image_path(), 'averages.png')
-	print('fname', fname)
-	plt.savefig(fname)
-
-if True:
-	# Make the line graph.
-	legend = []
-	for k in site_mean_sorted[:10]:
-		plt.plot(site_dates[k], site_percents[k])
-		legend.append(k)
-	plt.legend(legend, loc='upper left')
-	plt.ylabel('Percent of articles', fontsize=12)
-	plt.xlabel('Time', fontsize=12)
-	plt.title('My new title')
-	ax.set_xticklabels(labels, rotation=90)
-	fname = os.path.join(settings.output_image_path(), 'lines.png')
-	print(fname)
-	plt.savefig(fname)
-
+labels = []
+means = []
+stds = []
+for k,v in site_mean_sorted[:15]:
+	labels.append(k)
+	means.append(site_mean[k])
+	stds.append(site_std[k])
+# Make the bar graph.
+ind = np.arange(len(labels))
+width = 0.5 
+fig, ax = plt.subplots()
+print(means)
+print(stds)
+rects1 = ax.bar(ind, means, width, yerr = stds)
+ax.set_ylabel('Percentage')
+ax.set_title('Publication Usage for Query "Donald Trump"')
+ax.set_xticks(ind)
+ax.set_xticklabels(labels, rotation=90)
+fig.tight_layout()
+fname = os.path.join(settings.output_image_path(), 'averages.png')
+print('fname', fname)
+plt.savefig(fname)

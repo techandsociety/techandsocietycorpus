@@ -1,4 +1,3 @@
-import matplotlib.dates as mdates
 from sqlalchemy import func
 import datetime
 from collections import defaultdict
@@ -60,22 +59,25 @@ def SortByValue(s):
 site_mean_sorted = sorted(site_mean.items(), key = SortByValue)
 print(site_mean_sorted)
 
-# Make the line graph.
-legend = []
-fig, ax = plt.subplots() # figsize=(15,15))
-plt.ylabel('Percent of articles', fontsize=12)
-plt.xlabel('Time', fontsize=12)
-plt.title('Publication Usage Over Time for Query "Donald Trump"')
-for k, kv in site_mean_sorted[:10]:
-	print(k, site_dates[k])
-	print(k, site_percents[k])
-	plt.plot(site_dates[k], site_percents[k])
-	legend.append(k)
-plt.legend(legend, loc='upper left')
-ax.set_xticklabels(sorted_dates, rotation=90)
-fname = os.path.join(settings.output_image_path(), 'lines.png')
-myFmt = mdates.DateFormatter('%m/%d')
-ax.xaxis.set_major_formatter(myFmt)
-print(fname)
+labels = []
+means = []
+sum_ = 0.0
+for k,v in site_mean_sorted[:20]:
+	labels.append(k)
+	mean = site_mean[k]
+	sum_ += mean
+	means.append(sum_)
+# Make the bar graph.
+ind = np.arange(len(labels))
+width = 0.5 
+fig, ax = plt.subplots()
+print(means)
+rects1 = ax.bar(ind, means, width)
+ax.set_ylabel('Percentage')
+ax.set_title('Cumulative Publication Usage for Query "Donald Trump"')
+ax.set_xticks(ind)
+ax.set_xticklabels(labels, rotation=90)
+fig.tight_layout()
+fname = os.path.join(settings.output_image_path(), 'cumulative.png')
+print('fname', fname)
 plt.savefig(fname)
-
